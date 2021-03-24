@@ -1,0 +1,2783 @@
+1
+00:00:04,605 --> 00:00:06,902
+Anteriormente...
+
+2
+00:00:11,213 --> 00:00:13,332
+<i>Fique atento ao amado dela.</i>
+
+3
+00:00:13,333 --> 00:00:15,997
+Um passarinho me contou
+que Shadow está vindo para cá.
+
+4
+00:00:16,831 --> 00:00:19,560
+- Só preciso ir a Cairo.
+- É Cay-row.
+
+5
+00:00:19,561 --> 00:00:21,091
+Cay-row?
+
+6
+00:00:22,248 --> 00:00:25,240
+Eu era velha no deserto
+antes de sacrificarem
+
+7
+00:00:25,241 --> 00:00:26,913
+o primeiro cavalo para você.
+
+8
+00:00:27,336 --> 00:00:28,794
+Eu serei ouvida.
+
+9
+00:00:29,196 --> 00:00:33,253
+Eu me pergunto,
+se você não escolher um lado,
+
+10
+00:00:33,254 --> 00:00:35,621
+será esmagada por ambos?
+
+11
+00:00:38,020 --> 00:00:41,482
+Sra. Moon e eu temos
+um encontro com Argos.
+
+12
+00:00:41,483 --> 00:00:44,573
+O homem com vários olhos.
+Argos Panoptes.
+
+13
+00:00:44,574 --> 00:00:47,622
+Preciso que o mate.
+<i>Ele tem feito jogo duplo</i>
+
+14
+00:00:47,623 --> 00:00:49,475
+<i>e preciso dele
+fora de circulação.</i>
+
+15
+00:00:49,476 --> 00:00:51,613
+<i>Ele morre
+e sua moeda recarrega.</i>
+
+16
+00:00:51,614 --> 00:00:54,321
+Sobreviva para testemunhar
+o futuro com Shadow
+
+17
+00:00:54,322 --> 00:00:56,900
+que você colocou tanta fé
+não merecida.
+
+18
+00:00:56,901 --> 00:01:00,115
+Mandei Argos
+atualizar este hub éons atrás.
+
+19
+00:01:00,116 --> 00:01:03,481
+Coloque seu homem na linha!
+
+20
+00:01:04,213 --> 00:01:05,513
+Pessoal?
+
+21
+00:01:06,329 --> 00:01:07,629
+Deixa pra lá.
+
+22
+00:01:20,908 --> 00:01:23,408
+Equipe inSanos
+Apresenta:
+
+23
+00:01:24,424 --> 00:01:26,424
+Legendas:
+LikaPoetisa²
+
+24
+00:01:26,425 --> 00:01:28,425
+Legendas:
+IsaacA
+
+25
+00:01:28,426 --> 00:01:30,426
+Legendas:
+AlexandreMT²
+
+26
+00:01:30,427 --> 00:01:32,427
+Legendas:
+Sassenach
+
+27
+00:01:32,428 --> 00:01:34,428
+Legendas:
+Darrow
+
+28
+00:01:34,429 --> 00:01:36,429
+Legendas:
+skøad²
+
+29
+00:01:36,829 --> 00:01:38,829
+Revisão:
+LikaPoetisa
+
+30
+00:02:38,529 --> 00:02:42,229
+American Gods ~ S02E04
+"The Greatest Story Ever Told"
+
+31
+00:04:44,819 --> 00:04:46,119
+Ouça.
+
+32
+00:05:01,531 --> 00:05:03,085
+Eu conheço Bach.
+
+33
+00:05:03,086 --> 00:05:04,547
+Ouça.
+
+34
+00:05:08,321 --> 00:05:11,918
+Ele tinha voltado de viagem
+e a esposa havia falecido.
+
+35
+00:05:12,663 --> 00:05:14,752
+Bach já havia perdido
+três filhos.
+
+36
+00:05:16,647 --> 00:05:18,361
+Ele perderia mais sete.
+
+37
+00:05:21,435 --> 00:05:23,214
+Isso é luto.
+
+38
+00:05:24,147 --> 00:05:25,447
+E ainda assim...
+
+39
+00:05:26,985 --> 00:05:29,396
+As notas crescentes
+de alegria...
+
+40
+00:05:30,447 --> 00:05:32,795
+quebrando
+suas próprias regras.
+
+41
+00:05:34,336 --> 00:05:35,636
+Você consegue ouvir?
+
+42
+00:05:39,919 --> 00:05:42,615
+É assim que homens como eu
+rezam.
+
+43
+00:06:31,784 --> 00:06:33,119
+Toque de novo.
+
+44
+00:07:22,224 --> 00:07:23,524
+Isto é...
+
+45
+00:07:25,920 --> 00:07:28,617
+É linda como Bach.
+
+46
+00:07:30,092 --> 00:07:31,632
+Você compôs isso?
+
+47
+00:07:32,249 --> 00:07:35,355
+Eu criei o mecanismo
+que a compôs.
+
+48
+00:07:35,356 --> 00:07:38,886
+Traduzi todas as cantatas
+de Bach em um banco de dados
+
+49
+00:07:38,887 --> 00:07:41,075
+e fiz um programa
+que segmentou as notas
+
+50
+00:07:41,076 --> 00:07:42,500
+em objetos digitais
+
+51
+00:07:42,501 --> 00:07:46,365
+do jeito que Bach pretendia
+estatisticamente.
+
+52
+00:07:50,146 --> 00:07:54,425
+Mas tudo que ele criou
+foi mecânico, artificial.
+
+53
+00:07:54,426 --> 00:07:56,763
+O verdadeiro <i>insight</i>
+estava em programar
+
+54
+00:07:56,764 --> 00:07:59,802
+violações
+às variações previsíveis.
+
+55
+00:08:01,572 --> 00:08:04,345
+Eu dei permissão
+para quebrar as regras.
+
+56
+00:08:06,199 --> 00:08:08,250
+O computador compôs isso?
+
+57
+00:08:09,225 --> 00:08:10,525
+Sim.
+
+58
+00:08:18,341 --> 00:08:20,228
+Está escrevendo mais agora.
+
+59
+00:10:25,810 --> 00:10:27,570
+Estou feliz que veio.
+
+60
+00:10:43,997 --> 00:10:45,580
+Não.
+
+61
+00:10:47,301 --> 00:10:50,083
+Minha esposa vai te matar.
+
+62
+00:11:14,933 --> 00:11:16,563
+Eu não.
+
+63
+00:12:09,170 --> 00:12:11,067
+Deixa rolar.
+
+64
+00:12:49,745 --> 00:12:51,581
+Agora descanse.
+
+65
+00:13:03,018 --> 00:13:04,318
+Relaxa.
+
+66
+00:14:16,914 --> 00:14:18,214
+Bom dia.
+
+67
+00:14:19,639 --> 00:14:21,051
+Você dormiu bem?
+
+68
+00:14:23,626 --> 00:14:24,926
+Como?
+
+69
+00:14:26,378 --> 00:14:28,084
+Você dormiu bem?
+
+70
+00:14:31,603 --> 00:14:33,915
+Bom, teve...
+
+71
+00:14:36,520 --> 00:14:39,477
+Sim, dormi.
+
+72
+00:14:40,067 --> 00:14:41,367
+Que bom.
+
+73
+00:14:50,717 --> 00:14:55,359
+Então, este é um escritório
+de legista?
+
+74
+00:14:55,360 --> 00:14:59,073
+Legistas são um compromisso
+político por aqui.
+
+75
+00:14:59,074 --> 00:15:01,902
+O trabalho dele
+é chutar o cadáver.
+
+76
+00:15:01,903 --> 00:15:04,758
+Se não o chutar de volta,
+ele assina o atestado de óbito.
+
+77
+00:15:04,759 --> 00:15:07,689
+Sou um dissecador.
+
+78
+00:15:07,690 --> 00:15:09,759
+Trabalho para o legista
+da região.
+
+79
+00:15:09,760 --> 00:15:13,514
+Eu faço autópsias e guardo
+amostras de tecido para análise.
+
+80
+00:15:13,515 --> 00:15:15,968
+Além disso,
+somos uma funerária,
+
+81
+00:15:15,969 --> 00:15:19,491
+atendendo Cairo, Illinois,
+desde 1863,
+
+82
+00:15:19,492 --> 00:15:23,111
+quando era uma cidade crescente
+entre dois rios.
+
+83
+00:15:23,701 --> 00:15:26,354
+Claro, poderíamos voltar
+há muito mais do que isso,
+
+84
+00:15:26,355 --> 00:15:31,033
+mas foi só durante a guerra
+que achamos nosso nicho.
+
+85
+00:15:31,034 --> 00:15:34,873
+E nos tornamos funerária
+para as pessoas de cor daqui.
+
+86
+00:15:41,200 --> 00:15:45,551
+Antes disso, ninguém pensava
+em nós como "de cor".
+
+87
+00:15:46,428 --> 00:15:51,328
+Estrangeiro talvez, exótico
+e escuro, mas não "de cor".
+
+88
+00:15:51,775 --> 00:15:55,467
+E é estranho quando falam
+sobre afro-americanos.
+
+89
+00:15:55,468 --> 00:15:58,747
+Meus colegas e eu nunca pensamos
+em nós mesmos como africanos.
+
+90
+00:15:58,748 --> 00:16:01,125
+Nós éramos
+as pessoas do Nilo.
+
+91
+00:16:03,530 --> 00:16:06,872
+E aí você se instala
+num lugar chamado Cairo?
+
+92
+00:16:07,319 --> 00:16:08,791
+Parece apropriado.
+
+93
+00:16:09,445 --> 00:16:11,335
+Questão de detalhes.
+
+94
+00:16:21,890 --> 00:16:23,660
+Havia...
+
+95
+00:16:24,679 --> 00:16:26,370
+Havia mais alguém por perto?
+
+96
+00:16:28,375 --> 00:16:31,706
+Ela não está aqui.
+Sua esposa.
+
+97
+00:16:35,058 --> 00:16:36,358
+Você sabe onde ela está?
+
+98
+00:16:42,070 --> 00:16:43,370
+Não.
+
+99
+00:16:44,493 --> 00:16:46,403
+Sr. Ibis, por favor.
+
+100
+00:16:47,804 --> 00:16:50,343
+Eles são diferentes
+quando voltam.
+
+101
+00:16:51,344 --> 00:16:54,161
+Como qualquer experiência
+de vida formativa,
+
+102
+00:16:54,162 --> 00:16:56,838
+a morte muda você.
+
+103
+00:16:59,265 --> 00:17:01,556
+Tenho certeza de que sua esposa
+é adorável
+
+104
+00:17:01,557 --> 00:17:04,442
+mas ela não é
+a mesma pessoa que era antes.
+
+105
+00:17:09,026 --> 00:17:10,727
+Que bom, você acordou!
+
+106
+00:17:11,230 --> 00:17:15,901
+Vamos aproveitar o dia
+antes que ela ache outra pessoa?
+
+107
+00:17:16,484 --> 00:17:18,598
+Senão onde estaríamos?
+
+108
+00:17:19,390 --> 00:17:22,622
+Como padrões florais
+em uma parede.
+
+109
+00:17:25,971 --> 00:17:28,696
+Que dia lindo para dirigir,
+Shadow.
+
+110
+00:17:30,336 --> 00:17:32,251
+Teve uma boa noite de sono?
+
+111
+00:17:32,648 --> 00:17:35,919
+Hora de curar suas feridas?
+Deixar cicatrizar bem?
+
+112
+00:17:38,044 --> 00:17:39,445
+Preciso encontrar a Laura.
+
+113
+00:17:39,446 --> 00:17:41,980
+Ela está por perto,
+não sei, posso sentir.
+
+114
+00:17:41,981 --> 00:17:45,920
+Só humanos criariam monogamia,
+um conceito não natural.
+
+115
+00:17:45,921 --> 00:17:47,586
+Aproveite a sua vida,
+meu filho.
+
+116
+00:17:47,587 --> 00:17:50,577
+Foda, se entregue, exercite-se,
+sem restrições.
+
+117
+00:17:50,578 --> 00:17:52,808
+E deixe o passado
+onde ele pertence:
+
+118
+00:17:52,809 --> 00:17:55,896
+no passado.
+Agora vamos para St. Louis.
+
+119
+00:17:56,910 --> 00:17:58,730
+O que tem em St. Louis?
+
+120
+00:17:58,731 --> 00:18:01,807
+Cidade grande,
+muito dinheiro.
+
+121
+00:18:01,808 --> 00:18:04,748
+Betty aqui não funciona
+com borboletas e desejos.
+
+122
+00:18:04,749 --> 00:18:07,907
+Dinheiro é o deus
+mais influente da América.
+
+123
+00:18:07,908 --> 00:18:10,924
+Idiota intocável,
+mas suas ações nunca caem.
+
+124
+00:18:51,426 --> 00:18:52,942
+Como você sabe a vovó?
+
+125
+00:18:54,448 --> 00:18:55,920
+Você é amiga da Ida?
+
+126
+00:18:56,452 --> 00:18:57,888
+Quem é Ida?
+
+127
+00:18:58,326 --> 00:18:59,626
+Minha mãe.
+
+128
+00:19:02,512 --> 00:19:07,204
+Você parece da cidade, pensei
+que poderia ter vindo com ela.
+
+129
+00:19:08,265 --> 00:19:09,565
+Não.
+
+130
+00:19:11,560 --> 00:19:12,952
+Não. Imaginei.
+
+131
+00:19:14,057 --> 00:19:15,815
+Ela não vem para cá.
+
+132
+00:19:18,083 --> 00:19:21,578
+Então, o que faz aqui,
+veio como turista?
+
+133
+00:19:22,072 --> 00:19:24,307
+Vim atrás de um homem
+chamado Shadow.
+
+134
+00:19:30,182 --> 00:19:31,922
+Sinto muito pela sua perda.
+
+135
+00:19:40,642 --> 00:19:42,636
+Este caixão está vazio.
+
+136
+00:19:44,895 --> 00:19:46,644
+Colocaram-na nos fundos.
+
+137
+00:19:47,193 --> 00:19:48,939
+O funeral será
+daqui 1 ou 2 dias.
+
+138
+00:19:49,749 --> 00:19:51,325
+Então para quem você reza?
+
+139
+00:19:52,569 --> 00:19:55,499
+Reverendo Hutchins diz
+que todas as coisas
+
+140
+00:19:55,500 --> 00:19:57,500
+são uma questão de ideias.
+
+141
+00:19:58,649 --> 00:20:02,044
+E Deus é apenas uma ideia.
+
+142
+00:20:03,271 --> 00:20:05,732
+O bom reverendo
+aprecia o teatro.
+
+143
+00:20:07,563 --> 00:20:09,229
+Ele está citando Beneatha.
+
+144
+00:20:09,922 --> 00:20:11,310
+Quem?
+
+145
+00:20:11,311 --> 00:20:13,285
+Beneatha se cansou de Deus
+
+146
+00:20:13,286 --> 00:20:16,665
+receber créditos pelas coisas
+que os humanos alcançaram
+
+147
+00:20:16,666 --> 00:20:18,362
+através do esforço teimoso.
+
+148
+00:20:19,764 --> 00:20:22,251
+Beneatha é a filha
+e descrente
+
+149
+00:20:22,673 --> 00:20:24,188
+de "<i>O Sol Tornará a Brilhar</i>".
+
+150
+00:20:26,635 --> 00:20:29,788
+O coração de uma mulher nunca
+deveria estar tão oculto em Deus
+
+151
+00:20:30,187 --> 00:20:32,416
+que ela não possa ouvir
+sua própria verdade.
+
+152
+00:20:36,289 --> 00:20:38,429
+Segundo Maya Angelou,
+
+153
+00:20:38,430 --> 00:20:40,108
+o coração de mulher
+
+154
+00:20:40,487 --> 00:20:42,963
+deve estar escondido em Deus
+
+155
+00:20:44,185 --> 00:20:48,053
+assim um homem
+deve procurar por Ele
+
+156
+00:20:48,698 --> 00:20:51,296
+apenas para encontrá-la.
+
+157
+00:20:51,901 --> 00:20:54,512
+Minha fé
+é de um tipo diferente.
+
+158
+00:20:54,513 --> 00:20:59,010
+Deve ser, pelo jeito que fica
+andando pelo campo de batalha.
+
+159
+00:20:59,011 --> 00:21:02,186
+Aqui e ali
+
+160
+00:21:02,187 --> 00:21:04,267
+no meio de uma guerra.
+
+161
+00:21:04,268 --> 00:21:07,158
+Como se você não ligasse
+para nada no mundo.
+
+162
+00:21:07,159 --> 00:21:08,944
+Você não precisa me temer.
+
+163
+00:21:09,778 --> 00:21:12,530
+O mundo teria tido mais
+facilidade em me convencer
+
+164
+00:21:12,531 --> 00:21:14,945
+a me juntar a ele
+se não tivesse matado Zorya.
+
+165
+00:21:15,643 --> 00:21:17,887
+Faça com que Wednesday
+entenda.
+
+166
+00:21:20,537 --> 00:21:24,563
+Então você cruza por aí
+e pisa em nome do amor?
+
+167
+00:21:24,564 --> 00:21:26,868
+Prefere que me esconda
+numa trincheira e espere
+
+168
+00:21:26,869 --> 00:21:28,952
+até que tudo esteja
+do seu agrado?
+
+169
+00:21:29,672 --> 00:21:31,877
+Eu precisaria considerar
+cuidadosamente
+
+170
+00:21:32,485 --> 00:21:34,827
+todos os prós e contras
+
+171
+00:21:35,353 --> 00:21:37,983
+antes de responder sinceramente
+essa pergunta.
+
+172
+00:21:38,931 --> 00:21:41,601
+Então, vocês se conhecem?
+
+173
+00:21:42,542 --> 00:21:43,842
+Sim.
+
+174
+00:21:45,252 --> 00:21:46,558
+Biblicamente.
+
+175
+00:21:55,229 --> 00:21:56,665
+Você está nervoso.
+
+176
+00:21:58,421 --> 00:22:00,080
+O caramba que estou.
+
+177
+00:22:02,223 --> 00:22:03,673
+Eu preciso de você.
+
+178
+00:22:04,406 --> 00:22:06,888
+Você precisa de mim.
+
+179
+00:22:21,932 --> 00:22:24,153
+Estava lá
+quando a Mídia morreu?
+
+180
+00:22:24,154 --> 00:22:26,692
+Não seja
+tão agressivamente densa.
+
+181
+00:22:27,121 --> 00:22:28,581
+Ela não morreu.
+
+182
+00:22:28,582 --> 00:22:31,907
+Ela se transformou em você.
+
+183
+00:22:32,978 --> 00:22:35,127
+Ainda a sinto dentro de mim.
+
+184
+00:22:35,921 --> 00:22:39,919
+Será que a próxima versão de mim
+vai me sentir dentro dela?
+
+185
+00:22:39,920 --> 00:22:43,447
+E a próxima versão
+vai sentir a todas nós?
+
+186
+00:22:49,215 --> 00:22:51,157
+Você não imagina essas coisas?
+
+187
+00:22:51,890 --> 00:22:53,240
+Você...
+
+188
+00:22:55,403 --> 00:22:59,139
+Sabe a diferença
+entre pessoas e animais?
+
+189
+00:23:03,252 --> 00:23:05,888
+As pessoas sabem
+
+190
+00:23:05,889 --> 00:23:09,193
+que elas vão morrer
+algum dia.
+
+191
+00:23:09,194 --> 00:23:12,337
+E rezam aos Antigos Deuses
+para que isso não aconteça.
+
+192
+00:23:13,440 --> 00:23:16,491
+Mas um animal é ignorante.
+
+193
+00:23:18,309 --> 00:23:21,338
+- Não entendi.
+- Quero dizer que Mídia
+
+194
+00:23:21,339 --> 00:23:25,068
+não é uma pessoa
+nem um animal.
+
+195
+00:23:25,069 --> 00:23:29,694
+Ela, diferente de você,
+entende que é uma deusa.
+
+196
+00:23:58,839 --> 00:24:01,955
+Acho que sabe
+por que te convoquei.
+
+197
+00:24:04,616 --> 00:24:08,047
+Argos, tenho certeza
+de que é um contratempo.
+
+198
+00:24:08,048 --> 00:24:09,404
+Não!
+
+199
+00:24:11,193 --> 00:24:13,936
+Não, não.
+
+200
+00:24:13,937 --> 00:24:17,638
+Sem mais desculpas.
+
+201
+00:24:18,189 --> 00:24:21,829
+A guerra é vencida
+
+202
+00:24:22,792 --> 00:24:24,438
+com o quê?
+
+203
+00:24:24,439 --> 00:24:27,993
+- Informações.
+- Informações.
+
+204
+00:24:29,928 --> 00:24:31,522
+Você sabe
+
+205
+00:24:31,523 --> 00:24:35,889
+- o que é isso?
+- Cegueira.
+
+206
+00:24:35,890 --> 00:24:40,327
+Isso é cegueira.
+
+207
+00:24:40,328 --> 00:24:43,083
+Você pode, por favor,
+
+208
+00:24:44,283 --> 00:24:48,076
+restaurar minha visão?
+
+209
+00:24:49,692 --> 00:24:51,969
+Eu tenho um plano,
+uma nova rede.
+
+210
+00:24:52,471 --> 00:24:55,984
+Eu tenho um plano! Uma nova rede
+que será mais rápida que Argos.
+
+211
+00:24:55,985 --> 00:24:58,782
+Tem um cara no Vale do Silício
+que está me devendo.
+
+212
+00:24:59,282 --> 00:25:02,624
+Será uma ótima melhora.
+Confie em mim!
+
+213
+00:26:11,850 --> 00:26:14,679
+Não recomendo tentar pagar
+com isso.
+
+214
+00:26:16,087 --> 00:26:17,765
+Você me fez pensar.
+
+215
+00:26:18,909 --> 00:26:21,228
+Em 1933, Roosevelt tirou
+os Estados Unidos
+
+216
+00:26:21,229 --> 00:26:23,784
+- do Padrão-ouro, certo?
+- Sim, e daí?
+
+217
+00:26:23,785 --> 00:26:25,349
+Então não dá para ir
+em um banco
+
+218
+00:26:25,350 --> 00:26:27,273
+e trocar dinheiro
+por ouro ou prata.
+
+219
+00:26:28,328 --> 00:26:30,942
+Disse que dinheiro é o deus
+mais poderoso na América.
+
+220
+00:26:30,943 --> 00:26:33,226
+Mas, na verdade,
+dinheiro não vale nada.
+
+221
+00:26:35,583 --> 00:26:37,808
+Eu tenho um pedaço de papel,
+certo?
+
+222
+00:26:39,752 --> 00:26:42,784
+Mas eu quero esse saleiro.
+
+223
+00:26:43,186 --> 00:26:45,314
+Você é dono do saleiro,
+mas está disposto
+
+224
+00:26:45,315 --> 00:26:48,942
+a pegar meu papel
+em troca do saleiro.
+
+225
+00:26:49,351 --> 00:26:52,355
+Agora, por que faria isso?
+Porque...
+
+226
+00:26:52,356 --> 00:26:54,887
+Isso não é um pedaço de papel.
+É história.
+
+227
+00:26:54,888 --> 00:26:59,085
+E é a história
+que você escuta várias vezes.
+
+228
+00:26:59,086 --> 00:27:01,757
+E foi colocado na cabeça
+que isso vale alguma coisa.
+
+229
+00:27:01,758 --> 00:27:03,325
+Isso é de valor.
+
+230
+00:27:03,326 --> 00:27:06,258
+Não importa o país,
+cultura ou religião.
+
+231
+00:27:06,259 --> 00:27:08,213
+O mundo todo ama
+
+232
+00:27:09,382 --> 00:27:10,992
+o dinheiro.
+
+233
+00:27:10,993 --> 00:27:13,180
+A melhor história já contada.
+
+234
+00:27:13,587 --> 00:27:15,070
+Dinheiro.
+
+235
+00:27:15,071 --> 00:27:18,866
+Se tivermos ele do nosso lado,
+o Sr. World não valerá nada.
+
+236
+00:27:19,819 --> 00:27:22,828
+- Grimnir. O que vão querer?
+- Uma xícara de café.
+
+237
+00:27:25,130 --> 00:27:26,787
+Você não trabalha
+em Wisconsin?
+
+238
+00:27:26,788 --> 00:27:28,950
+Estou em todos
+os Hotel America.
+
+239
+00:27:28,951 --> 00:27:31,752
+Empreendedorismo
+não é um piquenique.
+
+240
+00:27:31,753 --> 00:27:33,251
+Mama-ji e os seguidores dela
+
+241
+00:27:33,252 --> 00:27:35,632
+são donos de metade
+dos hotéis na América.
+
+242
+00:27:35,633 --> 00:27:38,207
+E não conseguimos isso
+ficando parados
+
+243
+00:27:38,208 --> 00:27:40,092
+ou brincando como este aqui.
+
+244
+00:27:40,093 --> 00:27:42,796
+Acha que os EUA queriam entregar
+os sacos de dinheiro
+
+245
+00:27:42,797 --> 00:27:45,881
+aos famintos, fartos
+e aos pobres?
+
+246
+00:27:45,882 --> 00:27:49,857
+- Lutamos por cada migalha.
+- Você ama isso.
+
+247
+00:27:49,858 --> 00:27:52,527
+A vitória é doce
+para a língua,
+
+248
+00:27:52,528 --> 00:27:55,665
+e o lucro
+é doce para o bolso.
+
+249
+00:27:55,666 --> 00:27:59,027
+Mas está perdendo
+as verdadeiras batalhas, não?
+
+250
+00:27:59,028 --> 00:28:01,161
+Os gritos e os clamores.
+
+251
+00:28:01,162 --> 00:28:04,545
+Lembro do dia
+que matou Raktabija.
+
+252
+00:28:04,546 --> 00:28:07,415
+O único som daquele dia
+foi o sussurro do vento,
+
+253
+00:28:07,416 --> 00:28:10,411
+assobiando pela grama
+cheia de sangue.
+
+254
+00:28:11,291 --> 00:28:13,273
+Foi divertido, não?
+
+255
+00:28:29,782 --> 00:28:31,784
+Ele será a sua morte.
+
+256
+00:28:31,785 --> 00:28:33,623
+Sabe disso, certo?
+
+257
+00:28:36,634 --> 00:28:37,938
+O que ela disse?
+
+258
+00:28:43,666 --> 00:28:45,949
+<i>Bem-vindo.
+Por favor, use a digital.</i>
+
+259
+00:28:57,646 --> 00:29:01,159
+VOCÊ É TÃO BOM
+QUANTO SUA ÚLTIMA CONQUISTA
+
+260
+00:29:03,103 --> 00:29:05,611
+Chupe um saco gigante
+de paus.
+
+261
+00:29:14,185 --> 00:29:16,581
+QUEM TEM MEDO DO GRANDE
+E MALVADO SR. WORLD?
+
+262
+00:29:16,582 --> 00:29:17,882
+VOCÊ!
+
+263
+00:29:24,830 --> 00:29:27,484
+É BOM QUE CONSIGA!
+
+264
+00:29:27,485 --> 00:29:29,554
+Eu...
+
+265
+00:29:30,310 --> 00:29:34,050
+odeio muito você.
+
+266
+00:29:56,812 --> 00:29:58,384
+Olá, amigo.
+
+267
+00:29:59,727 --> 00:30:01,248
+Olá, amigo.
+
+268
+00:30:02,634 --> 00:30:04,889
+Sempre achei
+que iria vê-lo de novo.
+
+269
+00:30:07,737 --> 00:30:09,773
+Está aqui
+para me mostrar algo novo?
+
+270
+00:30:13,546 --> 00:30:16,090
+É hora de voltar
+para o jogo.
+
+271
+00:30:16,917 --> 00:30:21,339
+499 gramas.
+
+272
+00:30:21,926 --> 00:30:24,263
+Esplenomegalia.
+
+273
+00:30:31,018 --> 00:30:33,982
+Majestade.
+
+274
+00:30:33,983 --> 00:30:35,761
+Saudações, Tote.
+
+275
+00:30:35,762 --> 00:30:40,391
+Você está amável
+como sempre.
+
+276
+00:30:40,392 --> 00:30:41,930
+Mentiroso.
+
+277
+00:30:41,931 --> 00:30:44,880
+Esse país não tem gostado
+da minha cara.
+
+278
+00:30:44,881 --> 00:30:47,619
+Você é tão perfeita e vibrante
+
+279
+00:30:47,620 --> 00:30:50,271
+quanto Eufrates.
+
+280
+00:30:51,516 --> 00:30:53,122
+Sua irmã.
+
+281
+00:30:53,437 --> 00:30:55,382
+Faz muito tempo.
+
+282
+00:30:55,909 --> 00:30:57,787
+Já terminaram?
+
+283
+00:30:57,788 --> 00:31:00,621
+Pois estou ficando entediado
+observando essa merda.
+
+284
+00:31:00,622 --> 00:31:02,496
+Por que brigamos, Anansi?
+
+285
+00:31:02,987 --> 00:31:07,057
+Nos conhecemos desde a infância.
+Devíamos estar do mesmo lado.
+
+286
+00:31:07,058 --> 00:31:08,857
+Pensei que estávamos.
+
+287
+00:31:08,858 --> 00:31:11,822
+- Não estamos?
+- Agora, Anansi,
+
+288
+00:31:11,823 --> 00:31:14,034
+ela é uma de nós.
+
+289
+00:31:14,035 --> 00:31:15,358
+Uma sobrevivente.
+
+290
+00:31:15,359 --> 00:31:19,645
+Você é velho como pó.
+Por que não andou no carrossel?
+
+291
+00:31:19,646 --> 00:31:21,852
+Eu escolhi a paz.
+
+292
+00:31:24,364 --> 00:31:27,842
+Egípcios contavam contos
+sobre o sagrado Livro de Tote,
+
+293
+00:31:27,843 --> 00:31:31,077
+cujo contém
+os segredos dos deuses,
+
+294
+00:31:31,078 --> 00:31:34,457
+e traz miséria,
+dor e sofrimento
+
+295
+00:31:34,458 --> 00:31:36,598
+para qual quer um que o lê.
+
+296
+00:31:36,599 --> 00:31:41,142
+E concede
+uma visão panorâmica para...
+
+297
+00:31:41,563 --> 00:31:43,198
+quem o escreve.
+
+298
+00:31:44,279 --> 00:31:48,324
+Sou velho como pó,
+e já vi tanto quanto você.
+
+299
+00:31:48,325 --> 00:31:50,412
+Por que traz esta...
+
+300
+00:31:51,198 --> 00:31:52,818
+raiva
+
+301
+00:31:53,349 --> 00:31:54,954
+para minha porta?
+
+302
+00:31:55,419 --> 00:31:57,769
+Já percebeu como viajar
+
+303
+00:31:57,770 --> 00:32:00,303
+faz sua mente ir longe
+
+304
+00:32:00,304 --> 00:32:03,586
+como um trem
+correndo os trilhos?
+
+305
+00:32:03,895 --> 00:32:07,532
+Exceto que você não sabe
+aonde vai o trem da mente.
+
+306
+00:32:07,533 --> 00:32:09,718
+E, do nada...
+
+307
+00:32:10,446 --> 00:32:13,288
+uma ideia
+aparece na sua cabeça.
+
+308
+00:32:13,289 --> 00:32:16,574
+E você acha
+que aquela ideia é boa.
+
+309
+00:32:17,280 --> 00:32:22,199
+A paz é linda,
+mas é uma ideia de merda.
+
+310
+00:32:22,676 --> 00:32:26,570
+Somente uma deusa pode adornar
+o sarcófago de um deus.
+
+311
+00:32:27,147 --> 00:32:30,493
+Então me ajudem a entender
+o que esses novos deuses dão
+
+312
+00:32:31,476 --> 00:32:33,667
+e o que eles levam embora.
+
+313
+00:32:33,668 --> 00:32:35,978
+Sua sede não inspira
+nossa confiança,
+
+314
+00:32:35,979 --> 00:32:37,921
+apenas curiosidade.
+
+315
+00:32:42,468 --> 00:32:44,486
+Não sou um deus,
+
+316
+00:32:44,857 --> 00:32:48,421
+tanto que suporto exploração,
+opressão e repressão.
+
+317
+00:32:48,422 --> 00:32:52,726
+Meus adoradores sabem
+que liberdade não é grátis.
+
+318
+00:32:52,727 --> 00:32:54,588
+Eles sabem que o melhor
+
+319
+00:32:54,589 --> 00:32:57,288
+controle de armas
+para o opressor
+
+320
+00:32:57,289 --> 00:32:59,479
+é a mente do oprimido.
+
+321
+00:32:59,480 --> 00:33:02,944
+Eles sabem que a escravidão
+não é uma condição.
+
+322
+00:33:03,314 --> 00:33:05,951
+Escravidão é culto.
+
+323
+00:33:06,262 --> 00:33:09,784
+Tráfico humano é um culto.
+
+324
+00:33:09,785 --> 00:33:14,785
+Escravidão foi rebatizada
+como Direita Alternativa.
+
+325
+00:33:15,625 --> 00:33:17,550
+Apanhado,
+
+326
+00:33:18,771 --> 00:33:20,469
+outro se foi.
+
+327
+00:33:22,353 --> 00:33:25,372
+A cada 30 segundos,
+outro chocolate,
+
+328
+00:33:25,373 --> 00:33:28,700
+caramelo, amarelo, alto amarelo,
+multirracial, uma refugiada
+
+329
+00:33:28,701 --> 00:33:32,912
+cuja a melanina
+seja mais forte, é pega.
+
+330
+00:33:34,341 --> 00:33:35,795
+A cada
+
+331
+00:33:36,254 --> 00:33:37,603
+trinta
+
+332
+00:33:37,604 --> 00:33:39,545
+segundos.
+
+333
+00:33:40,469 --> 00:33:42,516
+E, para piorar as coisas,
+
+334
+00:33:42,517 --> 00:33:46,362
+esses novos donos de plantação
+fizeram um canal
+
+335
+00:33:46,363 --> 00:33:50,173
+para levar nossas crianças
+da escola para a prisão
+
+336
+00:33:50,174 --> 00:33:52,432
+mais rápido que o sangramento
+de um corte.
+
+337
+00:33:52,843 --> 00:33:56,726
+E os sortudos
+vão da escola para a NFL,
+
+338
+00:33:56,727 --> 00:33:59,323
+onde nem sequer
+deixam eles se ajoelhar.
+
+339
+00:34:00,290 --> 00:34:02,372
+São programados,
+desde o nascimento,
+
+340
+00:34:02,373 --> 00:34:05,793
+com comidas de merda,
+água potável contaminada,
+
+341
+00:34:05,794 --> 00:34:07,892
+violência armada,
+brutalidade policial,
+
+342
+00:34:07,893 --> 00:34:11,186
+e trauma após trauma,
+após trauma.
+
+343
+00:34:11,187 --> 00:34:14,020
+Estresse pós-traumático?
+Sem terapia.
+
+344
+00:34:14,021 --> 00:34:16,674
+Desaparecimento?
+Sem alerta às autoridades.
+
+345
+00:34:16,675 --> 00:34:18,106
+Sozinho?
+
+346
+00:34:19,762 --> 00:34:21,282
+Vulnerável.
+
+347
+00:34:24,282 --> 00:34:26,324
+Apanhado.
+
+348
+00:34:27,820 --> 00:34:29,558
+Outro se foi.
+
+349
+00:34:30,525 --> 00:34:32,100
+Escutei, Irmão.
+
+350
+00:34:32,733 --> 00:34:35,223
+E escutei eles.
+
+351
+00:34:36,613 --> 00:34:38,785
+Escutei cada voz,
+
+352
+00:34:39,211 --> 00:34:42,440
+e escrevi cada nome.
+
+353
+00:34:42,942 --> 00:34:44,396
+Vivemos o bastante
+para saber
+
+354
+00:34:44,397 --> 00:34:46,865
+que esses problemas
+são eternos.
+
+355
+00:34:47,296 --> 00:34:49,753
+Sofrimento não é sagrado.
+
+356
+00:34:49,754 --> 00:34:52,806
+E a lei moral é derradeira.
+
+357
+00:34:52,807 --> 00:34:56,948
+Cedo ou tarde,
+todos se curvarão diante
+
+358
+00:34:56,949 --> 00:34:58,250
+de mim.
+
+359
+00:35:00,850 --> 00:35:02,973
+A guerra
+não precisa ser a resposta.
+
+360
+00:35:13,386 --> 00:35:14,822
+Minha Rainha...
+
+361
+00:35:15,877 --> 00:35:19,881
+O mundo presume que os brancos
+são, naturalmente, bons.
+
+362
+00:35:20,384 --> 00:35:22,318
+E, quando algo ruim
+acontece,
+
+363
+00:35:22,319 --> 00:35:26,474
+é uma boa pessoa
+fazendo algo ruim.
+
+364
+00:35:26,895 --> 00:35:29,086
+Eles presumem que os negros
+
+365
+00:35:29,940 --> 00:35:31,593
+são, naturalmente, maus.
+
+366
+00:35:31,594 --> 00:35:33,655
+então, quando algo bom
+acontece,
+
+367
+00:35:33,656 --> 00:35:37,428
+é só uma questão de tempo
+até a real natureza desse animal
+
+368
+00:35:37,429 --> 00:35:39,747
+mostrar a sua cara feia.
+
+369
+00:35:40,513 --> 00:35:43,810
+Por quanto tempo podemos
+nos dar ao luxo de esperar?
+
+370
+00:35:44,798 --> 00:35:47,361
+Você acompanha os dias,
+numerando os anos
+
+371
+00:35:47,362 --> 00:35:50,487
+para os escribas
+que registram a história humana.
+
+372
+00:35:51,002 --> 00:35:52,853
+Está vendo progresso?
+
+373
+00:35:53,908 --> 00:35:58,736
+Eu conto 1, 2, 3,
+deuses africanos nesta sala,
+
+374
+00:35:58,737 --> 00:36:01,672
+e dois deles
+querem exercer autoridade
+
+375
+00:36:01,673 --> 00:36:04,219
+e deixar o trabalho de burro
+continuar
+
+376
+00:36:04,220 --> 00:36:07,495
+enquanto você vive
+sua melhor vida!
+
+377
+00:36:08,238 --> 00:36:10,624
+A guerra está sobre nós!
+
+378
+00:36:11,366 --> 00:36:14,413
+Uma velha dama branca
+está morta.
+
+379
+00:36:15,412 --> 00:36:18,712
+Wednesday vingará
+Zorya Vechernyaya,
+
+380
+00:36:18,713 --> 00:36:21,021
+mas se fosse
+uma dama negra morta,
+
+381
+00:36:22,471 --> 00:36:24,404
+como essa doce e velha alma,
+
+382
+00:36:26,518 --> 00:36:28,253
+o martelo de Czernobog...
+
+383
+00:36:30,697 --> 00:36:32,135
+não iria balançar.
+
+384
+00:36:36,838 --> 00:36:39,034
+Suas palavras
+me comovem, Anansi.
+
+385
+00:36:41,476 --> 00:36:42,876
+Você me vê.
+
+386
+00:36:44,180 --> 00:36:46,217
+Você e Ibis veem a deusa,
+
+387
+00:36:47,146 --> 00:36:48,546
+a rainha.
+
+388
+00:36:49,935 --> 00:36:52,560
+Esses homens de hoje,
+me ignoram.
+
+389
+00:37:09,985 --> 00:37:12,266
+Este país
+fez coisas para nós.
+
+390
+00:37:13,727 --> 00:37:17,900
+Nós fizemos
+as coisas para nós.
+
+391
+00:37:19,915 --> 00:37:22,033
+Então, o que você propõe?
+
+392
+00:37:22,728 --> 00:37:24,954
+Proponho tomarmos
+uma bebida.
+
+393
+00:37:33,570 --> 00:37:36,267
+Um rei
+precisa de uma rainha.
+
+394
+00:37:37,953 --> 00:37:40,475
+A morte de Argos
+deixou uma abertura.
+
+395
+00:37:40,476 --> 00:37:42,282
+Argos era uma relíquia,
+
+396
+00:37:42,283 --> 00:37:45,277
+um ressecado, necrosante,
+
+397
+00:37:45,278 --> 00:37:48,366
+idoso, um saco orgânico
+de redundâncias.
+
+398
+00:37:51,680 --> 00:37:53,278
+Câmera de vigilância?
+
+399
+00:37:54,228 --> 00:37:56,337
+Foda-se o barulho!
+
+400
+00:37:56,908 --> 00:38:00,166
+Eu peço um microchip
+encapsulado
+
+401
+00:38:00,167 --> 00:38:02,771
+em rosa cereja e eles fazem
+filas quilométricas.
+
+402
+00:38:03,530 --> 00:38:05,190
+Quilométricas!
+
+403
+00:38:05,679 --> 00:38:07,258
+Para transportar
+rastreadores,
+
+404
+00:38:08,163 --> 00:38:10,117
+abandonam seus lugares,
+
+405
+00:38:10,118 --> 00:38:11,526
+números de banco,
+
+406
+00:38:12,477 --> 00:38:14,435
+identidades faciais!
+
+407
+00:38:15,209 --> 00:38:18,278
+Uma lista interminável
+de cada foda,
+
+408
+00:38:18,279 --> 00:38:20,005
+cada mordida, cada...
+
+409
+00:38:20,566 --> 00:38:22,779
+pelo nojento do nariz.
+
+410
+00:38:24,299 --> 00:38:25,793
+Cada...
+
+411
+00:38:25,794 --> 00:38:28,643
+segredinho sujo.
+
+412
+00:38:28,644 --> 00:38:32,175
+Cada sussurro que achavam
+que ninguém podia ouvir.
+
+413
+00:38:34,180 --> 00:38:35,834
+Mas o assunto não é esse.
+
+414
+00:38:36,648 --> 00:38:38,984
+O que eu estou aqui
+para discutir...
+
+415
+00:38:39,851 --> 00:38:41,253
+é isto.
+
+416
+00:38:44,115 --> 00:38:46,381
+Argos tinha...
+
+417
+00:38:47,124 --> 00:38:48,889
+malditos olhos.
+
+418
+00:38:49,623 --> 00:38:51,033
+Mas...
+
+419
+00:38:54,856 --> 00:38:59,715
+dei da minha carne
+aos meus discípulos
+
+420
+00:39:01,687 --> 00:39:06,358
+e eles retribuíram mil vezes,
+o favor.
+
+421
+00:39:07,806 --> 00:39:09,250
+E agora?
+
+422
+00:39:15,129 --> 00:39:17,759
+Os olhos estão...
+
+423
+00:39:20,446 --> 00:39:22,446
+em toda parte.
+
+424
+00:39:25,332 --> 00:39:26,743
+Você entende?
+
+425
+00:39:27,422 --> 00:39:29,031
+Você sabe?
+
+426
+00:39:30,804 --> 00:39:32,734
+Você compreende?
+
+427
+00:39:41,796 --> 00:39:43,319
+Estava na hora.
+
+428
+00:39:43,710 --> 00:39:45,117
+O que está fazendo agora?
+
+429
+00:39:45,118 --> 00:39:46,774
+O que nós viemos fazer.
+
+430
+00:39:50,326 --> 00:39:51,626
+Doce?
+
+431
+00:39:51,627 --> 00:39:54,167
+Sim, quero uma barra de ouro
+e algumas pepitas.
+
+432
+00:39:54,168 --> 00:39:56,150
+Crédito ou débito?
+
+433
+00:39:56,151 --> 00:39:58,272
+- Crédito.
+- Nome?
+
+434
+00:39:58,273 --> 00:40:01,165
+Odin, o pai de todos.
+Nunca deixei de pagar os doces.
+
+435
+00:40:01,818 --> 00:40:05,037
+- Seu nome?
+- Ele é só meu assistente.
+
+436
+00:40:05,038 --> 00:40:06,338
+Shadow Moon.
+
+437
+00:40:11,823 --> 00:40:14,718
+<i>Não há nenhuma conta
+em nome de Shadow Moon.</i>
+
+438
+00:40:15,545 --> 00:40:18,520
+<i>Esse não é o nome
+na certidão de nascimento dele.</i>
+
+439
+00:40:19,021 --> 00:40:21,899
+<i>Não há nenhuma conta
+em nome de Shadow Moon.</i>
+
+440
+00:40:21,900 --> 00:40:24,435
+Nem débito, nem crédito.
+
+441
+00:40:26,101 --> 00:40:28,801
+Nem crédito, nem débito.
+Nem um financiamento de carro?
+
+442
+00:40:28,802 --> 00:40:30,602
+Você é um esquisito
+fora dos sistema?
+
+443
+00:40:30,603 --> 00:40:33,098
+Nunca precisei disso,
+Laura cuidava de tudo.
+
+444
+00:40:33,099 --> 00:40:36,760
+Sabe
+o quanto Dinheiro odeia isso?
+
+445
+00:40:36,761 --> 00:40:38,061
+Acesso negado.
+
+446
+00:40:38,062 --> 00:40:41,255
+Esse homem não é relevante,
+ele não quer uma audiência.
+
+447
+00:40:41,256 --> 00:40:43,153
+Ele é só um contratado.
+
+448
+00:40:43,154 --> 00:40:45,103
+Acesso negado.
+
+449
+00:40:47,184 --> 00:40:48,721
+Eu sou
+a ressurreição e a vida.
+
+450
+00:40:48,722 --> 00:40:51,236
+Quem crê em mim,
+ainda que esteja morto, viverá.
+
+451
+00:40:52,208 --> 00:40:55,208
+Eu sou a ressurreição e a vida.
+Quem crê em mim, ainda que...
+
+452
+00:40:55,209 --> 00:40:56,690
+O que Ele te oferece?
+
+453
+00:40:59,035 --> 00:41:00,335
+Jesus?
+
+454
+00:41:03,156 --> 00:41:06,220
+Ou eu rezo, ou corro 8km.
+
+455
+00:41:07,479 --> 00:41:09,032
+E não consigo mais correr,
+
+456
+00:41:09,415 --> 00:41:11,797
+estraguei minha perna
+no Division One.
+
+457
+00:41:14,051 --> 00:41:15,772
+Acho
+que Ele me dá conforto.
+
+458
+00:41:16,604 --> 00:41:19,291
+Um Deus deve oferecer
+mais do que conforto.
+
+459
+00:41:22,924 --> 00:41:24,224
+Ele oferece.
+
+460
+00:41:26,660 --> 00:41:27,960
+Comunidade.
+
+461
+00:41:29,805 --> 00:41:31,410
+Sentir
+que há um significado.
+
+462
+00:41:32,694 --> 00:41:35,799
+Ainda estou brava
+por causa da minha perna,
+
+463
+00:41:36,847 --> 00:41:38,814
+mas se eu não tivesse
+estragado tudo,
+
+464
+00:41:39,638 --> 00:41:42,938
+eu provavelmente estaria
+na faculdade.
+
+465
+00:41:44,610 --> 00:41:48,200
+Ao invés, eu estava com a vovó
+quando ela ficou doente.
+
+466
+00:41:50,277 --> 00:41:51,850
+Talvez era para ser assim.
+
+467
+00:41:54,715 --> 00:41:57,154
+E talvez eu não deva
+ficar com raiva disso.
+
+468
+00:41:58,241 --> 00:42:00,294
+Vovó rezava pela paciência:
+
+469
+00:42:02,938 --> 00:42:06,878
+"Senhor, como Jó,
+permita-me ser paciente."
+
+470
+00:42:08,366 --> 00:42:12,244
+Jó era rico.
+O Deus dela a deu riqueza?
+
+471
+00:42:14,898 --> 00:42:16,333
+Aqui é Cairo!
+
+472
+00:42:17,201 --> 00:42:19,482
+Acho que o dinheiro
+não tem nosso endereço.
+
+473
+00:42:21,258 --> 00:42:24,718
+Semana passada,
+eu estava lendo um blog,
+
+474
+00:42:25,145 --> 00:42:28,118
+dizia que as negras americanas
+ganham 60 centavos de dólar
+
+475
+00:42:28,119 --> 00:42:29,798
+a cada dólar
+que um branco ganha.
+
+476
+00:42:29,799 --> 00:42:33,228
+E a vovó dizia:
+"Aqui no Cairo, querida,
+
+477
+00:42:33,229 --> 00:42:35,985
+uma negra tem sorte se conseguir
+juntar dois centavos.
+
+478
+00:42:35,986 --> 00:42:37,736
+E mesmo que ela tenha
+várias moedas,
+
+479
+00:42:37,737 --> 00:42:40,502
+isso não garante um lençol
+cobrindo a bunda dela,
+
+480
+00:42:40,503 --> 00:42:42,303
+nem que durma nas nuvens."
+
+481
+00:42:47,122 --> 00:42:49,109
+E então ela gargalhou.
+
+482
+00:42:51,493 --> 00:42:54,975
+Ela estava muito doente,
+mas ria o tempo todo.
+
+483
+00:42:56,796 --> 00:43:00,367
+Ela nunca se deixou ser guiada
+pelo ódio ou pela inveja.
+
+484
+00:43:02,694 --> 00:43:04,500
+Tinha a igreja
+e a comunidade dela.
+
+485
+00:43:04,501 --> 00:43:09,324
+Cuidou de mim e Jamarr
+quando ninguém mais nos queria.
+
+486
+00:43:10,270 --> 00:43:11,570
+Ela estava contente.
+
+487
+00:43:13,316 --> 00:43:15,272
+Ele não estava contente.
+
+488
+00:43:17,625 --> 00:43:18,999
+Ele era um revoltado,
+
+489
+00:43:19,864 --> 00:43:21,228
+um encrenqueiro.
+
+490
+00:43:24,057 --> 00:43:26,907
+Dizem que morreu pelos pecados,
+mas não é verdade.
+
+491
+00:43:28,337 --> 00:43:31,074
+Ele morreu porque irritou
+os homens de poder.
+
+492
+00:43:32,827 --> 00:43:35,379
+Recusou-se ser intimidado...
+
+493
+00:43:36,644 --> 00:43:37,944
+Controlado.
+
+494
+00:43:40,126 --> 00:43:42,389
+E, agora,
+veja o poder que ele exerce.
+
+495
+00:43:44,173 --> 00:43:46,915
+A devoção, que ele comanda.
+
+496
+00:43:50,136 --> 00:43:51,833
+Ele sabia das coisas.
+
+497
+00:43:56,429 --> 00:43:57,865
+Sou a Ruby.
+
+498
+00:43:59,493 --> 00:44:00,793
+Ruby Goodchild.
+
+499
+00:44:04,150 --> 00:44:05,804
+É um prazer te conhecer,
+Ruby.
+
+500
+00:44:10,112 --> 00:44:13,420
+Shadow, daria pra comprar
+um maldito doce?
+
+501
+00:44:14,377 --> 00:44:15,827
+Não está me vendo tentando?
+
+502
+00:44:16,728 --> 00:44:18,038
+Olha só isso.
+
+503
+00:44:18,039 --> 00:44:19,926
+Não me venderão
+nenhuma porra de bala!
+
+504
+00:44:19,927 --> 00:44:22,960
+Então, Mama-ji talvez te mate.
+Ela já quer me matar.
+
+505
+00:44:23,661 --> 00:44:25,358
+Quer saber?
+Foda-se!
+
+506
+00:44:26,141 --> 00:44:29,018
+- Por que eu?
+- Outra vez, não.
+
+507
+00:44:29,019 --> 00:44:30,710
+Sim, outra vez.
+Não vai me contar?
+
+508
+00:44:30,711 --> 00:44:32,059
+Capricho.
+
+509
+00:44:32,060 --> 00:44:33,999
+Por que não me dá
+uma maldita resposta?
+
+510
+00:44:34,500 --> 00:44:35,846
+Vamos lá.
+
+511
+00:44:35,847 --> 00:44:37,500
+- Quer mesmo saber?
+- Quero.
+
+512
+00:44:38,769 --> 00:44:40,677
+Quer mesmo saber
+por que te escolhi?
+
+513
+00:44:40,678 --> 00:44:41,978
+Apenas me diga.
+
+514
+00:44:42,807 --> 00:44:45,411
+Bem, te escolhi
+porque precisava de alguém
+
+515
+00:44:45,412 --> 00:44:46,775
+sem razão para viver.
+
+516
+00:44:46,776 --> 00:44:48,357
+Sem motivo
+para voltar pra casa.
+
+517
+00:44:48,358 --> 00:44:50,497
+Que sintam falta,
+amem ou cagando-se
+
+518
+00:44:50,498 --> 00:44:52,075
+se vai viver ou morrer.
+
+519
+00:44:52,076 --> 00:44:54,079
+Por isso te escolhi.
+Porque, literalmente
+
+520
+00:44:54,080 --> 00:44:56,224
+não significa nada
+para qualquer ser vivo.
+
+521
+00:44:56,225 --> 00:44:58,522
+ou morta,
+até onde sei.
+
+522
+00:44:58,523 --> 00:45:00,831
+Você não tem nenhum valor,
+nem importância,
+
+523
+00:45:00,832 --> 00:45:02,980
+neste mundo
+ou no que vai vir.
+
+524
+00:45:02,981 --> 00:45:04,361
+Contente?
+
+525
+00:45:06,834 --> 00:45:08,134
+Caramba.
+
+526
+00:45:08,880 --> 00:45:10,180
+Ótimo.
+
+527
+00:45:13,511 --> 00:45:15,136
+Ouça, tenho estado aqui
+
+528
+00:45:15,908 --> 00:45:17,323
+tentando dar sentido a tudo.
+
+529
+00:45:17,863 --> 00:45:19,995
+A qualquer coisa,
+desde que nos conhecemos.
+
+530
+00:45:20,752 --> 00:45:22,084
+Sério?
+Como está sendo?
+
+531
+00:45:22,085 --> 00:45:24,294
+Esse hamsterzinho
+na sua engrenagem cerebral
+
+532
+00:45:24,295 --> 00:45:25,679
+já o fez decifrar?
+
+533
+00:45:27,960 --> 00:45:29,260
+Bem...
+
+534
+00:45:30,876 --> 00:45:33,573
+A única coisa
+que faz sentido,
+
+535
+00:45:33,574 --> 00:45:35,021
+a única explicação
+
+536
+00:45:35,719 --> 00:45:37,869
+que se encaixa
+em todos os fatos, é que...
+
+537
+00:45:40,076 --> 00:45:41,544
+Sou valioso para você.
+
+538
+00:45:43,366 --> 00:45:44,998
+Não sei bem o porquê.
+
+539
+00:45:46,126 --> 00:45:48,110
+Você não quer que eu saiba
+o porquê...
+
+540
+00:45:50,330 --> 00:45:51,630
+Mas você precisa de mim.
+
+541
+00:45:53,855 --> 00:45:55,155
+Não precisa?
+
+542
+00:45:59,208 --> 00:46:03,492
+Estou te dando o futuro
+na porra de uma bandeja.
+
+543
+00:46:04,823 --> 00:46:07,781
+Só preciso que livre-se
+das aparas, para já,
+
+544
+00:46:07,782 --> 00:46:09,871
+e ponha a porra de um adorno
+nele.
+
+545
+00:46:11,607 --> 00:46:12,907
+Mostre-me.
+
+546
+00:46:21,187 --> 00:46:23,373
+Jamais vi um deus,
+
+547
+00:46:24,454 --> 00:46:29,000
+defender mais eficazmente
+sua própria obsolescência.
+
+548
+00:46:30,152 --> 00:46:31,980
+O que faz aqui, porra?
+
+549
+00:46:33,064 --> 00:46:34,717
+Vá em frente então.
+
+550
+00:46:36,637 --> 00:46:38,273
+Ele está esperando.
+
+551
+00:46:40,232 --> 00:46:41,712
+Mostre-o.
+
+552
+00:46:49,937 --> 00:46:51,237
+Não?
+
+553
+00:46:55,290 --> 00:46:56,683
+Então, permita-me.
+
+554
+00:47:16,864 --> 00:47:18,264
+Olá, camarada.
+
+555
+00:47:22,143 --> 00:47:23,666
+Fala aí, parceiro.
+
+556
+00:47:29,585 --> 00:47:30,935
+Fui, literalmente...
+
+557
+00:47:32,023 --> 00:47:34,242
+Seu único amigo.
+
+558
+00:47:37,855 --> 00:47:40,118
+Seu solitário do caralho.
+
+559
+00:47:46,751 --> 00:47:50,868
+Trouxe-te
+diante da presença de um deus.
+
+560
+00:47:56,761 --> 00:47:59,006
+Parece que ele
+esqueceu-se de você.
+
+561
+00:48:15,301 --> 00:48:16,801
+Um engano.
+
+562
+00:48:59,950 --> 00:49:01,250
+Caralho!
+
+563
+00:49:23,496 --> 00:49:25,205
+RECEPÇÃO
+
+564
+00:49:26,633 --> 00:49:29,792
+Quer comprar um doce?
+Um doce?
+
+565
+00:49:29,793 --> 00:49:32,898
+Não há necessidade
+de comprar doces.
+
+566
+00:49:35,320 --> 00:49:37,931
+Aposentei um deus hoje.
+
+567
+00:49:38,801 --> 00:49:40,281
+Acesso concedido.
+
+568
+00:49:46,635 --> 00:49:48,681
+Você matou Argos.
+
+569
+00:49:49,856 --> 00:49:52,380
+E você matou Zorya.
+
+570
+00:49:53,816 --> 00:49:56,471
+Sinto muito pela Zorya.
+
+571
+00:49:58,201 --> 00:50:02,374
+Mas se ataca com trovões,
+deve prever consequências.
+
+572
+00:50:02,375 --> 00:50:06,742
+Mexa com minha gente,
+conte com medidas extremas.
+
+573
+00:50:06,743 --> 00:50:09,963
+- Conseguiu seu homem de volta.
+- É uma questão de princípios.
+
+574
+00:50:11,729 --> 00:50:13,100
+<i>Olá?</i>
+
+575
+00:50:13,769 --> 00:50:15,141
+Olá?
+
+576
+00:50:15,142 --> 00:50:16,460
+Gostaria de pagar.
+
+577
+00:50:17,623 --> 00:50:19,033
+Gostaria de pagar.
+
+578
+00:50:19,852 --> 00:50:22,052
+Tem visto
+o que aconteceu com o mundo?
+
+579
+00:50:23,738 --> 00:50:25,935
+Não são mais de cinco,
+dez, ou vinte.
+
+580
+00:50:25,936 --> 00:50:27,615
+Não trata-se de dinheiro
+ou ouro.
+
+581
+00:50:29,527 --> 00:50:32,301
+São de zeros e uns,
+
+582
+00:50:32,302 --> 00:50:34,931
+digitalizadas e encriptadas,
+
+583
+00:50:34,932 --> 00:50:37,592
+enviados por cabos
+de fibra óptica
+
+584
+00:50:37,593 --> 00:50:39,129
+na velocidade da luz
+
+585
+00:50:39,711 --> 00:50:43,959
+para contas bancárias
+sem localização física.
+
+586
+00:50:47,284 --> 00:50:48,646
+Dinheiro ama rentabilidade.
+
+587
+00:50:56,128 --> 00:50:59,005
+E a guerra
+é sempre rentável.
+
+588
+00:50:59,467 --> 00:51:01,669
+Por outro lado
+move mais pessoas
+
+589
+00:51:01,670 --> 00:51:03,083
+do que qualquer outra coisa.
+
+590
+00:51:03,084 --> 00:51:05,358
+Inflama paixões,
+
+591
+00:51:05,359 --> 00:51:07,212
+algo o qual
+você não sabe nada.
+
+592
+00:51:07,213 --> 00:51:08,818
+E quanto
+mais apaixonados ficam,
+
+593
+00:51:08,819 --> 00:51:10,779
+mais dinheiro gastam,
+gastam e gastam.
+
+594
+00:51:10,780 --> 00:51:12,155
+Sabe o que é isso,
+Money.
+
+595
+00:51:13,451 --> 00:51:18,284
+Senta-se no cruzamento
+de dois rios,
+
+596
+00:51:18,819 --> 00:51:23,118
+à espera de uma embarcação
+que nunca chegará.
+
+597
+00:51:24,172 --> 00:51:26,390
+Sua espécie
+não está morrendo;
+
+598
+00:51:26,391 --> 00:51:29,400
+- já está morta.
+- Certo, já chega.
+
+599
+00:51:31,066 --> 00:51:32,718
+Estou honrado
+em ter grandalhões
+
+600
+00:51:32,719 --> 00:51:34,881
+do jogo divino
+implorando à minha mesa.
+
+601
+00:51:34,882 --> 00:51:37,619
+Mas não se ganha dinheiro
+com investimentos emocionais,
+
+602
+00:51:37,620 --> 00:51:39,534
+nem investindo
+em entidades emotivas.
+
+603
+00:51:39,535 --> 00:51:42,194
+Um risco elevado demais
+nessas iniciativas.
+
+604
+00:51:42,713 --> 00:51:44,932
+Não dispõem de oportunidades.
+
+605
+00:51:45,628 --> 00:51:47,718
+Você sempre pode
+cobrir suas apostas.
+
+606
+00:51:48,458 --> 00:51:51,065
+Não há nenhum acordo
+para vocês aqui hoje, senhores.
+
+607
+00:51:51,066 --> 00:51:53,112
+O dinheiro fica no banco.
+
+608
+00:51:53,445 --> 00:51:54,745
+Está de acordo.
+
+609
+00:51:55,534 --> 00:51:57,844
+Que infeliz
+desperdício de capital.
+
+610
+00:52:06,338 --> 00:52:07,699
+Ganharei esta batalha.
+
+611
+00:52:07,700 --> 00:52:10,238
+As pessoas gostam mais de mim
+do que de você.
+
+612
+00:52:10,239 --> 00:52:12,159
+Prefiro ser temido.
+
+613
+00:52:19,110 --> 00:52:20,763
+Não sou seu inimigo.
+
+614
+00:52:58,544 --> 00:53:02,414
+<b>Entregue-se à sua inSanidade!
+Junte-se a nós.</b>
+
+615
+00:53:02,415 --> 00:53:06,193
+<b>www.insanos
+@inSanos</b>
