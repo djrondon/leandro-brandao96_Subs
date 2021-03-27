@@ -1,0 +1,2962 @@
+1
+00:00:01,268 --> 00:00:04,892
+<i>Chamo-me Barry Allen,
+e sou o homem mais veloz vivo</i>.
+
+2
+00:00:06,503 --> 00:00:09,363
+<i>Para o mundo exterior,
+sou um vulgar cientista forense,</i>
+
+3
+00:00:09,364 --> 00:00:12,436
+<i>mas, secretamente, com a ajuda
+dos meus amigos da STAR Labs,</i>
+
+4
+00:00:12,437 --> 00:00:15,500
+<i>combato o crime e procuro
+outros metas como eu.</i>
+
+5
+00:00:15,956 --> 00:00:18,143
+<i>Apanhei o homem
+que matou a minha mãe,</i>
+
+6
+00:00:18,144 --> 00:00:20,958
+<i>mas, ao fazer isso, expus
+o nosso mundo a novas ameaças.</i>
+
+7
+00:00:21,906 --> 00:00:24,362
+<i>E sou o único suficientemente
+veloz para as parar.</i>
+
+8
+00:00:24,363 --> 00:00:26,825
+<i>Eu sou, o Flash.</i>
+
+9
+00:00:27,729 --> 00:00:29,674
+<i>Anteriormente...</i>
+
+10
+00:00:29,675 --> 00:00:31,441
+<i>O nome dele é Geomancer.</i>
+
+11
+00:00:31,442 --> 00:00:33,284
+Estou à espera
+do homem de vermelho.
+
+12
+00:00:33,285 --> 00:00:35,066
+A Velocidade 7 está a passar.
+
+13
+00:00:35,901 --> 00:00:37,752
+- Estás ferido?
+- Só o meu orgulho.
+
+14
+00:00:37,753 --> 00:00:39,568
+A Jesse é minha filha.
+O Zoom apanhou-a.
+
+15
+00:00:39,569 --> 00:00:42,542
+Pai, por favor, ajude-me.
+Não deixe que ele me leve.
+
+16
+00:00:42,543 --> 00:00:44,875
+Disse que somos uma equipa.
+Agora fazes parte dela.
+
+17
+00:00:44,876 --> 00:00:47,462
+<i>Vamos ajudar a salvar a Jesse.
+Não vais sozinho.</i>
+
+18
+00:00:47,463 --> 00:00:49,986
+<i>- Vamos para a Terra 2.
+- Lembrem-se do que o Jay disse.</i>
+
+19
+00:00:49,987 --> 00:00:51,996
+<i>- Aqui é tudo diferente.
+- Caitlin!</i>
+
+20
+00:00:51,997 --> 00:00:55,338
+Se me conhecesses, sabias
+que detesto o nome Caitlin.
+
+21
+00:00:55,339 --> 00:00:56,861
+Sou a Killer Frost!
+
+22
+00:00:57,593 --> 00:00:58,893
+Cuidado!
+
+23
+00:00:59,301 --> 00:01:00,601
+Pai!
+
+24
+00:01:01,444 --> 00:01:03,146
+Mataste o meu pai,
+cabra diabólica.
+
+25
+00:01:03,147 --> 00:01:05,331
+Ele não se devia ter juntado
+a um viajante.
+
+26
+00:01:05,332 --> 00:01:07,468
+- Flash, salva-nos!
+- Não!
+
+27
+00:01:07,469 --> 00:01:08,892
+O Zoom quere-o vivo.
+
+28
+00:01:08,893 --> 00:01:11,174
+Sabes o que o Zoom vai fazer
+se não obedeceres.
+
+29
+00:01:12,666 --> 00:01:14,394
+Não!
+
+30
+00:01:16,479 --> 00:01:18,659
+Olha à tua volta, Flash.
+
+31
+00:01:18,660 --> 00:01:23,627
+Este é o último lugar
+que verás.
+
+32
+00:01:25,984 --> 00:01:29,782
+<i>Eu sei que estás aqui,
+Harrison Wells,</i>
+
+33
+00:01:29,783 --> 00:01:33,412
+<i>e não vieste sozinho.</i>
+
+34
+00:01:35,402 --> 00:01:38,080
+<i>Podes tentar
+esconder...</i>
+
+35
+00:01:41,080 --> 00:01:45,483
+<i>Mas sou o homem
+mais veloz vivo.</i>
+
+36
+00:01:48,334 --> 00:01:50,929
+<i>Vou revirar esta cidade</i>
+
+37
+00:01:50,930 --> 00:01:54,573
+<i>até encontrar-te.</i>
+
+38
+00:01:54,574 --> 00:01:56,551
+<i>E quando encontrar,</i>
+
+39
+00:01:56,552 --> 00:02:00,540
+<i>vão todos sentir
+a minha fúria.</i>
+
+40
+00:02:05,224 --> 00:02:09,379
+<i>O Dr. Harrison Wells,
+fundador da STAR Labs</i>
+
+41
+00:02:09,380 --> 00:02:12,185
+<i>que estranhamente
+desapareceu há quatro meses,</i>
+
+42
+00:02:12,186 --> 00:02:13,602
+<i>é agora um homem procurado.</i>
+
+43
+00:02:13,603 --> 00:02:17,370
+<i>Estas mensagens foram feitas
+há pouco tempo pelo Zoom.</i>
+
+44
+00:02:18,837 --> 00:02:21,912
+Viu o Canal 52?
+Não está a salvo aqui.
+
+45
+00:02:21,913 --> 00:02:23,972
+- O Zoom anda à sua procura.
+- Avisa a segurança.
+
+46
+00:02:23,973 --> 00:02:26,115
+Evacua a STAR Labs.
+Fecha a instituição.
+
+47
+00:02:26,116 --> 00:02:28,267
+- Então e você?
+- Não te preocupes comigo, Henry.
+
+48
+00:02:28,268 --> 00:02:30,723
+Apenas tira-os todos daqui.
+Agora! Vai!
+
+49
+00:02:32,207 --> 00:02:33,581
+Harry!
+
+50
+00:02:33,582 --> 00:02:35,208
+Não dispares!
+
+51
+00:02:35,209 --> 00:02:36,679
+Caramba, Ramon.
+
+52
+00:02:37,665 --> 00:02:39,268
+Onde está o Allen?
+
+53
+00:02:39,269 --> 00:02:40,795
+- O Zoom levou-o.
+- O quê?
+
+54
+00:02:40,796 --> 00:02:42,628
+Rastreámos o Deathstorm
+e a Killer Frost,
+
+55
+00:02:42,629 --> 00:02:44,120
+conhecemos o meu sósia,
+Reverb.
+
+56
+00:02:44,121 --> 00:02:45,948
+Mau tipo, poderes malignos.
+
+57
+00:02:45,949 --> 00:02:47,390
+Os três quase mataram o Barry,
+
+58
+00:02:47,391 --> 00:02:50,524
+mas o Zoom apareceu,
+matou o Cisco 2,
+
+59
+00:02:50,525 --> 00:02:52,806
+matou o Deathstorm
+por fazer mal a um velocista,
+
+60
+00:02:52,807 --> 00:02:55,830
+deixou a Killer Frost viva
+e levou o Barry com ele.
+
+61
+00:02:55,831 --> 00:02:57,259
+Como é que sobreviveste?
+
+62
+00:02:57,260 --> 00:02:59,655
+Parece que ele
+não quer saber de mim.
+
+63
+00:02:59,656 --> 00:03:02,373
+Não, não.
+O Zoom não faz nada por acidente.
+
+64
+00:03:02,374 --> 00:03:03,755
+Ele seguiu-te até aqui?
+
+65
+00:03:03,756 --> 00:03:06,809
+Vi o "Heat",
+sei como não deixar rasto.
+
+66
+00:03:06,810 --> 00:03:09,660
+Mas vê isto.
+Roubei isto do meu sósia.
+
+67
+00:03:09,661 --> 00:03:11,970
+Podíamos usá-lo
+para encontrar o Zoom.
+
+68
+00:03:11,971 --> 00:03:13,730
+Que porcaria, Ramon!
+Não temos tempo para isto.
+
+69
+00:03:13,731 --> 00:03:15,120
+O Zoom anda-nos a caçar.
+
+70
+00:03:15,121 --> 00:03:16,454
+O Zoom anda-nos a caçar!
+
+71
+00:03:16,455 --> 00:03:19,146
+Precisamos de outro plano,
+porque de contrário...
+
+72
+00:03:19,147 --> 00:03:23,099
+Pára de pensar assim!
+Vamos encontrar a Jesse e o Barry.
+
+73
+00:03:23,100 --> 00:03:24,462
+Sei que vamos.
+
+74
+00:03:24,463 --> 00:03:26,668
+<i>Olá?
+Está aí alguém?</i>
+
+75
+00:03:26,669 --> 00:03:28,956
+<i>Quem for o responsável
+por isto...</i>
+
+76
+00:03:30,742 --> 00:03:33,638
+<i>Vamos ter
+uma boa "conversa".</i>
+
+77
+00:03:33,639 --> 00:03:35,650
+<i>Isto não é nada fixe!</i>
+
+78
+00:03:35,651 --> 00:03:36,951
+Barry 2.
+
+79
+00:03:37,252 --> 00:03:40,044
+<b>» S02.E14 «</b>
+<b><i>- Escape From Earth-2 -</i></b>
+
+80
+00:03:40,459 --> 00:03:43,539
+Dr. Wells,
+isto é muito decepcionante.
+
+81
+00:03:43,540 --> 00:03:45,730
+Quero dizer,
+deviam ter vergonha.
+
+82
+00:03:45,731 --> 00:03:48,224
+Não podem fechar alguém
+desta maneira.
+
+83
+00:03:48,225 --> 00:03:49,792
+Há quanto tempo estou aqui?
+
+84
+00:03:51,608 --> 00:03:53,140
+Cerca de um dia.
+
+85
+00:03:53,649 --> 00:03:55,052
+Um dia?
+
+86
+00:03:55,053 --> 00:03:56,442
+Um dia?
+
+87
+00:03:56,443 --> 00:03:58,307
+A minha mulher deve estar
+preocupada.
+
+88
+00:03:58,308 --> 00:04:01,110
+Dr. Wells,
+não sei se sabe,
+
+89
+00:04:01,111 --> 00:04:02,800
+mas a minha mulher
+
+90
+00:04:02,801 --> 00:04:05,957
+é uma detective muito respeitada
+em Central City.
+
+91
+00:04:05,958 --> 00:04:08,327
+Ela deve estar
+muito chateada.
+
+92
+00:04:08,328 --> 00:04:10,309
+Isto é pesado.
+
+93
+00:04:10,310 --> 00:04:11,705
+Claro que é.
+
+94
+00:04:11,706 --> 00:04:15,116
+Desculpem, amigos,
+mas exijo saber
+
+95
+00:04:15,117 --> 00:04:17,412
+o que se passa, neste instante.
+
+96
+00:04:17,413 --> 00:04:20,351
+- Barry, é uma longa história.
+- Não podemos contar agora.
+
+97
+00:04:20,352 --> 00:04:23,800
+Desculpa ter-te fechado
+por um dia, mas tens sair.
+
+98
+00:04:23,801 --> 00:04:25,158
+Tens de te juntar...
+
+99
+00:04:27,029 --> 00:04:28,330
+Ele está aqui.
+
+100
+00:04:33,065 --> 00:04:34,592
+Não te mexas!
+
+101
+00:04:43,726 --> 00:04:48,107
+Onde está o Wells
+e os amigos dele?
+
+102
+00:04:50,630 --> 00:04:52,979
+Dr. Wells, o que raio
+se passa aqui?
+
+103
+00:04:52,980 --> 00:04:54,485
+O Zoom anda atrás de nós.
+
+104
+00:04:54,486 --> 00:04:56,551
+O Zoom? Porque é que Zoom
+anda atrás de vocês?
+
+105
+00:04:56,552 --> 00:04:58,517
+É parte de uma longa história.
+
+106
+00:04:58,518 --> 00:05:01,001
+Não sei se consigo lidar
+com uma coisa assim.
+
+107
+00:05:01,002 --> 00:05:02,754
+- Tens um cofre do tempo?
+- Tenho.
+
+108
+00:05:02,755 --> 00:05:05,444
+Precisava de um lugar
+para esconder-me do Zoom.
+
+109
+00:05:05,445 --> 00:05:06,896
+- Entrem.
+- Sim, senhor.
+
+110
+00:05:13,724 --> 00:05:15,761
+É o Zoom!
+
+111
+00:05:15,762 --> 00:05:17,164
+Ramon,
+
+112
+00:05:18,162 --> 00:05:19,893
+tapa-lhe a boca.
+
+113
+00:05:37,750 --> 00:05:40,301
+Respira, respira, respira.
+
+114
+00:05:40,302 --> 00:05:41,902
+Parede falsa.
+
+115
+00:05:41,903 --> 00:05:44,610
+Ele não será enganado de novo.
+temos de ir.
+
+116
+00:05:44,611 --> 00:05:47,186
+Temos de encontrar outro
+esconderijo e traçar um plano.
+
+117
+00:05:48,368 --> 00:05:51,065
+Não.
+Antes de fazermos alguma coisa,
+
+118
+00:05:51,066 --> 00:05:54,493
+têm de me explicar
+tudo o que se passa aqui.
+
+119
+00:06:04,948 --> 00:06:06,664
+Estás a perder o teu tempo.
+
+120
+00:06:06,665 --> 00:06:09,630
+Quando cheguei aqui,
+também pensei que podia escapar.
+
+121
+00:06:09,631 --> 00:06:11,151
+Não há maneira de sair.
+
+122
+00:06:15,704 --> 00:06:17,040
+Quem é aquele?
+
+123
+00:06:18,616 --> 00:06:20,274
+Não sei.
+
+124
+00:06:20,275 --> 00:06:23,210
+Já estava aqui quando o Zoom
+me trouxe para este lugar.
+
+125
+00:06:26,996 --> 00:06:31,430
+Pare?
+Por favor, pare!
+
+126
+00:06:31,431 --> 00:06:34,353
+Jesse, penso que ele
+está a tentar ajudar-nos.
+
+127
+00:06:34,354 --> 00:06:36,597
+Nada pode ajudar-nos.
+
+128
+00:06:37,450 --> 00:06:38,813
+Não é verdade.
+
+129
+00:06:40,286 --> 00:06:43,571
+Vamos sair daqui.
+O teu pai vai-nos encontrar.
+
+130
+00:06:43,572 --> 00:06:46,623
+Confias demasiado
+num homem tão egoísta.
+
+131
+00:06:51,383 --> 00:06:55,641
+Eu também pensava assim
+no princípio.
+
+132
+00:06:56,565 --> 00:06:57,865
+Mas não é verdade.
+
+133
+00:06:59,039 --> 00:07:01,715
+Todas as decisões que tomou,
+
+134
+00:07:01,716 --> 00:07:04,688
+tudo o que fez
+desde que o conheci,
+
+135
+00:07:05,785 --> 00:07:07,251
+foi para salvar-te.
+
+136
+00:07:09,511 --> 00:07:12,838
+O teu pai não desistiu de ti,
+então não desistas dele.
+
+137
+00:07:18,177 --> 00:07:19,735
+Acredita no que quiseres,
+
+138
+00:07:19,736 --> 00:07:23,546
+mas a única razão
+por continuares viva
+
+139
+00:07:23,547 --> 00:07:27,201
+é para que te possa matar
+à frente do teu pai.
+
+140
+00:07:27,202 --> 00:07:30,744
+E a única razão do teu pai
+continuar vivo
+
+141
+00:07:33,752 --> 00:07:37,661
+é para ele me dar
+a tua velocidade.
+
+142
+00:07:39,074 --> 00:07:43,290
+Assim que fizer isso,
+também vais morrer.
+
+143
+00:07:48,147 --> 00:07:49,803
+TERRA 1
+
+144
+00:07:49,804 --> 00:07:52,059
+<i>A seguir, o meta-humano
+que causou os terramotos</i>
+
+145
+00:07:52,060 --> 00:07:54,533
+<i>deixou os cidadãos aterrorizados
+e perguntou:</i>
+
+146
+00:07:54,534 --> 00:07:56,067
+<i>Onde está o Flash?</i>
+
+147
+00:07:56,068 --> 00:07:59,097
+Terminei.
+A fenda está outra vez estável.
+
+148
+00:07:59,098 --> 00:08:02,117
+- Eles têm 20 horas para voltar.
+- És incrível.
+
+149
+00:08:02,118 --> 00:08:04,684
+Para estabilizar fendas, talvez,
+
+150
+00:08:04,685 --> 00:08:06,876
+mas não tanto
+para combater meta-humanos.
+
+151
+00:08:06,877 --> 00:08:08,405
+Estás um pouco enferrujado.
+
+152
+00:08:08,855 --> 00:08:10,155
+Fui muito lento.
+
+153
+00:08:11,441 --> 00:08:13,343
+O Geomancer
+ainda anda à solta.
+
+154
+00:08:14,219 --> 00:08:16,873
+Temos de o parar. Tenho de estar
+preparado para quando ele atacar.
+
+155
+00:08:16,874 --> 00:08:19,696
+- Quando é que a Velocidade...
+- 8.
+
+156
+00:08:19,697 --> 00:08:21,363
+A Velocidade 8 ficará pronta?
+
+157
+00:08:21,364 --> 00:08:23,124
+Tenho de finalizar a fórmula,
+
+158
+00:08:23,125 --> 00:08:25,813
+fazer com que a matriz
+extra-celular permaneça intacta
+
+159
+00:08:25,814 --> 00:08:28,312
+para não perderes
+a velocidade tão depressa.
+
+160
+00:08:28,313 --> 00:08:29,713
+Está bem.
+
+161
+00:08:31,699 --> 00:08:32,999
+O que é?
+
+162
+00:08:34,895 --> 00:08:36,960
+Depois do teu encontro
+com o Geomancer,
+
+163
+00:08:36,961 --> 00:08:38,974
+eu fiz alguns testes.
+
+164
+00:08:38,975 --> 00:08:43,474
+A Velocidade 7 está a reagir
+com as tuas células danificadas.
+
+165
+00:08:43,475 --> 00:08:45,669
+Está a causar
+mais degeneração celular.
+
+166
+00:08:45,670 --> 00:08:48,900
+Espero que a próxima
+não faça o mesmo.
+
+167
+00:08:48,901 --> 00:08:51,695
+Jay, não te posso dar mais
+se está a fazer-te mal.
+
+168
+00:08:52,602 --> 00:08:55,536
+Se é para ajudar a combater
+o Geomancer, precisas.
+
+169
+00:08:56,570 --> 00:08:59,625
+Até o Barry voltar,
+só eu posso salvar a cidade.
+
+170
+00:09:04,497 --> 00:09:06,709
+Não sei como é possível,
+mas fizeste o basquetebol
+
+171
+00:09:06,710 --> 00:09:09,292
+ficar mais chato que o basebol.
+Repara isso.
+
+172
+00:09:09,293 --> 00:09:11,059
+Scott Evans,
+o seu novo editor.
+
+173
+00:09:11,831 --> 00:09:13,568
+- Iris.
+- West, eu sei.
+
+174
+00:09:13,569 --> 00:09:15,510
+Escreveu
+sobre o ataque do Geomancer.
+
+175
+00:09:15,511 --> 00:09:17,007
+- Sim.
+- Não vai ser publicado.
+
+176
+00:09:17,008 --> 00:09:20,810
+- Porquê?
+- Faz parecer que está tudo bem.
+
+177
+00:09:20,811 --> 00:09:23,231
+As pessoas
+precisam da verdade,
+
+178
+00:09:23,232 --> 00:09:26,206
+o Flash não estará sempre aqui
+para as salvar.
+
+179
+00:09:26,940 --> 00:09:28,261
+Não concorda?
+
+180
+00:09:28,262 --> 00:09:31,634
+Penso que ele
+já salvou muitas pessoas aqui.
+
+181
+00:09:31,635 --> 00:09:34,727
+Mas onde é que ele está agora?
+Precisamos de uma história real.
+
+182
+00:09:35,741 --> 00:09:38,517
+E se eu conseguir
+um exclusivo
+
+183
+00:09:38,518 --> 00:09:41,471
+com o meta-humano
+que combateu o Geomancer?
+
+184
+00:09:41,472 --> 00:09:45,495
+- Esse outro Flash.
+- Também é amiga dele?
+
+185
+00:09:47,804 --> 00:09:51,287
+Dê-me só algum tempo.
+
+186
+00:09:51,288 --> 00:09:54,530
+Está bem. Mas se for
+como a outra história,
+
+187
+00:09:54,531 --> 00:09:56,292
+vou publicar qualquer coisa
+sobre o Flash
+
+188
+00:09:56,293 --> 00:09:58,169
+não ser
+o herói dos nossos sonhos.
+
+189
+00:10:07,832 --> 00:10:10,284
+Iris.
+
+190
+00:10:10,999 --> 00:10:13,465
+- Onde estiveste ontem à noite?
+- Meu Deus.
+
+191
+00:10:13,466 --> 00:10:17,473
+O meu pai morreu ontem,
+e nem foste para casa.
+
+192
+00:10:17,474 --> 00:10:20,037
+Eu sei, contaram-me.
+Tenho tanta pena.
+
+193
+00:10:20,038 --> 00:10:22,824
+Contaram-te?
+Estavas lá, Barry.
+
+194
+00:10:22,825 --> 00:10:24,395
+Por acaso, não.
+
+195
+00:10:24,396 --> 00:10:27,575
+Vê bem.
+Vamos ao meu laboratório.
+
+196
+00:10:27,576 --> 00:10:29,662
+Vamos lá
+e eu explico tudo.
+
+197
+00:10:29,663 --> 00:10:30,963
+Vou explicar.
+
+198
+00:10:31,771 --> 00:10:35,321
+Então o Barry de ontem
+não eras tu?
+
+199
+00:10:35,322 --> 00:10:40,247
+Não. Eu sei
+que é difícil de acreditar,
+
+200
+00:10:40,248 --> 00:10:42,953
+mas é como aquela série
+de ficção científica...
+
+201
+00:10:42,954 --> 00:10:44,797
+Commander Carl, Space
+Marshal of the Galaxy.
+
+202
+00:10:44,798 --> 00:10:46,837
+O Carl foi sugado
+por um buraco negro
+
+203
+00:10:46,838 --> 00:10:49,527
+e acaba noutro planeta
+que pensa que é a Terra,
+
+204
+00:10:49,528 --> 00:10:53,146
+mas, na verdade,
+é a Terra de outro universo.
+
+205
+00:10:55,579 --> 00:10:58,372
+Nunca viram?
+Sai todas as semanas, deviam ver.
+
+206
+00:10:59,377 --> 00:11:01,816
+Por isso é que estavas
+ontem sem aliança.
+
+207
+00:11:02,877 --> 00:11:05,966
+E aquele beijo foi tão...
+
+208
+00:11:05,967 --> 00:11:07,899
+Perdão,
+ele foi assanhado contigo?
+
+209
+00:11:09,244 --> 00:11:11,350
+Não. Vou ter
+de encontrar esse tipo
+
+210
+00:11:11,351 --> 00:11:13,752
+- e ser muito franco com ele.
+- Faz o que quiseres.
+
+211
+00:11:13,753 --> 00:11:16,024
+Ele disse que tens tentado
+rastrear o Zoom.
+
+212
+00:11:16,025 --> 00:11:18,845
+- Tenho tentado, porquê?
+- Queremos encontrar o covil dele.
+
+213
+00:11:18,846 --> 00:11:21,178
+- Covil?
+- Ele é mau, vou chamar assim.
+
+214
+00:11:21,179 --> 00:11:23,950
+O Zoom anda à vossa procura,
+ir atrás dele porquê?
+
+215
+00:11:23,951 --> 00:11:26,318
+Ele tem a minha filha
+e o nosso Barry,
+
+216
+00:11:26,319 --> 00:11:28,122
+temos de os salvar aos dois.
+
+217
+00:11:28,123 --> 00:11:30,934
+Quero encontrar o Zoom
+tanto como toda a gente,
+
+218
+00:11:30,935 --> 00:11:33,042
+mas ninguém
+o consegue rastrear.
+
+219
+00:11:33,043 --> 00:11:35,687
+Só um meta-humano
+que trabalha para ele
+
+220
+00:11:35,688 --> 00:11:38,677
+deve saber
+onde se esconde.
+
+221
+00:11:38,678 --> 00:11:41,846
+- Como a Killer Frost?
+- Sim, talvez.
+
+222
+00:11:41,847 --> 00:11:46,129
+Mas o Zoom não a matou ontem
+porque ela obedece-lhe sempre.
+
+223
+00:11:46,130 --> 00:11:48,881
+Duvido
+que ela nos conte onde ele está.
+
+224
+00:11:48,882 --> 00:11:52,012
+Não tenho assim tanta certeza.
+Se ela amava o Deathstorm
+
+225
+00:11:52,013 --> 00:11:53,816
+tanto como
+a Caitlin amava o Ronnie,
+
+226
+00:11:53,817 --> 00:11:56,976
+ela deve estar muito chateada
+pelo Zoom o ter matado.
+
+227
+00:11:57,839 --> 00:12:01,475
+Encontrá-la será tão difícil
+como encontrar o Zoom.
+
+228
+00:12:02,863 --> 00:12:05,440
+Mas se alguém o pode fazer...
+
+229
+00:12:07,392 --> 00:12:08,926
+O meu marido pode.
+
+230
+00:12:09,882 --> 00:12:11,182
+Certo, sim.
+
+231
+00:12:11,183 --> 00:12:13,365
+Eu posso, por acaso.
+
+232
+00:12:19,953 --> 00:12:21,844
+Parece que a Patty Spivot
+foi CSI
+
+233
+00:12:21,845 --> 00:12:23,833
+em todos os casos
+da Killer Frost.
+
+234
+00:12:23,834 --> 00:12:25,449
+Ela é bem minuciosa...
+
+235
+00:12:25,450 --> 00:12:26,848
+O que é isso?
+
+236
+00:12:26,849 --> 00:12:30,305
+São dados da Killer Frost que foram
+recolhidos em cenas de crime.
+
+237
+00:12:30,306 --> 00:12:32,736
+Traços e ADN,
+reconhecimento facial,
+
+238
+00:12:32,737 --> 00:12:34,625
+variações de temperatura.
+
+239
+00:12:35,212 --> 00:12:37,347
+O meu algoritmo compila
+todos os dados
+
+240
+00:12:37,348 --> 00:12:38,976
+e dá uma localização
+aproximada.
+
+241
+00:12:38,977 --> 00:12:41,507
+Funciona com quase todos
+os metas, menos com o Zoom.
+
+242
+00:12:41,508 --> 00:12:43,720
+Ele é muito rápido.
+Nunca deixa rasto.
+
+243
+00:12:46,175 --> 00:12:48,242
+Parece que a melhor aposta
+é em Woodlands.
+
+244
+00:12:49,512 --> 00:12:52,269
+- O melhor CSI de Central City.
+- Sabes onde é isso, certo?
+
+245
+00:12:52,270 --> 00:12:53,659
+- Sei.
+- Vamos lá.
+
+246
+00:12:54,199 --> 00:12:56,587
+Esperem, eu vou com vocês.
+Vão precisar de ajuda.
+
+247
+00:12:56,588 --> 00:12:58,225
+Iris...
+
+248
+00:12:58,226 --> 00:12:59,928
+Barry, o Zoom
+e os seus seguidores
+
+249
+00:12:59,929 --> 00:13:02,412
+são a razão
+da morte do meu pai.
+
+250
+00:13:02,413 --> 00:13:05,176
+Se tenho a possibilidade de
+impedi-lo de matar mais alguém,
+
+251
+00:13:05,177 --> 00:13:06,477
+eu vou tentar.
+
+252
+00:13:07,250 --> 00:13:10,059
+Mas eu também vou.
+
+253
+00:13:10,060 --> 00:13:11,530
+- Não.
+- Não.
+
+254
+00:13:12,799 --> 00:13:15,994
+Barry,
+isto não é o que fazes.
+
+255
+00:13:17,463 --> 00:13:18,763
+Eu sei disso.
+
+256
+00:13:19,604 --> 00:13:21,902
+Mas também sei que o Joseph
+não gostava muito de mim,
+
+257
+00:13:21,903 --> 00:13:23,860
+mas ele era meu sogro.
+
+258
+00:13:24,379 --> 00:13:26,261
+Se vais,
+
+259
+00:13:26,262 --> 00:13:27,838
+eu vou contigo.
+
+260
+00:13:31,464 --> 00:13:32,847
+Está bem.
+
+261
+00:13:32,848 --> 00:13:35,827
+Podes vir,
+mas afasta-te do nosso caminho.
+
+262
+00:13:43,781 --> 00:13:45,411
+Isto não é Código Morse.
+
+263
+00:13:47,738 --> 00:13:49,601
+Sei que ele está a tentar
+dizer alguma coisa.
+
+264
+00:13:49,602 --> 00:13:51,607
+Só temos de descobrir o padrão.
+
+265
+00:13:58,056 --> 00:14:00,618
+Não há padrão, Barry.
+
+266
+00:14:05,135 --> 00:14:06,778
+Sabes, o teu pai,
+
+267
+00:14:06,779 --> 00:14:11,602
+que é uma das pessoas mais
+inteligentes das nossas Terras,
+
+268
+00:14:11,603 --> 00:14:14,624
+disse-me que a única pessoa
+que é mais inteligente que ele
+
+269
+00:14:15,052 --> 00:14:16,592
+és tu.
+
+270
+00:14:18,600 --> 00:14:20,115
+Ele disse isso?
+
+271
+00:14:21,959 --> 00:14:23,866
+Se isso é verdade,
+
+272
+00:14:23,867 --> 00:14:26,081
+se trabalharmos juntos...
+
+273
+00:14:26,082 --> 00:14:28,224
+Sei que podemos descobrir.
+
+274
+00:14:32,141 --> 00:14:33,870
+Vale a tentativa?
+
+275
+00:14:47,201 --> 00:14:50,196
+Bem,
+ele nunca passou de cinco.
+
+276
+00:14:50,197 --> 00:14:51,695
+O quê?
+
+277
+00:14:51,696 --> 00:14:54,093
+Ele nunca deu mais de cinco
+batidas sem pausar.
+
+278
+00:14:54,094 --> 00:14:55,474
+Certo?
+Ouve.
+
+279
+00:15:03,772 --> 00:15:05,238
+Tens razão.
+
+280
+00:15:10,920 --> 00:15:13,705
+Penso que sei o que é isso.
+
+281
+00:15:13,706 --> 00:15:16,906
+É um código 5 por 5 usado
+por prisioneiros de guerra.
+
+282
+00:15:16,907 --> 00:15:18,884
+Isso só nos dá 25 letras,
+
+283
+00:15:18,885 --> 00:15:20,410
+e são 26 letras no alfabeto.
+
+284
+00:15:20,411 --> 00:15:21,831
+Não se juntares o "C" e o "K".
+
+285
+00:15:21,832 --> 00:15:23,422
+O som é o mesmo.
+
+286
+00:15:24,938 --> 00:15:26,766
+Vamos tentar.
+
+287
+00:15:28,845 --> 00:15:30,730
+- Vale tentar.
+- Tudo bem.
+
+288
+00:15:35,076 --> 00:15:36,531
+Aqui está.
+
+289
+00:15:36,532 --> 00:15:37,847
+Parece diferente do outro.
+
+290
+00:15:37,848 --> 00:15:40,468
+É porque percebi que havia
+um erro com a Velocidade 8,
+
+291
+00:15:40,469 --> 00:15:43,261
+então reformulei a matriz
+extra-celular, e...
+
+292
+00:15:43,723 --> 00:15:45,023
+Velocidade 9.
+
+293
+00:15:45,024 --> 00:15:47,939
+Sabes o que dizem,
+à nona vez é a da sorte.
+
+294
+00:15:49,992 --> 00:15:51,447
+Estás bem?
+
+295
+00:15:52,020 --> 00:15:55,062
+Estou. Só estou preocupada
+com a hora.
+
+296
+00:15:55,063 --> 00:15:56,705
+Não te preocupes.
+
+297
+00:15:56,706 --> 00:15:58,835
+Eles vão voltar
+antes de fecharmos a fenda.
+
+298
+00:16:00,016 --> 00:16:03,430
+Por acaso, queria
+falar sobre outra coisa.
+
+299
+00:16:03,431 --> 00:16:05,658
+Tudo bem.
+O que foi?
+
+300
+00:16:05,659 --> 00:16:10,336
+O meu novo editor
+quer que escreva um artigo
+
+301
+00:16:10,337 --> 00:16:14,231
+sobre o Flash não conseguir
+derrotar o Geomancer.
+
+302
+00:16:14,232 --> 00:16:15,857
+A sério?
+
+303
+00:16:15,858 --> 00:16:17,261
+Sim.
+
+304
+00:16:17,262 --> 00:16:21,399
+Em vez disso, queria escrever
+um artigo sobre ti.
+
+305
+00:16:22,117 --> 00:16:25,649
+Algo que tranquilizaria
+as pessoas até o Barry voltar.
+
+306
+00:16:26,215 --> 00:16:27,784
+Sabes, Iris,
+
+307
+00:16:27,785 --> 00:16:29,634
+não sei se é a melhor ideia.
+
+308
+00:16:29,635 --> 00:16:32,105
+Penso que se as pessoas
+soubessem
+
+309
+00:16:32,106 --> 00:16:33,876
+que há alguém
+que pode protegê-las,
+
+310
+00:16:33,877 --> 00:16:36,492
+ajudava de verdade.
+
+311
+00:16:37,665 --> 00:16:39,583
+Vais pensar nisto?
+
+312
+00:16:44,965 --> 00:16:47,305
+Algum alarme está a tocar.
+
+313
+00:16:49,442 --> 00:16:51,228
+<i>Nem penses em fugir.</i>
+
+314
+00:16:51,888 --> 00:16:53,954
+<i>Há um novo Flash na cidade.</i>
+
+315
+00:16:53,955 --> 00:16:56,686
+<i>Um que usa
+um capacete brilhante.</i>
+
+316
+00:16:56,687 --> 00:16:59,193
+<i>Não é o velocista
+que eu queria derrotar,</i>
+
+317
+00:16:59,194 --> 00:17:03,098
+<i>mas vamos ver se ele é veloz,
+Central City.</i>
+
+318
+00:17:10,309 --> 00:17:11,678
+Dá-me a Velocidade 9.
+
+319
+00:17:11,679 --> 00:17:13,244
+Não faço ideia
+quanto tempo vai durar.
+
+320
+00:17:13,245 --> 00:17:15,252
+Não temos tempo para descobrir,
+Caitlin.
+
+321
+00:18:04,044 --> 00:18:05,344
+Jay?
+
+322
+00:18:06,347 --> 00:18:08,550
+Estou bem,
+só foi desgastante.
+
+323
+00:18:10,164 --> 00:18:11,800
+Mas senti-me muito bem.
+
+324
+00:18:13,228 --> 00:18:15,766
+Aquilo foi incrível, Jay.
+
+325
+00:18:15,767 --> 00:18:18,680
+Obrigado, para ser honesto,
+fiquei um pouco admirado.
+
+326
+00:18:19,531 --> 00:18:21,119
+A Caitlin merece
+todo o crédito.
+
+327
+00:18:21,120 --> 00:18:23,180
+Parece que a Velocidade 9
+é a vencedora.
+
+328
+00:18:23,181 --> 00:18:25,300
+Ainda tenho de fazer
+alguns testes.
+
+329
+00:18:26,379 --> 00:18:28,294
+Iris, sobre a entrevista...
+
+330
+00:18:28,295 --> 00:18:31,622
+Penso que tenho
+tudo o que preciso.
+
+331
+00:18:31,623 --> 00:18:32,923
+Óptimo.
+
+332
+00:18:33,614 --> 00:18:35,520
+Porque realmente preciso
+dormir.
+
+333
+00:18:36,400 --> 00:18:38,604
+Estarei lá em baixo.
+
+334
+00:18:46,870 --> 00:18:49,030
+Dois na vertical,
+Cinco na horizontal.
+
+335
+00:18:49,031 --> 00:18:51,480
+- É J.
+- J?
+
+336
+00:18:51,481 --> 00:18:54,180
+É isso que estás a bater?
+A letra J?
+
+337
+00:18:54,640 --> 00:18:56,500
+Tudo bem, qual é a próxima?
+
+338
+00:18:59,133 --> 00:19:00,433
+A.
+
+339
+00:19:01,069 --> 00:19:02,369
+Certo.
+
+340
+00:19:04,572 --> 00:19:06,120
+Cinco na vertical.
+
+341
+00:19:07,702 --> 00:19:10,520
+Quatro na horizontal.
+Y.
+
+342
+00:19:10,521 --> 00:19:12,511
+J-A-Y?
+
+343
+00:19:12,512 --> 00:19:14,400
+Estás a soletrar Jay.
+
+344
+00:19:14,994 --> 00:19:16,720
+Como em Jay Garrick?
+
+345
+00:19:17,645 --> 00:19:19,480
+Ele está vivo.
+
+346
+00:19:19,882 --> 00:19:22,500
+Mas está na minha Terra.
+
+347
+00:19:25,187 --> 00:19:27,349
+Pára, pára.
+
+348
+00:19:27,350 --> 00:19:29,740
+Desculpa, não sei
+o que queres dizer.
+
+349
+00:19:29,741 --> 00:19:32,400
+O Jay Garrick
+não veio connosco.
+
+350
+00:19:33,026 --> 00:19:35,120
+Continua a bater, por favor.
+
+351
+00:19:35,121 --> 00:19:36,800
+Nós não entendemos.
+
+352
+00:19:37,748 --> 00:19:39,148
+Por favor.
+
+353
+00:19:42,007 --> 00:19:45,150
+Não fales com eles outra vez.
+
+354
+00:20:05,341 --> 00:20:07,469
+Eu vou sair daqui.
+
+355
+00:20:07,470 --> 00:20:09,420
+E vou destruir-te.
+
+356
+00:20:11,471 --> 00:20:15,345
+O que só preciso de ti
+é a tua velocidade, Flash.
+
+357
+00:20:15,346 --> 00:20:19,650
+E não é preciso estares inteiro
+para consegui-la.
+
+358
+00:20:23,989 --> 00:20:25,420
+Pára!
+
+359
+00:20:32,883 --> 00:20:34,420
+Pára!
+
+360
+00:20:43,316 --> 00:20:44,616
+Barry.
+
+361
+00:20:45,222 --> 00:20:46,900
+Barry, estás bem?
+
+362
+00:20:48,047 --> 00:20:49,347
+Estou.
+
+363
+00:20:50,741 --> 00:20:52,400
+Estou bem.
+
+364
+00:20:59,160 --> 00:21:02,100
+O Zoom mostrou-me
+como sair desta coisa.
+
+365
+00:21:10,856 --> 00:21:12,760
+Tens a certeza
+de que é este o lugar?
+
+366
+00:21:16,751 --> 00:21:18,800
+De certeza que é o lugar.
+
+367
+00:21:19,357 --> 00:21:20,800
+Estão perdidos?
+
+368
+00:21:21,362 --> 00:21:23,295
+Ou voltaram
+para mais diversão?
+
+369
+00:21:23,296 --> 00:21:24,890
+Só viemos conversar.
+
+370
+00:21:24,891 --> 00:21:26,575
+A sério?
+
+371
+00:21:26,576 --> 00:21:28,983
+Levam os vossos brinquedos
+
+372
+00:21:28,984 --> 00:21:31,400
+em todas as conversas
+que têm?
+
+373
+00:21:31,401 --> 00:21:34,400
+Ou só querem
+ver-me a queimar de novo?
+
+374
+00:21:34,401 --> 00:21:36,603
+Considerando
+que mataste o meu pai,
+
+375
+00:21:36,604 --> 00:21:38,220
+a ideia passou
+pela minha cabeça.
+
+376
+00:21:38,221 --> 00:21:39,521
+Conta-nos.
+
+377
+00:21:39,989 --> 00:21:42,300
+Onde é que o Zoom mantém
+os prisioneiros dele?
+
+378
+00:21:42,301 --> 00:21:45,237
+Não sabes mesmo usar
+os teus poderes, viajante?
+
+379
+00:21:45,238 --> 00:21:47,800
+Estou a trabalhar nisso,
+"Elsa".
+
+380
+00:21:52,298 --> 00:21:54,400
+O Zoom matou
+o amor da tua vida.
+
+381
+00:21:55,270 --> 00:21:56,570
+Isso magoa,
+
+382
+00:21:56,973 --> 00:21:59,450
+mesmo para alguém
+com o coração gelado como o teu.
+
+383
+00:21:59,451 --> 00:22:02,384
+E pensas
+que isso obriga-me a trair o Zoom?
+
+384
+00:22:02,385 --> 00:22:04,700
+Inimigo do meu inimigo
+é meu amigo, certo?
+
+385
+00:22:06,548 --> 00:22:08,750
+Não me digam
+que isto não funciona aqui.
+
+386
+00:22:08,751 --> 00:22:11,720
+Se contar,
+ele mata-me.
+
+387
+00:22:12,656 --> 00:22:17,395
+Mas se eu os matar
+e for entregá-los a ele,
+
+388
+00:22:17,396 --> 00:22:21,280
+aposto que vai ficar
+muito satisfeito comigo.
+
+389
+00:22:22,414 --> 00:22:25,087
+Talvez dê-me a minha liberdade.
+
+390
+00:22:25,088 --> 00:22:27,449
+Então tentem adivinhar.
+
+391
+00:22:27,450 --> 00:22:29,229
+O que será que vou escolher?
+
+392
+00:22:29,230 --> 00:22:30,530
+Fujam!
+
+393
+00:22:33,377 --> 00:22:35,320
+Isto não estava planeado!
+
+394
+00:22:35,321 --> 00:22:38,100
+Ela é uma assassina,
+e isso chocou-te?
+
+395
+00:22:40,974 --> 00:22:43,237
+- Temos de sair daqui!
+- Temos, temos.
+
+396
+00:22:43,238 --> 00:22:46,029
+- Vou cobri-los.
+- Não, é uma ideia terrível.
+
+397
+00:22:46,030 --> 00:22:47,874
+Não!
+Não!
+
+398
+00:22:47,875 --> 00:22:49,175
+Pessoal...
+
+399
+00:23:06,887 --> 00:23:08,287
+Pára.
+
+400
+00:23:08,821 --> 00:23:11,150
+Ou não vais fazer
+nem uma geada.
+
+401
+00:23:26,712 --> 00:23:28,312
+Não posso acreditar.
+
+402
+00:23:29,137 --> 00:23:30,437
+O que foi?
+
+403
+00:23:31,564 --> 00:23:34,400
+Penso que descobri
+como salvar a vida do Jay.
+
+404
+00:23:35,446 --> 00:23:37,996
+Jay, acorda.
+
+405
+00:23:37,997 --> 00:23:40,673
+Vem ao Cortex,
+é importante.
+
+406
+00:23:40,674 --> 00:23:43,350
+De certeza que é.
+
+407
+00:23:46,326 --> 00:23:47,626
+O que queres?
+
+408
+00:23:47,627 --> 00:23:50,280
+Gosto de ver heróis a cair
+
+409
+00:23:51,321 --> 00:23:53,130
+e nunca mais levantarem.
+
+410
+00:23:53,131 --> 00:23:54,833
+Ele levanta-se sempre.
+
+411
+00:23:54,834 --> 00:23:58,100
+É difícil fazer isso
+quando a Terra o engolir.
+
+412
+00:24:12,546 --> 00:24:14,013
+Onde está?
+
+413
+00:24:14,014 --> 00:24:16,217
+Não vão.
+
+414
+00:24:16,218 --> 00:24:18,607
+Estamos a divertir tanto.
+
+415
+00:24:22,823 --> 00:24:24,196
+Meu Deus!
+Caitlin!
+
+416
+00:24:26,062 --> 00:24:27,863
+Caitlin, estás bem?
+
+417
+00:24:32,334 --> 00:24:35,822
+Parece que esse novo Flash
+não é herói, afinal de contas.
+
+418
+00:24:39,240 --> 00:24:42,614
+Vamos ver o que um sete
+vai fazer com a STAR Labs.
+
+419
+00:24:53,573 --> 00:24:54,873
+Belo tiro.
+
+420
+00:24:54,874 --> 00:24:56,574
+Estava a apontar
+à perna dele.
+
+421
+00:24:59,732 --> 00:25:01,578
+Onde é o covil do Zoom?
+
+422
+00:25:04,236 --> 00:25:05,798
+Onde é?
+
+423
+00:25:06,341 --> 00:25:08,061
+Se eu disser,
+
+424
+00:25:08,062 --> 00:25:09,492
+ele mata-me.
+
+425
+00:25:09,493 --> 00:25:11,507
+Ele vai matar-te
+de qualquer maneira, Caitlin.
+
+426
+00:25:11,508 --> 00:25:15,394
+Pára de me chamares isso.
+Não é o meu nome.
+
+427
+00:25:15,395 --> 00:25:20,018
+Sim, é. Só não queres ouvir porque
+lembra-te a pessoa que eras.
+
+428
+00:25:20,955 --> 00:25:23,265
+Confia em mim,
+conheço muito bem essa pessoa.
+
+429
+00:25:23,753 --> 00:25:25,758
+Não conheces nada de mim.
+
+430
+00:25:25,759 --> 00:25:27,867
+Conheço a Caitlin Snow
+da minha Terra.
+
+431
+00:25:28,726 --> 00:25:32,270
+Sei que quando ela ama alguém,
+essa pessoa torna-se o mundo dela.
+
+432
+00:25:32,271 --> 00:25:34,285
+Essa pessoa
+era o Ronnie Raymond.
+
+433
+00:25:34,286 --> 00:25:37,116
+E morreu também.
+Ela ficou devastada,
+
+434
+00:25:37,117 --> 00:25:39,063
+posso ver o mesmo
+a acontecer contigo.
+
+435
+00:25:42,379 --> 00:25:43,906
+O Zoom tirou-to.
+
+436
+00:25:45,247 --> 00:25:47,826
+A filha dele,
+o meu amigo...
+
+437
+00:25:48,649 --> 00:25:53,091
+Ele vai tirá-los de nós,
+tal como tirou o Ronnie de ti.
+
+438
+00:25:55,255 --> 00:25:56,861
+Caitlin...
+
+439
+00:25:58,835 --> 00:26:01,756
+Tudo o que tens de fazer
+é disser onde é o covil.
+
+440
+00:26:01,757 --> 00:26:05,196
+E nunca mais nos vês
+e podes ir.
+
+441
+00:26:10,150 --> 00:26:11,732
+Por favor.
+
+442
+00:26:14,652 --> 00:26:16,241
+Está bem.
+
+443
+00:26:16,242 --> 00:26:18,097
+Vou mostrar onde é.
+
+444
+00:26:19,084 --> 00:26:20,980
+Mas é só isso.
+
+445
+00:26:21,577 --> 00:26:23,447
+Onde é que vamos?
+
+446
+00:26:24,245 --> 00:26:26,179
+Penhascos da Ascensão.
+
+447
+00:26:35,020 --> 00:26:37,428
+Queres continuar a fazer isso?
+
+448
+00:26:37,429 --> 00:26:39,851
+Se o Zoom apanhar-te,
+ele vai magoar-te de novo.
+
+449
+00:26:39,852 --> 00:26:42,703
+Não entendo porque
+não consigo passar isto.
+
+450
+00:26:42,704 --> 00:26:46,205
+O teu corpo precisava ter a mesma
+ressonância que o vidro.
+
+451
+00:26:47,451 --> 00:26:50,479
+Devia estar rápido que chegasse.
+É outra coisa.
+
+452
+00:26:51,741 --> 00:26:54,454
+Talvez esteja a ressoar
+numa frequência diferente.
+
+453
+00:26:57,241 --> 00:26:59,875
+A tua Terra vibra numa frequência
+diferente da minha.
+
+454
+00:27:00,462 --> 00:27:02,738
+Por isso é que o Cisco
+não consegue "vibrar".
+
+455
+00:27:04,248 --> 00:27:06,420
+Há alguma maneira
+de cobrir a diferença?
+
+456
+00:27:07,741 --> 00:27:09,599
+Só se puder ir mais rápido.
+
+457
+00:27:25,965 --> 00:27:27,799
+Vamos até ali?
+
+458
+00:27:27,800 --> 00:27:29,609
+É onde está o covil do Zoom.
+
+459
+00:27:29,610 --> 00:27:31,930
+Um lugar onde apenas
+um velocista pode chegar.
+
+460
+00:27:31,931 --> 00:27:33,872
+Está mais para
+Penhascos da Insanidade.
+
+461
+00:27:35,179 --> 00:27:36,900
+Como é que chegamos lá?
+
+462
+00:27:38,311 --> 00:27:41,346
+Posso fazer qualquer coisa
+para escalarem, querido.
+
+463
+00:27:42,101 --> 00:27:43,500
+Está a falar a sério?
+
+464
+00:27:43,501 --> 00:27:44,907
+Quer que nós
+
+465
+00:27:44,908 --> 00:27:48,909
+subimos ao topo do penhasco
+com gelo?
+
+466
+00:27:50,601 --> 00:27:52,587
+Tens uma ideia melhor?
+
+467
+00:27:53,549 --> 00:27:55,484
+Não, senhora.
+Eu só...
+
+468
+00:27:55,485 --> 00:27:57,900
+Estou a usar sapatos.
+
+469
+00:27:57,901 --> 00:28:00,076
+Não tem muita tracção.
+
+470
+00:28:00,077 --> 00:28:01,721
+Barry.
+
+471
+00:28:01,722 --> 00:28:03,676
+Talvez devas ficar para trás.
+
+472
+00:28:04,572 --> 00:28:05,931
+Não.
+
+473
+00:28:05,932 --> 00:28:07,637
+Não te vou deixar
+ir lá sozinha.
+
+474
+00:28:07,638 --> 00:28:10,320
+Está tudo bem
+se não quiseres ir...
+
+475
+00:28:10,321 --> 00:28:11,698
+Se não quiseres fazer isso.
+
+476
+00:28:12,218 --> 00:28:13,594
+És a minha esposa.
+
+477
+00:28:14,362 --> 00:28:16,229
+Não vou sair do teu lado.
+
+478
+00:28:17,553 --> 00:28:18,957
+Podemos ir?
+
+479
+00:28:18,958 --> 00:28:20,461
+- Sim.
+- Estou pronto.
+
+480
+00:28:21,239 --> 00:28:23,714
+Vamos lá antes
+que mude de ideias.
+
+481
+00:28:32,288 --> 00:28:34,630
+Pensa mesmo que as algemas
+vão segurar-me?
+
+482
+00:28:34,631 --> 00:28:36,030
+Sei que vão,
+
+483
+00:28:36,031 --> 00:28:37,951
+tal como esse "colar"
+no teu pescoço.
+
+484
+00:28:37,952 --> 00:28:39,613
+Tira o teu poder.
+
+485
+00:28:39,614 --> 00:28:41,215
+O mesmo vale para a cela
+
+486
+00:28:41,216 --> 00:28:43,665
+que vais estar a chamar de casa
+em Iron Heights.
+
+487
+00:28:43,666 --> 00:28:45,038
+Vamos.
+
+488
+00:28:46,625 --> 00:28:48,286
+Caitlin.
+
+489
+00:28:48,287 --> 00:28:49,933
+Desculpa por não vir antes.
+
+490
+00:28:49,934 --> 00:28:51,336
+Está tudo bem,
+
+491
+00:28:52,084 --> 00:28:53,506
+posso mostrar-te uma coisa?
+
+492
+00:28:58,481 --> 00:29:00,194
+As minhas células
+
+493
+00:29:00,195 --> 00:29:01,601
+pararam de degenerar?
+
+494
+00:29:01,602 --> 00:29:03,437
+Como é isto possível?
+
+495
+00:29:03,438 --> 00:29:06,288
+Parece que quando a Velocidade 9
+entrou no teu sistema,
+
+496
+00:29:06,289 --> 00:29:09,525
+activou a tua capacidade
+regenerativa,
+
+497
+00:29:09,526 --> 00:29:11,947
+e a tuas células
+repararam-se.
+
+498
+00:29:12,635 --> 00:29:15,175
+Pensas que podes fazer isto
+funcionar permanentemente?
+
+499
+00:29:15,176 --> 00:29:17,982
+Não sei, mas penso
+que estamos no caminho certo.
+
+500
+00:29:18,898 --> 00:29:21,802
+Caitlin, não sei o que dizer.
+
+501
+00:29:21,803 --> 00:29:24,927
+Isto é... tu és...
+
+502
+00:29:28,424 --> 00:29:30,905
+- O que é isto?
+- O canhão de velocidade.
+
+503
+00:29:30,906 --> 00:29:32,722
+Os abalos
+devem-no ter danificado.
+
+504
+00:29:32,723 --> 00:29:35,148
+Anda lá.
+Anda lá!
+
+505
+00:29:47,037 --> 00:29:48,549
+A fenda
+não está estabilizada.
+
+506
+00:29:48,550 --> 00:29:50,401
+Temos de consertar
+rapidamente.
+
+507
+00:29:50,402 --> 00:29:52,672
+Senão,
+não vão poder voltar.
+
+508
+00:30:04,362 --> 00:30:08,382
+- Então foi isto que ouvimos.
+- Diz que não é tão mau como parece.
+
+509
+00:30:09,498 --> 00:30:10,798
+Anda lá, a sério?
+
+510
+00:30:12,650 --> 00:30:14,214
+Eles ainda têm uma hora.
+
+511
+00:30:14,784 --> 00:30:17,438
+E se tentarem atravessar
+e não conseguirem?
+
+512
+00:30:17,439 --> 00:30:19,480
+Os abalos desestabilizaram
+a matéria quark.
+
+513
+00:30:19,481 --> 00:30:21,732
+Os isolantes electromagnéticos
+estão a falhar.
+
+514
+00:30:21,733 --> 00:30:24,727
+- Como consertamos isto a tempo?
+- Não sei se conseguimos.
+
+515
+00:30:38,776 --> 00:30:40,076
+Barry?
+
+516
+00:30:43,314 --> 00:30:44,614
+Barry?
+
+517
+00:30:50,387 --> 00:30:53,294
+- Cisco?
+- Meu, nós conseguimos.
+
+518
+00:30:53,295 --> 00:30:57,032
+- Como encontraste este lugar?
+- Tive ajuda.
+
+519
+00:30:59,232 --> 00:31:01,079
+Nem te conto
+sobre este gajo.
+
+520
+00:31:02,217 --> 00:31:03,517
+Saíam da frente.
+
+521
+00:31:05,870 --> 00:31:07,170
+Dr. Wells.
+
+522
+00:31:11,277 --> 00:31:12,577
+Afasta-te.
+
+523
+00:31:27,531 --> 00:31:30,267
+Estou aqui.
+
+524
+00:31:32,082 --> 00:31:33,724
+Anda lá, vamos tirar-te daqui.
+
+525
+00:31:40,138 --> 00:31:42,887
+- Frost?
+- Uma ajudinha?
+
+526
+00:31:42,888 --> 00:31:45,205
+- Não faz parte do acordo.
+- Frost.
+
+527
+00:31:45,815 --> 00:31:48,426
+Trazer-nos aqui também não,
+mas aqui estás tu.
+
+528
+00:31:48,427 --> 00:31:50,566
+Penso que não és tão fria
+como pensei.
+
+529
+00:31:51,583 --> 00:31:53,843
+Talvez sim, talvez não.
+
+530
+00:32:11,818 --> 00:32:13,522
+Porque não está a funcionar?
+
+531
+00:32:13,523 --> 00:32:17,285
+Não sei.
+Nunca tive este problema antes.
+
+532
+00:32:20,011 --> 00:32:21,743
+Dr. Wells?
+
+533
+00:32:23,223 --> 00:32:24,564
+Carbyne.
+
+534
+00:32:24,565 --> 00:32:28,186
+É uma espécie de carbyne.
+A cela é feita disso.
+
+535
+00:32:28,187 --> 00:32:31,854
+- Não vais conseguir congelar.
+- Não consegues atravessar?
+
+536
+00:32:34,623 --> 00:32:37,973
+Apenas vão, está bem?
+Antes que o Zoom volte.
+
+537
+00:32:37,974 --> 00:32:41,882
+- Não vamos abandonar-te aqui.
+- Não consigo sair desta cela.
+
+538
+00:32:41,883 --> 00:32:44,437
+Eu tentei, muito.
+
+539
+00:32:44,869 --> 00:32:47,454
+Não sou suficientemente rápido
+para atravessar isto.
+
+540
+00:32:48,110 --> 00:32:49,586
+Vão, está bem?
+
+541
+00:32:56,065 --> 00:32:57,368
+Vão-se embora.
+
+542
+00:33:01,603 --> 00:33:06,603
+Sabes o que fizemos
+para chegar aqui, Barry?
+
+543
+00:33:07,843 --> 00:33:12,313
+Convencemos, ela,
+a Killer Frost,
+
+544
+00:33:12,314 --> 00:33:13,614
+a indicar-nos o caminho.
+
+545
+00:33:13,615 --> 00:33:17,503
+Escalámos penhascos íngremes
+
+546
+00:33:17,504 --> 00:33:19,903
+usando gelo como apoio, gelo!
+
+547
+00:33:19,904 --> 00:33:22,899
+Arriscámos a vida sabendo
+que o Zoom anda a caçar-nos
+
+548
+00:33:22,900 --> 00:33:25,918
+para salvar-te e à Jesse.
+
+549
+00:33:28,262 --> 00:33:31,104
+Eu não te conheço
+e tu não me conheces,
+
+550
+00:33:31,557 --> 00:33:34,987
+mas posso dizer que hoje
+
+551
+00:33:35,596 --> 00:33:38,229
+fiz coisas
+que pensava serem impossíveis,
+
+552
+00:33:38,230 --> 00:33:40,497
+porque precisava provar
+à minha esposa
+
+553
+00:33:41,272 --> 00:33:43,075
+e a mim
+que eu podia.
+
+554
+00:33:44,829 --> 00:33:48,380
+Se consegui fazer o impossível
+hoje, tu também podes.
+
+555
+00:33:51,843 --> 00:33:55,814
+Eu sou só o Barry Allen,
+mas tu és o Flash.
+
+556
+00:34:03,448 --> 00:34:07,164
+Se disseres a ti próprio
+que consegues atravessar,
+
+557
+00:34:07,165 --> 00:34:08,465
+tu consegues.
+
+558
+00:34:52,161 --> 00:34:55,113
+- Vamos embora. Vamos.
+- Esperem.
+
+559
+00:34:55,114 --> 00:34:57,770
+- Não o vamos abandonar.
+- Barry, não há tempo.
+
+560
+00:34:57,771 --> 00:35:00,421
+Ele não vai a lado nenhum,
+
+561
+00:35:00,422 --> 00:35:03,726
+e nem nenhum de vocês.
+
+562
+00:35:04,367 --> 00:35:08,406
+Obrigado
+por os trazeres até mim.
+
+563
+00:35:08,407 --> 00:35:09,956
+Traíste-nos?
+
+564
+00:35:10,569 --> 00:35:12,281
+Ele matou o Ronnie!
+
+565
+00:35:12,282 --> 00:35:14,839
+Penso que o meu coração
+é tão frio afinal de contas.
+
+566
+00:35:15,832 --> 00:35:17,223
+Não acredito em ti.
+
+567
+00:35:17,821 --> 00:35:21,263
+Só para que saibas, estás
+desapontada contigo própria.
+
+568
+00:35:22,628 --> 00:35:25,337
+Zoom, deixa-os ir.
+
+569
+00:35:26,664 --> 00:35:30,193
+- Só precisas de mim e do Barry.
+- Está bem.
+
+570
+00:35:30,634 --> 00:35:33,741
+Ainda não os posso
+matar,
+
+571
+00:35:34,542 --> 00:35:37,002
+mas posso matá-los a eles.
+
+572
+00:35:40,178 --> 00:35:41,478
+Não, não!
+
+573
+00:35:41,930 --> 00:35:46,702
+Eu disse que matava-te
+à frente do teu pai.
+
+574
+00:35:46,703 --> 00:35:48,003
+Não!
+
+575
+00:35:54,892 --> 00:35:56,210
+Saiam daqui.
+
+576
+00:36:00,290 --> 00:36:02,794
+- Caitlin.
+- Tinhas razão.
+
+577
+00:36:02,795 --> 00:36:04,706
+Ele matou o Ronnie.
+
+578
+00:36:05,328 --> 00:36:06,835
+Obrigado.
+
+579
+00:36:09,650 --> 00:36:11,512
+Não vou embora sem ele.
+
+580
+00:36:11,513 --> 00:36:14,691
+Barry, não há tempo.
+Não há tempo!
+
+581
+00:36:14,692 --> 00:36:16,573
+Não consigo segurá-lo
+para sempre.
+
+582
+00:36:16,574 --> 00:36:19,767
+Eu volto quando
+tudo isto terminar, está bem?
+
+583
+00:36:19,768 --> 00:36:22,068
+- Vão!
+- Eu vou voltar!
+
+584
+00:36:29,842 --> 00:36:31,516
+Jay, temos de fazer alguma coisa.
+
+585
+00:36:31,517 --> 00:36:34,273
+A nossa opção é reiniciar
+os isoladores electromagnéticos
+
+586
+00:36:34,274 --> 00:36:36,714
+e rezar para a matéria quark
+redistribuir-se por igual.
+
+587
+00:36:36,715 --> 00:36:38,695
+- Como vais fazer isso?
+- Temos de fazer manualmente.
+
+588
+00:36:38,696 --> 00:36:40,277
+Não podes estar perto
+dos anéis
+
+589
+00:36:40,278 --> 00:36:42,386
+quando forem ligados,
+ou serás sugado para a fenda.
+
+590
+00:36:42,387 --> 00:36:44,620
+Não se criar um vórtex
+para compensar a tracção.
+
+591
+00:36:44,621 --> 00:36:46,343
+Não consegues fazer as duas coisas
+ao mesmo tempo.
+
+592
+00:36:46,344 --> 00:36:47,785
+Cait...
+
+593
+00:36:48,457 --> 00:36:50,365
+Eu tenho de tentar.
+
+594
+00:36:52,396 --> 00:36:53,728
+Eu ajudo-te.
+
+595
+00:36:54,402 --> 00:36:55,942
+O quê?
+Pai, não.
+
+596
+00:36:55,943 --> 00:36:58,813
+- Para trazer o Barry, eu ajudo.
+- Tens a certeza?
+
+597
+00:36:58,814 --> 00:37:01,525
+Quanto mais falarmos,
+menos terei, então vamos lá.
+
+598
+00:37:02,731 --> 00:37:05,387
+Há um painel
+em cada anel estabilizador.
+
+599
+00:37:05,859 --> 00:37:07,550
+Vou criar o vórtex.
+
+600
+00:37:07,551 --> 00:37:09,725
+- Vira todos. Devem reiniciar.
+- Entendi.
+
+601
+00:37:09,726 --> 00:37:11,459
+Depois disso,
+activas o canhão.
+
+602
+00:37:11,460 --> 00:37:14,151
+- A fenda deve estabilizar.
+- E se não estabilizar?
+
+603
+00:37:14,152 --> 00:37:15,822
+Estamos sem sorte.
+
+604
+00:37:30,767 --> 00:37:32,924
+A Velocidade 9
+está a acabar!
+
+605
+00:37:59,584 --> 00:38:00,884
+Jay!
+
+606
+00:38:01,818 --> 00:38:05,300
+Agora sabemos quanto tempo
+a Velocidade 9 dura.
+
+607
+00:38:05,301 --> 00:38:07,256
+- Estás bem?
+- Estou.
+
+608
+00:38:09,017 --> 00:38:10,810
+Espero que eles também.
+
+609
+00:38:16,637 --> 00:38:18,377
+Estou bem.
+Só estou sujo.
+
+610
+00:38:18,378 --> 00:38:20,353
+Vão ter de sair de Central City,
+está bem?
+
+611
+00:38:20,354 --> 00:38:22,431
+Qualquer lugar
+seguros do Zoom.
+
+612
+00:38:22,432 --> 00:38:25,565
+Temos uns familiares em Atlanta
+que podem ajudar.
+
+613
+00:38:26,155 --> 00:38:28,967
+Podes não ter sido atingido
+por um raio como eu fui,
+
+614
+00:38:28,968 --> 00:38:30,609
+mas, hoje,
+arriscaste a tua vida
+
+615
+00:38:30,610 --> 00:38:32,485
+para salvares alguém
+que nem conhecias.
+
+616
+00:38:32,486 --> 00:38:34,323
+Isso é ser herói, Barry.
+
+617
+00:38:35,230 --> 00:38:36,740
+Obrigado aos dois.
+
+618
+00:38:37,514 --> 00:38:39,002
+Barry,
+
+619
+00:38:39,003 --> 00:38:42,002
+o meu pai está vivo
+na tua Terra?
+
+620
+00:38:42,940 --> 00:38:44,619
+Sim, está.
+
+621
+00:38:46,218 --> 00:38:47,997
+Dá-lhe um abraço por mim,
+está bem?
+
+622
+00:38:48,711 --> 00:38:50,187
+Vou dar.
+
+623
+00:38:58,431 --> 00:39:00,978
+Têm de encontrar um lugar seguro.
+Para onde vão?
+
+624
+00:39:01,462 --> 00:39:03,304
+Ao único lugar que podemos.
+
+625
+00:39:06,963 --> 00:39:09,741
+- Pai, não podemos ir embora.
+- Temos de ir, querida.
+
+626
+00:39:09,742 --> 00:39:11,764
+Queres que deixe tudo
+o que tenho aqui?
+
+627
+00:39:11,765 --> 00:39:13,697
+Os meus amigos, a minha família...
+
+628
+00:39:13,698 --> 00:39:16,396
+- Quero dizer, a minha vida.
+- Já não tens uma vida.
+
+629
+00:39:16,397 --> 00:39:18,941
+Nem eu.
+O Zoom é muito poderoso.
+
+630
+00:39:18,942 --> 00:39:22,325
+Não consigo pará-lo.
+E enquanto ele estiver aqui,
+
+631
+00:39:22,326 --> 00:39:24,868
+vai caçar-nos
+até estarmos mortos.
+
+632
+00:39:27,498 --> 00:39:29,726
+Wells, se vens connosco,
+temos de ir.
+
+633
+00:39:36,599 --> 00:39:38,571
+Está quase na hora.
+
+634
+00:39:38,572 --> 00:39:40,029
+Não quero saber da hora.
+
+635
+00:39:40,030 --> 00:39:42,661
+Depois de tudo o que fizemos
+para estabilizar a fenda,
+
+636
+00:39:42,662 --> 00:39:44,569
+não vamos fechá-la
+até que eles apareçam.
+
+637
+00:39:45,166 --> 00:39:46,466
+Ouviram-me?
+
+638
+00:39:50,597 --> 00:39:51,897
+Cisco!
+
+639
+00:39:51,898 --> 00:39:54,575
+Preparem-se para fechar a fenda,
+o Zoom vem aí!
+
+640
+00:39:57,937 --> 00:40:01,847
+Esqueceste de alguém, Flash?
+
+641
+00:40:01,848 --> 00:40:05,115
+- Larga-o.
+- Fecha a fenda.
+
+642
+00:40:06,166 --> 00:40:09,856
+- Diz à Jesse que eu amo-a.
+- Diz tu mesmo.
+
+643
+00:40:16,675 --> 00:40:18,468
+Não deviam
+estar a demorar tanto.
+
+644
+00:40:23,690 --> 00:40:25,385
+Fecha!
+Fecha agora!
+
+645
+00:40:29,453 --> 00:40:31,165
+Conseguiste!
+
+646
+00:40:33,497 --> 00:40:34,797
+Barry.
+
+647
+00:40:45,378 --> 00:40:47,024
+Não!
+
+648
+00:40:51,022 --> 00:40:53,563
+<b><i>imfreemozart</i></b>
+insubs
