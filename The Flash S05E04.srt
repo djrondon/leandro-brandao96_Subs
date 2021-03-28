@@ -1,0 +1,2875 @@
+1
+00:00:00,373 --> 00:00:04,126
+<i>Meu nome é Barry Allen,
+sou o homem mais rápido vivo.</i>
+
+2
+00:00:04,127 --> 00:00:07,362
+<i>Para o mundo exterior,
+sou um cientista forense,</i>
+
+3
+00:00:07,363 --> 00:00:10,263
+<i>mas, secretamente, com a ajuda
+de meus amigos do STAR Labs,</i>
+
+4
+00:00:10,264 --> 00:00:12,929
+<i>combato o crime
+e encontro meta-humanos como eu.</i>
+
+5
+00:00:12,930 --> 00:00:15,395
+<i>Mas quando minha filha
+veio do futuro para ajudar,</i>
+
+6
+00:00:15,396 --> 00:00:16,810
+<i>ela mudou o presente.</i>
+
+7
+00:00:17,632 --> 00:00:20,283
+<i>Agora, nosso mundo
+está mais perigoso que nunca.</i>
+
+8
+00:00:20,284 --> 00:00:22,865
+<i>Sou o único rápido o suficiente
+para salvá-lo.</i>
+
+9
+00:00:22,866 --> 00:00:25,353
+<i>Eu sou o Flash.</i>
+
+10
+00:00:26,069 --> 00:00:27,905
+<i>Anteriormente...</i>
+
+11
+00:00:27,906 --> 00:00:29,630
+- Quem é Cicada?
+<i>- Nunca o pegará.</i>
+
+12
+00:00:29,631 --> 00:00:31,031
+<i>Esse é Sherloque.</i>
+
+13
+00:00:31,032 --> 00:00:33,989
+<i>Ele é o melhor detetive
+do Multiverso.</i>
+
+14
+00:00:33,990 --> 00:00:36,688
+- Também sou detetive.
+- Vim para pegar o assassino.
+
+15
+00:00:36,689 --> 00:00:38,930
+<i>Temos um Jack, o Estripador
+meta-humano.</i>
+
+16
+00:00:38,931 --> 00:00:41,479
+<i>Na minha história,
+ele não matou Impulso nem Bloco.</i>
+
+17
+00:00:41,480 --> 00:00:43,164
+<i>São vítimas diferentes.</i>
+
+18
+00:00:43,165 --> 00:00:45,615
+- Está adiantado.
+- Porque a linha do tempo mudou.
+
+19
+00:00:45,616 --> 00:00:47,016
+Por minha causa.
+
+20
+00:00:48,250 --> 00:00:51,355
+A NOITE DO ILUMINISMO
+
+21
+00:01:01,436 --> 00:01:05,882
+Pessoal, isso é insano!
+Têm bolas de fogo no céu!
+
+22
+00:01:06,872 --> 00:01:08,811
+Puta...
+
+23
+00:01:09,697 --> 00:01:11,195
+Vou procurar
+uma vista melhor.
+
+24
+00:01:16,801 --> 00:01:19,769
+Lá está ele.
+Isso vai ser demais!
+
+25
+00:01:19,770 --> 00:01:21,782
+Espere, há dois dele?
+
+26
+00:01:22,450 --> 00:01:24,384
+Meu Deus, gente.
+O que foi aquilo?
+
+27
+00:01:24,385 --> 00:01:26,415
+Isso é loucura!
+O que está acontecendo?
+
+28
+00:01:26,416 --> 00:01:28,699
+O mundo está, tipo,
+acabando?
+
+29
+00:01:30,280 --> 00:01:31,716
+Meu celular.
+
+30
+00:01:33,445 --> 00:01:34,884
+Você salvou minha vida.
+
+31
+00:01:34,885 --> 00:01:38,393
+Você é a segunda velocista
+a salvar o mundo.
+
+32
+00:01:38,394 --> 00:01:40,075
+Posso tirar uma...
+
+33
+00:01:42,757 --> 00:01:44,157
+<i>Selfie</i>.
+
+34
+00:01:47,883 --> 00:01:49,283
+Mas quê...
+
+35
+00:01:49,802 --> 00:01:51,910
+5ª Temporada | Episódio 04
+-= News Flash =-
+
+36
+00:01:51,911 --> 00:01:53,935
+Legenda: Darrow, KahX,
+bebelzinha, Calmon
+
+37
+00:01:53,936 --> 00:01:55,588
+Revisão: Bassi
+
+38
+00:02:30,978 --> 00:02:32,378
+Desculpe.
+
+39
+00:02:34,188 --> 00:02:36,138
+- O que está fazendo?
+- Nada, vá dormir.
+
+40
+00:02:36,139 --> 00:02:37,981
+Só estou
+preparando o café da manhã.
+
+41
+00:02:37,982 --> 00:02:41,010
+Como se eu conseguisse dormir
+com esse cheiro de café.
+
+42
+00:02:43,263 --> 00:02:47,595
+Então, pelo visto,
+você ainda se dá bem na cozinha.
+
+43
+00:02:49,106 --> 00:02:50,506
+O que está havendo?
+
+44
+00:02:51,207 --> 00:02:52,801
+- Oi, querido.
+- Bom dia.
+
+45
+00:02:52,802 --> 00:02:57,765
+Estava pensando que poderíamos
+tomar café da manhã juntos.
+
+46
+00:02:58,684 --> 00:03:00,704
+- Como uma família.
+- Eu adorei.
+
+47
+00:03:04,921 --> 00:03:08,868
+- Precisa de ajuda?
+- Não, sentem aí.
+
+48
+00:03:10,535 --> 00:03:11,935
+Tudo bem.
+
+49
+00:03:12,591 --> 00:03:16,184
+O que temos aqui?
+
+50
+00:03:16,185 --> 00:03:18,230
+São panquecas,
+como podem ver,
+
+51
+00:03:18,231 --> 00:03:21,311
+mas fiz em formato de raio.
+
+52
+00:03:22,467 --> 00:03:25,619
+A massa saiu do meu controle,
+mas dá para ver o ziguezague.
+
+53
+00:03:25,620 --> 00:03:28,511
+Claro, estou vendo.
+
+54
+00:03:31,206 --> 00:03:32,620
+O que está fazendo?
+
+55
+00:03:32,621 --> 00:03:37,602
+Recolhendo provas de que faz
+panquecas feias em todo período.
+
+56
+00:03:38,982 --> 00:03:40,382
+Vamos experimentar.
+
+57
+00:03:45,047 --> 00:03:48,585
+- Feias, mas deliciosas.
+- É mesmo?
+
+58
+00:03:48,586 --> 00:03:50,026
+Obrigada, querido.
+
+59
+00:03:51,951 --> 00:03:55,234
+Licença,
+quando ganhou um celular?
+
+60
+00:03:55,235 --> 00:03:57,466
+Papai comprou para mim
+há alguns dias.
+
+61
+00:04:03,270 --> 00:04:05,766
+Nora quem sugeriu.
+Achei que seria uma boa ideia.
+
+62
+00:04:05,767 --> 00:04:09,640
+Sempre estamos no laboratório,
+facilita a comunicação.
+
+63
+00:04:10,937 --> 00:04:15,290
+Sim, faz todo o sentido.
+
+64
+00:04:16,376 --> 00:04:19,329
+Animadas para torcer por mim
+no jogo de softbol da caridade?
+
+65
+00:04:19,330 --> 00:04:21,384
+Softbol, que massa!
+
+66
+00:04:22,195 --> 00:04:24,808
+Só espero não ser
+campista direito de novo.
+
+67
+00:04:27,969 --> 00:04:29,752
+Já passou
+seu número para alguém?
+
+68
+00:04:29,753 --> 00:04:32,798
+Só para a equipe
+e Sherloque.
+
+69
+00:04:32,799 --> 00:04:35,441
+Na verdade,
+acho que essa mensagem é dele.
+
+70
+00:04:35,442 --> 00:04:36,980
+VENHA COM SEUS "PÃES" AO LAB
+
+71
+00:04:36,981 --> 00:04:38,921
+Acho que SMS
+não é a praia dele.
+
+72
+00:04:41,175 --> 00:04:43,211
+Ele quer que a gente vá
+ao STAR Labs.
+
+73
+00:04:43,212 --> 00:04:46,392
+- Vou me arrumar.
+- Mas nem comeu ainda.
+
+74
+00:04:46,984 --> 00:04:48,605
+Não gosto muito
+de café da manhã.
+
+75
+00:04:55,591 --> 00:04:58,508
+Achei que com ela aqui
+nos aproximaríamos,
+
+76
+00:04:58,509 --> 00:05:00,983
+mas parece
+que a cada meio passo a frente,
+
+77
+00:05:00,984 --> 00:05:03,293
+damos 6 passos para trás.
+
+78
+00:05:03,294 --> 00:05:06,178
+Não desista.
+Sinto que ela vai mudar.
+
+79
+00:05:10,578 --> 00:05:12,604
+Não se eu continuar
+cozinhando assim.
+
+80
+00:05:12,605 --> 00:05:15,862
+Não, está muito bom.
+É como...
+
+81
+00:05:16,559 --> 00:05:18,714
+- Espere, pode parar.
+- Preto, mas...
+
+82
+00:05:18,715 --> 00:05:20,935
+Vou fazer banana para você.
+Não tem problema.
+
+83
+00:05:20,936 --> 00:05:22,841
+- Vai fazer banana para mim?
+- Eu vou!
+
+84
+00:05:24,003 --> 00:05:25,403
+Obrigado.
+
+85
+00:05:27,958 --> 00:05:29,922
+Esperem,
+eu chamei todo mundo.
+
+86
+00:05:30,362 --> 00:05:33,245
+Onde está...
+
+87
+00:05:34,282 --> 00:05:37,371
+Cisco está na casa dos pais
+enquanto se recupera.
+
+88
+00:05:39,632 --> 00:05:41,372
+Não é muito corajoso
+da parte dele.
+
+89
+00:05:41,373 --> 00:05:44,211
+Vamos ter uma conversa
+quando o vir de novo.
+
+90
+00:05:44,699 --> 00:05:46,533
+Então, Equipe Flash.
+
+91
+00:05:46,534 --> 00:05:49,908
+Como esse lindo mestre
+detetive do Multiverso,
+
+92
+00:05:49,909 --> 00:05:53,462
+Sherloque Wells,
+vai pagar a dívida para vocês?
+
+93
+00:05:54,218 --> 00:05:59,218
+E como pegaremos
+esse maníaco homicida?
+
+94
+00:05:59,219 --> 00:06:01,992
+Começaremos questionando
+algumas coisas óbvias.
+
+95
+00:06:01,993 --> 00:06:03,814
+Como ele se tornou
+meta-humano?
+
+96
+00:06:03,815 --> 00:06:06,647
+Manifestação de poder varia.
+O acelerador de partícula...
+
+97
+00:06:06,648 --> 00:06:08,813
+Não vamos
+interromper Sherloque, certo?
+
+98
+00:06:08,814 --> 00:06:11,708
+- Certo.
+- Mas tem um bom argumento.
+
+99
+00:06:11,709 --> 00:06:14,490
+O que sabemos sobre Cicada
+até agora?
+
+100
+00:06:14,491 --> 00:06:18,507
+Sabemos que matou duas pessoas
+e quase uma terceira.
+
+101
+00:06:18,508 --> 00:06:19,935
+Exatamente.
+
+102
+00:06:19,936 --> 00:06:24,077
+Se formos mais específicos,
+não matou só pessoas, não é?
+
+103
+00:06:24,078 --> 00:06:25,514
+Mas meta-humanos.
+
+104
+00:06:25,515 --> 00:06:28,164
+E Joe disse que pressentiu
+que Cicada é pai.
+
+105
+00:06:28,165 --> 00:06:31,499
+Certo.
+Cicada... pai.
+
+106
+00:06:31,500 --> 00:06:33,110
+A adaga dele
+amortece os poderes.
+
+107
+00:06:33,111 --> 00:06:36,566
+Não só os amortece.
+Ele comanda essa adaga.
+
+108
+00:06:36,567 --> 00:06:39,284
+É como uma extensão dele.
+Então, sabemos...
+
+109
+00:06:39,285 --> 00:06:41,600
+Talvez adquiriram os poderes
+ao mesmo tempo.
+
+110
+00:06:41,601 --> 00:06:44,079
+Muito bem, dra. Snow.
+
+111
+00:06:44,080 --> 00:06:49,040
+Poderes adquiridos juntos.
+
+112
+00:06:51,296 --> 00:06:54,622
+Aqui está, equipe Flash.
+Muito simples.
+
+113
+00:06:55,636 --> 00:06:57,496
+Se desvendarmos
+esse mistério,
+
+114
+00:06:57,497 --> 00:07:01,389
+teremos um caminho
+para rastrear Cicada.
+
+115
+00:07:01,982 --> 00:07:04,724
+Legal. Ou só respondemos
+uma pergunta mais básica:
+
+116
+00:07:04,725 --> 00:07:07,175
+qual é a daquela máscara
+esquisita?
+
+117
+00:07:09,745 --> 00:07:13,295
+A máscara
+esconde a identidade.
+
+118
+00:07:13,296 --> 00:07:14,731
+É para isso que serve.
+
+119
+00:07:14,732 --> 00:07:18,147
+Estou sugerindo que,
+descobrindo o propósito dela,
+
+120
+00:07:18,148 --> 00:07:20,037
+achamos o homem
+por atrás mais rápido.
+
+121
+00:07:20,038 --> 00:07:22,892
+Capturei Cicada 37 vezes.
+
+122
+00:07:22,893 --> 00:07:26,510
+Em nenhuma delas
+o ângulo da máscara foi útil.
+
+123
+00:07:27,430 --> 00:07:30,531
+Mas quanto mais horas trabalho,
+menos dinheiro lhes devo.
+
+124
+00:07:30,532 --> 00:07:32,976
+Se querem gastar tempo
+com o ângulo da máscara,
+
+125
+00:07:32,977 --> 00:07:35,700
+sintam-se à vontade.
+
+126
+00:07:36,696 --> 00:07:38,526
+Ótimo.
+Parece um plano.
+
+127
+00:07:38,527 --> 00:07:40,576
+- Temos que ir.
+- Temos mesmo.
+
+128
+00:07:40,577 --> 00:07:44,938
+- Muito bom.
+- Espero que faça um gol.
+
+129
+00:07:44,939 --> 00:07:48,084
+- É softbol.
+- Faça uma cesta.
+
+130
+00:07:48,085 --> 00:07:50,255
+Então, bebê girafa...
+
+131
+00:07:50,694 --> 00:07:52,497
+Lidere, meu amigo.
+
+132
+00:07:55,643 --> 00:07:57,044
+Olhe só esses caras.
+
+133
+00:07:57,045 --> 00:07:59,822
+Acham que são
+tão melhores que nós.
+
+134
+00:08:00,616 --> 00:08:02,313
+Porque eles são, Bar.
+
+135
+00:08:02,314 --> 00:08:04,947
+Sem o Capitão Singh
+ou meu pai...
+
+136
+00:08:06,741 --> 00:08:08,210
+O que foi?
+
+137
+00:08:08,894 --> 00:08:10,321
+Jonesy ainda não está aqui.
+
+138
+00:08:10,322 --> 00:08:12,916
+Detetive Rowell, o que acha?
+Terceira base para mim?
+
+139
+00:08:12,917 --> 00:08:14,746
+Campo direito, Allen.
+
+140
+00:08:14,747 --> 00:08:18,407
+Eu te amo, mas deixe o lugar bom
+para quem segura mesmo a bola.
+
+141
+00:08:18,408 --> 00:08:20,327
+- Hora de jogar!
+- Qual é!
+
+142
+00:08:21,241 --> 00:08:23,075
+- Boa sorte!
+- É.
+
+143
+00:08:23,076 --> 00:08:25,590
+- Você vai arrasar.
+- Campo direito.
+
+144
+00:08:27,127 --> 00:08:29,981
+- Deus.
+- No campo direito.
+
+145
+00:08:29,982 --> 00:08:34,074
+Não é o canto bom, mas...
+Pessoal, vamos lá!
+
+146
+00:08:53,432 --> 00:08:54,832
+Seguro.
+
+147
+00:09:02,006 --> 00:09:04,776
+Ele é muito devagar mesmo.
+
+148
+00:09:04,777 --> 00:09:08,954
+Vovô Joe contou que o papai
+é péssimo atleta.
+
+149
+00:09:08,955 --> 00:09:10,537
+Acredite, é verdade.
+
+150
+00:09:10,538 --> 00:09:13,640
+Vamos agradecer por ele ter
+coordenação quando precisa.
+
+151
+00:09:15,313 --> 00:09:16,924
+O que é isso, Nora?
+
+152
+00:09:16,925 --> 00:09:19,307
+É um aplicativo ótimo
+chamado Spyn Zone.
+
+153
+00:09:19,308 --> 00:09:23,276
+As notificações avisam na hora
+tudo o que acontece na cidade.
+
+154
+00:09:23,277 --> 00:09:24,968
+Tipo o site de Iris?
+
+155
+00:09:24,969 --> 00:09:26,623
+Tipo isso.
+
+156
+00:09:26,624 --> 00:09:29,946
+Só é muito mais atualizado
+e é muito legal.
+
+157
+00:09:29,947 --> 00:09:32,385
+Essa garota sabe das coisas.
+
+158
+00:09:35,398 --> 00:09:37,200
+Spencer Young.
+Eu a conheço.
+
+159
+00:09:37,201 --> 00:09:39,926
+Eu a vejo o tempo todo
+mexendo no notebook no Jitters.
+
+160
+00:09:39,927 --> 00:09:43,360
+Foi uma repórter júnior na CCPN
+quando trabalhei lá, mas...
+
+161
+00:09:43,361 --> 00:09:45,875
+- Ela não durou muito.
+- Por quê não?
+
+162
+00:09:45,876 --> 00:09:50,118
+Ela queria ser famosa,
+não importava como.
+
+163
+00:09:50,119 --> 00:09:52,083
+Acho que ela é fofa.
+
+164
+00:09:52,084 --> 00:09:55,610
+Ela pode ser fofa,
+mas nunca checou nada na vida.
+
+165
+00:09:55,611 --> 00:09:57,029
+Está fazendo algo certo.
+
+166
+00:09:57,030 --> 00:09:59,970
+Ela tem o triplo de seguidores
+do seu blog.
+
+167
+00:10:00,751 --> 00:10:02,350
+Vou pegar algo para comer.
+
+168
+00:10:07,729 --> 00:10:11,323
+- Vamos lá, Allen!
+- Querido.
+
+169
+00:10:24,832 --> 00:10:27,732
+- Cecile? O que foi?
+- Algo está errado.
+
+170
+00:10:28,158 --> 00:10:29,612
+Algo está errado.
+
+171
+00:10:32,656 --> 00:10:34,160
+Aquele é Jonesy?
+
+172
+00:10:35,991 --> 00:10:37,569
+Parem-no!
+
+173
+00:10:37,570 --> 00:10:39,303
+Corram!
+
+174
+00:10:56,562 --> 00:10:58,642
+- Nora.
+- O quê?
+
+175
+00:10:58,643 --> 00:11:00,124
+O que aconteceu?
+
+176
+00:11:00,849 --> 00:11:02,617
+Você salvou todo mundo.
+
+177
+00:11:20,945 --> 00:11:23,700
+O esquadrão terminou a revista.
+Disseram que está limpo.
+
+178
+00:11:24,253 --> 00:11:26,566
+Nora, como sabia
+o que estava acontecendo?
+
+179
+00:11:26,567 --> 00:11:29,493
+Eu não sei.
+
+180
+00:11:29,494 --> 00:11:33,052
+Em um momento fui pegar comida
+e no outro estava no campo.
+
+181
+00:11:33,053 --> 00:11:34,879
+Não lembra de mais nada?
+
+182
+00:11:36,608 --> 00:11:38,733
+NOVA VELOCISTA
+SALVA MULTIDÃO DE BOMBA
+
+183
+00:11:38,734 --> 00:11:40,474
+O que é isso?
+
+184
+00:11:40,475 --> 00:11:42,476
+Uma notificação
+do Spyn Zone.
+
+185
+00:11:42,477 --> 00:11:44,365
+NOVA VELOCISTA
+SALVA MULTIDÃO DE BOMBA
+
+186
+00:11:44,366 --> 00:11:46,078
+Já? Foi rápido.
+
+187
+00:11:47,142 --> 00:11:49,582
+- Allen, hora da perícia.
+- Estamos indo.
+
+188
+00:11:49,583 --> 00:11:52,090
+Assim que pudermos,
+nos encontramos no laboratório.
+
+189
+00:11:54,032 --> 00:11:56,850
+Iris,
+se o Cicada vir esse post...
+
+190
+00:11:56,851 --> 00:11:59,429
+Ele pode escolher Nora
+como próximo alvo.
+
+191
+00:12:09,079 --> 00:12:13,087
+Você nos trouxe para onde
+viu Cicada pela primeira vez.
+
+192
+00:12:13,088 --> 00:12:14,501
+Correto. Como sabe?
+
+193
+00:12:14,502 --> 00:12:16,335
+Sei de tudo.
+Sou um mestre detetive.
+
+194
+00:12:16,336 --> 00:12:18,105
+Olhei o relatório
+de Barry Allen.
+
+195
+00:12:18,106 --> 00:12:20,643
+Não tem provas
+do DNA de Cicada, certo?
+
+196
+00:12:20,644 --> 00:12:24,411
+Além disso, olhe esse lugar.
+É muito movimentado.
+
+197
+00:12:24,412 --> 00:12:26,370
+Não tem como achar DNA aqui.
+
+198
+00:12:26,371 --> 00:12:28,869
+- Não viemos por DNA.
+- Pelo quê, então?
+
+199
+00:12:28,870 --> 00:12:31,039
+Para descobrir
+por que Cicada usa máscara.
+
+200
+00:12:31,040 --> 00:12:32,814
+De novo com essa máscara.
+
+201
+00:12:32,815 --> 00:12:34,949
+Acha que ele é alérgico
+ao ar livre?
+
+202
+00:12:34,950 --> 00:12:38,085
+- Não.
+- Ele a usa por um motivo.
+
+203
+00:12:38,086 --> 00:12:40,235
+Peguei Cicada 37 vezes.
+
+204
+00:12:40,236 --> 00:12:44,112
+A máscara nunca foi
+parte chave da investigação.
+
+205
+00:12:44,113 --> 00:12:46,740
+É verdade, mas disse
+que esse é diferente dos outros.
+
+206
+00:12:46,741 --> 00:12:48,802
+Por que a máscara dele
+também não seria?
+
+207
+00:12:48,803 --> 00:12:51,238
+Talvez só seja para...
+Quer saber?
+
+208
+00:12:51,239 --> 00:12:55,012
+Vá em frente com essa ideia.
+O que espera encontrar?
+
+209
+00:12:55,013 --> 00:12:56,839
+Quando eu estava apanhando,
+
+210
+00:12:56,840 --> 00:12:58,760
+notei que quanto mais
+ele se esforçava,
+
+211
+00:12:58,761 --> 00:13:00,424
+mais difícil ficava
+para respirar.
+
+212
+00:13:00,425 --> 00:13:01,842
+É assim mesmo.
+
+213
+00:13:01,843 --> 00:13:05,026
+Então pensei que se a respiração
+foi forte o suficiente,
+
+214
+00:13:06,152 --> 00:13:07,789
+poderíamos ter sorte.
+
+215
+00:13:07,790 --> 00:13:09,956
+Como vamos ter sorte?
+
+216
+00:13:09,957 --> 00:13:12,883
+Barry encontrou
+vestígios de fluoropolímero.
+
+217
+00:13:12,884 --> 00:13:15,134
+A internet falou
+que tendem a descascar.
+
+218
+00:13:15,135 --> 00:13:16,951
+Vim para pegar um pouco.
+
+219
+00:13:16,952 --> 00:13:19,725
+A internet também falou
+para contaminar a cena do crime?
+
+220
+00:13:19,726 --> 00:13:21,143
+Muito bem, detetive mestre.
+
+221
+00:13:22,903 --> 00:13:27,460
+Respiradores industrias usam
+revestimentos feitos disso.
+
+222
+00:13:27,461 --> 00:13:30,466
+Quando exposto a outro composto,
+o sulfato de dimetilo,
+
+223
+00:13:30,467 --> 00:13:32,625
+fluopolímeros emitem
+um odor característico.
+
+224
+00:13:32,626 --> 00:13:34,998
+- De cebola queimada.
+- Isso.
+
+225
+00:13:38,821 --> 00:13:42,989
+Descobrimos onde é usado,
+encontramos nosso cara.
+
+226
+00:13:42,990 --> 00:13:45,403
+- Ensino primário.
+- Ensino primário.
+
+227
+00:13:45,404 --> 00:13:46,928
+Não brinca, Sherlock.
+
+228
+00:13:51,053 --> 00:13:52,950
+É Sherloque.
+
+229
+00:14:00,468 --> 00:14:01,891
+Spencer?
+
+230
+00:14:02,377 --> 00:14:05,979
+Iris West, quanto tempo.
+Como você está?
+
+231
+00:14:05,980 --> 00:14:09,077
+- Estou bem e você?
+- Estou bem.
+
+232
+00:14:09,078 --> 00:14:12,519
+- Casou com aquele perito?
+- Casei.
+
+233
+00:14:12,520 --> 00:14:15,655
+- Tem filhos?
+- Não, ainda...
+
+234
+00:14:17,459 --> 00:14:20,593
+- Não.
+- Segui seu caminho.
+
+235
+00:14:20,594 --> 00:14:22,829
+Comecei meu blog,
+saí da CCPN.
+
+236
+00:14:22,830 --> 00:14:25,907
+- Somos Charleine Foster Kanes.
+- Certo.
+
+237
+00:14:25,908 --> 00:14:28,801
+Aliás, aquelas histórias
+do professor DeVoe? Respeito.
+
+238
+00:14:28,802 --> 00:14:30,871
+Metas são <i>clickbait</i> agora,
+certo?
+
+239
+00:14:30,872 --> 00:14:35,208
+Por isso queria falar com você.
+Confidencialmente, claro.
+
+240
+00:14:35,209 --> 00:14:36,643
+Claro.
+O que foi?
+
+241
+00:14:36,644 --> 00:14:41,285
+Encontrei uma fonte que acha
+que os metas são alvos.
+
+242
+00:14:41,286 --> 00:14:44,202
+Interessante.
+Quem?
+
+243
+00:14:44,203 --> 00:14:46,820
+Ninguém sabe,
+nem mesmo a polícia.
+
+244
+00:14:46,821 --> 00:14:50,505
+Os metas, inclusive velocistas,
+como o Flash e a XS,
+
+245
+00:14:50,506 --> 00:14:51,926
+estão todos em perigo.
+
+246
+00:14:51,927 --> 00:14:55,769
+XS.
+Ela tem um codinome.
+
+247
+00:14:57,220 --> 00:15:00,734
+Por causa do tamanho dela.
+Extra pequena.
+
+248
+00:15:00,735 --> 00:15:03,503
+- Você inventou isso?
+- Não.
+
+249
+00:15:03,504 --> 00:15:06,781
+A questão é
+que escrever artigos sobre a XS
+
+250
+00:15:06,782 --> 00:15:08,308
+pode torná-la um alvo.
+
+251
+00:15:08,309 --> 00:15:10,043
+Ou pode deixá-la famosa.
+
+252
+00:15:10,044 --> 00:15:12,245
+As pessoas já estão
+obcecadas por ela
+
+253
+00:15:12,246 --> 00:15:13,881
+e mais ainda
+pelo meu aplicativo.
+
+254
+00:15:13,882 --> 00:15:16,238
+Além disso,
+ameaças nunca te impediram
+
+255
+00:15:16,239 --> 00:15:18,841
+de escrever
+sobre o Flash antes.
+
+256
+00:15:19,336 --> 00:15:22,948
+- Era diferente.
+- Porque o blog era seu?
+
+257
+00:15:22,949 --> 00:15:25,534
+Faça o que eu digo,
+não o que eu faço?
+
+258
+00:15:25,535 --> 00:15:28,329
+Por favor, pare.
+Antes que alguém se machuque.
+
+259
+00:15:28,330 --> 00:15:31,064
+A única
+que vai se machucar é você
+
+260
+00:15:31,065 --> 00:15:33,433
+quando eu tornar
+seu blog irrelevante.
+
+261
+00:15:38,653 --> 00:15:42,644
+- Para que isso, Allen?
+- Só quero respostas, Jonesy.
+
+262
+00:15:43,544 --> 00:15:45,278
+Manda isso para a Caitlin?
+
+263
+00:15:45,279 --> 00:15:47,814
+Contei tudo o que sei,
+que é nada.
+
+264
+00:15:47,815 --> 00:15:50,929
+- Não se lembra de nada?
+- Não.
+
+265
+00:15:50,930 --> 00:15:53,169
+Juro por Deus, Allen.
+
+266
+00:15:53,170 --> 00:15:57,591
+Só lembro de acordar,
+me arrumar e sair de casa.
+
+267
+00:15:57,592 --> 00:16:02,498
+Depois acordei no campo
+quando a bomba explodiu.
+
+268
+00:16:02,499 --> 00:16:05,732
+Onde eu conseguiria
+uma bomba?
+
+269
+00:16:05,733 --> 00:16:08,268
+No depósito de provas.
+
+270
+00:16:08,269 --> 00:16:11,710
+Era parte do inventário
+do caso Jansen-Moretti.
+
+271
+00:16:11,711 --> 00:16:16,694
+As câmeras mostram você botando
+a bomba na mochila de manhã.
+
+272
+00:16:20,659 --> 00:16:23,451
+- Joe, ninguém se machucou.
+- Mas poderiam.
+
+273
+00:16:23,452 --> 00:16:27,195
+A mulher que amo, meu bebê.
+Você podia tê-los matado.
+
+274
+00:16:30,240 --> 00:16:34,526
+- Vi você crescer, cara.
+- Desculpe, Joe.
+
+275
+00:16:35,496 --> 00:16:38,924
+Mas juro que não sei
+como isso aconteceu.
+
+276
+00:16:45,801 --> 00:16:47,405
+O que foi?
+
+277
+00:16:47,406 --> 00:16:48,823
+Incêndio no jornal.
+
+278
+00:16:48,824 --> 00:16:51,045
+Os socorristas estão
+do outro lado da cidade.
+
+279
+00:16:51,046 --> 00:16:52,513
+Temos que ir.
+
+280
+00:17:03,205 --> 00:17:04,605
+Finalmente.
+
+281
+00:17:04,606 --> 00:17:07,994
+O prédio já foi evacuado.
+Bombeiros estão a caminho.
+
+282
+00:17:07,995 --> 00:17:10,030
+Vamos entrar
+e apagar o fogo.
+
+283
+00:17:10,031 --> 00:17:11,899
+Eu nunca fiz isso antes.
+
+284
+00:17:11,900 --> 00:17:14,334
+Vamos.
+Mexam-se.
+
+285
+00:17:14,335 --> 00:17:16,429
+Tudo bem.
+Só vamos criar um vácuo.
+
+286
+00:17:19,206 --> 00:17:21,869
+Está bem.
+Farei vocês se mexerem.
+
+287
+00:17:21,870 --> 00:17:24,344
+Aproveite essa notícia,
+Flash.
+
+288
+00:17:25,249 --> 00:17:27,006
+FLASH VISTO EM LAS VEGAS
+
+289
+00:17:27,719 --> 00:17:29,983
+Vou te guiar.
+Quando entrarmos...
+
+290
+00:17:34,114 --> 00:17:35,756
+Aonde está indo?
+
+291
+00:17:35,757 --> 00:17:39,378
+- Nora, o que aconteceu?
+- Ele simplesmente correu.
+
+292
+00:17:39,379 --> 00:17:42,579
+O GPS mostra
+que ele está muito a oeste.
+
+293
+00:17:42,580 --> 00:17:44,998
+Barry? Barry.
+
+294
+00:17:46,475 --> 00:17:47,903
+Ele não escuta.
+
+295
+00:17:49,070 --> 00:17:50,914
+O que eu faço aqui?
+
+296
+00:17:50,915 --> 00:17:53,491
+Nora,
+terá que fazer isso sozinha.
+
+297
+00:17:53,492 --> 00:17:55,975
+- Mas vou te ajudar.
+- Certo.
+
+298
+00:17:55,976 --> 00:17:59,014
+Precisa chegar na origem do fogo
+e apagá-lo de lá.
+
+299
+00:18:00,669 --> 00:18:04,293
+- Cheguei.
+- Gire os braços em círculos.
+
+300
+00:18:04,294 --> 00:18:07,482
+Precisa movê-los opostamente,
+criando vácuos idênticos.
+
+301
+00:18:08,272 --> 00:18:09,672
+Vamos lá, Nora.
+
+302
+00:18:09,673 --> 00:18:12,975
+Papai já fez isso mil vezes.
+Você consegue.
+
+303
+00:18:19,522 --> 00:18:21,918
+- Está dando certo!
+- Continue assim.
+
+304
+00:18:43,967 --> 00:18:45,367
+Ótimo trabalho, Nora.
+
+305
+00:18:46,738 --> 00:18:48,215
+Obrigada, mãe.
+
+306
+00:18:51,694 --> 00:18:53,488
+Vocês encontraram o papai?
+
+307
+00:19:02,573 --> 00:19:03,973
+Que diabos?
+
+308
+00:19:11,431 --> 00:19:13,462
+Que bom que estava lá
+para apagar o fogo.
+
+309
+00:19:13,463 --> 00:19:15,232
+- Poderia ser pior.
+- Obrigada, pai.
+
+310
+00:19:15,233 --> 00:19:17,682
+Não me agradeça,
+sua mãe que a ajudou.
+
+311
+00:19:18,944 --> 00:19:21,014
+Fez um ótimo trabalho lá.
+
+312
+00:19:22,226 --> 00:19:25,513
+Teve uma atividade estranha
+no seu sensor,
+
+313
+00:19:25,514 --> 00:19:26,914
+mas parece
+que está tudo bem.
+
+314
+00:19:29,092 --> 00:19:31,306
+Qual a última coisa
+de que se lembra?
+
+315
+00:19:31,307 --> 00:19:35,408
+Estar no jornal com Nora.
+Depois disso, estava em Vegas.
+
+316
+00:19:35,409 --> 00:19:38,180
+É o mesmo que aconteceu
+comigo e com Jones.
+
+317
+00:19:38,181 --> 00:19:41,800
+Talvez a atividade anormal
+tenha sido indução hipnótica?
+
+318
+00:19:41,801 --> 00:19:44,994
+Acho que alguém perceberia
+se tivessem me hipnotizado.
+
+319
+00:19:44,995 --> 00:19:47,655
+E por que nos hipnotizariam
+para salvar pessoas?
+
+320
+00:19:47,656 --> 00:19:49,498
+Publicidade.
+
+321
+00:19:49,499 --> 00:19:52,739
+Spencer Young quer ficar famosa
+te fazendo famosa.
+
+322
+00:19:52,740 --> 00:19:55,747
+- Não sabe disso.
+- Ela admitiu ao conversarmos.
+
+323
+00:19:55,748 --> 00:19:57,336
+Por que foi falar com ela?
+
+324
+00:19:59,494 --> 00:20:02,000
+Espere,
+olhe o horário da publicação.
+
+325
+00:20:02,001 --> 00:20:04,968
+Às 19h52 Nora e eu
+estávamos com Jonesy,
+
+326
+00:20:04,969 --> 00:20:07,828
+e o incêndio
+não tinha sido reportado.
+
+327
+00:20:07,829 --> 00:20:11,101
+Se é você que causa,
+será o primeiro a reportar.
+
+328
+00:20:11,102 --> 00:20:14,523
+Então ela é uma meta jornalista
+que cria histórias?
+
+329
+00:20:14,524 --> 00:20:17,053
+<i>Fake news</i>
+levadas a outro nível.
+
+330
+00:20:17,054 --> 00:20:20,358
+Talvez ela seja uma meta
+que prevê notícias.
+
+331
+00:20:20,359 --> 00:20:22,762
+Ainda não significa
+que ela nos hipnotizou.
+
+332
+00:20:22,763 --> 00:20:24,163
+Pois é.
+
+333
+00:20:24,688 --> 00:20:27,350
+Caitlin, pode baixar a biometria
+do traje de Nora
+
+334
+00:20:27,351 --> 00:20:29,006
+e comparar
+com meus sensores?
+
+335
+00:20:29,007 --> 00:20:31,123
+- Estou indo.
+- Obrigado.
+
+336
+00:20:31,124 --> 00:20:32,648
+No que está pensando?
+
+337
+00:20:33,475 --> 00:20:36,182
+Precisamos descobrir
+se Spencer é a responsável.
+
+338
+00:20:48,467 --> 00:20:51,595
+Parabéns ao Google por encontrar
+a máscara do Cicada.
+
+339
+00:20:51,596 --> 00:20:55,918
+Acha que Cicada está
+escondido aqui?
+
+340
+00:20:55,919 --> 00:20:58,971
+Acho, porque minha pesquisa
+mostrou que a Szrek Chemicals
+
+341
+00:20:58,972 --> 00:21:01,611
+usa sulfato de dimetilo
+na maioria dos produtos.
+
+342
+00:21:01,612 --> 00:21:04,231
+Então, adivinha só?
+Vou pegar Cicada.
+
+343
+00:21:04,232 --> 00:21:07,087
+É o que vamos ver, girafa.
+
+344
+00:21:09,417 --> 00:21:10,817
+Posso ajudá-los?
+
+345
+00:21:10,818 --> 00:21:14,182
+- Oi, como está? Sou o...
+- Homem Elástico, eu sei.
+
+346
+00:21:14,183 --> 00:21:17,039
+Sherloque Wells,
+mestre detetive.
+
+347
+00:21:17,040 --> 00:21:19,618
+Damos autógrafos depois,
+temos trabalho a fazer.
+
+348
+00:21:20,676 --> 00:21:22,904
+Queremos fazer umas perguntas,
+por gentileza.
+
+349
+00:21:22,905 --> 00:21:24,305
+Sobre?
+
+350
+00:21:30,693 --> 00:21:34,458
+- O que têm nossas máscaras?
+- Algum dos empregados as usa?
+
+351
+00:21:38,229 --> 00:21:39,629
+Acompanhem-me.
+
+352
+00:21:56,604 --> 00:22:00,275
+Sim, todo funcionário usa.
+Em todas as filiais.
+
+353
+00:22:00,276 --> 00:22:03,933
+- Quantas filiais?
+- Três em Central e Keystone.
+
+354
+00:22:04,358 --> 00:22:06,288
+Mais 14 só no centro-oeste.
+
+355
+00:22:07,139 --> 00:22:09,567
+Então,
+devem haver centenas?
+
+356
+00:22:09,568 --> 00:22:11,988
+Não somos os únicos
+que as usam.
+
+357
+00:22:15,226 --> 00:22:16,805
+Obrigado pelo seu tempo.
+
+358
+00:22:18,194 --> 00:22:21,931
+Adorei o meme da pera
+que estava circulando.
+
+359
+00:22:21,932 --> 00:22:23,369
+Um clássico.
+
+360
+00:22:25,506 --> 00:22:28,090
+"Um clássico."
+Tenho uma sugestão.
+
+361
+00:22:28,091 --> 00:22:30,185
+Da próxima vez
+que pesquisar no Google,
+
+362
+00:22:30,186 --> 00:22:32,265
+avance até a segunda página.
+
+363
+00:22:54,822 --> 00:22:56,222
+<i>Aqui está o meta-relógio.</i>
+
+364
+00:22:56,223 --> 00:22:59,210
+Pressione esse botão.
+Se Spencer for meta, vai apitar.
+
+365
+00:23:00,535 --> 00:23:01,935
+E se ela for meta-humana...
+
+366
+00:23:01,936 --> 00:23:04,210
+Pode ser perigosa,
+tenho que voltar.
+
+367
+00:23:04,211 --> 00:23:06,299
+Isso.
+Um de nós poderia acompanhar,
+
+368
+00:23:06,300 --> 00:23:09,133
+mas ela conhece
+seu pai e eu.
+
+369
+00:23:09,134 --> 00:23:10,534
+Eu cuido disso.
+
+370
+00:23:10,535 --> 00:23:12,723
+Certo.
+Estaremos aqui se precisar.
+
+371
+00:23:17,825 --> 00:23:19,348
+Já a vejo.
+
+372
+00:23:19,349 --> 00:23:21,349
+Só precisa estar
+a 5 passos de distância,
+
+373
+00:23:21,350 --> 00:23:23,083
+<i>apertar o botão e sair.</i>
+
+374
+00:23:23,084 --> 00:23:26,232
+- Eu sei!
+- Viu do que estou falando?
+
+375
+00:23:28,553 --> 00:23:30,425
+Meio passo à frente,
+6 para trás?
+
+376
+00:23:30,426 --> 00:23:32,292
+Vocês mandaram bem
+com o incêndio.
+
+377
+00:23:34,446 --> 00:23:35,846
+Obrigada.
+
+378
+00:23:35,847 --> 00:23:39,731
+Deveria nomear alguma bebida
+em homenagem à velocista, XS.
+
+379
+00:23:41,322 --> 00:23:42,722
+- Oi.
+- Oi.
+
+380
+00:23:42,723 --> 00:23:45,749
+- Desculpe-me, Spencer.
+- Tudo bem. Conheço você?
+
+381
+00:23:48,412 --> 00:23:51,105
+Nora,
+<i>precisa apertar o botão.</i>
+
+382
+00:23:52,238 --> 00:23:54,248
+Não, você não me conhece.
+
+383
+00:23:54,249 --> 00:23:56,256
+- Mas você me conhece.
+- Sim, conheço.
+
+384
+00:23:56,257 --> 00:23:58,037
+Desculpe,
+você é Spencer Young.
+
+385
+00:23:58,038 --> 00:24:01,241
+Leio tudo seu no Spyn Zone.
+É um ótimo aplicativo.
+
+386
+00:24:01,242 --> 00:24:03,330
+São histórias ótimas
+e muito bem escritas.
+
+387
+00:24:03,331 --> 00:24:04,962
+Sou uma grande fã.
+
+388
+00:24:04,963 --> 00:24:07,886
+<i>- Nora.</i>
+- Sempre gosto de encontrar fãs.
+
+389
+00:24:09,879 --> 00:24:12,220
+Especialmente quando são
+tão adoráveis assim.
+
+390
+00:24:13,510 --> 00:24:14,916
+O que está acontecendo?
+
+391
+00:24:14,917 --> 00:24:17,686
+Ela está paquerando nossa filha.
+Já volto.
+
+392
+00:24:18,652 --> 00:24:20,531
+- O quê?
+- Segure as pontas.
+
+393
+00:24:20,532 --> 00:24:22,410
+Iris, espere.
+
+394
+00:24:27,039 --> 00:24:28,507
+Você tem um nome?
+
+395
+00:24:31,713 --> 00:24:34,881
+- Espere, conhece ela?
+- Conheço.
+
+396
+00:24:34,882 --> 00:24:39,569
+Na verdade, ela é...
+Essa é...
+
+397
+00:24:39,570 --> 00:24:42,140
+Pode checar seu relógio?
+
+398
+00:24:42,811 --> 00:24:45,917
+Acho que estamos
+um pouco atrasadas.
+
+399
+00:24:45,918 --> 00:24:47,968
+Está bem.
+
+400
+00:24:50,073 --> 00:24:51,473
+PROCURANDO POR METAS
+
+401
+00:24:51,474 --> 00:24:53,327
+Eu já vou.
+
+402
+00:24:54,660 --> 00:24:56,060
+NENHUM META ENCONTRADO
+
+403
+00:24:56,061 --> 00:25:00,270
+Mas espero
+te encontrar de novo, fofa.
+
+404
+00:25:01,544 --> 00:25:03,017
+Nora.
+
+405
+00:25:05,056 --> 00:25:09,379
+- Acho que ela não é uma meta.
+- Acho que não.
+
+406
+00:25:13,107 --> 00:25:15,584
+Não.
+
+407
+00:25:15,585 --> 00:25:17,326
+Não importa se acha
+que ela é fofa.
+
+408
+00:25:17,327 --> 00:25:21,395
+Ela é perigosa.
+Precisa ficar longe dela.
+
+409
+00:25:21,396 --> 00:25:23,286
+Ela pode ser perigosa.
+
+410
+00:25:23,287 --> 00:25:26,471
+Nora,
+estou tentando te proteger.
+
+411
+00:25:26,472 --> 00:25:29,125
+Isso foi uma coisa sua
+minha vida toda?
+
+412
+00:25:29,126 --> 00:25:32,295
+O que isso significa,
+sinceramente?
+
+413
+00:25:32,296 --> 00:25:35,531
+É por isso que é tão fria
+e não quer passar tempo comigo?
+
+414
+00:25:35,532 --> 00:25:38,009
+Só estou tentando
+te conhecer melhor.
+
+415
+00:25:38,010 --> 00:25:40,215
+- Só pare.
+- Nora, não entendo...
+
+416
+00:25:40,216 --> 00:25:41,936
+Você mentiu para mim.
+
+417
+00:25:42,881 --> 00:25:45,854
+Eu nunca mentiria para você.
+
+418
+00:25:45,855 --> 00:25:47,255
+É mesmo?
+
+419
+00:25:48,009 --> 00:25:49,489
+Do que chama isso?
+
+420
+00:25:51,915 --> 00:25:54,356
+Colocou um chip
+inibidor de poderes em mim
+
+421
+00:25:54,357 --> 00:25:55,883
+para tirar minha velocidade.
+
+422
+00:25:55,884 --> 00:25:59,549
+Até seis meses atrás,
+eu nem sabia que tinha poderes.
+
+423
+00:25:59,550 --> 00:26:03,380
+Minha vida toda foi uma mentira
+porque estava me protegendo.
+
+424
+00:26:03,381 --> 00:26:06,684
+Adivinhe.
+Não preciso que faça isso.
+
+425
+00:26:20,951 --> 00:26:23,459
+- O que está fazendo?
+- Nora me bloqueou.
+
+426
+00:26:23,460 --> 00:26:25,470
+Estou tentando usar
+o computador quântico
+
+427
+00:26:25,471 --> 00:26:28,270
+para acessar o celular dela
+e forçá-la a atender.
+
+428
+00:26:28,271 --> 00:26:30,616
+Mas eu não sou...
+
+429
+00:26:31,109 --> 00:26:32,539
+uma hacker.
+
+430
+00:26:33,208 --> 00:26:34,847
+Não acha
+que é um pouco extremo?
+
+431
+00:26:34,848 --> 00:26:38,375
+Sim, Barry, é muito extremo
+e louco e desesperado,
+
+432
+00:26:38,376 --> 00:26:41,642
+mas me sinto extremamente
+louca e desesperada, está bem?
+
+433
+00:26:42,800 --> 00:26:46,190
+Achei que dar espaço a ela
+faria com que se aproximasse,
+
+434
+00:26:46,191 --> 00:26:48,600
+mas ela não é o problema.
+
+435
+00:26:48,601 --> 00:26:50,001
+Eu sou.
+
+436
+00:26:50,002 --> 00:26:52,441
+Não sei como eu poderia fazer
+algo assim, Barry.
+
+437
+00:26:52,442 --> 00:26:54,151
+Iris, não fez nada com ela.
+
+438
+00:26:54,152 --> 00:26:57,412
+Não pode se culpar por algo
+que a futura você possa fazer.
+
+439
+00:26:57,413 --> 00:27:00,061
+Posso, Barry, e não é pouco.
+
+440
+00:27:00,062 --> 00:27:02,546
+Inibi os poderes
+da nossa filha.
+
+441
+00:27:03,629 --> 00:27:07,271
+Escondi uma parte enorme
+de quem ela é a vida toda.
+
+442
+00:27:07,272 --> 00:27:08,913
+Eu fiz isso.
+
+443
+00:27:08,914 --> 00:27:10,603
+Ela vai te perdoar.
+
+444
+00:27:10,604 --> 00:27:12,558
+E se meu pai
+fizesse isso com você
+
+445
+00:27:12,559 --> 00:27:14,862
+depois que explodiu
+o acelerador de partículas?
+
+446
+00:27:15,621 --> 00:27:17,021
+Entende?
+
+447
+00:27:17,487 --> 00:27:21,772
+Não entendo como eu pude fazer
+algo assim com ela.
+
+448
+00:27:21,773 --> 00:27:26,750
+Não sei por que fez isso,
+mas não preciso.
+
+449
+00:27:26,751 --> 00:27:30,526
+Sei que tudo o que faz
+pela nossa família é por amor.
+
+450
+00:27:30,527 --> 00:27:33,533
+Seja qual for a razão
+que a futura você teve,
+
+451
+00:27:33,534 --> 00:27:36,782
+tenho fé que foi a coisa certa
+e você também devia ter.
+
+452
+00:27:37,619 --> 00:27:40,656
+Está difícil
+acreditar nisso.
+
+453
+00:27:40,657 --> 00:27:45,537
+Ainda bem que tenho fé
+o suficiente por nós dois.
+
+454
+00:27:45,980 --> 00:27:47,380
+Está bem?
+
+455
+00:27:52,416 --> 00:27:53,934
+Isso não é comum.
+
+456
+00:27:57,163 --> 00:27:59,608
+Dra. Snow.
+
+457
+00:28:01,126 --> 00:28:04,610
+Eu te assustei, dra. Snow.
+
+458
+00:28:04,611 --> 00:28:08,204
+Acho que não veio aqui
+para me matar?
+
+459
+00:28:10,217 --> 00:28:14,124
+Se fosse matá-la, dra. Snow,
+não seria assim tão óbvio.
+
+460
+00:28:14,125 --> 00:28:18,205
+Tenho uma teoria
+na identidade de Cicada.
+
+461
+00:28:18,206 --> 00:28:20,618
+Peço sua assistência.
+
+462
+00:28:20,619 --> 00:28:22,395
+Tudo bem.
+Já estou terminando.
+
+463
+00:28:22,396 --> 00:28:25,190
+Não sua inteligência,
+sua assistência.
+
+464
+00:28:25,191 --> 00:28:28,280
+Preciso que me dê
+um soco na barriga.
+
+465
+00:28:28,281 --> 00:28:29,700
+O quê?
+
+466
+00:28:29,701 --> 00:28:32,721
+Aqui, acima do "diagrafma".
+Como se diz?
+
+467
+00:28:32,722 --> 00:28:34,336
+- Diafragma?
+- Diafragma, certo.
+
+468
+00:28:34,337 --> 00:28:36,506
+No plexo solar
+o mais forte que puder.
+
+469
+00:28:36,507 --> 00:28:37,907
+<i>Vá.</i>
+
+470
+00:28:37,908 --> 00:28:39,898
+Olhe só, Sherlock.
+
+471
+00:28:39,899 --> 00:28:41,310
+Loque.
+
+472
+00:28:41,311 --> 00:28:45,411
+Então você é só o cérebro
+e não os músculos?
+
+473
+00:28:45,412 --> 00:28:48,652
+Não tem a audácia.
+Falta coragem. Você é mole.
+
+474
+00:28:48,653 --> 00:28:51,659
+Provavelmente nem consegue
+me bater no lugar certo.
+
+475
+00:28:53,326 --> 00:28:56,157
+Só para constar,
+sei o que acabou de fazer.
+
+476
+00:28:56,158 --> 00:28:58,033
+- E aí?
+- Funcionou.
+
+477
+00:28:58,034 --> 00:29:00,123
+<i>Muito bem.</i>
+
+478
+00:29:00,124 --> 00:29:01,537
+<i>Vá.</i>
+
+479
+00:29:09,243 --> 00:29:10,682
+Você está bem?
+
+480
+00:29:19,107 --> 00:29:21,211
+Você soa como...
+
+481
+00:29:23,754 --> 00:29:25,193
+Cicada.
+
+482
+00:29:28,779 --> 00:29:30,899
+- O que houve?
+- A polícia está recebendo
+
+483
+00:29:30,900 --> 00:29:33,228
+muitas ligações
+do Estádio de Central City.
+
+484
+00:29:33,229 --> 00:29:35,449
+- Está nos jornais.
+- Tenho que ir até lá.
+
+485
+00:29:35,450 --> 00:29:37,161
+A polícia evacuou o estádio.
+
+486
+00:29:37,162 --> 00:29:38,964
+Ache a bomba
+e ajudamos a desarmá-la.
+
+487
+00:29:38,965 --> 00:29:41,569
+- O que aconteceu?
+- Conto no caminho. Vamos.
+
+488
+00:29:51,366 --> 00:29:53,549
+- Não achei nada. E você?
+- Também não.
+
+489
+00:29:55,523 --> 00:29:57,268
+Iris, não tem bomba aqui.
+
+490
+00:30:00,811 --> 00:30:04,476
+Pessoal, olhem a data e a hora
+no post da Spencer.
+
+491
+00:30:05,209 --> 00:30:07,020
+- 11h05.
+- Isso.
+
+492
+00:30:07,021 --> 00:30:10,262
+Olhem a hora que a polícia
+recebeu a ligação sobre a bomba.
+
+493
+00:30:10,263 --> 00:30:11,895
+Foi 5 minutos depois.
+
+494
+00:30:11,896 --> 00:30:13,933
+Pode pôr o scanner
+do cérebro de Jones?
+
+495
+00:30:13,934 --> 00:30:16,958
+Vou comparar com o cógido
+do post da Spencer.
+
+496
+00:30:20,209 --> 00:30:22,600
+Vamos ver o que há
+por trás disso.
+
+497
+00:30:27,285 --> 00:30:28,685
+Consegui.
+
+498
+00:30:32,989 --> 00:30:36,568
+Pronto. O scanner do cérebro.
+O código combinou perfeitamente.
+
+499
+00:30:37,785 --> 00:30:39,222
+XS MATA FLASH
+
+500
+00:30:39,223 --> 00:30:42,042
+- Barry, são as manchetes.
+- O quê?
+
+501
+00:30:42,043 --> 00:30:44,934
+É como hipnotiza pessoas.
+Estão lendo as manchetes dela.
+
+502
+00:30:44,935 --> 00:30:46,542
+Não olhe para elas.
+
+503
+00:30:48,005 --> 00:30:49,405
+Tarde demais.
+
+504
+00:31:09,196 --> 00:31:12,442
+Nora foi hipnotizada.
+Está tentando me matar.
+
+505
+00:31:12,443 --> 00:31:15,154
+Nora, tem que sair dessa.
+
+506
+00:31:15,155 --> 00:31:18,542
+O que tenho que fazer
+é matar você.
+
+507
+00:31:31,591 --> 00:31:34,092
+- Caitlin, assuma aqui.
+- Aonde você vai?
+
+508
+00:31:34,093 --> 00:31:35,583
+Trazer minha família
+de volta.
+
+509
+00:31:36,920 --> 00:31:38,970
+Vamos lá, mate-o logo.
+
+510
+00:32:24,257 --> 00:32:25,763
+Hora de ir.
+
+511
+00:32:30,654 --> 00:32:32,834
+Você vai ficar bem.
+
+512
+00:32:32,835 --> 00:32:34,328
+Boa pontaria.
+
+513
+00:32:34,754 --> 00:32:37,647
+Pessoal,
+sabemos onde Spencer está?
+
+514
+00:32:37,648 --> 00:32:40,834
+Não localizei o celular dela.
+A polícia desligou as torres
+
+515
+00:32:40,835 --> 00:32:42,672
+para prevenir
+uma detonação de bomba.
+
+516
+00:32:42,673 --> 00:32:46,604
+Ela deve estar perto para pôr
+as manchetes na telona, não é?
+
+517
+00:32:46,605 --> 00:32:49,699
+- Ela está no estádio.
+- Ela está aqui.
+
+518
+00:32:52,960 --> 00:32:55,398
+Parece que vai trocar
+o celular por uma cela.
+
+519
+00:33:00,861 --> 00:33:02,927
+Spencer está presa
+em Iron Heights.
+
+520
+00:33:02,928 --> 00:33:04,664
+- A prefeita renunciou.
+- O quê?
+
+521
+00:33:04,665 --> 00:33:06,889
+Estou supreso
+que ela durou tanto tempo.
+
+522
+00:33:06,890 --> 00:33:08,386
+Consegui uma declaração dela
+
+523
+00:33:08,387 --> 00:33:11,149
+absolvendo o agente Jones
+para o meu artigo.
+
+524
+00:33:11,150 --> 00:33:13,026
+Vou postar amanhã.
+
+525
+00:33:13,027 --> 00:33:15,670
+Vovô Joe ficará aliviado
+porque seu amigo é inocente.
+
+526
+00:33:15,671 --> 00:33:17,197
+Pois é.
+
+527
+00:33:17,198 --> 00:33:18,831
+Pelo menos agora,
+sem a Spencer,
+
+528
+00:33:18,832 --> 00:33:21,244
+podemos concentrar
+no peixe grande.
+
+529
+00:33:22,006 --> 00:33:23,569
+Sim, podemos.
+
+530
+00:33:25,529 --> 00:33:27,363
+- O Sherlock...
+- Sherloque.
+
+531
+00:33:27,364 --> 00:33:31,169
+Acha que descobriu a chave
+para a identidade de Cicada.
+
+532
+00:33:31,170 --> 00:33:34,349
+A pista crucial para nos ajudar
+a resolver nosso mistério.
+
+533
+00:33:34,350 --> 00:33:36,817
+Conhecemos o som distinto
+da respiração de Cicada
+
+534
+00:33:36,818 --> 00:33:38,321
+devido à respiração
+na máscara.
+
+535
+00:33:38,322 --> 00:33:42,108
+Mas não só por isso,
+os pulmões dele estão feridos.
+
+536
+00:33:42,737 --> 00:33:44,240
+Feridos do quê?
+
+537
+00:33:44,241 --> 00:33:47,451
+Historicamente, há um evento
+que faz com que David Hersch
+
+538
+00:33:47,452 --> 00:33:50,284
+sempre se torne o Cicada,
+mas não dessa vez.
+
+539
+00:33:50,285 --> 00:33:51,778
+Cicada é diferente,
+porque...
+
+540
+00:33:51,779 --> 00:33:54,339
+Porque Nora me ajudou
+a destruir o satélite.
+
+541
+00:33:56,947 --> 00:33:59,371
+Senhor Allen,
+a batida de Nora no satélite
+
+542
+00:33:59,372 --> 00:34:01,319
+mudou a trajetória
+dos destroços,
+
+543
+00:34:01,320 --> 00:34:04,873
+e agora os destroços pegaram
+uma nova pessoa e feriram
+
+544
+00:34:04,874 --> 00:34:07,275
+nosso novo Cicada.
+
+545
+00:34:07,276 --> 00:34:09,036
+Mas como isso deu
+poderes a ele?
+
+546
+00:34:09,037 --> 00:34:11,407
+DeVoe inundou o satélite
+com matéria negra.
+
+547
+00:34:11,408 --> 00:34:13,956
+Faz sentido que os pedaços
+estivessem saturados.
+
+548
+00:34:14,633 --> 00:34:18,988
+Então o Cicada e a adaga foram
+criados na noite do Iluminismo.
+
+549
+00:34:19,535 --> 00:34:22,781
+Poderes adquiridos juntos.
+
+550
+00:34:23,624 --> 00:34:26,750
+- Escute, Sherlock.
+- Sherloque.
+
+551
+00:34:26,751 --> 00:34:29,918
+Tenho que reconhecer.
+Isso foi impressionante.
+
+552
+00:34:29,919 --> 00:34:32,756
+Foi uma grande descoberta,
+não foi, sr. Dibny?
+
+553
+00:34:33,334 --> 00:34:35,782
+Da qual não posso
+pegar os créditos.
+
+554
+00:34:36,395 --> 00:34:41,208
+Todo o crédito e o mérito,
+vão para você, sr. Dibny.
+
+555
+00:34:41,209 --> 00:34:44,154
+Foram seus os instintos
+de seguir a máscara.
+
+556
+00:34:44,155 --> 00:34:47,570
+Você estava certo
+e eu estava...
+
+557
+00:34:48,372 --> 00:34:49,827
+Menos certo.
+
+558
+00:34:52,270 --> 00:34:53,767
+Peço desculpa.
+
+559
+00:34:57,300 --> 00:35:00,899
+Pessoal, desculpe,
+a adaga não faz sentido.
+
+560
+00:35:00,900 --> 00:35:03,941
+As coisas não podem
+se tornar metas, não é?
+
+561
+00:35:06,562 --> 00:35:08,174
+Eu não teria certeza.
+
+562
+00:35:13,922 --> 00:35:16,594
+Nosso satélite não criou
+somente meta-humanos.
+
+563
+00:35:17,379 --> 00:35:19,111
+Criou meta-tecnologia.
+
+564
+00:35:20,409 --> 00:35:23,561
+Isso coloca as habilidades
+dos meta-humanos
+
+565
+00:35:24,287 --> 00:35:25,737
+nas mãos de qualquer pessoa.
+
+566
+00:35:43,380 --> 00:35:45,327
+Caitlin disse
+que você ficará bem.
+
+567
+00:35:48,314 --> 00:35:51,010
+Desculpe por inibir
+seus poderes,
+
+568
+00:35:52,911 --> 00:35:55,530
+mas acho que foi
+a coisa certa a fazer.
+
+569
+00:35:55,531 --> 00:35:57,265
+É, eu...
+
+570
+00:35:58,045 --> 00:36:01,190
+Eu entendo,
+estava tentando matar o papai.
+
+571
+00:36:01,191 --> 00:36:03,420
+Teria feito a mesma coisa.
+
+572
+00:36:04,407 --> 00:36:06,221
+Não, não é isso...
+
+573
+00:36:06,222 --> 00:36:08,076
+Não foi isso
+que eu quis dizer.
+
+574
+00:36:08,892 --> 00:36:11,458
+Eu estou falando do futuro.
+
+575
+00:36:12,979 --> 00:36:14,742
+O quê?
+
+576
+00:36:14,743 --> 00:36:17,548
+Sei que está chateada
+e com raiva.
+
+577
+00:36:17,549 --> 00:36:19,357
+Sinceramente...
+
+578
+00:36:21,133 --> 00:36:26,126
+Antes de hoje, não conseguia
+imaginar por que faria isso.
+
+579
+00:36:26,127 --> 00:36:29,071
+Mas depois de ver
+a decisão que tomei hoje,
+
+580
+00:36:30,598 --> 00:36:35,589
+não importa por que
+mantive seus poderes em segredo,
+
+581
+00:36:37,546 --> 00:36:39,747
+deve ter sido
+por um bom motivo, Nora.
+
+582
+00:36:41,373 --> 00:36:43,328
+Deve ter sido
+para te proteger.
+
+583
+00:36:43,780 --> 00:36:45,180
+Não.
+
+584
+00:36:46,672 --> 00:36:48,723
+O que aconteceu hoje
+
+585
+00:36:49,585 --> 00:36:53,522
+não tem nada a ver
+com o que acontece no futuro.
+
+586
+00:36:53,523 --> 00:36:57,121
+Você não suprimiu
+minhas habilidades a vida toda
+
+587
+00:36:57,122 --> 00:37:01,575
+porque sofri lavagem cerebral
+ou ataquei pessoas.
+
+588
+00:37:02,129 --> 00:37:05,231
+Você fez isso
+para me controlar.
+
+589
+00:37:07,709 --> 00:37:12,274
+Senti que era diferente
+de todo mundo a vida toda,
+
+590
+00:37:12,275 --> 00:37:13,849
+mas não sabia o motivo.
+
+591
+00:37:15,450 --> 00:37:20,038
+Você me tirou a escolha de algo
+que eu nem sabia que tinha.
+
+592
+00:37:22,709 --> 00:37:26,865
+A escolha de ser uma heroína,
+como meu pai.
+
+593
+00:37:29,155 --> 00:37:30,653
+O que está acontecendo?
+
+594
+00:37:33,184 --> 00:37:36,185
+- Nada, só estamos conversando.
+- Não.
+
+595
+00:37:36,186 --> 00:37:39,829
+Ela acha que teve uma boa razão
+para suprimir meus poderes,
+
+596
+00:37:39,830 --> 00:37:44,368
+mas ela não sabe
+qual é a razão.
+
+597
+00:37:48,557 --> 00:37:50,382
+Tenho certeza
+que é uma boa razão.
+
+598
+00:37:54,398 --> 00:37:57,015
+Nora, não preciso
+visitar o futuro
+
+599
+00:37:57,016 --> 00:37:59,517
+para saber
+que tipo de mãe Iris será.
+
+600
+00:37:59,518 --> 00:38:03,180
+Ela se importa com a família
+mais que qualquer um.
+
+601
+00:38:03,598 --> 00:38:05,020
+Está bem?
+
+602
+00:38:05,021 --> 00:38:07,798
+Eu apoio as decisões dela.
+
+603
+00:38:07,799 --> 00:38:09,907
+No passado,
+no presente e no futuro.
+
+604
+00:38:15,920 --> 00:38:20,729
+Então acho que preciso repensar
+o significado de família.
+
+605
+00:38:21,876 --> 00:38:23,356
+Nora, espere.
+
+606
+00:38:23,941 --> 00:38:27,412
+Sabe o que mais machucou
+quando descobri meus poderes?
+
+607
+00:38:29,325 --> 00:38:32,236
+Não ter sido minha mãe
+quem me contou.
+
+608
+00:38:41,774 --> 00:38:43,194
+Está tudo bem.
+
+609
+00:38:57,596 --> 00:39:01,966
+É uma história meio longa,
+mas posso ficar aqui?
+
+610
+00:39:03,716 --> 00:39:05,116
+Entre, mocinha.
+
+611
+00:39:06,829 --> 00:39:09,004
+Tem certeza
+que não vou atrapalhar?
+
+612
+00:39:09,005 --> 00:39:11,881
+Está tudo bem. Vamos conversar
+sobre o motivo mais tarde?
+
+613
+00:39:12,624 --> 00:39:16,527
+Por enquanto tem roupa de cama
+limpinha lá em cima.
+
+614
+00:39:16,528 --> 00:39:17,975
+Obrigada, Vovô Joe.
+
+615
+00:40:33,732 --> 00:40:35,830
+[InSUBs]
+Qualidade é InSUBstituível!

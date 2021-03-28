@@ -1,0 +1,3115 @@
+1
+00:00:00,344 --> 00:00:04,054
+<i>Meu nome é Barry Allen,
+sou o homem mais rápido vivo.</i>
+
+2
+00:00:04,055 --> 00:00:07,231
+<i>Para o mundo exterior,
+sou um cientista forense,</i>
+
+3
+00:00:07,232 --> 00:00:10,032
+<i>mas secretamente com a ajuda
+de meus amigos do STAR Labs,</i>
+
+4
+00:00:10,033 --> 00:00:12,868
+<i>combato o crime
+e encontro meta-humanos como eu.</i>
+
+5
+00:00:12,869 --> 00:00:15,319
+<i>Mas quando minha filha
+veio do futuro para ajudar,</i>
+
+6
+00:00:15,320 --> 00:00:16,720
+<i>ela mudou o presente.</i>
+
+7
+00:00:17,646 --> 00:00:20,221
+<i>Agora, nosso mundo está
+mais perigoso do que nunca.</i>
+
+8
+00:00:20,222 --> 00:00:22,799
+<i>Sou o único rápido o suficiente
+para salvá-los.</i>
+
+9
+00:00:22,800 --> 00:00:25,194
+<i>Eu sou o Flash.</i>
+
+10
+00:00:26,078 --> 00:00:27,647
+<i>Anteriormente
+em The Flash...</i>
+
+11
+00:00:27,648 --> 00:00:30,320
+<i>Siga minhas instruções
+e nós derrotaremos o Cicada.</i>
+
+12
+00:00:30,321 --> 00:00:32,692
+<i>Destrua a adaga dele
+e salve seu pai.</i>
+
+13
+00:00:32,693 --> 00:00:36,278
+<i>Essa é uma nova linha do tempo
+lutando para romper.</i>
+
+14
+00:00:36,279 --> 00:00:39,293
+<i>Thawne,
+outro Cicada apareceu.</i>
+
+15
+00:00:40,369 --> 00:00:44,050
+Eu costumava pensar que esconder
+segredos protegeriam as pessoas.
+
+16
+00:00:44,051 --> 00:00:46,345
+Não se conhece alguém
+com paredes no meio.
+
+17
+00:00:46,346 --> 00:00:48,575
+Eobard Thawne, o Flash Reverso.
+
+18
+00:00:48,576 --> 00:00:50,617
+Seu parceiro.
+Seu segredo.
+
+19
+00:00:51,534 --> 00:00:54,524
+Pai, sinto muito
+por ter mentido para vocês!
+
+20
+00:00:55,052 --> 00:00:56,452
+Eu também sinto muito.
+
+21
+00:00:58,799 --> 00:01:01,872
+<i>Pai, por favor.
+Eu queria contar para vocês.</i>
+
+22
+00:01:01,873 --> 00:01:03,359
+<i>Pai!
+Tentei contar para vocês.</i>
+
+23
+00:01:03,360 --> 00:01:05,302
+<i>Sinto muito
+por ter mentido para vocês!</i>
+
+24
+00:01:06,055 --> 00:01:09,499
+<i>- É Nora, nossa filha.
+- Ela mentiu para nós, Iris.</i>
+
+25
+00:01:11,120 --> 00:01:14,396
+Desde o dia que chegou,
+sobre Thawne!
+
+26
+00:01:17,727 --> 00:01:20,974
+Ela sabe o que ele fez conosco.
+Comigo.
+
+27
+00:01:20,975 --> 00:01:23,926
+Com minha mãe.
+Não acredito no que ela diz.
+
+28
+00:01:23,927 --> 00:01:25,543
+- Não sabemos.
+- Sabemos, sim!
+
+29
+00:01:25,544 --> 00:01:27,635
+Nem sabemos
+por que ela trabalhou com ele.
+
+30
+00:01:27,993 --> 00:01:31,635
+A questão premente
+não é por que estava trabalhando
+
+31
+00:01:31,636 --> 00:01:33,530
+com o Flash Reverso.
+
+32
+00:01:33,946 --> 00:01:37,377
+Talvez eu possa falar com ela
+e esclarecer um pouco o assunto.
+
+33
+00:01:37,378 --> 00:01:39,152
+Acho que já esclareceu
+demais.
+
+34
+00:01:40,250 --> 00:01:42,679
+Por que está com raiva de mim?
+O que devo fazer?
+
+35
+00:01:42,680 --> 00:01:44,131
+Não ter contado a vocês?
+
+36
+00:01:44,132 --> 00:01:46,648
+Há quanto tempo
+suspeita dela?
+
+37
+00:01:46,649 --> 00:01:48,257
+Desde que cheguei.
+
+38
+00:01:51,748 --> 00:01:53,354
+Investigou-a todo esse tempo
+
+39
+00:01:53,355 --> 00:01:56,238
+e não pensou em nos contar
+até agora?
+
+40
+00:01:56,239 --> 00:01:58,354
+Não sabia aonde iria chegar.
+
+41
+00:01:58,355 --> 00:02:01,192
+- Está brincando?
+- Não estou brincando.
+
+42
+00:02:01,193 --> 00:02:03,619
+Não se chega a uma conclusão
+sem os fatos.
+
+43
+00:02:03,620 --> 00:02:05,020
+Todos os fatos.
+
+44
+00:02:07,328 --> 00:02:10,032
+Shirley, eu acho...
+
+45
+00:02:10,033 --> 00:02:12,019
+Talvez devesse nos dar
+um minuto.
+
+46
+00:02:13,394 --> 00:02:16,173
+Estão com raiva porque fiz
+o que um detetive mestre faz.
+
+47
+00:02:16,174 --> 00:02:17,791
+Descobrir algo
+que não conseguem.
+
+48
+00:02:17,792 --> 00:02:21,266
+Dei-lhes a tradução.
+A raiva de vocês é descabida.
+
+49
+00:02:21,267 --> 00:02:25,691
+Qualquer que seja a razão
+porque Nora não nos contou,
+
+50
+00:02:25,692 --> 00:02:28,089
+não acho que ela tenha feito
+de forma maliciosa.
+
+51
+00:02:29,129 --> 00:02:32,177
+Mesmo daqui
+posso sentir como está triste.
+
+52
+00:02:32,178 --> 00:02:35,065
+Querida,
+esteve com Nora por meses.
+
+53
+00:02:35,066 --> 00:02:37,207
+Nunca sentiu antes
+que ela escondia algo.
+
+54
+00:02:37,208 --> 00:02:40,056
+Não, nunca.
+Nunca.
+
+55
+00:02:40,455 --> 00:02:43,886
+Thawne mentiu.
+Ele era mestre nisso.
+
+56
+00:02:43,887 --> 00:02:46,943
+É razoável pensar
+que ele ensinou truques a ela.
+
+57
+00:02:46,944 --> 00:02:49,196
+Talvez.
+Talvez não.
+
+58
+00:02:49,836 --> 00:02:51,824
+Deve haver um jeito
+de descobrir.
+
+59
+00:02:53,181 --> 00:02:54,581
+Há um jeito.
+
+60
+00:02:59,490 --> 00:03:02,243
+Acho que aqui tem tudo
+desde o dia que ela chegou.
+
+61
+00:03:03,438 --> 00:03:04,922
+Talvez antes.
+
+62
+00:03:12,837 --> 00:03:15,501
+Leia.
+Do começo.
+
+63
+00:03:15,502 --> 00:03:16,902
+<b>5ª Temporada | Episódio 18
+-= Godspeed =-</b>
+
+64
+00:03:16,903 --> 00:03:18,760
+<b>Legenda: bebelzinha, John, Hall,
+AirtonSub, StephenChow</b>
+
+65
+00:03:18,761 --> 00:03:20,161
+<b>Revisão:
+KahX</b>
+
+66
+00:03:21,993 --> 00:03:24,929
+<i>- Afastem-se do perímetro.
+- Com licença. Desculpe.</i>
+
+67
+00:03:25,463 --> 00:03:27,765
+- Com licença. Desculpe.
+<i>- Ligação de "Mãe".</i>
+
+68
+00:03:27,766 --> 00:03:29,166
+Qual é, mãe.
+
+69
+00:03:29,858 --> 00:03:31,878
+Desculpe.
+Estou muito atrasada.
+
+70
+00:03:31,879 --> 00:03:34,024
+Estou atrasada
+para um encontro importante.
+
+71
+00:03:34,025 --> 00:03:36,291
+Não um encontro.
+Não que eu não os tenha.
+
+72
+00:03:36,292 --> 00:03:38,219
+Eu tenho encontros.
+Tenho uma reunião.
+
+73
+00:03:38,220 --> 00:03:40,435
+Estou me atrasando mais ainda.
+Desculpe.
+
+74
+00:03:41,849 --> 00:03:44,280
+- Alguém viu a perita?
+- Obrigada.
+
+75
+00:03:44,281 --> 00:03:46,815
+<i>- De nada.</i>
+- Onde está West-Allen?
+
+76
+00:03:46,816 --> 00:03:48,995
+Desculpe, detetive.
+Não queria me atrasar.
+
+77
+00:03:48,996 --> 00:03:51,125
+Tentei pegar um táxi,
+mas eles não paravam,
+
+78
+00:03:51,126 --> 00:03:52,744
+- tive que correr.
+- Não importa
+
+79
+00:03:52,745 --> 00:03:54,631
+qual foi o motivo hoje,
+West-Allen.
+
+80
+00:03:54,632 --> 00:03:57,202
+Só quero descobrir
+qual meta fez isso.
+
+81
+00:03:57,205 --> 00:03:58,605
+Claro.
+
+82
+00:03:58,949 --> 00:04:01,613
+O caminhão de químicos
+estava indo para o Lab Dayton.
+
+83
+00:04:01,614 --> 00:04:03,848
+Foi atacado mais cedo
+hoje de manhã.
+
+84
+00:04:03,849 --> 00:04:08,601
+Serão dois laboratórios
+e dois transportes essa semana.
+
+85
+00:04:08,602 --> 00:04:11,258
+E como os outros,
+ninguém viu ninguém.
+
+86
+00:04:13,969 --> 00:04:16,282
+Senhor,
+há resíduos por toda parte.
+
+87
+00:04:16,684 --> 00:04:18,914
+<i>- Metanol benzeno.</i>
+- É o que roubaram.
+
+88
+00:04:18,915 --> 00:04:20,579
+Para o que isso é usado?
+
+89
+00:04:20,580 --> 00:04:23,394
+Tudo desde nanotecnologia
+até tratamento de piolho.
+
+90
+00:04:23,395 --> 00:04:26,077
+<i>- Halotano.</i>
+- Halotano?
+
+91
+00:04:27,232 --> 00:04:28,634
+Espere.
+
+92
+00:04:29,270 --> 00:04:30,670
+O que foi?
+
+93
+00:04:32,371 --> 00:04:36,160
+Esse caminhão tem uma câmera
+de segurança Affinity 4.000.
+
+94
+00:04:36,161 --> 00:04:38,185
+Nossa,
+Lia vai morrer de inveja.
+
+95
+00:04:38,186 --> 00:04:40,273
+Quando essa câmera
+é adulterada,
+
+96
+00:04:40,274 --> 00:04:43,659
+o mecanismo de segurança
+libera um neutralizante.
+
+97
+00:04:43,660 --> 00:04:45,080
+Halotano.
+
+98
+00:04:45,081 --> 00:04:47,340
+Está dizendo que quem fez isso
+abriu a porta,
+
+99
+00:04:47,341 --> 00:04:50,973
+desabilitou a câmera
+e roubou remédio de piolho?
+
+100
+00:04:50,974 --> 00:04:53,839
+Antes que o neutralizante
+pudesse fazer seu trabalho?
+
+101
+00:04:53,840 --> 00:04:55,543
+E ninguém os viu.
+
+102
+00:04:56,728 --> 00:04:58,557
+Como isso é possível?
+
+103
+00:05:03,097 --> 00:05:04,533
+<i>Um velocista?</i>
+
+104
+00:05:04,733 --> 00:05:06,884
+Nora, colega de laboratório,
+minha amiga,
+
+105
+00:05:06,885 --> 00:05:10,276
+não lançou a teoria de velocista
+para a detetive Curtis, lançou?
+
+106
+00:05:10,277 --> 00:05:14,123
+Não é uma teoria, Lia.
+É a única explicação.
+
+107
+00:05:14,940 --> 00:05:17,934
+Sabe que também sou fã
+dos nossos amigos ligeirinhos.
+
+108
+00:05:17,935 --> 00:05:20,066
+Na real,
+se pudesse conhecer Jesse Quick,
+
+109
+00:05:20,067 --> 00:05:22,435
+seria tipo
+"oi, nova melhor amiga".
+
+110
+00:05:22,993 --> 00:05:25,574
+- Sem querer ofender.
+- Ofendeu um pouco.
+
+111
+00:05:25,575 --> 00:05:27,660
+Não houve um velocista
+em Central City
+
+112
+00:05:27,661 --> 00:05:31,474
+desde o artigo de crise
+que sua mãe escreveu há décadas.
+
+113
+00:05:31,475 --> 00:05:33,486
+Flash, Kid Flash,
+Jay Garrick,
+
+114
+00:05:33,487 --> 00:05:36,558
+aquela velocista roxa
+que apareceu uma vez.
+
+115
+00:05:36,559 --> 00:05:37,959
+Estão todos mortos.
+
+116
+00:05:37,960 --> 00:05:41,340
+O que está sugerindo
+é muito improvável.
+
+117
+00:05:41,341 --> 00:05:44,210
+Precisamos começar a acreditar
+no muito improvável.
+
+118
+00:05:44,211 --> 00:05:47,063
+Como alternativa,
+você poderia
+
+119
+00:05:47,729 --> 00:05:49,782
+desligar sua obsessão.
+
+120
+00:05:49,783 --> 00:05:52,403
+- Não sou obsessiva.
+- Nunca conheceu seu pai.
+
+121
+00:05:52,404 --> 00:05:54,927
+Então se tornou perita criminal
+como ele,
+
+122
+00:05:54,928 --> 00:05:57,802
+e é por isso
+que continua investigando
+
+123
+00:05:57,803 --> 00:06:00,490
+o único caso
+que Barry Allen nunca resolveu.
+
+124
+00:06:00,491 --> 00:06:01,891
+Cicada.
+
+125
+00:06:01,892 --> 00:06:05,552
+Você chama isso de obsessão.
+Eu chamo de hobby.
+
+126
+00:06:05,939 --> 00:06:09,532
+Claro,
+seu clássico de todo dia
+
+127
+00:06:10,292 --> 00:06:11,759
+hobby de assassinato.
+
+128
+00:06:12,413 --> 00:06:14,421
+É como sua mãe diz.
+
+129
+00:06:15,483 --> 00:06:17,100
+Você é excessiva.
+
+130
+00:06:17,101 --> 00:06:19,116
+Não cite minha mãe.
+
+131
+00:06:20,382 --> 00:06:23,458
+Queria que a polícia comprasse
+uma dessas câmeras Affinity.
+
+132
+00:06:23,459 --> 00:06:26,282
+Um trilhão de FPS,
+captura luz em movimento.
+
+133
+00:06:26,732 --> 00:06:28,858
+O que é isso?
+
+134
+00:06:28,859 --> 00:06:31,728
+- São raios.
+- O recipiente sumiu.
+
+135
+00:06:32,171 --> 00:06:34,932
+Raios brancos.
+Um velocista.
+
+136
+00:06:34,933 --> 00:06:38,254
+- Talvez.
+- Talvez não. É sim! Sabia!
+
+137
+00:06:38,255 --> 00:06:40,219
+Tudo bem, está certa.
+
+138
+00:06:40,866 --> 00:06:43,509
+Mas por que ele
+está roubando produtos químicos?
+
+139
+00:06:45,590 --> 00:06:49,556
+<i>E Eobard Thawne,
+conhecido como Flash Reverso,</i>
+
+140
+00:06:49,557 --> 00:06:51,630
+<i>foi, finalmente,
+derrotado e preso</i>
+
+141
+00:06:51,631 --> 00:06:53,745
+<i>e vai permanecer
+na prisão de Iron Heights</i>
+
+142
+00:06:53,746 --> 00:06:57,634
+- <i>para o resto da vida dele.</i>
+- Eu sei.
+
+143
+00:06:57,851 --> 00:07:00,433
+<i>Chamada de "Mãe".</i>
+
+144
+00:07:05,255 --> 00:07:07,166
+Viu?
+Eu sabia.
+
+145
+00:07:07,167 --> 00:07:10,047
+Não existiu um velocista
+com raios brancos.
+
+146
+00:07:11,814 --> 00:07:13,224
+- Todo seu.
+- Obrigada.
+
+147
+00:07:13,225 --> 00:07:16,503
+<i>Obrigado por visitar
+o Museu do Flash.</i>
+
+148
+00:07:16,504 --> 00:07:18,459
+<i>O prédio vai fechar
+em 5 minutos.</i>
+
+149
+00:07:18,460 --> 00:07:21,415
+<i>Todos os convidados devem ir
+para a saída.</i>
+
+150
+00:07:21,416 --> 00:07:24,056
+<i>Nora West-Allen,
+sua mãe ligou.</i>
+
+151
+00:07:24,057 --> 00:07:27,965
+<i>Por favor, pelo seu bem e o meu,
+retorne a ligação.</i>
+
+152
+00:07:29,910 --> 00:07:31,968
+Que vergonha.
+
+153
+00:07:32,244 --> 00:07:34,918
+Mãe, por que está ligando
+para o sr. Myles?
+
+154
+00:07:34,919 --> 00:07:37,042
+<i>Liguei no laboratório.
+Você não respondeu.</i>
+
+155
+00:07:37,043 --> 00:07:39,293
+<i>Deixei 3 mensagens.
+Você não retornou nenhuma.</i>
+
+156
+00:07:39,294 --> 00:07:42,066
+- O que eu deveria fazer?
+- Esperar eu ligar de volta?
+
+157
+00:07:42,067 --> 00:07:43,953
+Por que seu holograma
+não está ligado?
+
+158
+00:07:43,954 --> 00:07:45,981
+Não funciona
+no Museu do Flash.
+
+159
+00:07:45,982 --> 00:07:48,812
+<i>Nunca entendi
+sua obsessão com esse lugar.</i>
+
+160
+00:07:48,813 --> 00:07:51,296
+<i>O que está fazendo aí?
+Está sozinha?</i>
+
+161
+00:07:51,297 --> 00:07:53,518
+Está tudo bem.
+Estou investigando um caso.
+
+162
+00:07:53,519 --> 00:07:55,962
+- <i>Que tipo de caso?</i>
+- Um do qual não posso falar.
+
+163
+00:07:55,963 --> 00:07:57,363
+<i>Sou sua mãe, Nora.</i>
+
+164
+00:07:57,364 --> 00:08:00,733
+E sou uma funcionária da polícia
+que não pode falar sobre casos.
+
+165
+00:08:00,734 --> 00:08:02,499
+Quantas vezes
+preciso te falar isso?
+
+166
+00:08:02,500 --> 00:08:04,580
+Você era casada
+com um perito.
+
+167
+00:08:04,581 --> 00:08:06,699
+<i>Sim, eu era.</i>
+
+168
+00:08:08,722 --> 00:08:10,200
+Desculpe.
+
+169
+00:08:11,545 --> 00:08:13,399
+Por que ligou?
+
+170
+00:08:13,400 --> 00:08:17,777
+<i>Achei que iria querer saber
+como estou em Coast City.</i>
+
+171
+00:08:17,778 --> 00:08:20,787
+<i>Quase terminei minha história.
+Devo voltar em alguns dias.</i>
+
+172
+00:08:20,788 --> 00:08:22,188
+Ótimo.
+
+173
+00:08:22,762 --> 00:08:25,125
+- Tenho que ir. É trabalho.
+- <i>Eu te amo.</i>
+
+174
+00:08:25,126 --> 00:08:28,537
+- Eu te amo. Alô?
+- <i>Vá até o Laboratório Ollins.</i>
+
+175
+00:08:28,538 --> 00:08:30,784
+<i>Mandei os produtos químicos
+para um professor</i>
+
+176
+00:08:30,785 --> 00:08:32,715
+<i>e acho
+que ele encontrou algo.</i>
+
+177
+00:08:32,716 --> 00:08:34,679
+LABORATÓRIOS OLLINS
+
+178
+00:08:34,680 --> 00:08:36,316
+Agradecemos a ajuda,
+dr. Bonwit.
+
+179
+00:08:36,317 --> 00:08:38,678
+- Principalmente nesse horário.
+- Sem problema.
+
+180
+00:08:38,679 --> 00:08:41,487
+Ollins não me deixa sair daqui
+de qualquer jeito.
+
+181
+00:08:41,488 --> 00:08:44,694
+Então você sabe como os produtos
+podem ser usados juntos?
+
+182
+00:08:44,695 --> 00:08:46,095
+Sim e não.
+
+183
+00:08:46,699 --> 00:08:50,481
+Demorei a ver,
+mas só parecem trabalhar juntos
+
+184
+00:08:50,482 --> 00:08:52,560
+se forem construídos
+em uma estrutura.
+
+185
+00:08:52,561 --> 00:08:54,950
+Como uma matriz
+extracelular.
+
+186
+00:08:54,951 --> 00:08:57,605
+Mas existem milhares dessas.
+
+187
+00:08:57,606 --> 00:09:01,178
+Então só saberemos o resultado
+se soubermos todos os produtos.
+
+188
+00:09:01,919 --> 00:09:03,489
+Desculpe
+não poder ajudar mais.
+
+189
+00:09:03,490 --> 00:09:05,839
+Tudo bem.
+Obrigada, dr. Bonwit.
+
+190
+00:09:07,406 --> 00:09:08,806
+E agora?
+
+191
+00:09:08,807 --> 00:09:11,459
+Não podemos esperar
+outro laboratório ser roubado.
+
+192
+00:09:13,882 --> 00:09:15,458
+- Minha nossa!
+- Minha nossa!
+
+193
+00:09:18,172 --> 00:09:19,611
+Dr. Bonwit!
+
+194
+00:09:21,589 --> 00:09:23,107
+Meu Deus!
+
+195
+00:09:24,378 --> 00:09:27,546
+Sim, sou um Deus.
+
+196
+00:09:28,944 --> 00:09:31,634
+O Deus da Velocidade.
+
+197
+00:09:31,860 --> 00:09:33,722
+Vá!
+
+198
+00:09:40,648 --> 00:09:42,048
+Nora!
+
+199
+00:09:43,529 --> 00:09:44,929
+Nora!
+
+200
+00:09:46,078 --> 00:09:49,399
+Alguém me ajude, por favor!
+Ajudem-me!
+
+201
+00:09:49,400 --> 00:09:50,800
+*
+
+202
+00:09:53,386 --> 00:09:54,786
+<i>Nora?</i>
+
+203
+00:09:57,246 --> 00:09:58,646
+Nora?
+
+204
+00:10:00,356 --> 00:10:03,168
+Sabia que essa ia te acordar.
+Não se assuste.
+
+205
+00:10:03,169 --> 00:10:04,569
+Estamos em um hospital.
+
+206
+00:10:04,570 --> 00:10:08,438
+Eu, por essa queimadura.
+E você, por muito mais.
+
+207
+00:10:08,439 --> 00:10:11,656
+- O dr. Bonwit?
+- Na UTI, mas vai ficar bem.
+
+208
+00:10:11,657 --> 00:10:15,154
+Mas o velocista fugiu
+com dissulfeto de carbono.
+
+209
+00:10:15,155 --> 00:10:18,374
+Não se preocupe com isso agora.
+Como se sente?
+
+210
+00:10:19,051 --> 00:10:20,451
+Eu...
+
+211
+00:10:20,452 --> 00:10:22,628
+Na verdade, me sinto bem.
+
+212
+00:10:22,629 --> 00:10:25,726
+Meus dedos estão formigando,
+mas tirando isso,
+
+213
+00:10:25,727 --> 00:10:27,343
+estou muito bem.
+
+214
+00:10:27,344 --> 00:10:30,037
+- Estranho, não é?
+- Só estou feliz que está bem.
+
+215
+00:10:30,038 --> 00:10:33,849
+Você foi atingida por 5 bilhões
+de joules de eletricidade.
+
+216
+00:10:33,850 --> 00:10:37,219
+O que quer dizer
+que eu
+
+217
+00:10:37,220 --> 00:10:42,043
+liguei para sua mãe.
+Ela surtou mais que o normal.
+
+218
+00:10:42,044 --> 00:10:43,507
+Tive que ligar.
+
+219
+00:10:43,508 --> 00:10:45,877
+- Você podia ter morrido.
+- Lia, ela está aqui?
+
+220
+00:10:45,878 --> 00:10:47,711
+Está vindo de Coast City.
+
+221
+00:10:47,712 --> 00:10:51,754
+E ela está zangada.
+Já me ligou umas 47 vezes.
+
+222
+00:10:51,755 --> 00:10:54,281
+Devia ter ignorado.
+Não quero que ela se preocupe.
+
+223
+00:10:54,282 --> 00:10:57,779
+Ignorei.
+Por isso ela não sabe disso.
+
+224
+00:10:57,780 --> 00:11:00,380
+Os paramédicos disseram
+que teve uma parada cardíaca.
+
+225
+00:11:00,381 --> 00:11:04,023
+Ao usar o desfibrilador
+para reiniciar seu coração,
+
+226
+00:11:04,024 --> 00:11:05,440
+eles encontraram isso.
+
+227
+00:11:05,441 --> 00:11:08,228
+Estava embaixo da cicatriz
+no seu ombro direito.
+
+228
+00:11:08,229 --> 00:11:09,833
+O que é isso?
+
+229
+00:11:09,834 --> 00:11:13,254
+Falaram que é um pedaço de metal
+da estante que você atingiu.
+
+230
+00:11:13,255 --> 00:11:16,812
+Mas não sei. Parece velho
+e bastante queimado.
+
+231
+00:11:17,473 --> 00:11:19,332
+Mas agora que sabemos
+que está bem,
+
+232
+00:11:19,333 --> 00:11:22,770
+vamos falar sobre o fato de você
+ter sido atingida pelo raio
+
+233
+00:11:22,771 --> 00:11:24,903
+- de um velocista?
+- Muito legal, não é?
+
+234
+00:11:24,904 --> 00:11:26,614
+Mas ninguém
+vai acreditar na gente.
+
+235
+00:11:26,615 --> 00:11:29,069
+Nós duas vimos.
+Vão ter que acreditar.
+
+236
+00:11:39,063 --> 00:11:41,895
+<i>Fique calma.
+Houve um incidente.</i>
+
+237
+00:11:41,896 --> 00:11:44,214
+<i>Verificação do sistema
+em progresso.</i>
+
+238
+00:11:46,396 --> 00:11:47,990
+Que diabos é isso?
+
+239
+00:11:49,387 --> 00:11:50,787
+<i>Pegue isso.</i>
+
+240
+00:11:54,347 --> 00:11:57,068
+- Estou bem!
+- Tem certeza?
+
+241
+00:11:57,852 --> 00:12:00,948
+Sim, cara.
+Eu sou uma velocista.
+
+242
+00:12:01,373 --> 00:12:02,773
+Meus nervos
+estão formigando,
+
+243
+00:12:02,774 --> 00:12:04,730
+minhas sinapses
+devem estar uma loucura
+
+244
+00:12:04,731 --> 00:12:08,410
+pois meu reflexo
+está muito rápido.
+
+245
+00:12:10,100 --> 00:12:12,043
+O que farei
+quanto à minha mãe?
+
+246
+00:12:12,044 --> 00:12:15,672
+Ela enlouquece
+quando alguém diz "meta".
+
+247
+00:12:15,673 --> 00:12:19,269
+Compreensível, o marido não-meta
+dela morreu por causa de metas.
+
+248
+00:12:19,270 --> 00:12:22,499
+Sim, mas escrever sobre o Flash,
+o meta-humano,
+
+249
+00:12:22,500 --> 00:12:25,241
+- fez a carreira dela.
+- Então não podemos contar?
+
+250
+00:12:25,242 --> 00:12:27,831
+Não,
+não podemos contar para ninguém.
+
+251
+00:12:27,832 --> 00:12:30,294
+Não até descobrirmos
+como consegui esses poderes.
+
+252
+00:12:30,295 --> 00:12:32,439
+Não acho coincidência isso
+ter acontecido
+
+253
+00:12:32,440 --> 00:12:35,725
+depois do meu encontro
+com aquele Deus da Velocidade.
+
+254
+00:12:35,726 --> 00:12:37,462
+Fala de quando
+o Deus da Velocidade
+
+255
+00:12:37,463 --> 00:12:39,169
+atingiu você
+com o raio dele.
+
+256
+00:12:39,170 --> 00:12:41,059
+O que,
+de acordo com o Museu do Flash,
+
+257
+00:12:41,060 --> 00:12:42,849
+é exatamente o que houve...
+
+258
+00:12:42,850 --> 00:12:44,428
+- Com o Flash.
+- Com o Flash.
+
+259
+00:12:45,739 --> 00:12:48,716
+- <i>10-90 acontecendo.</i>
+- Assalto a banco.
+
+260
+00:12:51,075 --> 00:12:53,679
+Não, não pode fazer isso.
+É uma má ideia.
+
+261
+00:12:53,680 --> 00:12:55,439
+Isso é ruim
+como cortar sua franja.
+
+262
+00:12:55,440 --> 00:12:57,772
+Só vou dar uma checada.
+
+263
+00:12:57,773 --> 00:12:59,757
+Você é investigadora,
+não super-heroína.
+
+264
+00:12:59,758 --> 00:13:02,103
+Nossos trabalhos são iguais
+aos dos policiais.
+
+265
+00:13:02,104 --> 00:13:03,845
+Pegamos os bandidos.
+
+266
+00:13:04,271 --> 00:13:08,161
+Certo, vá pegá-los,
+Mulher-Flash.
+
+267
+00:13:08,162 --> 00:13:10,979
+Senhora Flash.
+Flash gostosa.
+
+268
+00:13:11,886 --> 00:13:13,286
+Esse não.
+
+269
+00:13:13,287 --> 00:13:15,356
+Certo,
+vamos trabalhar nisso depois.
+
+270
+00:13:15,357 --> 00:13:18,539
+Até lá,
+devo proteger Central City.
+
+271
+00:13:25,501 --> 00:13:27,246
+Pare ou eu atiro!
+
+272
+00:13:28,462 --> 00:13:30,604
+Mantenham suas mãos
+onde eu possa vê-las.
+
+273
+00:13:35,056 --> 00:13:37,252
+Desculpa, você está bem?
+
+274
+00:13:39,180 --> 00:13:40,580
+Parados!
+
+275
+00:13:48,199 --> 00:13:49,599
+O que foi isso?
+
+276
+00:13:49,600 --> 00:13:51,679
+Bug e Byte,
+vocês estão presos.
+
+277
+00:13:51,680 --> 00:13:53,684
+- Vamos!
+- Pegue-os!
+
+278
+00:13:56,250 --> 00:14:00,079
+Você fritou sua manopla
+e metade da frota.
+
+279
+00:14:00,080 --> 00:14:02,379
+Só tinha três viaturas.
+
+280
+00:14:02,380 --> 00:14:04,759
+Agora Capitão Frye
+vai querer saber quem foi,
+
+281
+00:14:04,760 --> 00:14:07,002
+o que fará a vida de todos
+uma porcaria.
+
+282
+00:14:07,433 --> 00:14:10,746
+Desculpa, Nora.
+Sei que hoje não foi muito bom.
+
+283
+00:14:10,747 --> 00:14:14,269
+Os dois ladrões fugiram
+por minha culpa.
+
+284
+00:14:15,380 --> 00:14:17,544
+Não seja tão dura
+consigo mesma.
+
+285
+00:14:17,545 --> 00:14:19,621
+Foi seu primeiro dia.
+Ninguém se machucou.
+
+286
+00:14:19,622 --> 00:14:22,416
+E acharam Bug e Byte agachados
+com cãibras por correrem
+
+287
+00:14:22,417 --> 00:14:25,919
+- uns dez minutos depois.
+- Mas ainda me sinto tão mal.
+
+288
+00:14:25,920 --> 00:14:27,721
+Está olhando isso
+pelo lado errado.
+
+289
+00:14:27,722 --> 00:14:30,444
+Hoje não foi
+o grande fracasso da Nora.
+
+290
+00:14:30,445 --> 00:14:34,603
+Hoje foi a grande estreia
+da Flash-Fêmea.
+
+291
+00:14:35,790 --> 00:14:38,190
+Dar nome a super-heróis
+não é fácil.
+
+292
+00:14:39,660 --> 00:14:43,179
+Lia, você é melhor amiga
+que uma velocista desastrada
+
+293
+00:14:43,180 --> 00:14:44,804
+poderia ter.
+
+294
+00:14:46,052 --> 00:14:49,199
+Mas acho que sabemos
+que a polícia não está equipada
+
+295
+00:14:49,200 --> 00:14:50,769
+para parar esse cara.
+
+296
+00:14:51,054 --> 00:14:55,106
+O único jeito de pegá-lo antes
+que mais alguém se machuque
+
+297
+00:14:55,107 --> 00:14:58,668
+é se eu começar a pensar
+como uma velocista do mal.
+
+298
+00:14:58,669 --> 00:15:00,667
+E como fará isso?
+
+299
+00:15:02,250 --> 00:15:04,282
+Vou visitar um.
+
+300
+00:15:09,113 --> 00:15:10,513
+<i>Flash Reverso?</i>
+
+301
+00:15:10,514 --> 00:15:13,979
+Você é a segunda pessoa
+em 15 anos, investigadora,
+
+302
+00:15:13,980 --> 00:15:15,951
+que vem visitar
+esse psicopata.
+
+303
+00:15:16,530 --> 00:15:18,306
+Nunca nem ligaram.
+
+304
+00:15:18,990 --> 00:15:21,699
+Tem certeza
+que quer entrevistá-lo sozinha?
+
+305
+00:15:21,700 --> 00:15:24,040
+Já estive sozinha
+com criminosos antes.
+
+306
+00:15:32,002 --> 00:15:34,069
+Você tem cinco minutos.
+
+307
+00:15:45,149 --> 00:15:46,889
+Eobard Thawne?
+
+308
+00:15:58,933 --> 00:16:00,333
+*
+
+309
+00:16:00,667 --> 00:16:05,025
+Sou Nora West-Allen,
+sou perita criminal da polícia.
+
+310
+00:16:05,026 --> 00:16:07,756
+Quero, se eu puder,
+fazer perguntas para você.
+
+311
+00:16:13,829 --> 00:16:15,429
+Chegue mais perto.
+
+312
+00:16:16,470 --> 00:16:18,839
+Nora West-Allen.
+
+313
+00:16:21,880 --> 00:16:23,280
+Não tenha medo.
+
+314
+00:16:24,120 --> 00:16:26,546
+A capacidade de inibir poderes
+desta cela
+
+315
+00:16:26,547 --> 00:16:29,994
+pode tirar os poderes
+de mil meta-humanos.
+
+316
+00:16:29,995 --> 00:16:33,639
+O vidro, as paredes,
+o teto e o chão
+
+317
+00:16:33,640 --> 00:16:35,988
+estão todos conectados
+a uma fonte de energia
+
+318
+00:16:35,989 --> 00:16:40,644
+que eletrificarão esse lugar
+com 400 quilojoules de imediato
+
+319
+00:16:40,645 --> 00:16:45,429
+se os inibidores falharem.
+Isso impede de vibrar aqui.
+
+320
+00:16:48,940 --> 00:16:51,664
+Não conseguiria te machucar,
+Nora West-Allen.
+
+321
+00:16:53,210 --> 00:16:55,409
+Nem se eu quisesse.
+
+322
+00:16:59,080 --> 00:17:01,114
+Quais são suas perguntas?
+
+323
+00:17:03,450 --> 00:17:05,671
+Como veio parar aqui?
+
+324
+00:17:05,672 --> 00:17:09,297
+Ninguém na polícia poderia
+responder isso para você?
+
+325
+00:17:09,298 --> 00:17:13,308
+Os arquivos do Flash-Reverso
+foram bloqueados da rede.
+
+326
+00:17:13,309 --> 00:17:15,959
+E não há quase nada sobre você
+no Museu do Flash.
+
+327
+00:17:15,960 --> 00:17:18,098
+Exceto pela data
+que você foi preso.
+
+328
+00:17:18,468 --> 00:17:19,868
+Sério?
+
+329
+00:17:20,300 --> 00:17:23,495
+Só tem isso no Museu do Flash?
+Isso é interessante.
+
+330
+00:17:23,690 --> 00:17:25,789
+Pode me dizer
+como foi derrotado?
+
+331
+00:17:25,790 --> 00:17:27,576
+Por que quer saber isso?
+
+332
+00:17:27,577 --> 00:17:29,720
+Vai nos ajudar
+com uma investigação.
+
+333
+00:17:30,572 --> 00:17:32,567
+Precisa aprender
+a mentir melhor.
+
+334
+00:17:33,229 --> 00:17:34,674
+Nora.
+
+335
+00:17:36,262 --> 00:17:40,978
+Seus sapatos são novos.
+Mas as solas estão gastas.
+
+336
+00:17:41,420 --> 00:17:45,459
+Suas mangas e sua calça
+estão chamuscadas,
+
+337
+00:17:45,460 --> 00:17:49,580
+mas o principal, sua bochecha
+está queimada do vento.
+
+338
+00:17:51,302 --> 00:17:53,532
+Eu conheço
+essa queimada do vento.
+
+339
+00:17:55,600 --> 00:17:57,509
+Eu ainda a sinto.
+
+340
+00:18:01,476 --> 00:18:03,315
+Você é uma velocista.
+
+341
+00:18:10,695 --> 00:18:12,095
+O tempo acabou.
+
+342
+00:18:12,260 --> 00:18:14,655
+Por favor,
+preciso da sua ajuda.
+
+343
+00:18:14,888 --> 00:18:16,665
+Anda.
+Vamos.
+
+344
+00:18:20,100 --> 00:18:22,482
+Hora de se arrepender,
+professor.
+
+345
+00:18:44,082 --> 00:18:47,219
+Thawne descobriu
+que eu tinha poderes,
+
+346
+00:18:47,220 --> 00:18:49,630
+mas ele não vai me contar nada
+sobre eles.
+
+347
+00:18:50,942 --> 00:18:52,493
+O que foi?
+
+348
+00:18:53,819 --> 00:18:57,460
+E não diga que não é nada,
+sua cara diz que houve algo.
+
+349
+00:18:57,961 --> 00:19:01,076
+Sabe esse fragmento de metal
+que estava no seu ombro?
+
+350
+00:19:01,077 --> 00:19:02,656
+Sim.
+
+351
+00:19:02,657 --> 00:19:05,973
+Tinha algo nele me incomodando.
+Então fiz umas pesquisas.
+
+352
+00:19:05,974 --> 00:19:08,735
+Não é daquela estante
+que você foi jogada.
+
+353
+00:19:08,736 --> 00:19:10,249
+É tecnológico.
+
+354
+00:19:10,250 --> 00:19:14,022
+Um chip feito há 25 anos
+pelos Laboratórios STAR.
+
+355
+00:19:14,023 --> 00:19:17,251
+Tipo aqueles que se usa
+para achar um animal perdido?
+
+356
+00:19:18,450 --> 00:19:21,198
+- É para inibir sua velocidade.
+- O quê?
+
+357
+00:19:22,530 --> 00:19:25,864
+Não ganhou o poderes com o raio
+do Deus da Velocidade.
+
+358
+00:19:26,860 --> 00:19:29,107
+Parece que você
+sempre os teve.
+
+359
+00:19:29,508 --> 00:19:32,073
+Eu sempre tive poderes?
+
+360
+00:19:36,100 --> 00:19:39,587
+Por que…
+Quem colocaria um inibidor...
+
+361
+00:19:44,117 --> 00:19:46,239
+Sua mãe mentiu para você
+sua vida inteira.
+
+362
+00:19:46,240 --> 00:19:48,353
+Isso é uma agressão
+sofisticada.
+
+363
+00:19:49,375 --> 00:19:51,539
+Como ela pôde me esconder
+algo assim?
+
+364
+00:19:51,540 --> 00:19:53,599
+Sobre o que mais ela mentiu?
+
+365
+00:19:53,921 --> 00:19:55,755
+Acho que terá
+que perguntar a ela.
+
+366
+00:19:55,756 --> 00:19:58,609
+Só a ideia disso
+faz meu sangue ferver.
+
+367
+00:19:58,610 --> 00:20:01,929
+Pode ser o café.
+Eu fiz ele triplo.
+
+368
+00:20:03,329 --> 00:20:06,479
+Pelo menos tenho uma pessoa
+em minha vida em quem confiar.
+
+369
+00:20:10,170 --> 00:20:13,106
+- Triplo.
+- Isso já ficou claro.
+
+370
+00:20:13,107 --> 00:20:16,126
+Não, não o café.
+Quer dizer, o café sim.
+
+371
+00:20:16,127 --> 00:20:18,219
+Mas o que o Deus da Velocidade
+roubou.
+
+372
+00:20:18,220 --> 00:20:20,075
+Metanol Benzeno é instável
+
+373
+00:20:20,076 --> 00:20:22,009
+e se adicionar
+o dissulfeto de carbono
+
+374
+00:20:22,010 --> 00:20:23,625
+que ele roubou
+do Lab Ollins…
+
+375
+00:20:23,626 --> 00:20:26,411
+Lembro disso da 9ª série
+de Química Analítica.
+
+376
+00:20:26,412 --> 00:20:28,699
+E a única forma de combinar
+esses químicos
+
+377
+00:20:28,700 --> 00:20:31,739
+é se adicionar algum tipo
+de propriedade vinculativa.
+
+378
+00:20:31,740 --> 00:20:33,597
+Precisaria
+de um estado de oxidação,
+
+379
+00:20:33,598 --> 00:20:35,479
+tipo um
+difluoreto de dioxigênio.
+
+380
+00:20:35,480 --> 00:20:37,199
+Algum lugar deve ter isso,
+
+381
+00:20:37,200 --> 00:20:39,969
+e o único lugar em Central City
+que deve ter
+
+382
+00:20:39,970 --> 00:20:41,635
+são as Indústrias Stagg.
+
+383
+00:20:45,580 --> 00:20:48,039
+Não acredito que a 1ª vez
+que venho nas Ind. Stagg
+
+384
+00:20:48,040 --> 00:20:49,462
+é como ladra.
+
+385
+00:20:50,031 --> 00:20:52,053
+Ou somos vigilantes?
+
+386
+00:20:53,802 --> 00:20:55,449
+Lia, encontrei.
+
+387
+00:20:57,960 --> 00:21:00,679
+A menos que sua velocidade
+venha com super bíceps,
+
+388
+00:21:00,680 --> 00:21:02,497
+não vamos conseguir
+tirar isso daqui.
+
+389
+00:21:05,230 --> 00:21:06,743
+Isso é meu.
+
+390
+00:21:08,658 --> 00:21:11,912
+Certo. Tente abrir isso.
+Vai evaporar em segundos.
+
+391
+00:21:12,104 --> 00:21:15,503
+Se quiser aquilo,
+terá que passar por cima de mim.
+
+392
+00:21:16,058 --> 00:21:19,000
+Você é uma velocista
+como eu.
+
+393
+00:21:19,001 --> 00:21:21,521
+Então precisa dele também.
+
+394
+00:21:21,590 --> 00:21:23,140
+Desculpe.
+
+395
+00:21:40,569 --> 00:21:42,659
+Não!
+
+396
+00:21:49,640 --> 00:21:52,447
+Lia!
+
+397
+00:21:53,305 --> 00:21:54,828
+Lia!
+
+398
+00:21:55,558 --> 00:21:57,179
+Lia!
+
+399
+00:21:57,180 --> 00:21:59,860
+A única pessoa no mundo
+em quem ela podia confiar
+
+400
+00:21:59,861 --> 00:22:01,643
+morreu nos braços dela.
+
+401
+00:22:01,644 --> 00:22:03,917
+Nora deve ter se sentido
+completamente só.
+
+402
+00:22:05,010 --> 00:22:06,922
+- Mas ela não estava.
+- Sim, estava.
+
+403
+00:22:07,550 --> 00:22:10,429
+- Pois não fui honesta com ela.
+- Iris…
+
+404
+00:22:10,530 --> 00:22:12,887
+Depois do que fiz,
+ela me deu outra chance.
+
+405
+00:22:14,186 --> 00:22:15,886
+É o mínimo
+que posso fazer por ela.
+
+406
+00:22:27,199 --> 00:22:28,742
+Mãe?
+
+407
+00:22:32,710 --> 00:22:34,622
+Não faça
+eu me arrepender disso.
+
+408
+00:22:49,937 --> 00:22:51,337
+O que está fazendo?
+
+409
+00:22:51,801 --> 00:22:54,996
+Dando à nossa filha
+a chance de se explicar.
+
+410
+00:23:18,090 --> 00:23:19,515
+Nora.
+
+411
+00:23:23,208 --> 00:23:27,349
+Fiquei sabendo da Lia.
+Sinto muito, querida.
+
+412
+00:23:29,289 --> 00:23:31,756
+Sei como é perder alguém
+que você ama.
+
+413
+00:23:35,178 --> 00:23:39,261
+Se não quiser falar disso agora,
+tudo bem.
+
+414
+00:23:39,262 --> 00:23:42,634
+Ou talvez só não queira
+falar disso comigo.
+
+415
+00:23:44,420 --> 00:23:49,130
+Nora, posso ter certeza
+que você está bem?
+
+416
+00:23:49,131 --> 00:23:52,042
+Nora, fui ao hospital e disseram
+que você tinha ido embora.
+
+417
+00:23:53,643 --> 00:23:55,600
+Acho que o raio
+não machuca tanto
+
+418
+00:23:55,601 --> 00:23:58,629
+quando já se tem ele
+correndo por suas veias.
+
+419
+00:24:02,000 --> 00:24:03,721
+Isso é familiar?
+
+420
+00:24:06,770 --> 00:24:08,409
+E agora?
+
+421
+00:24:09,452 --> 00:24:11,911
+- Nora...
+- Lia achou antes de morrer.
+
+422
+00:24:13,432 --> 00:24:15,762
+Você colocou isso em mim,
+mãe.
+
+423
+00:24:16,302 --> 00:24:18,894
+Para inibir meus poderes?
+
+424
+00:24:19,403 --> 00:24:21,823
+Você mentiu para mim
+a minha vida toda.
+
+425
+00:24:23,207 --> 00:24:24,607
+Eu sei.
+
+426
+00:24:25,008 --> 00:24:26,834
+Quem mais sabe?
+
+427
+00:24:29,138 --> 00:24:30,668
+Quem mais?
+
+428
+00:24:32,325 --> 00:24:33,757
+Todo mundo.
+
+429
+00:24:35,870 --> 00:24:37,452
+Todo mundo?
+
+430
+00:24:38,287 --> 00:24:41,672
+Todos que eu amo
+têm escondido isso de mim?
+
+431
+00:24:42,074 --> 00:24:45,012
+- Por quê?
+- Porque pedi para fazerem isso.
+
+432
+00:24:45,013 --> 00:24:47,679
+- Por que faria isso?
+- Nora, eu tentava te proteger.
+
+433
+00:24:47,680 --> 00:24:49,819
+- Do quê?
+- Dessa cidade.
+
+434
+00:24:49,820 --> 00:24:54,795
+Dos meta-humanos,
+de si mesma.
+
+435
+00:24:56,020 --> 00:25:00,288
+- Nora, você não entende.
+- Não, eu não entendo.
+
+436
+00:25:00,289 --> 00:25:03,127
+Como ganhei meus poderes?
+O que tem contra velocistas?
+
+437
+00:25:03,128 --> 00:25:05,918
+Nora,
+eu já perdi muita coisa.
+
+438
+00:25:06,859 --> 00:25:09,190
+Não posso arriscar
+perder você também.
+
+439
+00:25:12,763 --> 00:25:14,163
+Acaba de perder.
+
+440
+00:25:38,115 --> 00:25:40,012
+Também sentirei falta
+da Lia.
+
+441
+00:25:40,930 --> 00:25:43,273
+West-Allen, todos sabemos
+como eram próximas.
+
+442
+00:25:43,274 --> 00:25:45,338
+Se precisar de folga,
+o Capitão Frye...
+
+443
+00:25:45,339 --> 00:25:49,300
+Precisamos pegar quem fez isso.
+Custe o que custar.
+
+444
+00:25:49,840 --> 00:25:51,939
+Investigamos a evidência
+da cena do crime.
+
+445
+00:25:52,143 --> 00:25:55,519
+Havia DNA estranho no ponto
+de saída da ferida da Lia.
+
+446
+00:25:55,520 --> 00:25:58,375
+Mas usamos isso
+para identificar esse cara.
+
+447
+00:25:59,012 --> 00:26:01,967
+August Hart, bio-hacker.
+
+448
+00:26:01,968 --> 00:26:05,773
+Estagiário no Mercury Labs
+e depois mestrando.
+
+449
+00:26:11,866 --> 00:26:13,266
+Todo seu.
+
+450
+00:26:14,269 --> 00:26:17,319
+Foi demitido por testar
+estimulantes com táquion
+
+451
+00:26:17,320 --> 00:26:20,389
+em pacientes em coma.
+O que é um táquion?
+
+452
+00:26:20,390 --> 00:26:22,793
+Uma partícula que se move
+mais rápida que a luz.
+
+453
+00:26:22,794 --> 00:26:24,710
+Um mandado de prisão
+está sendo feito.
+
+454
+00:26:24,711 --> 00:26:27,302
+Prometo que esse cara
+terá a punição que merece.
+
+455
+00:26:30,060 --> 00:26:31,809
+Sim, ele terá.
+
+456
+00:26:35,000 --> 00:26:38,719
+<i>Sabia que nem todos os vilões
+tinham poderes meta-humanos?</i>
+
+457
+00:26:38,720 --> 00:26:40,120
+<i>Alguns...</i>
+
+458
+00:26:41,140 --> 00:26:45,660
+<i>- Garantam que estão filmando.
+- Saiam todos!</i>
+
+459
+00:26:48,180 --> 00:26:50,105
+O raio do Deus da Velocidade
+
+460
+00:26:53,000 --> 00:26:57,951
+ficou azul, igual ao do Zoom.
+Espere um pouco.
+
+461
+00:26:59,290 --> 00:27:01,500
+FLASH DERROTA
+MULHER VELOCISTA DO MAL
+
+462
+00:27:04,060 --> 00:27:05,859
+<i>Apesar do corpo
+ter desintegrado,</i>
+
+463
+00:27:05,860 --> 00:27:08,153
+<i>autoridades acharam
+evidências no Mercury Labs</i>
+
+464
+00:27:08,154 --> 00:27:11,659
+<i>da droga ilícita de aumento
+de velocidade, Velocity-9.</i>
+
+465
+00:27:11,660 --> 00:27:15,159
+<i>Esse estimulante volátil deu
+à Trajetória muita velocidade,</i>
+
+466
+00:27:15,160 --> 00:27:16,987
+<i>mas a um preço mortal.</i>
+
+467
+00:27:17,390 --> 00:27:18,819
+É isso.
+
+468
+00:27:18,820 --> 00:27:21,879
+Metanol benzeno,
+dissulfeto de carbono,
+
+469
+00:27:21,880 --> 00:27:23,729
+difluoreto de dioxigênio.
+
+470
+00:27:23,730 --> 00:27:26,969
+A base da matriz extracelular
+para o Velocity-9.
+
+471
+00:27:26,970 --> 00:27:30,564
+Só que ele quer fazer uma
+que durará para sempre.
+
+472
+00:27:43,970 --> 00:27:45,984
+Como eu derroto
+um velocista?
+
+473
+00:27:46,720 --> 00:27:49,041
+- Você não pode.
+- Sozinha não.
+
+474
+00:27:49,042 --> 00:27:51,057
+Mas com você, eu posso.
+
+475
+00:27:53,520 --> 00:27:55,209
+Não.
+
+476
+00:27:55,210 --> 00:27:57,597
+Aquele pedestal
+recebe ligações
+
+477
+00:27:57,598 --> 00:27:59,998
+e, pelo que eu soube,
+ainda tem algumas sobrando.
+
+478
+00:27:59,999 --> 00:28:03,103
+- Guie-me pelo comunicador.
+- Não.
+
+479
+00:28:03,104 --> 00:28:04,811
+Ele roubou muitos
+produtos químicos
+
+480
+00:28:04,812 --> 00:28:06,590
+para fazer
+uma matriz extracelular
+
+481
+00:28:06,591 --> 00:28:09,193
+- que produz velocidade.
+- Já pedi para ir embora.
+
+482
+00:28:09,194 --> 00:28:11,868
+A única coisa que o impede
+de se tornar um velocista
+
+483
+00:28:11,869 --> 00:28:14,159
+para sempre
+é um agente estabilizante.
+
+484
+00:28:14,160 --> 00:28:17,033
+Quando obtiver isso,
+ele será imparável.
+
+485
+00:28:17,034 --> 00:28:20,303
+- Pedi para ir embora! Guarda!
+- Por favor.
+
+486
+00:28:20,710 --> 00:28:24,197
+Ele matou minha melhor amiga
+na minha frente.
+
+487
+00:28:26,030 --> 00:28:27,849
+Ela está morta
+por causa dele
+
+488
+00:28:27,850 --> 00:28:30,852
+e você é o único
+que pode impedir isso.
+
+489
+00:28:37,507 --> 00:28:39,078
+Mas o que é isso?
+
+490
+00:28:39,620 --> 00:28:42,062
+Você precisa ir agora.
+
+491
+00:28:47,090 --> 00:28:48,490
+Nora...
+
+492
+00:28:56,402 --> 00:28:57,802
+*
+
+493
+00:29:00,620 --> 00:29:03,439
+Estou no laboratório
+de inovações da universidade.
+
+494
+00:29:03,440 --> 00:29:05,429
+- Está aí?
+- Sim, estou aqui.
+
+495
+00:29:05,430 --> 00:29:08,852
+Tem certeza que isso causará
+curto-circuito no leitores?
+
+496
+00:29:08,853 --> 00:29:12,449
+Sim, tenho, vibre suas mãos,
+crie um choque elétrico.
+
+497
+00:29:12,450 --> 00:29:13,850
+Certo.
+
+498
+00:29:17,264 --> 00:29:19,002
+Massa, funcionou.
+
+499
+00:29:20,379 --> 00:29:23,344
+<i>Agora procure pela sala
+mais brilhante.</i>
+
+500
+00:29:25,420 --> 00:29:28,421
+<i>O conversor precisa
+de luz fluorescente todo tempo.</i>
+
+501
+00:29:30,320 --> 00:29:32,119
+Localize
+o conversor biométrico.
+
+502
+00:29:32,120 --> 00:29:35,089
+- <i>Um objeto com formato de rim.
+</i>- Acho que encontrei.
+
+503
+00:29:40,030 --> 00:29:43,445
+Não há como o Deus da Velocidade
+estabilizar o Velocity-9 agora.
+
+504
+00:29:45,706 --> 00:29:48,168
+Você não aprende, não é?
+
+505
+00:29:48,811 --> 00:29:51,730
+- Isso é meu.
+- Venha pegar.
+
+506
+00:29:58,000 --> 00:29:59,400
+Funcionou.
+
+507
+00:30:04,761 --> 00:30:06,161
+Não.
+
+508
+00:30:06,313 --> 00:30:07,868
+Ele tem mais V-9.
+
+509
+00:30:14,156 --> 00:30:17,133
+Nora, precisa sair daí agora.
+Agora!
+
+510
+00:30:25,282 --> 00:30:27,024
+Não consigo fugir dele.
+
+511
+00:30:27,422 --> 00:30:28,843
+Thawne.
+
+512
+00:30:28,844 --> 00:30:31,195
+<i>Está me ouvindo?
+Não consigo fugir dele.</i>
+
+513
+00:30:31,196 --> 00:30:32,624
+Tudo bem, Nora.
+
+514
+00:30:32,625 --> 00:30:35,936
+Você vê alguma parede perto,
+de preferência de concreto?
+
+515
+00:30:35,937 --> 00:30:37,433
+Por quê?
+
+516
+00:30:37,434 --> 00:30:41,530
+Você precisa correr para uma.
+Ou melhor, atravessar.
+
+517
+00:30:41,531 --> 00:30:43,412
+Não posso atravessar
+uma parede.
+
+518
+00:30:43,413 --> 00:30:46,194
+Sim, você pode.
+Se vibrar na frequência do ar,
+
+519
+00:30:46,195 --> 00:30:48,973
+seu corpo e suas células
+estarão em tal estado
+
+520
+00:30:48,974 --> 00:30:51,293
+que vai atravessar
+a parede.
+
+521
+00:30:51,294 --> 00:30:53,091
+Não consigo fazer isso.
+
+522
+00:30:53,092 --> 00:30:55,872
+Nora, escute-me.
+
+523
+00:30:56,294 --> 00:30:58,162
+<i>Ouça minha voz.</i>
+
+524
+00:30:58,765 --> 00:31:00,246
+Respire.
+
+525
+00:31:01,496 --> 00:31:02,911
+<i>Respire.</i>
+
+526
+00:31:04,201 --> 00:31:08,136
+Sinta o vento em seu rosto.
+
+527
+00:31:08,137 --> 00:31:10,761
+O chão sob seus pés.
+
+528
+00:31:10,762 --> 00:31:12,208
+E a energia.
+
+529
+00:31:12,770 --> 00:31:16,502
+<i>A eletricidade
+emanando em suas veias.</i>
+
+530
+00:31:17,033 --> 00:31:20,102
+Para as terminações nervosas
+no topo da sua cabeça
+
+531
+00:31:20,103 --> 00:31:23,998
+até as pontas dos dedos dos pés
+como um choque elétrico
+
+532
+00:31:23,999 --> 00:31:25,869
+que você nunca quer
+que acabe.
+
+533
+00:31:26,328 --> 00:31:28,693
+<i>Agora você é parte
+de algo maior, Nora.</i>
+
+534
+00:31:28,694 --> 00:31:31,911
+<i>Você faz parte
+da Força de Aceleração,</i>
+
+535
+00:31:31,912 --> 00:31:35,066
+e todo este poder
+é seu para usá-lo.
+
+536
+00:31:35,067 --> 00:31:36,550
+Agora use-o!
+
+537
+00:31:45,519 --> 00:31:46,934
+Não consigo.
+
+538
+00:31:47,300 --> 00:31:48,953
+<i>Não consigo
+atravessar a parede.</i>
+
+539
+00:31:52,779 --> 00:31:54,441
+Então adeus,
+pequena corredora.
+
+540
+00:31:54,442 --> 00:31:56,096
+Não, não.
+
+541
+00:31:57,362 --> 00:32:00,112
+<i>Eu sinto muito.
+Eu confio em você.</i>
+
+542
+00:32:00,959 --> 00:32:02,362
+E agora?
+
+543
+00:32:02,783 --> 00:32:05,760
+Nora, você não pode fugir
+para sempre.
+
+544
+00:32:06,104 --> 00:32:07,752
+<i>Você terá que pará-lo.</i>
+
+545
+00:32:08,165 --> 00:32:09,924
+Diga-me o que vê
+ao seu redor.
+
+546
+00:32:11,846 --> 00:32:15,196
+Estou na 5ª com a Park.
+Vejo as Empresas Choi,
+
+547
+00:32:15,197 --> 00:32:18,265
+o Banco Peercoin
+e a Mídia Os Cidadãos.
+
+548
+00:32:18,266 --> 00:32:19,742
+É isso, os satélites.
+
+549
+00:32:19,743 --> 00:32:23,992
+Use a radiação eletromagnética
+dos satélites para romper o V-9.
+
+550
+00:32:23,993 --> 00:32:26,004
+Inunde-o
+com anti-endorfinas.
+
+551
+00:32:26,005 --> 00:32:27,885
+Neutralizando o V-9
+instantaneamente.
+
+552
+00:32:27,886 --> 00:32:31,198
+Exato, mas tem uma coisa.
+Esses satélites recalibram
+
+553
+00:32:31,199 --> 00:32:33,401
+quando emitem rajadas curtas
+de energia.
+
+554
+00:32:33,402 --> 00:32:35,794
+Terá segundos para colocar
+o Deus da Velocidade
+
+555
+00:32:35,795 --> 00:32:37,557
+na frente dessas rajadas,
+entendeu?
+
+556
+00:32:37,558 --> 00:32:39,883
+Ele só tem que me seguir
+até dentro do prédio.
+
+557
+00:32:39,884 --> 00:32:43,101
+Não dentro do prédio.
+Pelo prédio.
+
+558
+00:32:43,784 --> 00:32:46,180
+Tudo bem.
+Consigo fazer isso.
+
+559
+00:32:46,805 --> 00:32:49,352
+Quão rápido tenho que correr
+para subir um prédio?
+
+560
+00:32:49,353 --> 00:32:51,495
+O mais rápido que puder.
+
+561
+00:32:54,571 --> 00:32:56,179
+Aí vem ele.
+
+562
+00:32:56,180 --> 00:32:57,930
+Corra, Nora.
+
+563
+00:32:58,805 --> 00:33:00,211
+Corra.
+
+564
+00:33:13,649 --> 00:33:16,485
+Espere, Nora.
+Espere!
+
+565
+00:33:20,572 --> 00:33:21,984
+<i>Agora!</i>
+
+566
+00:33:35,774 --> 00:33:37,174
+Nora?
+
+567
+00:33:37,303 --> 00:33:39,938
+<i>- Nora!</i>
+- Conseguimos!
+
+568
+00:33:40,360 --> 00:33:42,078
+<i>Conseguimos!</i>
+
+569
+00:33:42,079 --> 00:33:43,620
+Conseguimos.
+
+570
+00:33:46,895 --> 00:33:48,295
+*
+
+571
+00:33:48,779 --> 00:33:51,731
+<i>Não temos mais que nos preocupar
+com o Deus da Velocidade.</i>
+
+572
+00:33:51,732 --> 00:33:54,602
+August Hart
+está sob custódia da polícia.
+
+573
+00:33:55,271 --> 00:33:56,932
+Bravo, pequena corredora.
+
+574
+00:33:57,777 --> 00:33:59,790
+Ainda tenho muito
+a aprender.
+
+575
+00:34:02,492 --> 00:34:05,164
+- Poderia me treinar.
+- Não posso te treinar, Nora.
+
+576
+00:34:07,094 --> 00:34:08,909
+Não há tempo suficiente.
+
+577
+00:34:09,712 --> 00:34:12,039
+Do que está falando?
+
+578
+00:34:12,040 --> 00:34:13,462
+Nora.
+
+579
+00:34:13,814 --> 00:34:16,117
+Meu tempo nesta Terra
+está chegando ao fim.
+
+580
+00:34:30,188 --> 00:34:32,595
+Há tanta coisa
+que queria te perguntar.
+
+581
+00:34:33,443 --> 00:34:34,974
+Tanta coisa
+que ainda não sei.
+
+582
+00:34:34,975 --> 00:34:37,798
+Tanta coisa das quais
+minha mãe mentiu para mim.
+
+583
+00:34:39,578 --> 00:34:41,330
+Você não tem ideia.
+
+584
+00:34:42,506 --> 00:34:43,925
+O que você sabe?
+
+585
+00:34:45,808 --> 00:34:48,360
+Thawne, você pode ser
+a única pessoa que restou
+
+586
+00:34:48,361 --> 00:34:49,855
+que não vai mentir
+para mim.
+
+587
+00:34:52,939 --> 00:34:54,355
+Nora...
+
+588
+00:34:56,013 --> 00:34:58,864
+Quanto você realmente sabe
+sobre o Flash?
+
+589
+00:35:21,475 --> 00:35:23,819
+Quatro, cinco, seis,
+
+590
+00:35:25,366 --> 00:35:26,766
+sete.
+
+591
+00:35:42,919 --> 00:35:44,705
+Caramba.
+
+592
+00:35:47,566 --> 00:35:49,136
+TRAJES DO FLASH
+
+593
+00:36:27,183 --> 00:36:28,952
+<i>Boa noite, Nora West-Allen.</i>
+
+594
+00:36:31,141 --> 00:36:32,541
+Olá.
+
+595
+00:36:34,255 --> 00:36:37,628
+- Você sabe quem eu sou?
+<i>- Claro, Nora West-Allen.</i>
+
+596
+00:36:37,629 --> 00:36:40,020
+<i>Filha de Iris West
+e Barry Allen,</i>
+
+597
+00:36:40,021 --> 00:36:42,482
+<i>também conhecido como Flash.</i>
+
+598
+00:36:44,403 --> 00:36:45,803
+O...
+
+599
+00:36:45,944 --> 00:36:47,618
+Então...
+Você...
+
+600
+00:36:48,220 --> 00:36:49,621
+Você acabou de dizer
+
+601
+00:36:50,082 --> 00:36:52,235
+que meu pai, Barry Allen,
+
+602
+00:36:52,763 --> 00:36:54,545
+era o Flash?
+
+603
+00:36:54,546 --> 00:36:57,849
+<i>Gostaria de ver a mensagem,
+Nora West-Allen?</i>
+
+604
+00:36:59,528 --> 00:37:01,539
+Minha mensagem?
+
+605
+00:37:01,540 --> 00:37:04,305
+<i>Sim, do seu pai,
+Barry Allen.</i>
+
+606
+00:37:05,466 --> 00:37:07,367
+Quero.
+
+607
+00:37:08,254 --> 00:37:09,654
+<i>Nora...</i>
+
+608
+00:37:10,938 --> 00:37:12,594
+<i>Não tenho muito tempo.</i>
+
+609
+00:37:14,849 --> 00:37:18,040
+<i>Se você estiver assistindo,
+significa que você é como eu.</i>
+
+610
+00:37:19,600 --> 00:37:21,165
+<i>Você tem poderes.</i>
+
+611
+00:37:23,935 --> 00:37:26,753
+<i>Também que eu não estava aí
+para te ajudar a usá-los.</i>
+
+612
+00:37:28,200 --> 00:37:30,249
+<i>Não estava aí
+para várias coisas.</i>
+
+613
+00:37:31,481 --> 00:37:32,886
+<i>Lembre-se,</i>
+
+614
+00:37:33,896 --> 00:37:35,356
+<i>minha doce Nora,</i>
+
+615
+00:37:35,942 --> 00:37:37,504
+<i>sempre lembre-se...</i>
+
+616
+00:37:38,439 --> 00:37:39,906
+<i>Amo você.</i>
+
+617
+00:37:40,712 --> 00:37:42,112
+<i>Sempre amarei.</i>
+
+618
+00:37:57,100 --> 00:37:58,974
+Só queria ver você, pai.
+
+619
+00:38:06,875 --> 00:38:09,995
+Thawne me mostrou como.
+
+620
+00:38:10,690 --> 00:38:12,214
+E Cicada?
+
+621
+00:38:12,602 --> 00:38:14,859
+O único caso
+que não pudemos resolver.
+
+622
+00:38:16,539 --> 00:38:20,420
+Foi ideia minha vir aqui
+e fazer o certo.
+
+623
+00:38:21,800 --> 00:38:23,205
+Certo.
+
+624
+00:38:25,937 --> 00:38:27,819
+Posso ter
+um momento a sós com Nora?
+
+625
+00:38:29,573 --> 00:38:30,973
+Claro.
+
+626
+00:38:44,480 --> 00:38:46,768
+Quantas vezes você voltou
+ao Thawne?
+
+627
+00:38:47,448 --> 00:38:50,427
+- Quantas vezes?
+- Depois da noite da Iluminação.
+
+628
+00:38:50,670 --> 00:38:52,258
+Cinco,
+
+629
+00:38:52,694 --> 00:38:54,178
+talvez seis.
+
+630
+00:38:57,001 --> 00:38:59,287
+Mesmo sabendo
+que ele matou minha mãe?
+
+631
+00:38:59,288 --> 00:39:01,489
+- Pai...
+- Entendo...
+
+632
+00:39:02,892 --> 00:39:05,820
+Voltar para me conhecer
+
+633
+00:39:06,483 --> 00:39:08,717
+e conhecer a equipe.
+Entendo.
+
+634
+00:39:09,328 --> 00:39:11,494
+Também entendo
+que procurou o Thawne
+
+635
+00:39:13,200 --> 00:39:15,298
+para aprender como fazer
+para vir para cá,
+
+636
+00:39:16,000 --> 00:39:17,813
+mas você continuou a voltar.
+
+637
+00:39:18,957 --> 00:39:20,508
+Você sabia o que ele fez.
+
+638
+00:39:20,509 --> 00:39:22,960
+Mesmo quando ele não era
+mais sua única opção.
+
+639
+00:39:22,961 --> 00:39:24,361
+E o pi...
+
+640
+00:39:25,500 --> 00:39:28,890
+E o pior de tudo,
+mentiu para nós todas as vezes.
+
+641
+00:39:29,642 --> 00:39:32,649
+- Pai, eu...
+- Não confio em você, Nora.
+
+642
+00:39:34,500 --> 00:39:36,485
+Não posso ter ninguém aqui,
+
+643
+00:39:37,232 --> 00:39:40,053
+com a gente,
+que não confio mais.
+
+644
+00:39:42,881 --> 00:39:46,218
+- O você quer dizer?
+- Está na hora de você ir.
+
+645
+00:39:50,497 --> 00:39:53,144
+Pai, por favor,
+não faça isso.
+
+646
+00:39:53,145 --> 00:39:55,447
+Prometo que nunca mais verei
+o Thawne de novo.
+
+647
+00:39:56,756 --> 00:39:58,534
+Pai, não faça isso!
+
+648
+00:39:58,930 --> 00:40:01,746
+Nora, se você tentar
+voltar no tempo de novo,
+
+649
+00:40:01,833 --> 00:40:04,121
+irei sentir
+na Força de aceleração.
+
+650
+00:40:04,336 --> 00:40:05,736
+Irei saber.
+
+651
+00:40:08,106 --> 00:40:09,648
+Adeus, Nora.
+
+652
+00:40:09,649 --> 00:40:11,049
+*
+
+653
+00:40:33,125 --> 00:40:35,056
+Então ela finalmente
+disse a verdade.
+
+654
+00:40:38,278 --> 00:40:41,202
+Ou você percebeu
+tudo sozinho?
+
+655
+00:40:42,407 --> 00:40:43,952
+Uma não era o bastante?
+
+656
+00:40:46,800 --> 00:40:49,679
+Você tinha que tentar tirar
+a minha filha de mim também?
+
+657
+00:40:51,400 --> 00:40:54,267
+- Minha filha!
+- Sabia que você reagiria assim.
+
+658
+00:40:55,457 --> 00:40:56,857
+Você é sempre tão emocional,
+
+659
+00:40:56,858 --> 00:40:59,780
+e é por isso
+que ela não podia te dizer nada.
+
+660
+00:41:00,500 --> 00:41:02,968
+Você não pode culpar
+a Pequena Corredora, Barry.
+
+661
+00:41:03,300 --> 00:41:06,194
+Ela só queria passar
+algum tempo com o pai.
+
+662
+00:41:07,800 --> 00:41:09,696
+Não pense mal dela.
+
+663
+00:41:12,254 --> 00:41:15,159
+Esse é meu último pedido
+como um homem condenado.
+
+664
+00:41:18,150 --> 00:41:21,018
+Você sempre achou que era
+mais esperto que nós, Thawne.
+
+665
+00:41:23,759 --> 00:41:25,159
+Mas você perdeu.
+
+666
+00:41:29,580 --> 00:41:32,140
+E agora finalmente
+você terá o que merece.
+
+667
+00:41:44,022 --> 00:41:45,622
+<b>www.insubs.com</b>

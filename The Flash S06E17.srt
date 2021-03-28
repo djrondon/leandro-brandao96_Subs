@@ -1,0 +1,2193 @@
+1
+00:00:03,553 --> 00:00:05,597
+Então, construímos uma máquina
+poderosa o suficiente para criar
+
+2
+00:00:05,680 --> 00:00:07,015
+um novo Poder da Velocidade,
+
+3
+00:00:07,098 --> 00:00:11,060
+baseada somente nos ensinamentos
+do velocista mais malvado da história.
+
+4
+00:00:12,187 --> 00:00:14,189
+Queremos mesmo carregar neste botão?
+
+5
+00:00:25,950 --> 00:00:26,784
+Faz isso.
+
+6
+00:00:27,619 --> 00:00:29,996
+SISTEMA: PODER DA VELOCIDADE ARTIFICIAL
+IGNIÇÃO
+
+7
+00:00:56,814 --> 00:00:59,525
+FASE - CARGA
+
+8
+00:01:02,320 --> 00:01:03,863
+O que se passa?
+
+9
+00:01:12,080 --> 00:01:13,289
+Não funcionou.
+
+10
+00:01:34,477 --> 00:01:35,687
+Pessoal, estão aí?
+
+11
+00:01:37,438 --> 00:01:39,774
+Desculpem interromper.
+
+12
+00:01:40,900 --> 00:01:43,695
+- Como correu o teste da máquina?
+- Não funcionou.
+
+13
+00:01:43,778 --> 00:01:44,988
+O problema é esse.
+
+14
+00:01:45,071 --> 00:01:46,864
+Como foi que o Thawne conseguiu construir
+
+15
+00:01:46,948 --> 00:01:50,076
+uma máquina de Poder da Velocidade
+sozinho, sem uma publicação para o guiar,
+
+16
+00:01:50,159 --> 00:01:53,955
+mas a inteligência dos Laboratórios STAR
+nem sequer consegue pôr isto a funcionar?
+
+17
+00:01:54,372 --> 00:01:56,874
+Parece que construímos
+um pisa-papéis de 11 toneladas.
+
+18
+00:01:57,500 --> 00:02:01,963
+Está bem, mas talvez sair daqui
+por um minuto desanuvie as vossas cabeças.
+
+19
+00:02:02,130 --> 00:02:06,426
+Eu mesma ia agora
+ao <i>The Citizen.</i> Alguém...
+
+20
+00:02:06,801 --> 00:02:09,012
+Barry, queres vir comigo?
+
+21
+00:02:10,930 --> 00:02:13,057
+Não. Olha, cada dia
+que aquela máquina está desligada
+
+22
+00:02:13,141 --> 00:02:14,976
+é mais um
+que não posso proteger esta cidade.
+
+23
+00:02:15,059 --> 00:02:16,394
+Tenho de continuar a trabalhar.
+
+24
+00:02:19,689 --> 00:02:21,107
+Barry, espera.
+
+25
+00:02:22,775 --> 00:02:24,360
+De certeza que não queres ver a Iris?
+
+26
+00:02:28,781 --> 00:02:30,616
+Posso dizer-lhe alguma coisa por ti?
+
+27
+00:02:32,994 --> 00:02:34,412
+Diz-lhe que sinto a falta dela.
+
+28
+00:02:40,668 --> 00:02:44,756
+A velocidade dele tem-se esgotado
+sem parar. O seu plano foi um sucesso.
+
+29
+00:02:44,964 --> 00:02:46,674
+Fez um trabalho espantoso.
+
+30
+00:02:49,218 --> 00:02:50,636
+Está tudo bem?
+
+31
+00:02:51,345 --> 00:02:52,180
+Parece...
+
+32
+00:02:53,306 --> 00:02:54,182
+... distante.
+
+33
+00:02:54,515 --> 00:02:55,558
+Desculpe.
+
+34
+00:02:56,476 --> 00:02:59,479
+Eu só gostaria de saber se quer
+que prossigamos com a próxima fase.
+
+35
+00:02:59,562 --> 00:03:00,396
+Sim.
+
+36
+00:03:01,022 --> 00:03:03,024
+Vá juntar-se ao seu irmão e preparem-se
+
+37
+00:03:03,691 --> 00:03:07,904
+porque, esta noite,
+terei finalmente a minha libertação.
+
+38
+00:03:08,696 --> 00:03:10,198
+- O sucesso está assegurado.
+- O sucesso está assegurado.
+
+39
+00:03:14,368 --> 00:03:15,328
+Entre.
+
+40
+00:03:16,662 --> 00:03:18,956
+- Olá, estão ocupadas?
+- Olá, o que se passa?
+
+41
+00:03:19,415 --> 00:03:20,500
+Eu só queria...
+
+42
+00:03:28,049 --> 00:03:29,550
+Vieste por minha causa e do Barry?
+
+43
+00:03:30,635 --> 00:03:31,594
+Sim.
+
+44
+00:03:34,305 --> 00:03:36,057
+Ele não está nada bem, Iris.
+
+45
+00:03:37,016 --> 00:03:40,228
+Está a abater-se pela dor.
+Não fala com ninguém sobre isso.
+
+46
+00:03:40,645 --> 00:03:43,314
+Prometeu-me, após ter levado a Nora
+para o futuro, que seria a última vez
+
+47
+00:03:43,398 --> 00:03:45,942
+que tomava uma decisão
+sobre a nossa família sem mim.
+
+48
+00:03:46,442 --> 00:03:48,486
+Mas levou o meu pai para o WITSEC
+e nem me disse.
+
+49
+00:03:48,569 --> 00:03:50,071
+Tive de saber pelo Singh.
+
+50
+00:03:50,446 --> 00:03:52,115
+Como se ultrapassa isso, Cecile?
+
+51
+00:03:52,490 --> 00:03:53,324
+Bem...
+
+52
+00:03:54,409 --> 00:03:55,576
+Não sei bem, Iris,
+
+53
+00:03:55,660 --> 00:03:58,996
+mas pensaria
+que o primeiro passo é querer.
+
+54
+00:03:59,747 --> 00:04:01,124
+O que queres?
+
+55
+00:04:09,632 --> 00:04:12,260
+Não sei.
+
+56
+00:04:16,222 --> 00:04:18,850
+Consegues sentir o que quero?
+
+57
+00:04:20,226 --> 00:04:21,519
+Podes dizer-me?
+
+58
+00:04:29,110 --> 00:04:32,113
+Sentes-te... triste.
+
+59
+00:04:33,197 --> 00:04:35,867
+Triste e preocupada.
+
+60
+00:04:36,909 --> 00:04:41,497
+Acho que, agora, a Iris precisa de espaço
+para se concentrar no que é importante.
+
+61
+00:04:42,999 --> 00:04:43,833
+Exato.
+
+62
+00:04:45,460 --> 00:04:49,380
+É importante cuidar de mim agora, Cecile.
+
+63
+00:04:52,008 --> 00:04:53,259
+Está bem, sim...
+
+64
+00:04:56,220 --> 00:04:58,764
+O teu marido queria que eu te dissesse
+que sente a tua falta.
+
+65
+00:05:12,987 --> 00:05:13,821
+Barr.
+
+66
+00:05:14,572 --> 00:05:16,199
+- Olá.
+- Há algo a bloquear a porta.
+
+67
+00:05:16,282 --> 00:05:17,116
+Sim...
+
+68
+00:05:17,366 --> 00:05:19,035
+Julguei-te ainda
+no laboratório de velocidade.
+
+69
+00:05:20,953 --> 00:05:22,121
+- Barry...
+- Espera.
+
+70
+00:05:22,205 --> 00:05:24,916
+- Porque não posso entrar na minha casa?
+- Desculpa. Espera.
+
+71
+00:05:25,249 --> 00:05:26,834
+- Dá-me um segundo.
+- Credo!
+
+72
+00:05:31,505 --> 00:05:33,049
+Cecile, posso explicar.
+
+73
+00:05:34,675 --> 00:05:36,552
+O que raio é isto?
+
+74
+00:05:38,346 --> 00:05:39,847
+A Iris não é a Iris.
+
+75
+00:05:46,557 --> 00:05:47,474
+Então, pensei,
+
+76
+00:05:47,558 --> 00:05:49,685
+é óbvio que esta não pode ser
+uma sósia da Iris de outra Terra,
+
+77
+00:05:49,852 --> 00:05:51,353
+pois os sósias já não existem
+
+78
+00:05:51,437 --> 00:05:52,938
+porque o multiverso já não existe,
+
+79
+00:05:53,022 --> 00:05:54,481
+dado que a Crise explodiu tudo, certo?
+
+80
+00:05:55,357 --> 00:05:56,984
+Exatamente. Então, se isso é verdade,
+
+81
+00:05:57,067 --> 00:05:58,986
+quem mais conhecemos
+que possa estar a fingir ser a Iris?
+
+82
+00:06:00,029 --> 00:06:00,946
+Os metamorfos.
+
+83
+00:06:01,155 --> 00:06:02,615
+O Everyman foi o meu primeiro suspeito.
+
+84
+00:06:02,698 --> 00:06:05,201
+E os relatórios do Cisco mostram
+que ele está vivo pós-Crise.
+
+85
+00:06:05,284 --> 00:06:08,287
+Mas, depois, lembrei-me de algo
+que o Breacher disse sobre os Plastoides,
+
+86
+00:06:08,370 --> 00:06:09,413
+que me fez perceber...
+
+87
+00:06:09,830 --> 00:06:12,041
+... que podia haver agora
+marcianos metamorfos nesta Terra.
+
+88
+00:06:12,458 --> 00:06:14,960
+Esta Iris falsa nem sequer tem de ser
+do nosso planeta.
+
+89
+00:06:15,044 --> 00:06:16,128
+Mas, depois, ocorreu-me
+
+90
+00:06:16,212 --> 00:06:18,881
+que o J'onn J'onzz sentiria se houvesse
+um marciano escondido entre nós.
+
+91
+00:06:18,964 --> 00:06:20,007
+Logo, isso era impossível,
+
+92
+00:06:20,132 --> 00:06:22,134
+mas levou-me
+à minha maior descoberta até agora.
+
+93
+00:06:22,218 --> 00:06:23,219
+Bom, Cecile.
+
+94
+00:06:23,552 --> 00:06:27,348
+Na noite em que tudo isto começou,
+a Iris saiu para investigar uma história.
+
+95
+00:06:27,431 --> 00:06:31,268
+Analisei o GPS do telemóvel dela
+e mostra que ela foi à McCulloch Tech.
+
+96
+00:06:32,519 --> 00:06:35,481
+Cecile, acho que algo aconteceu
+à Iris nessa noite.
+
+97
+00:06:37,816 --> 00:06:38,651
+Barry.
+
+98
+00:06:39,276 --> 00:06:42,238
+É por tudo isto
+que tens estado a evitar a Iris?
+
+99
+00:06:42,321 --> 00:06:44,865
+Não é a Iris!
+Está bem, olha, eu não queria...
+
+100
+00:06:45,658 --> 00:06:47,993
+... dizer isto a mais ninguém
+até recolher mais provas,
+
+101
+00:06:48,077 --> 00:06:50,204
+mas agora sabes, por isso, eu...
+
+102
+00:06:51,497 --> 00:06:52,373
+O que achas?
+
+103
+00:06:54,917 --> 00:06:58,587
+O que acho? Acho que isto parece...
+
+104
+00:06:58,671 --> 00:07:01,090
+Sei o que parece,
+mas já vimos coisas mais loucas.
+
+105
+00:07:01,173 --> 00:07:02,216
+E vê as pistas todas.
+
+106
+00:07:02,549 --> 00:07:04,843
+Está bem, ela fala italiano, de repente.
+
+107
+00:07:04,927 --> 00:07:06,762
+Partiu uma garrafa na cabeça de um tipo.
+
+108
+00:07:06,845 --> 00:07:07,972
+Fez panquecas incríveis.
+
+109
+00:07:08,681 --> 00:07:10,641
+Cecile, confia em mim.
+A Iris não sabe fazer panquecas.
+
+110
+00:07:10,933 --> 00:07:13,060
+Está bem? Mas a maior pista foi...
+
+111
+00:07:14,562 --> 00:07:15,729
+... ela expulsar-me.
+
+112
+00:07:17,147 --> 00:07:20,150
+A verdadeira Iris
+nunca pararia de lutar por nós.
+
+113
+00:07:22,111 --> 00:07:23,654
+Está bem...
+
+114
+00:07:24,780 --> 00:07:29,076
+Querido, achas que talvez,
+apenas talvez...
+
+115
+00:07:30,077 --> 00:07:31,787
+... te sintas um pouco assustado?
+
+116
+00:07:31,870 --> 00:07:34,415
+Porque o teu casamento
+está a atravessar um período difícil
+
+117
+00:07:34,498 --> 00:07:39,211
+e talvez só precises de ir ver a Iris.
+
+118
+00:07:39,503 --> 00:07:41,505
+Não é a... Cecile, olha.
+
+119
+00:07:41,714 --> 00:07:43,340
+Sabes porque o meu Medidor de Velocidade
+ainda brilha vermelho?
+
+120
+00:07:44,633 --> 00:07:48,679
+É porque, assim que saí do sótão,
+
+121
+00:07:48,887 --> 00:07:52,641
+percebi que a verdadeira Iris,
+a minha mulher,
+
+122
+00:07:52,975 --> 00:07:56,395
+estava noutro sítio,
+provavelmente em perigo.
+
+123
+00:07:56,645 --> 00:07:59,398
+E se isso for verdade,
+preciso da minha velocidade de volta,
+
+124
+00:07:59,481 --> 00:08:02,693
+dos meus raios,
+de todos os meus poderes, se a vou salvar.
+
+125
+00:08:04,612 --> 00:08:06,071
+É só nisso que tenho pensado desde então.
+
+126
+00:08:06,614 --> 00:08:09,658
+Por mais louco que tudo isto pareça...
+
+127
+00:08:10,993 --> 00:08:16,373
+... sei no meu coração
+que a verdadeira Íris está algures por aí,
+
+128
+00:08:16,874 --> 00:08:19,001
+à espera que eu a encontre.
+
+129
+00:08:19,793 --> 00:08:21,128
+Não a desiludirei.
+
+130
+00:08:29,303 --> 00:08:31,430
+O urso polar é desajeitadamente direto,
+não achas?
+
+131
+00:08:31,513 --> 00:08:32,681
+Não é que as lojas tenham
+
+132
+00:08:32,765 --> 00:08:35,392
+um postal de "melhora logo
+dos dois ataques de assassinos de luz".
+
+133
+00:08:36,769 --> 00:08:37,603
+O que trouxeste?
+
+134
+00:08:37,686 --> 00:08:38,979
+Trouxe um biolaboratório móvel,
+
+135
+00:08:39,063 --> 00:08:41,398
+para ela poder pôr o trabalho em dia
+enquanto recupera na cama.
+
+136
+00:08:43,192 --> 00:08:44,818
+Não fiques com ciúmes.
+É uma cena de cientista.
+
+137
+00:08:45,569 --> 00:08:47,237
+Vá lá, lesma. Somos nós.
+
+138
+00:08:53,202 --> 00:08:54,370
+Está gelado.
+
+139
+00:09:03,128 --> 00:09:04,088
+Caitlin.
+
+140
+00:09:04,463 --> 00:09:05,923
+Ajudem-me.
+
+141
+00:09:11,053 --> 00:09:12,221
+Desde quando é a Caitlin a gelada?
+
+142
+00:09:17,142 --> 00:09:18,143
+Ela não é.
+
+143
+00:09:20,312 --> 00:09:22,356
+Espera, Caitlin. Vamos tratar disto.
+
+144
+00:09:27,695 --> 00:09:30,739
+Acho que tive uma nova ideia
+para sairmos deste local.
+
+145
+00:09:34,243 --> 00:09:36,745
+Pare! O que está a fazer?
+
+146
+00:09:36,912 --> 00:09:37,830
+Eva, pense nisso.
+
+147
+00:09:37,996 --> 00:09:39,832
+Este é o único espelho
+que consegue controlar,
+
+148
+00:09:40,165 --> 00:09:42,167
+portanto, tem de haver
+algo diferente nele.
+
+149
+00:09:42,543 --> 00:09:47,339
+Mas até percebermos o que é,
+estamos a trabalhar às cegas. Afaste-se.
+
+150
+00:09:47,631 --> 00:09:50,634
+Então, para o examinar, quer parti-lo?
+
+151
+00:09:51,093 --> 00:09:54,054
+Sim. Ambas sabemos
+que pode voltar a juntá-lo,
+
+152
+00:09:54,304 --> 00:09:56,098
+portanto, vamos deitar isto abaixo,
+
+153
+00:09:56,181 --> 00:09:59,017
+dissecá-lo pedaço a pedaço
+e saber quais são os segredos dele.
+
+154
+00:09:59,893 --> 00:10:02,938
+Tudo bem. Faça o que quiser.
+
+155
+00:10:05,858 --> 00:10:07,109
+Vou para o meu laboratório
+
+156
+00:10:07,234 --> 00:10:10,028
+trabalhar num plano
+que realmente nos ajudaria.
+
+157
+00:10:43,979 --> 00:10:45,856
+Meu Deus!
+
+158
+00:10:48,901 --> 00:10:50,903
+Podes, talvez, apressar-te?
+
+159
+00:10:50,986 --> 00:10:53,739
+Quando a Iris me deu uma chave extra,
+foi para lhe regar as plantas.
+
+160
+00:10:53,822 --> 00:10:54,740
+Não foi para aceder ao computador dela.
+
+161
+00:10:54,948 --> 00:10:57,576
+Não é aceder ao computador dela
+se não é realmente a Iris.
+
+162
+00:10:57,785 --> 00:10:59,036
+E o que procuras, afinal?
+
+163
+00:10:59,161 --> 00:11:02,289
+Tudo o que possa ser suspeito
+das últimas semanas.
+
+164
+00:11:05,417 --> 00:11:07,211
+- Em cheio.
+- O que encontraste?
+
+165
+00:11:08,003 --> 00:11:08,837
+Esta foto.
+
+166
+00:11:09,463 --> 00:11:10,964
+Foi apagada da câmara da Kamilla,
+
+167
+00:11:11,048 --> 00:11:13,467
+mas não antes de ser carregada
+no servidor da nuvem do <i>The Citizen.</i>
+
+168
+00:11:13,550 --> 00:11:14,676
+Vês este texto?
+
+169
+00:11:15,302 --> 00:11:16,595
+"Filtro Prismático."
+
+170
+00:11:16,678 --> 00:11:17,513
+FILTRAGEM PRISMÁTICA
+
+171
+00:11:17,930 --> 00:11:18,889
+O que é isso?
+
+172
+00:11:20,182 --> 00:11:23,268
+É a ciência que vamos usar para testar
+a identidade da nossa impostora.
+
+173
+00:11:24,561 --> 00:11:25,771
+Expô-la para sempre.
+
+174
+00:11:36,698 --> 00:11:38,534
+Está melhor. Muito mais acolhedor.
+
+175
+00:11:39,159 --> 00:11:40,827
+"Mais próximo" é como eu o descreveria.
+
+176
+00:11:41,537 --> 00:11:42,829
+Mais próximo da nossa mãe.
+
+177
+00:11:43,747 --> 00:11:45,499
+Está na hora do nosso próximo passo.
+
+178
+00:11:46,625 --> 00:11:48,752
+- Está preparada?
+- Sim.
+
+179
+00:11:50,170 --> 00:11:51,004
+Tu estás?
+
+180
+00:11:53,257 --> 00:11:54,091
+Sim.
+
+181
+00:11:55,592 --> 00:11:57,094
+Só importa a vontade da Eva.
+
+182
+00:11:58,303 --> 00:12:00,430
+Cumprimos ordens
+e asseguramos o sucesso dela.
+
+183
+00:12:00,806 --> 00:12:01,807
+É tudo o que quero.
+
+184
+00:12:02,516 --> 00:12:03,767
+Temos de nos concentrar.
+
+185
+00:12:04,101 --> 00:12:06,937
+Ainda há um artigo que a mãe tem de obter
+para a libertação dela.
+
+186
+00:12:07,688 --> 00:12:08,772
+GRUPO DE UNIDADE DE APOIO
+DE PESQUISA AVANÇADA
+
+187
+00:12:08,855 --> 00:12:10,023
+<i>E é o mais perigoso até agora.</i>
+
+188
+00:12:23,588 --> 00:12:24,797
+Olá, vi a tua mensagem.
+
+189
+00:12:25,089 --> 00:12:27,383
+Vim o mais rápido que pude.
+Qual é a emergência?
+
+190
+00:12:30,845 --> 00:12:32,555
+Tu, pelos vistos.
+
+191
+00:12:38,269 --> 00:12:39,145
+O que se passa?
+
+192
+00:12:40,062 --> 00:12:42,440
+Não és a Iris. É o que se passa.
+
+193
+00:12:42,898 --> 00:12:46,110
+E não sais daqui
+até nos dizeres quem ou o que és.
+
+194
+00:12:50,823 --> 00:12:52,491
+De que raio estás a falar?
+
+195
+00:12:54,994 --> 00:12:57,121
+Porque me apontas essa manopla?
+
+196
+00:13:01,959 --> 00:13:04,462
+Esta foto foi tirada
+pela câmara da Kamilla.
+
+197
+00:13:05,046 --> 00:13:06,839
+Vês a fragmentação prismática?
+
+198
+00:13:08,049 --> 00:13:09,550
+Só a tua imagem é afetada.
+
+199
+00:13:10,468 --> 00:13:14,055
+Acho que o filtro da câmara
+revela uma mudança dimensional,
+
+200
+00:13:14,347 --> 00:13:17,183
+que nos mostra coisas na fotografia
+de outra dimensão.
+
+201
+00:13:18,142 --> 00:13:19,644
+Coisas que não pertencem à nossa.
+
+202
+00:13:24,940 --> 00:13:26,567
+Cecile, acreditas mesmo nisto?
+
+203
+00:13:27,276 --> 00:13:31,322
+Hoje pareceste estranha no teu gabinete
+e aquela foto...
+
+204
+00:13:31,405 --> 00:13:34,116
+Podia ter sido qualquer coisa!
+Uma falha na tecnologia da câmara.
+
+205
+00:13:34,283 --> 00:13:35,785
+Pessoal, isto é de loucos.
+
+206
+00:13:38,329 --> 00:13:42,291
+Este Scanner Prismático é só uma versão
+mais poderosa do filtro da câmara.
+
+207
+00:13:43,501 --> 00:13:45,753
+Se eu estiver errado
+e fores desta dimensão,
+
+208
+00:13:45,836 --> 00:13:49,006
+quando a onda prismática te atingir,
+parecerás totalmente normal.
+
+209
+00:13:50,132 --> 00:13:54,053
+Mas se eu estiver certo,
+vais parecer como naquela foto.
+
+210
+00:13:56,222 --> 00:13:58,557
+E vais dizer-nos
+onde está a verdadeira Iris.
+
+211
+00:14:00,893 --> 00:14:02,603
+Barry, como pudeste fazer isto?
+
+212
+00:14:04,438 --> 00:14:06,315
+Por amor de Deus, sou a tua mulher.
+
+213
+00:14:19,370 --> 00:14:20,204
+Está bem.
+
+214
+00:14:21,831 --> 00:14:23,290
+Queres ver quem realmente sou?
+
+215
+00:14:25,292 --> 00:14:26,127
+Tudo bem.
+
+216
+00:14:27,878 --> 00:14:28,921
+Eu mostro-te.
+
+217
+00:15:09,670 --> 00:15:11,172
+Não.
+
+218
+00:15:11,255 --> 00:15:13,382
+Tenho de saber.
+
+219
+00:15:18,763 --> 00:15:20,598
+<i>Outra pessoa também deve ter ouvido</i>
+<i>a boa notícia.</i>
+
+220
+00:15:20,681 --> 00:15:21,974
+<i>Porque lhe enviou um presente.</i>
+
+221
+00:15:22,058 --> 00:15:23,184
+<i>Mandei entregá-lo.</i>
+
+222
+00:15:31,358 --> 00:15:32,651
+<i>Olá, Joseph.</i>
+
+223
+00:15:33,444 --> 00:15:34,695
+<i>Esta é a tua última oportunidade.</i>
+
+224
+00:15:35,321 --> 00:15:36,864
+<i>As ameaças são para pessoas reais, Eva.</i>
+
+225
+00:15:37,656 --> 00:15:40,034
+<i>Não fantasmas. Porque é isso que és.</i>
+
+226
+00:15:45,122 --> 00:15:46,749
+<i>E ninguém vos viu?</i>
+
+227
+00:15:49,001 --> 00:15:51,253
+<i>- Graças a Deus, está a salvo.</i>
+<i>- Não estou. Nem você.</i>
+
+228
+00:15:51,921 --> 00:15:53,464
+<i>O Buraco Negro não é o que pensamos.</i>
+
+229
+00:15:54,799 --> 00:15:55,633
+<i>Espelho.</i>
+
+230
+00:15:56,801 --> 00:15:58,052
+VISTA DA FRENTE
+
+231
+00:16:16,487 --> 00:16:17,363
+Eu sei.
+
+232
+00:16:19,782 --> 00:16:21,075
+A verdade dói.
+
+233
+00:16:26,747 --> 00:16:27,748
+Barry.
+
+234
+00:16:30,960 --> 00:16:34,338
+Só quero que saibas
+que, se algo acontecer, eu...
+
+235
+00:16:34,839 --> 00:16:36,048
+Eu perdoo-te.
+
+236
+00:16:57,069 --> 00:16:58,195
+O que está a acontecer?
+
+237
+00:17:00,114 --> 00:17:01,282
+Nada.
+
+238
+00:17:01,740 --> 00:17:03,576
+Pronto. Já chega.
+
+239
+00:17:03,659 --> 00:17:05,995
+Não, algo está errado, está bem?
+Deem-lhe um momento.
+
+240
+00:17:11,876 --> 00:17:12,918
+Olhem...
+
+241
+00:17:13,252 --> 00:17:14,461
+Não sei como ela fez isto,
+
+242
+00:17:14,545 --> 00:17:17,131
+mas têm de ver
+que esta não é a minha mulher.
+
+243
+00:17:17,214 --> 00:17:18,591
+Não. Não és o meu marido, Barry.
+
+244
+00:17:20,843 --> 00:17:22,469
+E queres saber o que é o verdadeiro teste?
+
+245
+00:17:22,928 --> 00:17:26,182
+O verdadeiro Barry teria lutado mais.
+Teria lutado para voltar para casa.
+
+246
+00:17:26,682 --> 00:17:28,851
+Uma semana inteira passou
+e nunca sequer tentaste.
+
+247
+00:17:34,857 --> 00:17:37,109
+Costumavas dizer
+que eu era o teu para-raios.
+
+248
+00:17:38,569 --> 00:17:39,653
+Agora, vejamos se ainda és o meu.
+
+249
+00:18:07,765 --> 00:18:08,599
+Pessoal...
+
+250
+00:18:12,102 --> 00:18:12,937
+... sou eu mesmo.
+
+251
+00:18:15,272 --> 00:18:16,398
+Sou o verdadeiro Barry.
+
+252
+00:18:17,316 --> 00:18:18,943
+- Ouve lá!
+- Espera! Nash, não.
+
+253
+00:18:19,526 --> 00:18:20,361
+Para trás.
+
+254
+00:18:22,655 --> 00:18:23,489
+Cecile.
+
+255
+00:18:29,328 --> 00:18:30,412
+Acreditas em mim?
+
+256
+00:18:31,956 --> 00:18:33,457
+Sim. Acredito.
+
+257
+00:18:40,172 --> 00:18:41,340
+E lamento.
+
+258
+00:18:45,552 --> 00:18:48,055
+Lamento, Barry.
+
+259
+00:18:58,933 --> 00:19:01,186
+<i>Nash! Cecile!</i>
+
+260
+00:19:01,477 --> 00:19:03,563
+<i>Não lhe deem ouvidos. Essa não é a Iris!</i>
+
+261
+00:19:04,063 --> 00:19:07,483
+Barry, podes parar de jogar este jogo
+ou apodrecer aí, quero lá saber.
+
+262
+00:19:07,734 --> 00:19:10,069
+Seja como for, vou procurar o meu marido.
+
+263
+00:19:11,070 --> 00:19:12,864
+Eu devia ter notado e descoberto algo.
+
+264
+00:19:12,947 --> 00:19:14,449
+Não. Ninguém é culpado.
+
+265
+00:19:15,200 --> 00:19:18,036
+Ele ou aquilo foi bastante convincente.
+
+266
+00:19:18,119 --> 00:19:20,538
+Se não é o Barry, então, o que é ele?
+
+267
+00:19:20,622 --> 00:19:24,042
+É como uma versão espelhada de si mesmo.
+
+268
+00:19:26,419 --> 00:19:29,047
+Pessoal, o Joseph Carver.
+
+269
+00:19:31,132 --> 00:19:32,926
+Espera. Achas que...
+
+270
+00:19:33,009 --> 00:19:36,596
+... isto se relaciona com o Buraco Negro
+e a tecnologia deles de chips reflexivos?
+
+271
+00:19:37,138 --> 00:19:38,097
+Sim.
+
+272
+00:19:39,265 --> 00:19:41,351
+- Não sei. Isso parece quase...
+- Não, é possível.
+
+273
+00:19:41,434 --> 00:19:44,437
+Vi de perto a McCulloch Tech
+
+274
+00:19:44,520 --> 00:19:48,316
+e a tecnologia de chips reflexivos,
+é de grande alcance, no mínimo.
+
+275
+00:19:51,110 --> 00:19:53,738
+Está bem.
+Então, esta pode ser a nossa melhor pista.
+
+276
+00:19:53,821 --> 00:19:56,032
+Porque não vês
+o que consegues descobrir, Nash?
+
+277
+00:19:56,115 --> 00:19:59,452
+Vou reagrupar-me com a Kamilla
+e investigar por nossa conta.
+
+278
+00:20:02,789 --> 00:20:03,831
+Estás bem, Cecile?
+
+279
+00:20:06,459 --> 00:20:07,877
+Sim. Não...
+
+280
+00:20:09,462 --> 00:20:12,298
+Algo não parece certo.
+
+281
+00:20:16,803 --> 00:20:18,680
+Pois. Não, compreendo.
+
+282
+00:20:18,763 --> 00:20:23,518
+Mas vamos descobrir a verdade e trazer
+o verdadeiro Barry de volta. Prometo.
+
+283
+00:20:29,357 --> 00:20:33,027
+O corpo da Caitlin autoinduziu
+um coma de gelo para a forçar a hibernar.
+
+284
+00:20:33,111 --> 00:20:35,655
+Ela é como uma bateria fria.
+Só temos de a acordar.
+
+285
+00:20:35,863 --> 00:20:37,031
+É aí que entras.
+
+286
+00:20:37,240 --> 00:20:40,034
+Como não temos
+nenhuma cablagem condutora ionizada,
+
+287
+00:20:40,285 --> 00:20:41,995
+terás de ser os cabos de bateria.
+
+288
+00:20:42,578 --> 00:20:43,413
+Entendido.
+
+289
+00:20:44,872 --> 00:20:45,707
+Está bem.
+
+290
+00:21:10,440 --> 00:21:11,941
+Ralph, estás bem?
+
+291
+00:21:13,109 --> 00:21:13,985
+Ela está bem?
+
+292
+00:21:17,739 --> 00:21:20,950
+Cisco, ela está bem? Funcionou?
+
+293
+00:21:28,666 --> 00:21:29,876
+Graças a Elsa.
+
+294
+00:21:32,295 --> 00:21:33,129
+Bem-vinda de volta.
+
+295
+00:21:34,088 --> 00:21:35,006
+Obrigada.
+
+296
+00:21:35,548 --> 00:21:37,258
+- Assustaste-nos por um minuto.
+- Sim.
+
+297
+00:21:38,301 --> 00:21:39,427
+Podes dizer-nos o que se passou?
+
+298
+00:21:39,594 --> 00:21:41,137
+Eu estava em casa sozinha
+
+299
+00:21:41,304 --> 00:21:44,223
+e a ferida da bala de luz estava a piorar.
+
+300
+00:21:44,432 --> 00:21:46,184
+De certeza que a tua briga
+com a Sunshine não ajudou.
+
+301
+00:21:46,267 --> 00:21:49,979
+Sim. Então, tentei sará-la com gelo
+e foi quando a ferida rebentou.
+
+302
+00:21:50,730 --> 00:21:53,107
+Deve ter sido o meio
+de o meu sistema imunitário me proteger.
+
+303
+00:21:55,735 --> 00:21:58,488
+- Pessoal, preciso de ajuda.
+- Diz-nos o que precisas.
+
+304
+00:21:59,072 --> 00:22:04,452
+Quem conhecemos que possa ajudar
+com uma ferida de luz... gelada?
+
+305
+00:22:05,078 --> 00:22:06,996
+Há só uma pessoa que podemos chamar.
+
+306
+00:22:08,081 --> 00:22:09,332
+A minha mãe.
+
+307
+00:22:14,629 --> 00:22:15,755
+Aí vem ela.
+
+308
+00:22:18,257 --> 00:22:19,592
+Correu tudo conforme o plano?
+
+309
+00:22:19,675 --> 00:22:22,762
+Sim, estamos bem.
+Correu tudo como planeado.
+
+310
+00:22:24,889 --> 00:22:27,725
+Sigam para o ponto de encontro.
+Tratarei disto e irei ter convosco.
+
+311
+00:22:38,069 --> 00:22:41,072
+Tenho observado o Barry Allen.
+Está a planear expô-la.
+
+312
+00:22:41,697 --> 00:22:44,784
+- Diga-me o que fazer.
+- Vá. Encontre-se com ele.
+
+313
+00:22:45,409 --> 00:22:46,702
+Deixe o resto comigo.
+
+314
+00:22:48,955 --> 00:22:50,039
+Não és a Iris.
+
+315
+00:22:50,623 --> 00:22:53,793
+E não sais daqui
+até nos dizeres quem ou o que és.
+
+316
+00:22:59,549 --> 00:23:01,008
+Agora, consigamos o que viemos buscar.
+
+317
+00:23:01,551 --> 00:23:03,010
+Um dos benefícios de ser Chefe de Polícia
+
+318
+00:23:03,094 --> 00:23:04,512
+é poder pedir interrogatórios
+a prisioneiros.
+
+319
+00:23:04,971 --> 00:23:06,222
+Até para a imprensa.
+
+320
+00:23:20,486 --> 00:23:21,821
+TRANCADO - ACESSO PROIBIDO
+
+321
+00:23:22,029 --> 00:23:26,576
+ACESSO CONCEDIDO
+
+322
+00:23:37,962 --> 00:23:42,049
+Bem, é a Kamilla Hwang, o Chefe Singh...
+
+323
+00:23:44,427 --> 00:23:46,637
+... e a Iris West-Allen.
+
+324
+00:23:47,889 --> 00:23:49,348
+A que devo a honra?
+
+325
+00:23:49,432 --> 00:23:51,350
+Se nos ajudar, podemos tirá-lo daí.
+
+326
+00:23:51,726 --> 00:23:53,895
+E porque confiaria eu na mulher do Flash?
+
+327
+00:23:54,145 --> 00:23:57,315
+Porque não sou a Iris West-Allen.
+Sou um reflexo dela.
+
+328
+00:23:57,607 --> 00:23:59,400
+Somos todos reflexos.
+
+329
+00:23:59,483 --> 00:24:03,446
+Mais rápidos e fortes do que os nossos
+homólogos humanos cujas caras partilhamos.
+
+330
+00:24:03,863 --> 00:24:06,365
+E a nossa única vontade
+é servir a nossa mãe.
+
+331
+00:24:12,997 --> 00:24:16,542
+A verdadeira Iris
+nunca se ofereceria para me libertar.
+
+332
+00:24:17,293 --> 00:24:18,544
+Falem-me mais da vossa mãe.
+
+333
+00:24:19,003 --> 00:24:20,713
+A Eva McCulloch. Ela foi a...
+
+334
+00:24:20,838 --> 00:24:24,091
+Sou cientista. Sei quem é a Eva McCulloch.
+
+335
+00:24:24,634 --> 00:24:26,135
+Mas ela desapareceu há anos.
+
+336
+00:24:26,260 --> 00:24:29,889
+Tem estado presa noutra dimensão,
+um espelho,
+
+337
+00:24:30,389 --> 00:24:31,891
+e precisa de algo de si.
+
+338
+00:24:32,433 --> 00:24:35,519
+Precisam do meu sangue. Que grandioso.
+
+339
+00:24:35,728 --> 00:24:39,941
+Até aqui dentro, o destino continua
+a lançar-me no papel de salvador.
+
+340
+00:24:40,358 --> 00:24:41,359
+Só precisamos de uma gota.
+
+341
+00:24:42,485 --> 00:24:44,237
+Mas tem de decidir agora.
+
+342
+00:24:50,952 --> 00:24:52,203
+Aceito.
+
+343
+00:24:52,286 --> 00:24:54,622
+Libertem-me e terão o meu fluido vital.
+
+344
+00:24:55,289 --> 00:24:59,085
+Contudo, esta não é
+uma simples metacela de Iron Heights.
+
+345
+00:24:59,502 --> 00:25:00,920
+Como propõem interromper
+
+346
+00:25:01,003 --> 00:25:04,882
+uma matriz de contenção biodegenerativa
+com protocolos de segurança triplicados?
+
+347
+00:25:05,007 --> 00:25:06,133
+A mãe tem uma teoria.
+
+348
+00:25:07,301 --> 00:25:08,552
+Sou a solução.
+
+349
+00:25:09,845 --> 00:25:10,680
+Espera.
+
+350
+00:25:13,766 --> 00:25:14,767
+Irás morrer.
+
+351
+00:25:17,561 --> 00:25:18,771
+Então, é a vontade da Eva.
+
+352
+00:25:36,038 --> 00:25:39,458
+Código zero. Falha de energia a todos
+os níveis das instalações. Vejam as celas.
+
+353
+00:25:40,710 --> 00:25:42,628
+Temos 60 segundos
+até os guardas chegarem...
+
+354
+00:26:07,445 --> 00:26:09,488
+É quase humana...
+
+355
+00:26:10,823 --> 00:26:12,491
+Talvez algo mais.
+
+356
+00:26:13,367 --> 00:26:15,661
+Cumpre a vontade da sua Mestre Eva,
+
+357
+00:26:16,954 --> 00:26:20,082
+mas vejo hesitação nos seus olhos.
+
+358
+00:26:20,583 --> 00:26:23,544
+Tem um bocadinho de vontade.
+
+359
+00:26:24,545 --> 00:26:26,005
+Planeia enganar-me?
+
+360
+00:26:27,006 --> 00:26:28,174
+Diga-me agora!
+
+361
+00:26:29,008 --> 00:26:30,634
+O que quer?
+
+362
+00:26:32,345 --> 00:26:34,597
+- Só a vontade da Eva.
+- Mentiras!
+
+363
+00:26:35,639 --> 00:26:36,682
+Última oportunidade.
+
+364
+00:26:37,558 --> 00:26:39,560
+O que quer?
+
+365
+00:26:42,021 --> 00:26:43,814
+Estar viva.
+
+366
+00:26:48,110 --> 00:26:49,737
+E merece-o.
+
+367
+00:27:00,456 --> 00:27:03,626
+<i>Energia restaurada.</i>
+<i>Contenção celular reinicializada.</i>
+
+368
+00:27:03,709 --> 00:27:04,627
+O que está a fazer?
+
+369
+00:27:06,087 --> 00:27:07,671
+Tínhamos um plano. Não quer fugir?
+
+370
+00:27:08,839 --> 00:27:13,135
+Há paredes do outro lado destas.
+Eu nunca iria apenas sair daqui.
+
+371
+00:27:14,428 --> 00:27:17,348
+Mas há mais do que uma forma
+de eu ser livre.
+
+372
+00:27:18,182 --> 00:27:21,477
+Chamemos a isto... o jogo longo.
+
+373
+00:27:36,909 --> 00:27:37,827
+Agora, vá.
+
+374
+00:27:38,202 --> 00:27:41,247
+Irei ficar aqui
+e cobrir os nossos rastros. Agora.
+
+375
+00:27:46,585 --> 00:27:48,879
+Corra, Iris. Corra!
+
+376
+00:28:02,601 --> 00:28:04,478
+CONTROLO CELULAR
+
+377
+00:28:08,858 --> 00:28:09,775
+Cecile?
+
+378
+00:28:09,859 --> 00:28:11,694
+Não tenho todos os factos...
+
+379
+00:28:11,777 --> 00:28:14,321
+... e os que tenho dizem-me
+que não és quem dizes ser.
+
+380
+00:28:17,450 --> 00:28:20,744
+Mas és o Barry. Sei isso no meu coração.
+
+381
+00:28:23,330 --> 00:28:25,374
+E estou disposta
+a apostar a minha vida nisso.
+
+382
+00:28:27,001 --> 00:28:28,419
+Agora, vai buscar a Iris de volta.
+
+383
+00:28:35,426 --> 00:28:36,260
+Bom trabalho.
+
+384
+00:28:36,343 --> 00:28:38,679
+Irá aplicar o sangue do Ramsey
+no seu lado do espelho.
+
+385
+00:28:38,763 --> 00:28:42,141
+Logo que esteja totalmente absorvido,
+ativarei o R-CEM no meu lado.
+
+386
+00:28:42,391 --> 00:28:45,019
+Juntos, eles irão reconfigurar
+a estabilidade molecular
+
+387
+00:28:45,102 --> 00:28:48,397
+da barreira dimensional
+que queima matéria orgânica,
+
+388
+00:28:48,481 --> 00:28:50,816
+criando uma passagem segura
+entre os dois mundos.
+
+389
+00:28:51,525 --> 00:28:55,154
+Na próxima vez que eu falar consigo,
+estarei ao seu lado...
+
+390
+00:28:57,323 --> 00:28:59,867
+... liberta.
+- O sucesso está assegurado.
+
+391
+00:29:04,288 --> 00:29:05,790
+Eu não teria tanta certeza disso.
+
+392
+00:29:09,794 --> 00:29:10,961
+Onde está a minha mulher?
+
+393
+00:29:17,810 --> 00:29:20,229
+Irei perguntar-te mais uma vez.
+Onde está a minha mulher?
+
+394
+00:29:23,858 --> 00:29:24,817
+O que estás a fazer?
+
+395
+00:29:34,744 --> 00:29:38,289
+Vi tudo. Visou-me desde o início.
+
+396
+00:29:38,372 --> 00:29:40,666
+Sofreu uma fração da minha dor.
+
+397
+00:29:41,417 --> 00:29:44,879
+Mas, em breve, estarei liberta.
+
+398
+00:29:45,421 --> 00:29:48,800
+O Barry vai detê-la. Fá-lo-emos os dois.
+
+399
+00:29:51,093 --> 00:29:53,513
+Eu também costumava pensar
+que o meu amor me dava força.
+
+400
+00:29:54,138 --> 00:29:55,890
+O espelho mostrou-me a verdade.
+
+401
+00:29:56,516 --> 00:29:58,059
+Deixe-me fazer o mesmo por si.
+
+402
+00:30:25,461 --> 00:30:27,880
+Ela diz que vais estar sempre
+no caminho dela...
+
+403
+00:30:28,673 --> 00:30:30,091
+... e, agora,
+és muito lento para me deteres.
+
+404
+00:30:30,174 --> 00:30:32,969
+No caminho de quem?
+Quem te obriga a fazer isto?
+
+405
+00:31:08,254 --> 00:31:10,089
+Devias prestar atenção ao teu ambiente.
+
+406
+00:31:56,719 --> 00:31:58,179
+Onde está a minha mulher?
+
+407
+00:31:58,512 --> 00:32:00,306
+Ela é tudo em que podes pensar, não é?
+
+408
+00:32:02,975 --> 00:32:04,769
+O que pensas de mim, Barry?
+
+409
+00:32:06,145 --> 00:32:08,272
+Todos aqueles dias...
+
+410
+00:32:09,398 --> 00:32:10,608
+... semanas.
+
+411
+00:32:11,192 --> 00:32:12,985
+Não era ela, era eu.
+
+412
+00:32:14,487 --> 00:32:16,113
+A desfrutarmos de refeições juntos.
+
+413
+00:32:18,866 --> 00:32:20,576
+A falarmos do nosso dia.
+
+414
+00:32:24,080 --> 00:32:26,666
+- A partilharmos a tua cama.
+- Cala-te.
+
+415
+00:32:31,671 --> 00:32:33,297
+Vou matá-la.
+
+416
+00:32:33,506 --> 00:32:37,927
+Improvável. Há meia década
+que tenho trabalhado neste plano.
+
+417
+00:32:38,177 --> 00:32:40,221
+Isto é a minha criação.
+
+418
+00:32:40,429 --> 00:32:44,141
+Ela sou eu e eu sou ela.
+O que ela sente, eu sinto,
+
+419
+00:32:44,225 --> 00:32:46,060
+e não podemos perder.
+
+420
+00:32:51,732 --> 00:32:53,818
+Elas sentem o que a Eva sente pelo Carver?
+
+421
+00:32:55,319 --> 00:32:56,153
+O quê?
+
+422
+00:32:57,238 --> 00:32:58,447
+Elas ainda o amam?
+
+423
+00:32:58,531 --> 00:33:01,575
+Não amo o meu marido.
+Quero acabar com ele.
+
+424
+00:33:01,701 --> 00:33:04,120
+Então, porque ainda lhe chama seu marido?
+
+425
+00:33:04,328 --> 00:33:07,081
+Está tão cega como estava antes
+
+426
+00:33:07,248 --> 00:33:10,126
+e ele vai enganá-la
+exatamente da mesma forma.
+
+427
+00:33:10,292 --> 00:33:12,461
+- Pare de falar.
+- Porque ainda o ama.
+
+428
+00:33:12,545 --> 00:33:13,629
+Não, não amo!
+
+429
+00:33:27,226 --> 00:33:30,563
+A sua mente brilhante não conseguiu
+perceber que ele não queria saber de si.
+
+430
+00:33:30,730 --> 00:33:31,564
+Cale-se!
+
+431
+00:33:37,111 --> 00:33:40,448
+Quanto tempo se sentou aqui, Eva,
+a ansiar por salvamento,
+
+432
+00:33:40,531 --> 00:33:42,867
+até ter percebido
+que tinha sido abandonada?
+
+433
+00:33:43,034 --> 00:33:47,496
+Odeio-o! Quero que ele sofra!
+
+434
+00:33:48,330 --> 00:33:50,624
+Sofra!
+
+435
+00:33:51,000 --> 00:33:52,376
+Sofra!
+
+436
+00:33:52,710 --> 00:33:54,837
+Sofra!
+
+437
+00:33:55,963 --> 00:33:56,922
+Iris?
+
+438
+00:33:58,507 --> 00:34:00,843
+Sofra!
+
+439
+00:34:01,010 --> 00:34:02,053
+Sofra!
+
+440
+00:34:02,970 --> 00:34:04,096
+Sofra.
+
+441
+00:34:06,432 --> 00:34:07,266
+Iris.
+
+442
+00:34:09,310 --> 00:34:12,146
+Não lutarei contra ti. Já não.
+
+443
+00:34:14,815 --> 00:34:16,442
+Foste feita da Iris.
+
+444
+00:34:20,112 --> 00:34:21,947
+Parte do coração dela está dentro de ti.
+
+445
+00:34:22,782 --> 00:34:25,534
+Vi-te a ser gentil, a rir.
+
+446
+00:34:26,786 --> 00:34:28,537
+Sei que não foi tudo mentira.
+
+447
+00:34:33,417 --> 00:34:35,044
+Podes ser mais do que isto.
+
+448
+00:34:38,547 --> 00:34:39,673
+Não a Iris...
+
+449
+00:34:41,342 --> 00:34:42,259
+Tu mesma.
+
+450
+00:34:45,846 --> 00:34:47,014
+Tens de querer isso.
+
+451
+00:34:53,395 --> 00:34:54,230
+Não.
+
+452
+00:34:56,440 --> 00:34:57,983
+Tens de o escolher.
+
+453
+00:35:05,616 --> 00:35:06,826
+Escolho-me a mim.
+
+454
+00:35:20,089 --> 00:35:21,423
+Vai procurar a Iris.
+
+455
+00:35:23,467 --> 00:35:24,718
+Vai procurá-la, Barry.
+
+456
+00:35:26,428 --> 00:35:27,388
+Vai salvar a Iris.
+
+457
+00:35:29,765 --> 00:35:30,599
+Vai.
+
+458
+00:35:51,579 --> 00:35:52,454
+Barry.
+
+459
+00:35:54,874 --> 00:35:56,167
+Sinto-me viva.
+
+460
+00:36:03,048 --> 00:36:04,508
+Sinto-me viva.
+
+461
+00:36:38,334 --> 00:36:40,336
+Veja o que me obrigou a fazer.
+
+462
+00:36:55,338 --> 00:36:56,172
+Não!
+
+463
+00:36:56,256 --> 00:36:57,674
+Não! Desculpe!
+
+464
+00:36:59,884 --> 00:37:02,178
+Isto não tinha de ser assim, Flash.
+
+465
+00:37:04,097 --> 00:37:05,682
+Não sabe como é ali dentro.
+
+466
+00:37:05,932 --> 00:37:07,392
+Eu tinha de sair.
+
+467
+00:37:07,559 --> 00:37:08,393
+A Iris.
+
+468
+00:37:10,562 --> 00:37:11,771
+Onde está ela?
+
+469
+00:37:12,314 --> 00:37:14,232
+Ainda está no mundo que deixei para trás.
+
+470
+00:37:14,691 --> 00:37:16,526
+Juntamente com o resto
+da minha apólice de seguro,
+
+471
+00:37:16,609 --> 00:37:19,279
+o Chefe Singh e a sua amiga Kamilla.
+
+472
+00:37:20,405 --> 00:37:23,408
+Eles estão seguros.
+Por quanto tempo, depende de si.
+
+473
+00:37:25,201 --> 00:37:27,162
+Então, o quê...
+
+474
+00:37:28,621 --> 00:37:29,831
+... agora vai matar-me?
+
+475
+00:37:32,751 --> 00:37:34,252
+Não há necessidade disso.
+
+476
+00:37:35,879 --> 00:37:37,130
+Está ferido.
+
+477
+00:37:38,465 --> 00:37:40,050
+Perdeu a sua velocidade
+
+478
+00:37:40,967 --> 00:37:43,053
+e a sua cura não é o que era.
+
+479
+00:37:44,220 --> 00:37:46,348
+Não é uma grande ameaça, pois não?
+
+480
+00:37:49,392 --> 00:37:53,980
+Não se meta no meu caminho, Flash,
+e não me meterei no seu.
+
+481
+00:37:56,316 --> 00:37:59,069
+Tenho assuntos pendentes para tratar...
+
+482
+00:38:03,740 --> 00:38:07,452
+... e um mundo inteiro para libertar.
+
+483
+00:38:41,319 --> 00:38:42,362
+Graças a Deus.
+
+484
+00:39:34,747 --> 00:39:35,999
+Iris, eu...
+
+485
+00:39:39,461 --> 00:39:42,130
+Não sei se é loucura pensar
+que me podes ouvir.
+
+486
+00:39:45,216 --> 00:39:47,385
+Creio que, neste momento,
+preciso de acreditar nisso.
+
+487
+00:39:54,851 --> 00:39:56,478
+Sinto tanto...
+
+488
+00:39:58,938 --> 00:40:00,231
+... a tua falta.
+
+489
+00:40:28,009 --> 00:40:31,554
+Sei que provavelmente
+não me podes ouvir, Barry, mas...
+
+490
+00:40:34,474 --> 00:40:37,477
+... estar longe de ti
+dói cada vez mais todos os dias.
+
+491
+00:40:42,774 --> 00:40:43,858
+Mas ainda tenho esperança
+
+492
+00:40:43,942 --> 00:40:48,446
+porque sei que estás aí fora, a lutar
+para me trazeres de volta para casa.
+
+493
+00:40:50,532 --> 00:40:51,824
+Se me conseguires ouvir...
+
+494
+00:40:56,079 --> 00:40:58,373
+Creio que só preciso que saibas que...
+
+495
+00:41:00,416 --> 00:41:01,668
+Amo-te.
+
+496
+00:41:06,297 --> 00:41:08,049
+E esse amor é constante.
+
+497
+00:41:09,509 --> 00:41:10,843
+Através de dimensões...
+
+498
+00:41:13,137 --> 00:41:14,389
+Através do tempo.
+
+499
+00:41:17,517 --> 00:41:19,602
+Até ao fim do mundo e de volta.
+
+500
+00:41:22,730 --> 00:41:24,190
+E se te conheço...
+
+501
+00:41:26,401 --> 00:41:29,529
+... sei que não estás só a lutar
+para encontrar o teu caminho para casa.
+
+502
+00:41:30,989 --> 00:41:33,074
+E vou encontrar a Kamilla
+
+503
+00:41:34,325 --> 00:41:35,785
+e o Singh.
+
+504
+00:41:39,163 --> 00:41:40,540
+Mas acima de tudo...
+
+505
+00:41:41,916 --> 00:41:43,126
+Vou trazer-te de volta.
+
+506
+00:41:43,209 --> 00:41:45,128
+Vou encontrar
+o meu caminho de volta para ti.
+
+507
+00:42:14,532 --> 00:42:16,534
+Legendas: Ana Paula Moreira

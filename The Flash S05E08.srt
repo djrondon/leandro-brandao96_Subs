@@ -1,0 +1,2511 @@
+1
+00:00:00,000 --> 00:00:01,400
+<i>Anteriormente...</i>
+
+2
+00:00:01,401 --> 00:00:03,519
+<i>Aquela adaga
+sugou nossos poderes.</i>
+
+3
+00:00:03,520 --> 00:00:07,818
+- Perdi minha velocidade.
+<i>- Vou consertar isso, Gracie.</i>
+
+4
+00:00:07,819 --> 00:00:12,284
+<i>Todo meta-humano morrerá.</i>
+
+5
+00:00:12,285 --> 00:00:14,601
+Temos um Jack, o Estripador,
+meta-humano.
+
+6
+00:00:14,602 --> 00:00:17,920
+Apresento-lhes Orlin Dwyer,
+também conhecido como...
+
+7
+00:00:17,921 --> 00:00:19,321
+Cicada.
+
+8
+00:00:19,322 --> 00:00:20,722
+5ª Temporada | Episódio 08
+-= What's Past Is Prologue =-
+
+9
+00:00:20,723 --> 00:00:22,141
+Legenda:
+Darrow, BruFeiden, bebelzinha
+
+10
+00:00:22,142 --> 00:00:23,542
+Legenda:
+AnaLaura, AnnaH, Calmon, Hall
+
+11
+00:00:23,543 --> 00:00:24,943
+Revisão: KahX e Bassi
+
+12
+00:00:30,789 --> 00:00:33,736
+- Quantas tirou?
+- Umas 100.
+
+13
+00:00:33,737 --> 00:00:35,214
+Alguma ficou boa?
+
+14
+00:00:39,136 --> 00:00:41,617
+Então vamos continuar
+tirando até alguma sair boa.
+
+15
+00:00:41,618 --> 00:00:43,079
+Acho que sim.
+
+16
+00:00:43,585 --> 00:00:44,985
+<i>Orlin Dwyer.</i>
+
+17
+00:00:44,986 --> 00:00:47,220
+Pelo que sabemos,
+cresceu no Centro-Oeste.
+
+18
+00:00:47,221 --> 00:00:49,206
+Saiu de um reformatório,
+sumiu do mapa,
+
+19
+00:00:49,207 --> 00:00:51,324
+e apareceu em Central City
+há alguns anos.
+
+20
+00:00:51,325 --> 00:00:53,979
+<i>Trabalhou na Szrek Chemicals
+nos últimos dois anos.</i>
+
+21
+00:00:53,980 --> 00:00:57,429
+<i>Chefe disse que ele é solitário
+e que deu um endereço falso.</i>
+
+22
+00:00:57,430 --> 00:01:00,740
+- Ganhou a guarda da sobrinha.
+- Grace Gibbons.
+
+23
+00:01:00,741 --> 00:01:04,185
+<i>Depois que os pais dela foram
+assassinados por um meta-humano.</i>
+
+24
+00:01:04,186 --> 00:01:06,319
+Agora sabemos
+porque Dwyer odeia metas.
+
+25
+00:01:06,320 --> 00:01:07,963
+Começou a caça
+ao ganhar poderes.
+
+26
+00:01:07,964 --> 00:01:10,765
+<i>Poderes esses que conseguiu
+no Iluminismo, como sabemos,</i>
+
+27
+00:01:10,766 --> 00:01:13,819
+<i>pois foi atingido por fragmentos
+do satélite do STAR Labs.</i>
+
+28
+00:01:13,820 --> 00:01:16,475
+<i>Que foi a mesma noite
+em que Grace entrou em coma.</i>
+
+29
+00:01:16,476 --> 00:01:20,157
+<i>Dwyer a visita todos os dias
+e todas as noites</i>
+
+30
+00:01:20,158 --> 00:01:22,108
+<i>nas últimas três semanas.</i>
+
+31
+00:01:22,603 --> 00:01:24,030
+Então, ele está lá agora.
+
+32
+00:01:24,540 --> 00:01:25,940
+- Está.
+<i>- Está.</i>
+
+33
+00:01:27,825 --> 00:01:29,225
+Vamos pegá-lo.
+
+34
+00:01:32,247 --> 00:01:35,270
+"Vamos pegá-lo."
+Como vai fazer isso?
+
+35
+00:01:35,271 --> 00:01:37,025
+Respeito seu espírito,
+Barry Allen,
+
+36
+00:01:37,026 --> 00:01:40,390
+mas enquanto Cicada tiver
+a adaga para inibir poderes,
+
+37
+00:01:41,072 --> 00:01:43,759
+- não conseguiremos pegá-lo.
+- Vamos destruir a adaga.
+
+38
+00:01:43,760 --> 00:01:45,185
+Como vamos fazer isso?
+
+39
+00:01:45,186 --> 00:01:49,887
+A menos que tenhamos um inibidor
+da adaga inibidora de poder?
+
+40
+00:01:49,888 --> 00:01:53,729
+Não temos e, se tivéssemos,
+daríamos um nome bem melhor.
+
+41
+00:01:53,730 --> 00:01:58,075
+- Sim, tipo inibidor de adaga...
+- Isso, muito bom.
+
+42
+00:01:58,076 --> 00:02:03,051
+- Porque estamos a caminho de...
+- É só abreviar: IAIP.
+
+43
+00:02:05,905 --> 00:02:07,305
+Pessoal.
+
+44
+00:02:08,118 --> 00:02:09,718
+E se fizéssemos uma?
+
+45
+00:02:11,157 --> 00:02:13,045
+Fazer uma o quê?
+
+46
+00:02:13,046 --> 00:02:16,837
+E se criarmos uma arma
+mais poderosa que a dele?
+
+47
+00:02:16,838 --> 00:02:18,434
+Cicada pode
+controlar a adaga,
+
+48
+00:02:18,435 --> 00:02:21,982
+então precisaríamos de algo
+mais forte que a conexão a ela.
+
+49
+00:02:21,983 --> 00:02:25,682
+- Tipo um ímã supercarregado?
+- Exatamente.
+
+50
+00:02:25,683 --> 00:02:27,577
+Não sei se temos
+algo tão forte assim.
+
+51
+00:02:27,578 --> 00:02:30,341
+Construímos Sally
+de uma liga micro composta.
+
+52
+00:02:30,342 --> 00:02:33,498
+E para fazer o satélite
+já foi um trabalho pesado.
+
+53
+00:02:33,499 --> 00:02:35,162
+Mesmo que pegássemos
+a adaga,
+
+54
+00:02:35,163 --> 00:02:38,328
+teríamos que tirar matéria negra
+para anular os poderes dela.
+
+55
+00:02:38,329 --> 00:02:41,002
+Correto. Está sugerindo
+que encontremos uma liga...
+
+56
+00:02:41,003 --> 00:02:45,673
+Não, uma liga indestrutível
+com propriedades magnéticas,
+
+57
+00:02:45,674 --> 00:02:49,099
+mas que também seja capaz
+de anular matéria negra.
+
+58
+00:02:49,100 --> 00:02:52,033
+Onde vamos encontrar
+algo assim?
+
+59
+00:02:52,560 --> 00:02:55,977
+- No passado.
+- No passado?
+
+60
+00:02:55,978 --> 00:02:58,778
+Já sabemos
+de tudo o que precisamos.
+
+61
+00:02:58,779 --> 00:03:01,526
+Uma liga forte
+com propriedades magnéticas.
+
+62
+00:03:01,527 --> 00:03:02,977
+O traje de Savitar.
+
+63
+00:03:02,978 --> 00:03:04,632
+Algo para remover
+matéria negra.
+
+64
+00:03:04,633 --> 00:03:07,785
+O transmissor que Zoom usou
+para roubar velocidade do Barry.
+
+65
+00:03:07,786 --> 00:03:09,186
+Mas era Força de Aceleração.
+
+66
+00:03:09,187 --> 00:03:12,379
+Mas são partículas exóticas,
+quase o mesmo que energia negra,
+
+67
+00:03:12,380 --> 00:03:15,268
+então só precisaríamos
+de um pouco para recalibrar.
+
+68
+00:03:15,269 --> 00:03:16,767
+É possível fazer isso?
+
+69
+00:03:16,768 --> 00:03:20,853
+Teria que infundir o transmissor
+com a mesma matéria negra.
+
+70
+00:03:20,854 --> 00:03:22,659
+Como a de DeVoe?
+
+71
+00:03:22,660 --> 00:03:25,337
+Mais como
+a do acelerador de partículas.
+
+72
+00:03:25,338 --> 00:03:26,738
+Desculpe, nós...
+
+73
+00:03:26,739 --> 00:03:29,367
+- Vamos explodir tudo de novo?
+- Não, de novo não.
+
+74
+00:03:29,368 --> 00:03:32,273
+Só precisamos voltar
+para a primeira vez que ocorreu.
+
+75
+00:03:32,274 --> 00:03:35,122
+- Vai alterar a linha do tempo.
+- Não, não vai.
+
+76
+00:03:35,123 --> 00:03:37,274
+O traje de Savitar
+e o transmissor
+
+77
+00:03:37,275 --> 00:03:39,306
+são objetos
+descartados pelo tempo.
+
+78
+00:03:39,307 --> 00:03:42,177
+Se os roubarmos,
+não vai afetar em nada.
+
+79
+00:03:42,178 --> 00:03:43,967
+Mesmo que tudo isso
+funcionasse,
+
+80
+00:03:43,968 --> 00:03:48,449
+não podemos entrar no hospital
+com o inibidor sem nome.
+
+81
+00:03:48,450 --> 00:03:51,226
+Dwyer nos sente chegando
+e some.
+
+82
+00:03:51,227 --> 00:03:52,880
+Então vamos hackear o tempo.
+
+83
+00:03:53,983 --> 00:03:56,696
+- Hackear o tempo?
+- É quando você...
+
+84
+00:03:56,697 --> 00:04:00,314
+Planta algo no passado
+para estar disponível no futuro.
+
+85
+00:04:00,315 --> 00:04:04,654
+Você volta, pega o dispositivo
+e esconde perto do hospital.
+
+86
+00:04:04,655 --> 00:04:07,736
+Em algum lugar que não seja
+encontrado por 5 anos.
+
+87
+00:04:07,737 --> 00:04:09,137
+Ele nem saberá que está lá.
+
+88
+00:04:09,138 --> 00:04:12,620
+Então, você e seu pai
+voltam para o passado
+
+89
+00:04:12,621 --> 00:04:14,615
+para derrotar Cicada
+no futuro.
+
+90
+00:04:16,724 --> 00:04:19,970
+Esse seu plano
+é como uma carta na manga.
+
+91
+00:04:21,283 --> 00:04:23,156
+- Podemos fazer isso.
+- Não.
+
+92
+00:04:26,586 --> 00:04:28,036
+Eu posso.
+
+93
+00:04:31,134 --> 00:04:33,384
+Podem descobrir
+as melhores datas para voltar?
+
+94
+00:04:33,385 --> 00:04:34,785
+Pode deixar.
+
+95
+00:04:40,782 --> 00:04:42,182
+<i>- Você não vai.
+- Por quê?</i>
+
+96
+00:04:42,183 --> 00:04:45,059
+Toda vez que tento algo assim
+quase sou morto.
+
+97
+00:04:45,060 --> 00:04:46,901
+É mais um motivo
+para eu ir junto,
+
+98
+00:04:46,902 --> 00:04:48,908
+para vigiar
+e você não se machucar.
+
+99
+00:04:48,909 --> 00:04:52,506
+É arriscado para o tempo.
+Viajar no tempo é complicado.
+
+100
+00:04:52,507 --> 00:04:55,643
+- Eu sei, já viajei.
+- E veja o que aconteceu.
+
+101
+00:04:59,955 --> 00:05:01,355
+Escute.
+
+102
+00:05:02,087 --> 00:05:05,188
+Só quero consertar
+o que estraguei. Tudo bem?
+
+103
+00:05:05,189 --> 00:05:06,774
+O que eu fiz.
+
+104
+00:05:07,546 --> 00:05:09,371
+Por favor,
+deixe-me ir com você.
+
+105
+00:05:10,535 --> 00:05:11,935
+Hoje não.
+
+106
+00:05:20,525 --> 00:05:24,385
+- Acha que ela devia ir junto?
+- Acho, Barry.
+
+107
+00:05:24,386 --> 00:05:27,302
+Iris, se eu fizer isso,
+voltarei para tempos malucos.
+
+108
+00:05:27,303 --> 00:05:29,686
+Savitar, Zoom,
+Thawne, velocistas...
+
+109
+00:05:29,687 --> 00:05:32,413
+Você foi mais esperto
+e derrotou todos.
+
+110
+00:05:32,926 --> 00:05:36,032
+Isso foi ideia dela, Barry.
+A solução dela.
+
+111
+00:05:36,781 --> 00:05:38,181
+E uma boa.
+
+112
+00:05:39,231 --> 00:05:42,465
+Então, a menos que tenha
+um motivo melhor para ela ficar,
+
+113
+00:05:45,826 --> 00:05:47,226
+deixe-a fazer isso.
+
+114
+00:05:50,455 --> 00:05:53,339
+Certo, esses são
+os melhores momentos.
+
+115
+00:05:53,340 --> 00:05:55,353
+Inclusive,
+também foram os piores.
+
+116
+00:05:55,354 --> 00:05:58,085
+Mas, para voltar, são esses.
+
+117
+00:05:58,086 --> 00:05:59,513
+Savitar.
+
+118
+00:05:59,514 --> 00:06:02,072
+<i>Quando o derrotamos,
+Barry vibrou no traje dele</i>
+
+119
+00:06:02,073 --> 00:06:05,885
+<i>e o destruiu,
+lançando estilhaços muito longe.</i>
+
+120
+00:06:05,886 --> 00:06:09,827
+Nós do passado não notaríamos
+se Barry pegasse alguns.
+
+121
+00:06:09,828 --> 00:06:11,234
+O que acham?
+
+122
+00:06:11,235 --> 00:06:13,769
+Ótimo. Barry deve voltar
+para a Força de Aceleração
+
+123
+00:06:13,770 --> 00:06:16,476
+antes que a linha do tempo
+atualize e os pedaços sumam.
+
+124
+00:06:16,477 --> 00:06:17,915
+Estou bem otimista.
+
+125
+00:06:17,916 --> 00:06:20,553
+E o negócio de transmitir
+a Força de Aceleração?
+
+126
+00:06:20,554 --> 00:06:23,257
+Na noite em que Zoom
+injetou força de aceleração,
+
+127
+00:06:23,258 --> 00:06:25,833
+<i>deixou o transmissor
+na sala de exibição.</i>
+
+128
+00:06:25,834 --> 00:06:29,519
+Brilhante. Só precisa garantir
+que ninguém o veja lá.
+
+129
+00:06:30,262 --> 00:06:32,803
+E na época da explosão
+do Acelerador de Partículas?
+
+130
+00:06:32,804 --> 00:06:34,572
+Antes de tudo
+ir por água abaixo,
+
+131
+00:06:34,573 --> 00:06:37,519
+Wells estava no córtex
+e nós...
+
+132
+00:06:39,604 --> 00:06:41,532
+Nós estávamos no túnel.
+
+133
+00:06:44,423 --> 00:06:45,823
+<i>Ronnie!</i>
+
+134
+00:06:48,338 --> 00:06:51,188
+É o momento certo para Barry
+entrar no cofre do tempo.
+
+135
+00:06:51,189 --> 00:06:53,391
+Ele pode colocar
+um estilhaço no pedestal
+
+136
+00:06:53,392 --> 00:06:55,627
+e quando o Acelerador
+de Partículas explodir,
+
+137
+00:06:55,628 --> 00:06:58,498
+isso deve carregá-lo
+de matéria negra.
+
+138
+00:06:58,499 --> 00:06:59,899
+Isso.
+
+139
+00:07:01,803 --> 00:07:03,241
+Quando isso estiver feito,
+
+140
+00:07:03,242 --> 00:07:05,375
+teremos todas as peças
+para o dispositivo.
+
+141
+00:07:05,376 --> 00:07:09,041
+Nós o instalamos no hospital
+e o resto é história.
+
+142
+00:07:09,042 --> 00:07:11,953
+Vamos mostrar ao Barry
+e ver o que ele acha.
+
+143
+00:07:13,270 --> 00:07:14,685
+Eu já vou.
+
+144
+00:07:16,802 --> 00:07:19,140
+Onde eu deixei?
+
+145
+00:07:25,101 --> 00:07:27,570
+- O que é isso?
+- Esse é o diário da Nora?
+
+146
+00:07:27,571 --> 00:07:29,917
+- Você está roubando?
+- Não. Sim.
+
+147
+00:07:29,918 --> 00:07:32,186
+Mas por uma boa razão.
+Olhe esse código.
+
+148
+00:07:32,187 --> 00:07:34,004
+Você já o viu antes?
+
+149
+00:07:34,644 --> 00:07:36,804
+- Já.
+- Já? Quando?
+
+150
+00:07:36,805 --> 00:07:39,409
+Há um ano, quando Barry saiu
+da Força de Aceleração.
+
+151
+00:07:39,410 --> 00:07:41,468
+E você o decifrou?
+
+152
+00:07:41,469 --> 00:07:43,719
+Meu computador
+decifrou uma frase.
+
+153
+00:07:43,720 --> 00:07:45,285
+Ótimo.
+
+154
+00:07:46,135 --> 00:07:48,110
+Escute aqui,
+invasor de espaço.
+
+155
+00:07:48,111 --> 00:07:50,984
+Por que não tenta
+devolver isso para Nora
+
+156
+00:07:51,848 --> 00:07:53,253
+e perguntar a ela?
+
+157
+00:07:53,254 --> 00:07:55,303
+Claro.
+
+158
+00:07:55,304 --> 00:07:56,806
+- Isso.
+- Faz sentido.
+
+159
+00:07:56,807 --> 00:07:58,382
+Devolver para ela.
+
+160
+00:08:05,297 --> 00:08:06,697
+Certo.
+
+161
+00:08:08,064 --> 00:08:10,774
+Vamos fazer isso.
+Legal.
+
+162
+00:08:10,775 --> 00:08:12,560
+Não vai querer
+esquecer isso.
+
+163
+00:08:16,394 --> 00:08:19,730
+Tive que fazer ajustes no traje,
+mas finalmente consegui.
+
+164
+00:08:19,731 --> 00:08:21,587
+É só para emergências.
+
+165
+00:08:21,588 --> 00:08:23,526
+Não quer ser pego
+correndo pelo passado
+
+166
+00:08:23,527 --> 00:08:25,829
+- com seu traje do futuro.
+- Certo.
+
+167
+00:08:25,830 --> 00:08:27,555
+Pode te dar ideias.
+
+168
+00:08:27,556 --> 00:08:29,347
+- Obrigado.
+- De nada.
+
+169
+00:08:39,957 --> 00:08:41,357
+Vamos.
+
+170
+00:08:53,013 --> 00:08:54,668
+Escute,
+apenas me siga.
+
+171
+00:08:54,669 --> 00:08:57,350
+Não improvise.
+
+172
+00:08:57,351 --> 00:08:59,930
+Se algo der errado,
+faça exatamente o que eu disser.
+
+173
+00:09:00,953 --> 00:09:02,851
+As coisas
+costumam dar errado?
+
+174
+00:09:16,568 --> 00:09:17,968
+O quê?
+
+175
+00:09:17,969 --> 00:09:19,954
+Quando vai ser
+minha vez de fazer isso?
+
+176
+00:09:19,955 --> 00:09:21,764
+Concentre-se aqui.
+
+177
+00:09:22,459 --> 00:09:24,895
+O que fazemos por enquanto?
+Vigiamos o hospital?
+
+178
+00:09:24,896 --> 00:09:27,170
+- Adiantamos as coisas aqui?
+- Nada.
+
+179
+00:09:27,171 --> 00:09:29,709
+Eles vão voltar
+no mesmo momento em que saíram.
+
+180
+00:09:29,710 --> 00:09:33,290
+Então eles vão viajar,
+mas vai parecer que nem saíram?
+
+181
+00:09:33,291 --> 00:09:35,293
+Isso. Viajar no tempo
+é esquisito, não é?
+
+182
+00:09:35,294 --> 00:09:36,694
+Lá vão eles.
+
+183
+00:09:37,442 --> 00:09:38,842
+Boa sorte.
+
+184
+00:09:56,117 --> 00:09:57,517
+Prepare-se.
+
+185
+00:09:58,566 --> 00:10:00,016
+Agora!
+
+186
+00:10:07,404 --> 00:10:09,531
+Tem certeza de que estamos
+no lugar certo?
+
+187
+00:10:19,250 --> 00:10:20,750
+Aquele é o Savitar?
+
+188
+00:10:21,787 --> 00:10:23,187
+É ele mesmo.
+
+189
+00:10:38,442 --> 00:10:39,842
+Vamos.
+
+190
+00:10:51,956 --> 00:10:54,078
+Só tenho
+mais alguns minutos.
+
+191
+00:10:54,079 --> 00:10:55,810
+Se eu vou morrer,
+
+192
+00:10:55,811 --> 00:10:59,962
+então todos que você ama
+vão morrer também.
+
+193
+00:10:59,963 --> 00:11:01,549
+Puta merda.
+
+194
+00:11:11,830 --> 00:11:15,496
+Qual é a sensação
+de chegar tão perto do topo
+
+195
+00:11:15,497 --> 00:11:17,683
+e acabar no chão?
+
+196
+00:11:18,090 --> 00:11:19,687
+Agora entendi.
+
+197
+00:11:21,137 --> 00:11:23,723
+- Está escrito.
+- Nada está escrito.
+
+198
+00:11:30,284 --> 00:11:32,415
+- O que foi?
+- Guardião da linha do tempo.
+
+199
+00:11:32,416 --> 00:11:33,898
+Tenho que tirá-lo daqui.
+
+200
+00:11:33,899 --> 00:11:36,024
+Nora,
+terá que pegar o estilhaço.
+
+201
+00:11:36,025 --> 00:11:38,159
+Encontre-me na floresta,
+onde chegamos.
+
+202
+00:12:01,610 --> 00:12:03,010
+Mãe?
+
+203
+00:12:32,851 --> 00:12:35,063
+- Você pegou?
+- Peguei.
+
+204
+00:12:35,064 --> 00:12:37,480
+Mandou bem levando
+à Força de Aceleração a tempo.
+
+205
+00:12:37,481 --> 00:12:38,913
+Não foi nada.
+
+206
+00:12:40,273 --> 00:12:42,423
+Pai, sobre Savitar...
+
+207
+00:12:43,468 --> 00:12:45,848
+- Está certo. 2016.
+- Como sabe?
+
+208
+00:12:45,849 --> 00:12:49,353
+Porque era Zoom com o Wally.
+Vou perder a velocidade.
+
+209
+00:12:57,871 --> 00:13:00,520
+- Barry, está bem?
+- Estou.
+
+210
+00:13:00,973 --> 00:13:02,373
+Estou bem.
+
+211
+00:13:03,853 --> 00:13:06,640
+- Obrigado, Flash.
+- Jay, pare!
+
+212
+00:13:06,641 --> 00:13:09,121
+Se você ainda tiver
+alguma humanidade,
+
+213
+00:13:09,122 --> 00:13:11,813
+deixe-o ir, por favor.
+
+214
+00:13:21,437 --> 00:13:22,880
+Caitlin!
+
+215
+00:13:29,371 --> 00:13:31,309
+Temos que trazer
+a Caitlin de volta.
+
+216
+00:13:32,267 --> 00:13:36,192
+Fique aqui.
+Não se mexa, certo?
+
+217
+00:13:44,164 --> 00:13:45,564
+Não...
+
+218
+00:13:45,565 --> 00:13:47,303
+O quê?
+
+219
+00:13:49,496 --> 00:13:50,936
+<i>Barry.</i>
+
+220
+00:13:55,789 --> 00:13:58,406
+<i>Não pode deixar
+as perdas te pararem.</i>
+
+221
+00:14:01,183 --> 00:14:03,163
+Você me ensinou isso.
+
+222
+00:14:04,607 --> 00:14:07,349
+Tem que seguir em frente.
+Tem que...
+
+223
+00:14:07,997 --> 00:14:10,912
+Tem que persistir,
+encontrar um jeito, lutar.
+
+224
+00:14:14,544 --> 00:14:18,017
+Para que nada
+nunca te detenha, Barry.
+
+225
+00:14:19,677 --> 00:14:22,293
+Zoom levou a Caitlin
+e você perdeu a velocidade,
+
+226
+00:14:22,294 --> 00:14:24,512
+mas todos estão aqui
+para ajudar.
+
+227
+00:14:25,313 --> 00:14:28,785
+Meu pai, Cisco, Harry...
+
+228
+00:14:30,848 --> 00:14:32,289
+Eu.
+
+229
+00:14:43,301 --> 00:14:44,841
+Vamos, vamos.
+
+230
+00:15:03,086 --> 00:15:05,915
+- Você se troca rápido.
+- O quê?
+
+231
+00:15:05,916 --> 00:15:08,880
+- Tirou o traje.
+- Tirei, eu...
+
+232
+00:15:08,881 --> 00:15:12,787
+Era estranho ficar com ele
+sem a minha velocidade.
+
+233
+00:15:12,788 --> 00:15:14,391
+Isso é culpa sua, não é?
+
+234
+00:15:14,392 --> 00:15:16,609
+- Acho que é.
+- Sei que é.
+
+235
+00:15:19,011 --> 00:15:21,296
+- O que está procurando?
+- Estou procurando
+
+236
+00:15:21,297 --> 00:15:24,618
+qualquer coisa que me ajude
+a encontrar minha filha, certo?
+
+237
+00:15:30,023 --> 00:15:31,469
+Não tenho minha filha.
+
+238
+00:15:31,470 --> 00:15:33,928
+Você está sem velocidade.
+Zoom está com a Caitlin.
+
+239
+00:15:33,929 --> 00:15:38,276
+- E tudo isso é um desastre!
+- Não, espere!
+
+240
+00:15:40,358 --> 00:15:41,834
+A frequência dela.
+
+241
+00:15:41,835 --> 00:15:43,415
+- O quê?
+- Da Jesse.
+
+242
+00:15:43,416 --> 00:15:46,481
+Pessoas da Terra 2
+vibram em frequência diferente.
+
+243
+00:15:46,482 --> 00:15:49,414
+Talvez consiga
+rastreá-la assim.
+
+244
+00:15:54,034 --> 00:15:56,024
+Descubra
+como encontrar a Snow.
+
+245
+00:16:01,145 --> 00:16:03,060
+- Conseguiu?
+- Consegui.
+
+246
+00:16:03,061 --> 00:16:04,608
+Vamos construir
+esse negócio.
+
+247
+00:16:07,192 --> 00:16:12,140
+Não vai a lugar nenhum,
+Flash.
+
+248
+00:16:16,712 --> 00:16:19,019
+Já tem o que quer, Solomon.
+
+249
+00:16:21,689 --> 00:16:23,620
+E quem é essa?
+
+250
+00:16:25,839 --> 00:16:27,489
+Outra velocista.
+
+251
+00:16:51,781 --> 00:16:54,003
+Não!
+
+252
+00:16:55,640 --> 00:16:57,040
+Droga!
+
+253
+00:16:57,041 --> 00:17:00,103
+Não devíamos ter feito isso.
+Agora não tem como parar Cicada.
+
+254
+00:17:00,104 --> 00:17:02,757
+- Nem sei onde estamos.
+- Pai, podemos consertar isso.
+
+255
+00:17:02,758 --> 00:17:05,366
+Não sei consertar isso, Nora.
+Nem mesmo o Cisco.
+
+256
+00:17:05,367 --> 00:17:07,414
+- É tecnologia do Wells.
+- Vamos até ele.
+
+257
+00:17:07,415 --> 00:17:10,632
+Não podemos.
+A mente do Harry não é a mesma.
+
+258
+00:17:10,633 --> 00:17:13,609
+Não esse, aquele que construiu
+o Acelerador de Partículas.
+
+259
+00:17:13,610 --> 00:17:15,491
+Ele não é Wells.
+É Eobard Thawne.
+
+260
+00:17:15,492 --> 00:17:18,406
+- O Flash Reverso.
+- Eu sei, mas ele é inteligente.
+
+261
+00:17:18,407 --> 00:17:20,269
+Poderíamos convencê-lo
+a nos ajudar.
+
+262
+00:17:20,270 --> 00:17:22,062
+Não, tudo bem?
+Não.
+
+263
+00:17:22,063 --> 00:17:25,273
+Thawne só ajuda a si mesmo.
+
+264
+00:17:25,836 --> 00:17:29,602
+Tudo bem.
+Desculpe, só achei que...
+
+265
+00:17:30,987 --> 00:17:32,387
+O que foi?
+
+266
+00:17:34,035 --> 00:17:35,601
+Sei em que ano estamos.
+
+267
+00:17:40,835 --> 00:17:42,523
+Deixe-o.
+Quanto menos...
+
+268
+00:17:42,524 --> 00:17:45,063
+Mexermos com a linha do tempo.
+Eu sei.
+
+269
+00:17:46,579 --> 00:17:48,037
+Sei o que é isso.
+
+270
+00:17:48,562 --> 00:17:51,117
+Há três anos,
+voltei para este dia
+
+271
+00:17:51,655 --> 00:17:53,449
+para pedir ajuda ao Thawne.
+
+272
+00:17:54,355 --> 00:17:56,396
+Então, já fez isso antes.
+
+273
+00:18:17,359 --> 00:18:18,761
+Bem...
+
+274
+00:18:20,101 --> 00:18:23,456
+As coisas acabaram de ficar
+muito mais complicadas, não foi?
+
+275
+00:18:30,005 --> 00:18:31,671
+Barry Allen.
+
+276
+00:18:34,242 --> 00:18:36,393
+Mas qual Barry Allen?
+
+277
+00:18:37,295 --> 00:18:41,289
+Claramente,
+você veio bem depois que esse.
+
+278
+00:18:41,290 --> 00:18:43,788
+- Bem depois.
+- Bem depois.
+
+279
+00:18:46,238 --> 00:18:50,033
+Quem é a sua amiga?
+Deixe-me adivinhar.
+
+280
+00:18:51,493 --> 00:18:53,688
+Jesse Chambers.
+Não, talvez Lawrence.
+
+281
+00:18:53,689 --> 00:18:58,097
+- Espere, Danica Williams.
+- Não importa quem ela é.
+
+282
+00:19:02,086 --> 00:19:03,833
+Ela é sua filha.
+
+283
+00:19:06,508 --> 00:19:08,477
+Você me trouxe a sua filha.
+
+284
+00:19:11,979 --> 00:19:13,546
+É a...
+
+285
+00:19:14,349 --> 00:19:17,115
+Dawn, se não me engano.
+
+286
+00:19:18,070 --> 00:19:19,502
+Nora.
+
+287
+00:19:21,139 --> 00:19:22,572
+Nora.
+
+288
+00:19:26,414 --> 00:19:27,814
+Que fofo.
+
+289
+00:19:28,360 --> 00:19:30,232
+Pelo menos ainda tem uma.
+
+290
+00:19:30,698 --> 00:19:33,667
+Nora, viagem no tempo
+é tão estranha...
+
+291
+00:19:33,668 --> 00:19:35,272
+O que você quer?
+
+292
+00:19:36,534 --> 00:19:38,801
+Preciso que conserte isso
+para mim.
+
+293
+00:19:41,853 --> 00:19:43,309
+Não...
+
+294
+00:19:46,831 --> 00:19:48,703
+Não, se estão aqui...
+
+295
+00:19:50,482 --> 00:19:54,058
+- E ele está aqui, significa...
+- Você não volta para casa.
+
+296
+00:19:54,059 --> 00:19:57,737
+Eu volto para casa!
+Eu vou para casa!
+
+297
+00:19:57,738 --> 00:20:02,002
+- Eu consigo tudo...
+- Não vai para casa, Thawne!
+
+298
+00:20:03,735 --> 00:20:07,215
+A não ser que me ajude.
+
+299
+00:20:26,668 --> 00:20:28,305
+O que você quer?
+
+300
+00:20:28,306 --> 00:20:31,146
+Como eu disse,
+vai consertar isso para mim.
+
+301
+00:20:31,147 --> 00:20:32,967
+- Para quê?
+- Drenar matéria negra.
+
+302
+00:20:32,968 --> 00:20:34,373
+- De quem?
+- Não importa.
+
+303
+00:20:34,374 --> 00:20:35,774
+- Importa.
+- Não importa.
+
+304
+00:20:35,775 --> 00:20:37,716
+- Não ajudarei...
+- Não é da sua conta!
+
+305
+00:20:37,717 --> 00:20:39,455
+De Cicada!
+
+306
+00:20:41,736 --> 00:20:43,336
+Cicada.
+
+307
+00:20:46,549 --> 00:20:49,252
+Aquele que escapou.
+
+308
+00:20:51,996 --> 00:20:54,031
+Querem destruir
+a adaga de Cicada, não é?
+
+309
+00:20:54,032 --> 00:20:55,658
+Queremos salvar vidas.
+
+310
+00:20:56,802 --> 00:21:00,710
+Querem salvar vidas.
+Aposto que sim.
+
+311
+00:21:00,711 --> 00:21:05,159
+- Especialmente a sua, Allen.
+- Aquele Barry vai acordar logo.
+
+312
+00:21:05,160 --> 00:21:08,212
+Se me vir aqui,
+sua linha do tempo já era.
+
+313
+00:21:08,213 --> 00:21:10,114
+Nunca voltará para casa!
+Sabe disso!
+
+314
+00:21:10,115 --> 00:21:12,155
+Eu sei!
+
+315
+00:21:18,360 --> 00:21:20,265
+Onde estão
+as minhas maneiras?
+
+316
+00:21:21,505 --> 00:21:23,689
+Querem um copo de água?
+
+317
+00:21:29,499 --> 00:21:30,914
+Quem fez isso?
+
+318
+00:21:30,915 --> 00:21:32,677
+Alguém mais inteligente
+do que você.
+
+319
+00:21:33,513 --> 00:21:36,629
+Duvido disso.
+Sabe de uma coisa, Allen...
+
+320
+00:21:36,630 --> 00:21:38,125
+Para o seu plano funcionar,
+
+321
+00:21:38,126 --> 00:21:40,473
+precisa estar em posse
+da adaga dele.
+
+322
+00:21:40,474 --> 00:21:42,942
+- Cuidamos disso.
+- Cuidaram disso, mas como?
+
+323
+00:21:42,943 --> 00:21:44,367
+Com isto.
+
+324
+00:21:49,821 --> 00:21:52,749
+- Isso é...
+- Parte do traje do Savitar.
+
+325
+00:21:56,928 --> 00:22:00,464
+Sabe o que é engraçado
+sobre o seu pai, Nora?
+
+326
+00:22:01,799 --> 00:22:05,519
+Ele me odeia.
+Odeia do fundo do coração.
+
+327
+00:22:05,520 --> 00:22:09,604
+Mas, ainda assim,
+uma versão dele, Savitar,
+
+328
+00:22:10,108 --> 00:22:12,075
+é um cretino
+muito maior do que eu.
+
+329
+00:22:12,076 --> 00:22:16,146
+Viu o rosto dele?
+Viu aquela cara sebosa?
+
+330
+00:22:16,147 --> 00:22:18,660
+- Pode acabar logo?
+- Posso.
+
+331
+00:22:19,300 --> 00:22:23,297
+Preciso dizer, Allen,
+usar o traje de Savitar...
+
+332
+00:22:23,705 --> 00:22:26,624
+- É uma ideia inteligente.
+- Foi ideia dela.
+
+333
+00:22:32,239 --> 00:22:33,930
+Garota esperta.
+
+334
+00:22:38,012 --> 00:22:39,412
+Preciso ir.
+
+335
+00:22:41,389 --> 00:22:44,328
+Ainda quero ver
+como isso vai se desenrolar.
+
+336
+00:22:44,748 --> 00:22:46,148
+Nora.
+
+337
+00:22:50,959 --> 00:22:54,173
+- Pai...
+- Hora de voltar para o começo.
+
+338
+00:22:54,174 --> 00:22:55,574
+Vamos.
+
+339
+00:23:13,406 --> 00:23:16,051
+Hoje, o futuro começa.
+
+340
+00:23:16,052 --> 00:23:18,253
+O trabalho que minha equipe e eu
+faremos aqui
+
+341
+00:23:18,254 --> 00:23:20,222
+vai mudar
+nossa compreensão da Física,
+
+342
+00:23:20,223 --> 00:23:24,680
+vai trazer avanços na Energia
+e avanços na Medicina.
+
+343
+00:23:24,681 --> 00:23:29,229
+Acreditem, esse futuro chegará
+mais rápido do que pensam.
+
+344
+00:23:37,792 --> 00:23:39,521
+Por que vamos
+por esse caminho?
+
+345
+00:23:39,522 --> 00:23:41,429
+Por que não corremos
+ao cofre do tempo?
+
+346
+00:23:41,430 --> 00:23:44,160
+Porque esse é
+um momento importante, Nora.
+
+347
+00:23:44,161 --> 00:23:47,135
+Thawne planeja esta noite
+há 14 anos.
+
+348
+00:23:47,136 --> 00:23:49,210
+Se usarmos nossa velocidade,
+ele sentirá.
+
+349
+00:23:49,211 --> 00:23:51,256
+Sentirá distúrbio
+na Força de Aceleração.
+
+350
+00:23:51,257 --> 00:23:53,195
+Eu não faria isso.
+
+351
+00:24:02,034 --> 00:24:04,308
+<i>Dr. Wells,
+o acelerador está pronto</i>
+
+352
+00:24:04,309 --> 00:24:06,069
+<i>para a injeção de partículas.</i>
+
+353
+00:24:06,070 --> 00:24:09,206
+Sinto que deveria dizer
+algo profundo, tipo:
+
+354
+00:24:09,207 --> 00:24:10,808
+"Um passo pequeno
+para um homem."
+
+355
+00:24:10,809 --> 00:24:12,382
+O que está havendo?
+
+356
+00:24:12,383 --> 00:24:14,372
+Wells está prestes
+a explodir a cidade.
+
+357
+00:24:14,373 --> 00:24:15,947
+Só o que consigo
+pensar em dizer
+
+358
+00:24:15,948 --> 00:24:18,562
+é que parece que espero
+por este dia há séculos.
+
+359
+00:24:21,519 --> 00:24:23,153
+Sem mais delongas.
+
+360
+00:25:02,073 --> 00:25:03,528
+Dr. Wells?
+
+361
+00:25:04,628 --> 00:25:06,131
+Você está bem?
+
+362
+00:25:07,019 --> 00:25:08,419
+Estou.
+
+363
+00:25:08,420 --> 00:25:09,931
+Estou ótimo.
+
+364
+00:25:11,904 --> 00:25:13,472
+Estou...
+
+365
+00:25:15,040 --> 00:25:17,022
+Caitlin,
+poderia pedir a Ronnie
+
+366
+00:25:17,023 --> 00:25:20,321
+para rodar os parâmetros
+do Acelerador só mais uma vez?
+
+367
+00:25:20,322 --> 00:25:21,988
+Só por garantia.
+
+368
+00:25:21,989 --> 00:25:23,674
+- Claro.
+- Ótimo.
+
+369
+00:25:24,317 --> 00:25:26,200
+Caitlin.
+
+370
+00:25:26,201 --> 00:25:28,167
+A garrafa de Dom.
+
+371
+00:25:28,168 --> 00:25:29,723
+A que estávamos guardando.
+
+372
+00:25:30,256 --> 00:25:31,656
+Hoje é o dia?
+
+373
+00:25:31,657 --> 00:25:33,434
+Acho que hoje
+pode ser o dia.
+
+374
+00:25:33,435 --> 00:25:36,204
+- Vou pegar.
+- Ótimo, chego em um minuto.
+
+375
+00:25:39,040 --> 00:25:41,232
+Está nos deixando
+nervosos, dr. Wells.
+
+376
+00:25:41,233 --> 00:25:42,967
+- Excitante, não é?
+- É.
+
+377
+00:25:42,968 --> 00:25:45,102
+Tudo graças a equipe, certo?
+
+378
+00:25:45,103 --> 00:25:46,504
+Caitlin.
+
+379
+00:25:46,505 --> 00:25:49,290
+Noivo Ronnie, Hartley.
+
+380
+00:25:49,291 --> 00:25:51,352
+Hartley contribuiu.
+
+381
+00:25:51,353 --> 00:25:53,705
+E especialmente você, Cisco.
+
+382
+00:25:54,522 --> 00:25:57,425
+Preciso dizer que sinto
+uma vibração boa de você.
+
+383
+00:25:57,426 --> 00:26:00,630
+Do que você está
+destinado a se tornar.
+
+384
+00:26:01,308 --> 00:26:05,210
+Saiba que estou ansioso
+para participar dessa aventura.
+
+385
+00:26:07,713 --> 00:26:09,398
+Obrigado, dr. Wells.
+
+386
+00:26:10,097 --> 00:26:11,776
+Significa muito para mim.
+
+387
+00:26:19,926 --> 00:26:22,297
+Você... Eu não...
+
+388
+00:26:25,446 --> 00:26:28,069
+Vamos ligar o Acelerador
+e abrir uma champanhe?
+
+389
+00:26:28,070 --> 00:26:29,904
+- Acho que...
+- Certo.
+
+390
+00:26:36,989 --> 00:26:38,531
+Ele foi embora.
+
+391
+00:26:45,504 --> 00:26:47,005
+<i>Boa noite, Barry Allen.</i>
+
+392
+00:26:47,006 --> 00:26:49,837
+<i>- Não o esperava tão cedo.</i>
+- Ela conhece você?
+
+393
+00:26:49,838 --> 00:26:51,991
+<i>Também a conheço,
+Nora West-Allen.</i>
+
+394
+00:26:51,992 --> 00:26:53,652
+<i>Também conhecida como XS.</i>
+
+395
+00:26:53,653 --> 00:26:55,332
+<i>Quinta recruta da nova Legião...</i>
+
+396
+00:26:55,333 --> 00:26:58,341
+Gideon, o Acelerador
+de Partículas vai explodir.
+
+397
+00:26:58,342 --> 00:27:00,494
+Preciso que recalibre
+a reação em cadeia
+
+398
+00:27:00,495 --> 00:27:03,207
+para que parte da matéria negra
+seja desviada ao tubo,
+
+399
+00:27:03,208 --> 00:27:05,353
+e que não grave
+relatórios disso...
+
+400
+00:27:11,632 --> 00:27:13,032
+Não!
+
+401
+00:27:16,940 --> 00:27:18,569
+Você o odeia mesmo, não é?
+
+402
+00:27:20,193 --> 00:27:22,115
+Não sabe o que ele fez?
+
+403
+00:27:24,331 --> 00:27:26,831
+Sei que ele era
+seu arqui-inimigo.
+
+404
+00:27:29,752 --> 00:27:31,324
+Ele matou minha mãe.
+
+405
+00:27:33,012 --> 00:27:34,412
+Na nossa casa.
+
+406
+00:27:35,277 --> 00:27:36,691
+Quando eu tinha 11 anos.
+
+407
+00:27:36,692 --> 00:27:38,427
+Era um menino de 11 anos.
+
+408
+00:27:40,008 --> 00:27:41,788
+Sabe por que ele fez isso?
+
+409
+00:27:43,259 --> 00:27:44,852
+Ele pensou
+
+410
+00:27:44,853 --> 00:27:47,233
+que se eu sofresse uma tragédia
+muito terrível,
+
+411
+00:27:47,234 --> 00:27:49,037
+nunca me recuperaria.
+
+412
+00:27:49,727 --> 00:27:51,593
+E nunca me tornaria o Flash.
+
+413
+00:27:54,600 --> 00:27:57,100
+Eu não sabia disso.
+
+414
+00:27:59,472 --> 00:28:03,016
+Muito do que houve comigo
+não deve estar no Museu.
+
+415
+00:28:09,030 --> 00:28:11,731
+Por isso não queria
+que eu viesse junto, não é?
+
+416
+00:28:12,487 --> 00:28:15,744
+Não por ser perigoso
+ou pela linha do tempo.
+
+417
+00:28:16,368 --> 00:28:19,650
+Não queria que eu soubesse
+coisas ruins sobre você,
+
+418
+00:28:19,651 --> 00:28:22,914
+para não ser
+o que mais lembraria ao voltar.
+
+419
+00:28:24,021 --> 00:28:27,308
+Não precisa me proteger
+dessas coisas.
+
+420
+00:28:27,309 --> 00:28:28,763
+- Sim, preciso.
+- Não precisa.
+
+421
+00:28:28,764 --> 00:28:31,044
+Sim, eu preciso.
+
+422
+00:28:32,205 --> 00:28:34,926
+- Você é minha filha.
+- Sim, e você é meu pai.
+
+423
+00:28:34,927 --> 00:28:37,450
+E só quero conhecer meu pai.
+
+424
+00:28:47,796 --> 00:28:49,863
+<i>Recalibragem completa.</i>
+
+425
+00:28:53,649 --> 00:28:55,049
+Lá vamos nós.
+
+426
+00:29:15,748 --> 00:29:18,360
+<i>Recuperação de matéria negra
+bem-sucedida.</i>
+
+427
+00:29:24,075 --> 00:29:26,598
+Vamos colocar nosso tempo
+de volta no seu lugar.
+
+428
+00:29:27,037 --> 00:29:28,437
+Trauma na medula,
+
+429
+00:29:28,438 --> 00:29:30,113
+insensibilidade
+abaixo do quadril.
+
+430
+00:29:30,114 --> 00:29:33,633
+É Harrison Wells.
+Aperte minha mão. Bom sinal.
+
+431
+00:29:33,634 --> 00:29:35,896
+Homem, 24 anos,
+atingido por um raio.
+
+432
+00:29:35,897 --> 00:29:37,757
+Precisa de exames completos.
+
+433
+00:29:38,218 --> 00:29:39,618
+Leve-o ao compartimento 1.
+
+434
+00:29:40,194 --> 00:29:42,107
+O que está acontecendo
+nessa cidade?
+
+435
+00:29:45,491 --> 00:29:47,301
+O quarto de Grace
+é no quarto andar.
+
+436
+00:29:47,302 --> 00:29:49,645
+Deve funcionar.
+Vamos colocar aqui.
+
+437
+00:29:58,024 --> 00:29:59,424
+Conseguimos.
+
+438
+00:29:59,425 --> 00:30:00,826
+Vamos.
+
+439
+00:30:06,066 --> 00:30:08,921
+Vocês foram mesmo?
+
+440
+00:30:08,922 --> 00:30:10,803
+Eu disse.
+Viagem no tempo é esquisito.
+
+441
+00:30:10,804 --> 00:30:13,242
+- Deu tudo certo?
+- Deu.
+
+442
+00:30:13,243 --> 00:30:15,622
+- Ele está no hospital?
+- Não saiu do lado dela.
+
+443
+00:30:15,623 --> 00:30:18,189
+- Colocaram o transmissor?
+- Colocamos.
+
+444
+00:30:19,354 --> 00:30:21,037
+Vamos pegar o Cicada.
+
+445
+00:30:50,444 --> 00:30:51,844
+<i>Está pronto, Barry?</i>
+
+446
+00:30:52,252 --> 00:30:53,702
+Estou pronto.
+
+447
+00:31:24,638 --> 00:31:26,167
+Cicada.
+
+448
+00:31:26,168 --> 00:31:28,711
+É assim que me chama?
+
+449
+00:31:30,002 --> 00:31:31,991
+Nem todos os meta-humanos
+são culpados
+
+450
+00:31:31,992 --> 00:31:33,588
+pelo que aconteceu a Grace.
+
+451
+00:31:33,589 --> 00:31:35,909
+Sim, eles são.
+
+452
+00:31:35,910 --> 00:31:39,776
+A destruição que eles causam,
+as mortes,
+
+453
+00:31:39,777 --> 00:31:41,370
+a dor.
+
+454
+00:31:41,371 --> 00:31:44,190
+Eu conheço dor e morte,
+e sobre descontar no mundo.
+
+455
+00:31:44,191 --> 00:31:46,602
+Isso não vai ajudar.
+Pense na Grace.
+
+456
+00:31:46,603 --> 00:31:49,272
+Só penso nela, Flash.
+
+457
+00:31:49,273 --> 00:31:52,150
+E estou deixando o mundo
+mais seguro para ela.
+
+458
+00:31:52,151 --> 00:31:55,592
+Todos os meta-humanos
+devem morrer.
+
+459
+00:31:55,593 --> 00:31:56,993
+Mas e você?
+
+460
+00:31:57,723 --> 00:31:59,247
+Você é meta-humano agora.
+
+461
+00:31:59,248 --> 00:32:00,682
+Eu sou.
+
+462
+00:32:00,683 --> 00:32:05,683
+E depois que você morrer,
+me juntarei a você.
+
+463
+00:32:09,872 --> 00:32:12,736
+A vocês quatro.
+
+464
+00:32:18,021 --> 00:32:19,521
+Vamos, funcione.
+
+465
+00:32:38,163 --> 00:32:40,621
+- Funcionou.
+- Funcionou.
+
+466
+00:32:40,622 --> 00:32:42,447
+Vamos ver se você gosta.
+
+467
+00:32:47,829 --> 00:32:49,279
+<i>Cisco, agora.</i>
+
+468
+00:32:51,052 --> 00:32:52,652
+Mande para o espaço.
+
+469
+00:32:56,431 --> 00:32:58,042
+Pegamos você.
+
+470
+00:32:58,043 --> 00:33:01,316
+Cara, parece estar tendo
+um dia e tanto.
+
+471
+00:33:01,317 --> 00:33:04,472
+É porque eu mandei sua adaga
+para o espaço,
+
+472
+00:33:04,473 --> 00:33:07,030
+ou porque percebeu
+que não me matou?
+
+473
+00:33:07,031 --> 00:33:08,746
+Nós impedimos você.
+
+474
+00:33:08,747 --> 00:33:11,684
+Vocês não impediram nada.
+
+475
+00:33:21,056 --> 00:33:24,421
+O satélite está rastreando
+a adaga voltando à exosfera.
+
+476
+00:33:24,422 --> 00:33:27,772
+Pessoal, Cicada está puxando
+<i>a adaga de volta do espaço.</i>
+
+477
+00:33:33,847 --> 00:33:35,547
+Vai, vai.
+
+478
+00:34:01,463 --> 00:34:03,852
+Isso acaba agora.
+
+479
+00:34:03,853 --> 00:34:05,277
+Barry!
+
+480
+00:34:05,278 --> 00:34:07,705
+Não!
+
+481
+00:34:20,178 --> 00:34:22,411
+Vamos dançar,
+grilo maluco.
+
+482
+00:34:35,769 --> 00:34:38,300
+Dwyer não está aparecendo
+no reconhecimento facial.
+
+483
+00:34:38,301 --> 00:34:41,175
+E não tem sinal
+da matéria negra da adaga.
+
+484
+00:34:41,176 --> 00:34:43,592
+Ele não ficará longe da sobrinha
+por muito tempo.
+
+485
+00:34:43,593 --> 00:34:46,043
+Quando ele voltar,
+estaremos prontos.
+
+486
+00:34:46,044 --> 00:34:49,510
+Sim, estaremos.
+Graças a Nevasca.
+
+487
+00:34:50,082 --> 00:34:52,838
+Eu não entendo.
+Como ela consegue aparecer?
+
+488
+00:34:52,839 --> 00:34:54,358
+Ela não surgiu
+da matéria negra
+
+489
+00:34:54,359 --> 00:34:57,633
+então, acho que ela é imune
+à adaga do Cicada.
+
+490
+00:34:57,634 --> 00:35:00,748
+Ela pode ser a chave
+para deter o Cicada para sempre.
+
+491
+00:35:00,749 --> 00:35:03,314
+Talvez devêssemos
+falar com ela.
+
+492
+00:35:03,315 --> 00:35:05,798
+- O que você acha?
+- Claro.
+
+493
+00:35:07,162 --> 00:35:08,832
+Grilo maluco?
+
+494
+00:35:08,833 --> 00:35:10,599
+Saiu na hora.
+
+495
+00:35:17,361 --> 00:35:18,761
+Estou orgulhosa de você.
+
+496
+00:35:31,105 --> 00:35:33,511
+- Oi, Sherlock.
+- Sherloque.
+
+497
+00:35:33,512 --> 00:35:35,300
+- Chá?
+- Não, obrigada.
+
+498
+00:35:35,301 --> 00:35:36,846
+Você viu meu...
+
+499
+00:35:39,457 --> 00:35:40,881
+- Diário.
+- Isso.
+
+500
+00:35:40,882 --> 00:35:44,081
+Perdoe-me,
+mas não pude deixar de notar
+
+501
+00:35:44,082 --> 00:35:46,675
+essa composição.
+
+502
+00:35:46,676 --> 00:35:48,637
+- Não é nada importante.
+- Mas...
+
+503
+00:35:49,379 --> 00:35:51,290
+Parece algo especial.
+
+504
+00:35:51,806 --> 00:35:54,900
+Não gosto de me gabar,
+mas eu falo muitos idiomas
+
+505
+00:35:54,901 --> 00:35:58,703
+e mesmo assim
+não reconheci esse.
+
+506
+00:35:58,704 --> 00:36:01,960
+- É um idioma temporal.
+- Idioma temporal, sério?
+
+507
+00:36:01,961 --> 00:36:04,490
+É usado para gravar eventos
+
+508
+00:36:04,491 --> 00:36:06,307
+apesar de mudanças
+na linha do tempo.
+
+509
+00:36:06,308 --> 00:36:10,009
+Não importa o que aconteça,
+sempre lembrarei do meu pai.
+
+510
+00:36:10,636 --> 00:36:12,922
+Onde se aprende algo assim?
+
+511
+00:36:12,923 --> 00:36:14,683
+Escola
+dos viajantes do tempo?
+
+512
+00:36:15,641 --> 00:36:18,142
+Na verdade, eu que inventei.
+
+513
+00:36:21,347 --> 00:36:23,031
+Você inventou?
+
+514
+00:36:26,402 --> 00:36:28,067
+Garota esperta.
+
+515
+00:36:30,289 --> 00:36:33,191
+Já estava me esquecendo.
+Isso é seu.
+
+516
+00:36:51,523 --> 00:36:55,511
+A LINHA DO TEMPO É MALEÁVEL
+
+517
+00:37:44,900 --> 00:37:46,625
+Eles eram incríveis.
+
+518
+00:37:48,200 --> 00:37:51,289
+- Pai, eu não…
+- Está tudo bem.
+
+519
+00:37:53,244 --> 00:37:54,915
+Eu entendo.
+
+520
+00:37:59,378 --> 00:38:02,046
+- Eu te amo.
+- Eu também te amo.
+
+521
+00:38:06,330 --> 00:38:09,353
+Já pensou em impedir
+o que vai acontecer?
+
+522
+00:38:14,627 --> 00:38:16,027
+Todos os dias.
+
+523
+00:38:19,432 --> 00:38:22,033
+Obrigada por me levar
+com você hoje.
+
+524
+00:38:22,963 --> 00:38:24,949
+Significou muito.
+
+525
+00:38:24,950 --> 00:38:26,565
+Estou feliz que tenha ido.
+
+526
+00:38:46,258 --> 00:38:48,969
+Vamos, velhote.
+
+527
+00:38:49,598 --> 00:38:50,998
+Vamos.
+
+528
+00:38:56,268 --> 00:38:58,108
+Velhote?
+
+529
+00:39:14,543 --> 00:39:16,454
+<i>Boa noite, Nora West-Allen.</i>
+
+530
+00:39:16,455 --> 00:39:19,089
+Gideon,
+mais uma inserção de dados.
+
+531
+00:39:28,099 --> 00:39:30,301
+<i>Entrada carregada
+e registrada.</i>
+
+532
+00:39:30,302 --> 00:39:31,997
+<i>Devo enviar
+ao mesmo destinatário?</i>
+
+533
+00:39:31,998 --> 00:39:34,559
+- Sim.
+- <i>Entrada enviada.</i>
+
+534
+00:39:34,560 --> 00:39:36,734
+<i>Posso ajudar
+com mais alguma coisa?</i>
+
+535
+00:39:38,305 --> 00:39:40,612
+Sim, envie uma mensagem pessoal
+para mim.
+
+536
+00:39:40,613 --> 00:39:43,213
+<i>O que gostaria de dizer?</i>
+
+537
+00:39:43,214 --> 00:39:46,827
+Na verdade,
+deixe que eu mesma entrego.
+
+538
+00:39:59,922 --> 00:40:01,551
+Precisamos conversar.
+
+539
+00:40:12,978 --> 00:40:14,745
+Sim, Nora.
+
+540
+00:40:20,421 --> 00:40:22,251
+Precisamos mesmo.
+
+541
+00:40:35,464 --> 00:40:38,629
+TERRA 90
+
+542
+00:41:25,642 --> 00:41:27,321
+Você falhou.
+
+543
+00:41:31,991 --> 00:41:33,943
+Por que está fazendo isso?
+
+544
+00:41:34,450 --> 00:41:36,926
+Fez isso com você mesmo.
+
+545
+00:41:37,429 --> 00:41:39,397
+E agora,
+
+546
+00:41:39,398 --> 00:41:41,867
+todos vocês vão morrer.
+
+547
+00:41:49,958 --> 00:41:51,734
+[InSUBs]
+Qualidade é InSUBstituível!

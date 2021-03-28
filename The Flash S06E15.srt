@@ -1,0 +1,3329 @@
+1
+00:00:04,796 --> 00:00:06,196
+Como se sente?
+
+2
+00:00:09,551 --> 00:00:10,951
+Espere, não!
+
+3
+00:00:13,337 --> 00:00:16,406
+Um pouco zonza.
+De resto, estou bem.
+
+4
+00:00:18,743 --> 00:00:20,364
+Bem-vinda à equipe, Kamilla.
+
+5
+00:00:21,453 --> 00:00:24,742
+Sua criação
+não estava planejada,
+
+6
+00:00:25,465 --> 00:00:27,197
+mas sei que será
+uma adição útil.
+
+7
+00:00:27,198 --> 00:00:28,602
+Onde está minha sósia?
+
+8
+00:00:28,603 --> 00:00:30,581
+Ela não é mais um problema
+agora.
+
+9
+00:00:30,582 --> 00:00:33,861
+Não tenho muito tempo
+antes de Iris perceber que sumi,
+
+10
+00:00:33,862 --> 00:00:35,517
+então, ouça-me,
+isto é importante.
+
+11
+00:00:35,518 --> 00:00:37,597
+Seis anos atrás,
+criei um dispositivo
+
+12
+00:00:37,598 --> 00:00:40,175
+capaz de converter
+luz em eletricidade.
+
+13
+00:00:40,681 --> 00:00:43,050
+Chamei-o
+de Refrator Prismático.
+
+14
+00:00:44,442 --> 00:00:45,968
+Era parecido com isto.
+
+15
+00:00:46,557 --> 00:00:49,152
+Preciso
+que o tragam para mim.
+
+16
+00:00:59,668 --> 00:01:01,196
+- É lindo.
+- É uma réplica.
+
+17
+00:01:01,197 --> 00:01:03,928
+Fiz no Universo Espelho,
+mas meu R-CEM o rejeitou.
+
+18
+00:01:03,929 --> 00:01:07,024
+Acredito que precisa do original
+para funcionar.
+
+19
+00:01:07,025 --> 00:01:08,425
+O que é o R-CEM?
+
+20
+00:01:08,426 --> 00:01:11,408
+Algo que garantirá o sucesso
+de meus planos a longo prazo.
+
+21
+00:01:12,020 --> 00:01:13,537
+Por onde começamos?
+
+22
+00:01:13,538 --> 00:01:15,653
+Meu marido, Joseph,
+
+23
+00:01:16,696 --> 00:01:18,961
+subestimou
+o valor do refrator
+
+24
+00:01:18,962 --> 00:01:21,449
+e vendeu para Mercury Labs
+há alguns meses.
+
+25
+00:01:22,023 --> 00:01:25,534
+Encontrem uma forma de entrar,
+troquem o original pela réplica,
+
+26
+00:01:25,535 --> 00:01:26,935
+e tragam para mim.
+
+27
+00:01:27,865 --> 00:01:29,457
+Não me desapontem.
+
+28
+00:01:29,458 --> 00:01:30,902
+O sucesso é garantido.
+
+29
+00:01:33,234 --> 00:01:36,234
+<b>6ª Temporada 
+ Episódio 15
+-= The Exorcism of Nash Wells =-</b>
+
+30
+00:01:36,235 --> 00:01:39,235
+<b>Legenda:
+Darrow, bebelzinha, IsaacA</b>
+
+31
+00:01:39,236 --> 00:01:42,236
+<b>Legenda:
+urielneves, KahX, John, whataisa</b>
+
+32
+00:01:42,237 --> 00:01:45,237
+<b>Revisão:
+KahX</b>
+
+33
+00:01:45,238 --> 00:01:48,238
+<b>[Equipe InSUBs]
+Qualidade é InSUBstituível</b>
+
+34
+00:01:49,038 --> 00:01:51,626
+Oficialmente,
+hackeei todos os bancos de dados
+
+35
+00:01:51,627 --> 00:01:53,207
+quântico-cinemáticos
+do planeta.
+
+36
+00:01:53,208 --> 00:01:56,164
+Sabe o que descobri sobre
+Força de Aceleração artificial?
+
+37
+00:01:56,165 --> 00:01:57,642
+Thawne criou uma.
+
+38
+00:01:59,390 --> 00:02:01,753
+E só.
+E duvido que ele nos contará
+
+39
+00:02:01,754 --> 00:02:04,429
+considerando que deu uma
+de Linda Blair no Nash
+
+40
+00:02:04,430 --> 00:02:07,324
+e meio que quer
+matar todos nós.
+
+41
+00:02:07,325 --> 00:02:09,270
+Se Thawne conseguiu,
+também podemos.
+
+42
+00:02:09,271 --> 00:02:11,505
+Enquanto isso,
+precisamos garantir que Flash
+
+43
+00:02:11,506 --> 00:02:14,053
+não perca os poderes.
+A Força de Aceleração se foi,
+
+44
+00:02:14,054 --> 00:02:16,816
+mas ainda há um resíduo
+de velocidade em seu DNA.
+
+45
+00:02:16,817 --> 00:02:20,350
+Até sabermos quanto, precisamos
+gerenciar seu uso de velocidade.
+
+46
+00:02:20,351 --> 00:02:21,751
+Como fazemos isso?
+
+47
+00:02:22,252 --> 00:02:23,861
+Chamo de Velocímetro.
+
+48
+00:02:23,862 --> 00:02:27,289
+Vai medir a intensidade
+da sua velocidade por cores.
+
+49
+00:02:27,290 --> 00:02:29,085
+Agora, está preto.
+
+50
+00:02:29,086 --> 00:02:31,830
+É o neutro, quer dizer
+que não está usando velocidade.
+
+51
+00:02:31,831 --> 00:02:33,815
+Se usar um pouco,
+ficará verde.
+
+52
+00:02:33,816 --> 00:02:36,514
+Depois vem amarelo,
+depois laranja
+
+53
+00:02:36,515 --> 00:02:38,716
+e é óbvio que vermelho
+significa o máximo.
+
+54
+00:02:38,717 --> 00:02:41,741
+Nesta situação, não recomendo
+que use mais do que verde.
+
+55
+00:02:41,742 --> 00:02:44,544
+E não estamos falando
+apenas sobre correr.
+
+56
+00:02:44,545 --> 00:02:46,359
+- Pensar acelerado.
+- Cura acelerada.
+
+57
+00:02:46,360 --> 00:02:49,404
+Tempo do Flash. Tudo isso
+pode esgotar suas habilidades.
+
+58
+00:02:49,405 --> 00:02:52,069
+- Precisa ter cuidado.
+- Pessoal, não é simples assim.
+
+59
+00:02:52,427 --> 00:02:53,972
+Preciso
+manter a cidade segura.
+
+60
+00:02:53,973 --> 00:02:57,386
+<i>Equipe Flash!
+É seu amigo, Nash.</i>
+
+61
+00:02:57,387 --> 00:03:00,847
+<i>- Deixem-me sair!</i>
+- Temos certeza de que é o Nash?
+
+62
+00:03:01,430 --> 00:03:03,296
+Ou Thawne
+se fingindo de morto?
+
+63
+00:03:03,297 --> 00:03:04,697
+Vamos descobrir.
+
+64
+00:03:06,874 --> 00:03:10,059
+Soube que tem novidades
+na investigação do caso Carver.
+
+65
+00:03:10,060 --> 00:03:13,390
+Apenas folheando a papelada,
+
+66
+00:03:13,391 --> 00:03:16,292
+encontrei evidências
+de vários encobrimentos.
+
+67
+00:03:16,293 --> 00:03:19,512
+Homicídios
+sendo arquivados como acidentes,
+
+68
+00:03:19,513 --> 00:03:24,243
+casos de desaparecimento
+enterrados em papelada falsa.
+
+69
+00:03:24,244 --> 00:03:28,568
+E todas as vítimas
+têm algo em comum.
+
+70
+00:03:28,569 --> 00:03:31,310
+Acha que Carver
+tem um espião na polícia?
+
+71
+00:03:31,311 --> 00:03:34,896
+Alguém tem o ajudado
+a escapar de acusações.
+
+72
+00:03:34,897 --> 00:03:36,297
+A questão é: Por quê?
+
+73
+00:03:36,672 --> 00:03:39,810
+É um trabalho excepcional,
+Joe.
+
+74
+00:03:40,188 --> 00:03:43,292
+Mas investigar um espião
+é trabalho para a Corregedoria,
+
+75
+00:03:43,293 --> 00:03:44,693
+não para nós.
+
+76
+00:03:44,694 --> 00:03:49,572
+Não podemos confiar em ninguém
+até saber quem Carver comprou.
+
+77
+00:03:50,344 --> 00:03:52,078
+O Barry concorda.
+
+78
+00:03:52,079 --> 00:03:54,007
+- Flash viu os arquivos?
+- Viu.
+
+79
+00:03:54,008 --> 00:03:57,021
+Joe, este não é um assunto
+relacionado aos meta-humanos.
+
+80
+00:03:57,022 --> 00:03:59,648
+Há alguma chance
+disto estar se tornando pessoal?
+
+81
+00:03:59,649 --> 00:04:02,566
+Seria compreensível,
+dado o que Carver fez com Iris.
+
+82
+00:04:02,567 --> 00:04:04,577
+Trata-se
+de levar um criminoso à justiça.
+
+83
+00:04:04,578 --> 00:04:06,022
+E nós vamos.
+
+84
+00:04:06,579 --> 00:04:09,671
+Mas, Joe,
+é seu primeiro ano como capitão.
+
+85
+00:04:09,672 --> 00:04:12,454
+Se o pessoal achar que suspeita
+que alguém é espião
+
+86
+00:04:12,455 --> 00:04:13,855
+e você estiver enganado...
+
+87
+00:04:14,461 --> 00:04:15,861
+Dê uma olhada.
+
+88
+00:04:19,125 --> 00:04:23,586
+Então, este Thawne
+tem olhos vermelhos e vibra,
+
+89
+00:04:24,282 --> 00:04:26,140
+mas também é um Wells?
+
+90
+00:04:26,141 --> 00:04:27,772
+Sim, é ele.
+
+91
+00:04:29,149 --> 00:04:31,572
+- Como você...
+- Vi muitos Wells ultimamente.
+
+92
+00:04:32,417 --> 00:04:35,895
+Quero dizer, aqui em cima.
+
+93
+00:04:35,896 --> 00:04:37,926
+São muitos.
+Não sei quantos são, mas...
+
+94
+00:04:38,498 --> 00:04:40,120
+O mágico Wells, irritante.
+
+95
+00:04:40,121 --> 00:04:42,788
+Wells francês,
+Wells de Nova York...
+
+96
+00:04:42,789 --> 00:04:44,403
+Na verdade, ele é legal.
+
+97
+00:04:45,558 --> 00:04:49,104
+- E então, Harry Wells.
+- Nash, Harry está morto.
+
+98
+00:04:49,603 --> 00:04:51,003
+Estão todos mortos.
+
+99
+00:04:51,004 --> 00:04:53,124
+Pessoal?
+Acho que deveriam ver isto.
+
+100
+00:04:53,125 --> 00:04:56,296
+Vamos lá.
+Qual é, deixem-me sair!
+
+101
+00:04:56,297 --> 00:04:59,706
+À princípio, as ondas cerebrais
+de Nash parecem normais.
+
+102
+00:04:59,707 --> 00:05:02,412
+Sem anomalias
+ou inconsistências.
+
+103
+00:05:02,413 --> 00:05:05,390
+Mas quando olho para elas
+em três dimensões,
+
+104
+00:05:05,391 --> 00:05:07,840
+parece
+que há múltiplas ondas cerebrais
+
+105
+00:05:07,841 --> 00:05:09,988
+intrinsicamente emaranhadas.
+
+106
+00:05:11,533 --> 00:05:13,234
+No colapso do multiverso
+na Crise,
+
+107
+00:05:13,235 --> 00:05:16,364
+todos Wells devem ter canalizado
+no único sósia sobrevivente.
+
+108
+00:05:16,365 --> 00:05:19,376
+Múltiplas mentes acampadas
+no cérebro de Nash.
+
+109
+00:05:19,377 --> 00:05:21,577
+É como Tyler Durden
+vezes mil.
+
+110
+00:05:21,578 --> 00:05:24,394
+Ótima referência.
+"A primeira regra do Clube é..."
+
+111
+00:05:24,395 --> 00:05:26,195
+Podemos não falar
+de "Clube da Luta"?
+
+112
+00:05:26,196 --> 00:05:28,801
+Certo. Então, de quantos Wells
+estamos falando?
+
+113
+00:05:28,802 --> 00:05:30,935
+Quantos universos existiam
+no multiverso?
+
+114
+00:05:30,936 --> 00:05:32,336
+O quê?
+
+115
+00:05:32,337 --> 00:05:34,283
+Espere, não,
+isso não faz sentido.
+
+116
+00:05:34,284 --> 00:05:36,913
+Thawne nem era um Wells.
+Ele matou Harrison Wells,
+
+117
+00:05:36,914 --> 00:05:39,243
+assumiu o corpo dele
+e nos enganou por meses.
+
+118
+00:05:39,244 --> 00:05:42,007
+É este o psicopata
+que quer controlar o meu corpo?
+
+119
+00:05:42,008 --> 00:05:44,835
+Vamos retirá-lo
+antes que reapareça!
+
+120
+00:05:44,836 --> 00:05:46,962
+Não há procedimento médico
+ou dispositivo
+
+121
+00:05:46,963 --> 00:05:48,756
+que separaria
+ondas cerebrais.
+
+122
+00:05:48,757 --> 00:05:51,460
+Nesta Terra estúpida, não.
+Mas, "Olá?".
+
+123
+00:05:51,461 --> 00:05:53,297
+Viajante do multiverso?
+Alguém?
+
+124
+00:05:53,298 --> 00:05:56,335
+Tenho um neurosseparador
+aqui na minha bolsa.
+
+125
+00:05:56,336 --> 00:05:59,293
+Podem pegá-lo, por favor?
+Vai servir direitinho.
+
+126
+00:05:59,294 --> 00:06:01,539
+Na verdade,
+ajudou-me a impedir a invasão
+
+127
+00:06:01,540 --> 00:06:03,768
+de estrelas-do-mar psíquicas
+na Terra 26.
+
+128
+00:06:03,769 --> 00:06:05,247
+No pequeno...
+É isso.
+
+129
+00:06:05,248 --> 00:06:08,026
+Aquilo não foi bonito,
+
+130
+00:06:08,027 --> 00:06:10,874
+mas, para ser honesto,
+não sei se o separador
+
+131
+00:06:10,875 --> 00:06:13,817
+pode separar milhares
+de ondas cerebrais de uma vez.
+
+132
+00:06:13,818 --> 00:06:17,432
+Pode, se o sobrecarregarmos
+com o PEM da sua manopla.
+
+133
+00:06:19,218 --> 00:06:22,268
+Isso.
+A manopla, isso.
+
+134
+00:06:22,269 --> 00:06:24,895
+Quando for carregar o PEM,
+se assegure
+
+135
+00:06:24,896 --> 00:06:26,550
+que esteja em 1.500 volts,
+
+136
+00:06:26,551 --> 00:06:28,211
+- ou você arrisca...
+- Eu sei.
+
+137
+00:06:28,212 --> 00:06:30,329
+- Se não, vou...
+- Fritar o circuito.
+
+138
+00:06:30,330 --> 00:06:32,786
+- Cuido disso.
+- Cisco, espere.
+
+139
+00:06:42,279 --> 00:06:44,657
+- Era o Thawne?
+- Ele não deve ter ido longe.
+
+140
+00:06:44,658 --> 00:06:47,409
+Ele está sem poderes,
+então não pode viajar no tempo.
+
+141
+00:06:47,410 --> 00:06:48,810
+Pode sim.
+
+142
+00:06:59,632 --> 00:07:03,387
+Olhe para nós, Flash.
+Farinhas do mesmo saco.
+
+143
+00:07:03,388 --> 00:07:07,760
+Dois velocistas frustrados
+com os limites da velocidade.
+
+144
+00:07:07,761 --> 00:07:11,200
+- Não sou nada como você.
+- Recuperarei minha velocidade.
+
+145
+00:07:11,201 --> 00:07:12,740
+E quando eu recuperar,
+
+146
+00:07:14,021 --> 00:07:16,281
+quando ganhar controle
+sobre este corpo,
+
+147
+00:07:16,282 --> 00:07:19,026
+quando me reconectar
+à minha Força de Aceleração,
+
+148
+00:07:19,027 --> 00:07:20,427
+você...
+
+149
+00:07:21,187 --> 00:07:24,198
+Você vai estar muito fraco
+para me impedir, não é?
+
+150
+00:07:24,199 --> 00:07:26,625
+Assim como foi incapaz
+
+151
+00:07:26,626 --> 00:07:30,323
+de salvar sua filha.
+
+152
+00:07:30,324 --> 00:07:32,415
+Sinto falta
+da minha pequena velocista.
+
+153
+00:07:32,416 --> 00:07:34,775
+A Nora nunca foi sua.
+
+154
+00:07:34,776 --> 00:07:36,608
+Faça isso.
+
+155
+00:07:37,008 --> 00:07:41,118
+Eu me pergunto quanta velocidade
+você vai ter quando eu me for.
+
+156
+00:07:42,659 --> 00:07:44,059
+Barry, não!
+
+157
+00:08:03,910 --> 00:08:06,643
+Ele nos enganou.
+De novo.
+
+158
+00:08:07,152 --> 00:08:09,031
+Eu devia saber
+que sobrecarregar o PEM
+
+159
+00:08:09,032 --> 00:08:12,072
+- causaria um loop de recuo.
+- Thawne sempre tem um plano B.
+
+160
+00:08:12,073 --> 00:08:14,673
+Verifiquei as gravações.
+Thawne só foi ao Starquivos,
+
+161
+00:08:14,674 --> 00:08:16,354
+em nenhum outro lugar mais.
+
+162
+00:08:16,355 --> 00:08:18,641
+- Como está o Nash?
+- Melhor.
+
+163
+00:08:18,642 --> 00:08:20,463
+Agora que você
+não quer matá-lo.
+
+164
+00:08:21,709 --> 00:08:23,397
+Você ia realmente matá-lo?
+
+165
+00:08:26,606 --> 00:08:29,752
+- Não sei.
+- O Nash precisa de ajuda,
+
+166
+00:08:29,753 --> 00:08:31,153
+não de ser atacado.
+
+167
+00:08:31,792 --> 00:08:33,589
+Você não pode ficar aqui,
+Barry.
+
+168
+00:08:35,311 --> 00:08:37,701
+- Por que não?
+- Porque seu velocímetro
+
+169
+00:08:37,702 --> 00:08:39,886
+registrou
+uma grande perda de velocidade,
+
+170
+00:08:39,887 --> 00:08:43,040
+o que significa que não só usar
+seus poderes o afeta,
+
+171
+00:08:43,041 --> 00:08:45,593
+- mas a sua raiva também.
+- Caitlin, vou ficar bem.
+
+172
+00:08:45,594 --> 00:08:48,965
+E se eu precisar de velocidade,
+posso usar a Velocidade-X.
+
+173
+00:08:48,966 --> 00:08:52,178
+Ótimo. Então você vai começar
+a usar esteroides de velocidade?
+
+174
+00:08:52,179 --> 00:08:53,634
+Todos os testes que fizemos
+
+175
+00:08:53,635 --> 00:08:56,180
+disseram que você
+mudou demais fisiologicamente,
+
+176
+00:08:56,181 --> 00:08:59,248
+então não temos ideia
+dos efeitos da Velocidade-X.
+
+177
+00:08:59,249 --> 00:09:01,273
+Ela pode machucar você
+ou outros...
+
+178
+00:09:01,274 --> 00:09:02,674
+Outros já se machucaram.
+
+179
+00:09:02,675 --> 00:09:05,209
+Não sabemos o que Thawne
+está fazendo com o Nash.
+
+180
+00:09:05,210 --> 00:09:06,878
+E ele pode te causar
+mais danos
+
+181
+00:09:06,879 --> 00:09:09,110
+se ele entrar
+na sua cabeça outra vez.
+
+182
+00:09:11,595 --> 00:09:14,701
+Sei que isso
+é difícil para você,
+
+183
+00:09:15,766 --> 00:09:17,817
+mas você precisa ir.
+
+184
+00:09:18,335 --> 00:09:20,680
+Você não pode confiar
+em si mesmo perto dele.
+
+185
+00:09:21,189 --> 00:09:23,685
+Você não pode confiar
+em mim perto dele.
+
+186
+00:09:29,881 --> 00:09:31,686
+Recebi sua mensagem
+sobre o Thawne,
+
+187
+00:09:31,687 --> 00:09:34,878
+então eu trouxe água benta,
+
+188
+00:09:35,727 --> 00:09:38,678
+alho,
+estaca de madeira,
+
+189
+00:09:39,267 --> 00:09:41,710
+sal, claro,
+
+190
+00:09:42,322 --> 00:09:44,087
+- e um tabuleiro Ouija.
+- Cecile.
+
+191
+00:09:44,088 --> 00:09:46,606
+O quê?
+É um exorcismo.
+
+192
+00:09:46,607 --> 00:09:49,071
+Nunca estaremos preparados
+demais.
+
+193
+00:09:49,072 --> 00:09:51,762
+Isso não é
+um tipo de vampiro demônio,
+
+194
+00:09:51,763 --> 00:09:53,163
+isso é...
+
+195
+00:09:53,585 --> 00:09:55,276
+É outra coisa.
+
+196
+00:09:55,277 --> 00:09:59,809
+Meu deus.
+Tudo que Nash está sentindo
+
+197
+00:10:00,414 --> 00:10:03,018
+- ainda é ódio puro.
+- O que vemos como Thawne
+
+198
+00:10:03,019 --> 00:10:05,234
+é só uma série
+de táquions negativos
+
+199
+00:10:05,235 --> 00:10:06,935
+dentro do corpo do Nash.
+
+200
+00:10:06,936 --> 00:10:08,620
+Ele precisa
+de táquions positivos
+
+201
+00:10:08,621 --> 00:10:10,395
+para expulsar o Thawne.
+
+202
+00:10:10,872 --> 00:10:14,736
+Por isso precisamos do DTP,
+Dispositivo de Táquion Positivo,
+
+203
+00:10:14,737 --> 00:10:17,254
+e não um tabuleiro de Ouija.
+Sem ofensa.
+
+204
+00:10:17,255 --> 00:10:20,110
+Então para que você
+precisa de mim?
+
+205
+00:10:20,111 --> 00:10:21,956
+Você vai ser
+a detectora de Thawne.
+
+206
+00:10:21,957 --> 00:10:24,208
+Preciso que monitore o Nash
+psicologicamente
+
+207
+00:10:24,209 --> 00:10:27,898
+e me diga quando ele está livre
+da influência do Thawne.
+
+208
+00:10:28,855 --> 00:10:30,815
+- Você dá conta?
+- Depois do que ele fez
+
+209
+00:10:30,816 --> 00:10:32,572
+com as pessoas que amamos?
+
+210
+00:10:33,732 --> 00:10:37,110
+- Com certeza.
+- Então é hora do exorcismo.
+
+211
+00:10:44,029 --> 00:10:45,429
+TERRA 719
+8 ANOS ATRÁS
+
+212
+00:10:45,430 --> 00:10:48,226
+Venerando uma planta.
+As pessoas são idiotas.
+
+213
+00:10:49,879 --> 00:10:52,644
+Garota, como você entrou aqui?
+Como passou pelo meu...
+
+214
+00:10:54,302 --> 00:10:55,879
+Drone de segurança.
+
+215
+00:10:56,562 --> 00:10:59,743
+Quem é você?
+Qual seu nome?
+
+216
+00:10:59,744 --> 00:11:01,884
+Maya.
+Você realmente conseguiu.
+
+217
+00:11:01,885 --> 00:11:05,549
+Ninguém nunca conseguiu tirar
+a flor de sangue do Wollip.
+
+218
+00:11:05,550 --> 00:11:09,601
+Certo.
+O Wollip, garota,
+
+219
+00:11:09,602 --> 00:11:12,278
+é só uma estátua manipulada
+pelo povo local, só isso.
+
+220
+00:11:12,279 --> 00:11:14,025
+Eu sei.
+
+221
+00:11:14,026 --> 00:11:16,962
+- Sabe?
+- Vai tirar o tesouro da flor?
+
+222
+00:11:16,963 --> 00:11:21,316
+Sim,
+vou tirar o tesouro da flor.
+
+223
+00:11:21,317 --> 00:11:24,754
+- Você quer dizer os cristais?
+- Não, o tesouro.
+
+224
+00:11:24,755 --> 00:11:26,624
+- Que tesouro?
+- Dentro.
+
+225
+00:11:26,625 --> 00:11:28,780
+Não sei se eles...
+
+226
+00:11:31,148 --> 00:11:35,843
+Isso vale três vezes mais
+que aqueles cristais idiotas.
+
+227
+00:11:43,298 --> 00:11:44,881
+Estou impressionado, garota.
+
+228
+00:11:46,186 --> 00:11:48,876
+Mas você quebrou
+uma das regras.
+
+229
+00:11:48,877 --> 00:11:51,818
+Você não dá nada
+para ninguém
+
+230
+00:11:51,819 --> 00:11:53,849
+a não ser
+que receba algo em troca.
+
+231
+00:11:54,781 --> 00:11:56,181
+Belo chapéu.
+
+232
+00:12:00,525 --> 00:12:01,925
+Agora, pode ir.
+
+233
+00:12:02,277 --> 00:12:05,237
+E quando disser aos seus pais
+onde conseguiu o chapéu,
+
+234
+00:12:05,238 --> 00:12:07,219
+lembre-se de dizer
+que o mereceu.
+
+235
+00:12:07,220 --> 00:12:09,354
+Eu não tenho pais.
+
+236
+00:12:10,944 --> 00:12:12,408
+Não mais.
+
+237
+00:12:14,713 --> 00:12:16,113
+Maya.
+
+238
+00:12:20,367 --> 00:12:21,906
+Gostaria de fazer
+o que faço?
+
+239
+00:12:21,907 --> 00:12:24,822
+- E o que é?
+- Caçador de mitos.
+
+240
+00:12:24,823 --> 00:12:27,047
+Caçador
+de mitos arqueológicos.
+
+241
+00:12:27,048 --> 00:12:29,435
+É tudo para isso.
+Gostou da ideia?
+
+242
+00:12:29,436 --> 00:12:31,639
+- Gostei.
+- Tudo bem.
+
+243
+00:12:31,640 --> 00:12:33,243
+Acho que será boa nisso.
+
+244
+00:12:33,705 --> 00:12:37,781
+Regra número um:
+O prêmio significa tudo.
+
+245
+00:12:38,301 --> 00:12:39,787
+Acha que lembrará disso?
+
+246
+00:12:40,162 --> 00:12:43,337
+O prêmio significa tudo.
+Moleza.
+
+247
+00:12:51,465 --> 00:12:55,375
+<i>Cisco, Nash está se machucando.
+O que está havendo?</i>
+
+248
+00:12:55,376 --> 00:12:58,523
+<i>Como vou saber?
+É o meu primeiro exorcismo.</i>
+
+249
+00:13:00,265 --> 00:13:03,009
+<i>Bem-vindo ao Inferno.</i>
+
+250
+00:13:03,345 --> 00:13:04,911
+Não posso ficar aqui.
+
+251
+00:13:06,111 --> 00:13:07,705
+Tarde demais.
+
+252
+00:13:08,899 --> 00:13:13,462
+Toda a dor que está causando
+ao Nash está o sobrecarregando.
+
+253
+00:13:13,463 --> 00:13:15,198
+É como Thawne ganha força.
+
+254
+00:13:15,199 --> 00:13:18,900
+- Ele se alimenta da dor.
+- Ele está jantando o Nash.
+
+255
+00:13:22,233 --> 00:13:23,634
+Soubemos no "Cidadão"
+
+256
+00:13:23,635 --> 00:13:26,648
+que o Mercury Labs está
+investindo em energia limpa.
+
+257
+00:13:26,649 --> 00:13:30,075
+Estamos, e a dra. McGee está
+animada para falar sobre isso.
+
+258
+00:13:30,076 --> 00:13:31,916
+Esperem aqui
+e irei trazê-la.
+
+259
+00:13:31,917 --> 00:13:33,317
+Obrigada.
+
+260
+00:13:36,294 --> 00:13:37,867
+O lugar é esse?
+
+261
+00:13:37,868 --> 00:13:41,447
+De acordo com minhas leituras,
+o Refrator Prismático está...
+
+262
+00:13:45,302 --> 00:13:46,898
+Aqui.
+
+263
+00:13:46,899 --> 00:13:48,299
+Boa.
+
+264
+00:13:57,813 --> 00:14:01,024
+- Outra meta baseada em luz?
+- Deve ser uma dos Carver.
+
+265
+00:14:01,025 --> 00:14:03,145
+Significa que ela também
+quer o Refrator.
+
+266
+00:14:03,146 --> 00:14:04,626
+Precisamos sair daqui.
+
+267
+00:14:07,371 --> 00:14:09,989
+- O Refrator. Eva disse...
+- Não se preocupe.
+
+268
+00:14:10,336 --> 00:14:12,120
+O Flash cuidará dela.
+
+269
+00:14:12,121 --> 00:14:13,521
+ALERTA DE PERIGO
+
+270
+00:14:16,043 --> 00:14:17,964
+É um assalto
+no Mercury Labs.
+
+271
+00:14:17,965 --> 00:14:20,072
+- Vejo você lá.
+- Eu e Nevasca assumiremos.
+
+272
+00:14:20,073 --> 00:14:23,008
+Precisa ficar e conservar
+a velocidade. Ordens médicas.
+
+273
+00:14:23,009 --> 00:14:25,596
+- Mas a Nevasca...
+- Ordens médicas.
+
+274
+00:14:34,969 --> 00:14:38,393
+- Coloque isso no chão.
+- Não vai rolar.
+
+275
+00:14:40,332 --> 00:14:42,708
+Tudo bem.
+Faremos do seu jeito.
+
+276
+00:14:45,727 --> 00:14:47,741
+Então você
+é a rainha do gelo.
+
+277
+00:14:47,742 --> 00:14:49,439
+Do que te chamam?
+
+278
+00:14:52,961 --> 00:14:56,360
+Pode me chamar
+de Raio de Sol.
+
+279
+00:14:58,460 --> 00:15:01,643
+<i>Gelo contra sol.
+Advinha quem derrete?</i>
+
+280
+00:15:20,260 --> 00:15:22,403
+Flash?
+Eu disse que cuidava disso.
+
+281
+00:15:22,404 --> 00:15:24,319
+Não se preocupe,
+não vai demorar.
+
+282
+00:15:24,320 --> 00:15:25,720
+Flash, espere.
+
+283
+00:15:30,417 --> 00:15:32,372
+A dra. Luz
+mandou lembranças.
+
+284
+00:15:34,791 --> 00:15:36,266
+Nevasca!
+
+285
+00:15:36,267 --> 00:15:39,281
+Dizem no Buraco Negro
+que você é durona.
+
+286
+00:15:39,282 --> 00:15:41,071
+Poderia ter sido uma de nós.
+
+287
+00:15:41,558 --> 00:15:42,958
+Parada!
+
+288
+00:15:48,029 --> 00:15:49,429
+Nevasca.
+
+289
+00:15:49,942 --> 00:15:51,342
+Está bem?
+
+290
+00:16:01,938 --> 00:16:04,230
+Então não procuramos
+por dois,
+
+291
+00:16:04,231 --> 00:16:06,640
+mas três assassinos de luz
+do Buraco Negro.
+
+292
+00:16:06,641 --> 00:16:08,579
+Todos eles contratados
+por Carver.
+
+293
+00:16:08,580 --> 00:16:10,975
+Um mais poderoso
+que o outro.
+
+294
+00:16:10,976 --> 00:16:12,881
+Raio de Sol reabriu
+a ferida da Nevasca
+
+295
+00:16:12,882 --> 00:16:14,890
+da bala de fótons
+da Dra. Luz.
+
+296
+00:16:14,891 --> 00:16:16,649
+A cura dela
+está fazendo hora extra.
+
+297
+00:16:16,650 --> 00:16:18,105
+É culpa minha.
+
+298
+00:16:18,106 --> 00:16:20,987
+Devia ter ouvido a Caitlin
+e ficado aqui.
+
+299
+00:16:22,436 --> 00:16:24,969
+Teve um falha na velocidade lá,
+não teve?
+
+300
+00:16:24,970 --> 00:16:27,280
+Usei a Velocidade-X
+para aumentar os poderes,
+
+301
+00:16:27,281 --> 00:16:29,430
+mas meu corpo rejeitou.
+Caitlin me alertou.
+
+302
+00:16:29,431 --> 00:16:31,393
+Sei que não gosta
+de ficar para trás,
+
+303
+00:16:31,394 --> 00:16:33,514
+mas até conseguir controlar
+seus poderes...
+
+304
+00:16:33,515 --> 00:16:35,331
+Eu sei,
+preciso tomar cuidado.
+
+305
+00:16:35,663 --> 00:16:37,749
+Sabemos algo
+sobre a Raio de Sol?
+
+306
+00:16:37,750 --> 00:16:41,080
+Só que ela pode desaparecer
+à luz do sol e derreter aço.
+
+307
+00:16:41,081 --> 00:16:42,869
+Ela se chama Millie Rawlins.
+
+308
+00:16:42,870 --> 00:16:45,201
+Kamilla tirou uma foto
+quando estávamos saindo.
+
+309
+00:16:45,202 --> 00:16:47,273
+Passamos
+no reconhecimento facial
+
+310
+00:16:47,274 --> 00:16:49,832
+e achamos uma combinação
+no Departamento de Defesa.
+
+311
+00:16:49,833 --> 00:16:51,582
+Ex-militar,
+operações especiais.
+
+312
+00:16:51,583 --> 00:16:53,723
+Ela foi transferida
+para a divisão secreta
+
+313
+00:16:53,724 --> 00:16:55,319
+após a explosão
+do Acelerador,
+
+314
+00:16:55,320 --> 00:16:57,731
+ganhando os poderes meta
+de controlar luz solar.
+
+315
+00:16:57,732 --> 00:16:59,591
+O nome de guerra dela
+era Raio de Sol.
+
+316
+00:17:01,977 --> 00:17:03,736
+Sabemos o que ela procurava?
+
+317
+00:17:03,737 --> 00:17:05,145
+Sabemos.
+
+318
+00:17:05,683 --> 00:17:10,045
+Mercury Labs disse que é
+um conversor de energia único.
+
+319
+00:17:10,046 --> 00:17:12,982
+Ele era
+da Tecnologias McCulloch.
+
+320
+00:17:12,983 --> 00:17:16,307
+Chamam
+de Refrator Prismático.
+
+321
+00:17:17,136 --> 00:17:19,862
+Por que Carver ia roubar
+a própria tecnologia?
+
+322
+00:17:20,345 --> 00:17:22,287
+Ainda não sabemos o porquê,
+
+323
+00:17:22,844 --> 00:17:25,665
+mas estou feliz
+que vocês dois estejam bem.
+
+324
+00:17:27,206 --> 00:17:28,606
+Iris.
+
+325
+00:17:31,491 --> 00:17:34,335
+Desculpe, querido.
+É meu cérebro de repórter.
+
+326
+00:17:34,336 --> 00:17:36,131
+Estou feliz que esteja bem.
+
+327
+00:17:36,132 --> 00:17:39,374
+Não devia estar no depósito
+de evidências da polícia?
+
+328
+00:17:39,375 --> 00:17:41,666
+Se Carver queria isso,
+
+329
+00:17:41,667 --> 00:17:44,398
+não arriscaremos
+que o espião dele tenha acesso.
+
+330
+00:17:44,399 --> 00:17:47,003
+Ligarei para ARGUS.
+Até que eles possam pegar,
+
+331
+00:17:47,004 --> 00:17:48,566
+não sairei de perto dele.
+
+332
+00:17:48,567 --> 00:17:51,709
+Podemos deixar aqui no STAR Labs
+por enquanto.
+
+333
+00:17:51,710 --> 00:17:54,743
+Se a Raio de Sol é tão cruel
+quanto dra. Luz e Ultravioleta,
+
+334
+00:17:54,744 --> 00:17:56,589
+ela virá buscar
+o Refrator de novo,
+
+335
+00:17:56,590 --> 00:17:58,810
+e se ela aparecer
+no STAR Labs,
+
+336
+00:17:59,396 --> 00:18:01,625
+o Flash não poderá
+fazer nada para detê-la.
+
+337
+00:18:01,628 --> 00:18:03,033
+Deixem a ARGUS pegar.
+
+338
+00:18:06,326 --> 00:18:08,869
+Barry está certo
+sobre a Raio de Sol.
+
+339
+00:18:08,871 --> 00:18:11,173
+E se ela atacar
+durante a transferência?
+
+340
+00:18:11,176 --> 00:18:13,665
+Eu me preocupo com isso.
+Vá ver o seu marido.
+
+341
+00:18:14,340 --> 00:18:17,631
+Sim, claro,
+já estava indo atrás dele.
+
+342
+00:18:24,911 --> 00:18:26,316
+Quer dar uma escapada?
+
+343
+00:18:27,239 --> 00:18:29,040
+Só precisava
+de um lugar para pensar.
+
+344
+00:18:29,775 --> 00:18:33,727
+Sei que perder sua velocidade
+é assustador,
+
+345
+00:18:33,729 --> 00:18:36,372
+principalmente
+com o retorno do Thawne.
+
+346
+00:18:36,374 --> 00:18:38,354
+Mas, Barry,
+o homem que eu amo
+
+347
+00:18:38,355 --> 00:18:41,677
+não deixaria limites impedi-lo
+de fazer o que faz de melhor:
+
+348
+00:18:42,736 --> 00:18:45,381
+Acabar com os metas
+e proteger as pessoas.
+
+349
+00:18:45,383 --> 00:18:48,551
+O Flash não deveria ter limites,
+Iris.
+
+350
+00:18:54,397 --> 00:18:58,313
+Se Thawne recuperar os poderes,
+não serei capaz de detê-lo.
+
+351
+00:18:58,555 --> 00:19:00,420
+Como não consigo
+deter a Raio de Sol.
+
+352
+00:19:00,422 --> 00:19:02,557
+Talvez o Flash
+não possa detê-los,
+
+353
+00:19:04,051 --> 00:19:05,542
+mas o Barry Allen pode.
+
+354
+00:19:06,528 --> 00:19:09,086
+E daí que o Flash não corre
+tão rápido quanto antes?
+
+355
+00:19:09,089 --> 00:19:12,640
+Barry Allen capturava vilões
+bem antes do Flash aparecer.
+
+356
+00:19:13,803 --> 00:19:16,898
+Barry, você é tão herói
+quanto o Flash.
+
+357
+00:19:17,882 --> 00:19:20,041
+Por isso a cidade te deu
+a medalha de honra.
+
+358
+00:19:21,235 --> 00:19:24,828
+Vai mesmo deixar os policiais
+lidarem com ela sozinhos?
+
+359
+00:19:24,830 --> 00:19:28,065
+Não vejo como posso ajudá-los
+sem a minha velocidade.
+
+360
+00:19:28,067 --> 00:19:29,480
+Barry,
+
+361
+00:19:29,483 --> 00:19:34,356
+você está preso nessa ideia
+de que o Flash é ilimitado,
+
+362
+00:19:34,736 --> 00:19:36,598
+mas são os metas
+quem têm limites.
+
+363
+00:19:36,615 --> 00:19:38,015
+Pense nisso.
+
+364
+00:19:38,017 --> 00:19:40,585
+Onde o Mestre dos Anéis
+estaria sem seus anéis?
+
+365
+00:19:40,587 --> 00:19:42,771
+Ou Cicada sem a adaga dele?
+
+366
+00:19:42,773 --> 00:19:46,332
+Até o Flash Reverso
+e a Raio de Sol têm limites.
+
+367
+00:19:47,374 --> 00:19:50,470
+Você apenas precisa descobrir
+quais são.
+
+368
+00:19:53,976 --> 00:19:55,385
+Você está certa.
+
+369
+00:19:56,862 --> 00:19:58,615
+A Raio de Sol tem limites.
+
+370
+00:19:59,790 --> 00:20:01,190
+Tenho que encontrar o Joe.
+
+371
+00:20:10,425 --> 00:20:11,825
+Kamilla.
+
+372
+00:20:11,827 --> 00:20:14,160
+Sei para onde
+o Refrator está indo.
+
+373
+00:20:14,162 --> 00:20:15,861
+Prepare-se para agir rápido.
+
+374
+00:20:19,330 --> 00:20:21,037
+<i>Por que você
+está me mantendo aqui?</i>
+
+375
+00:20:22,654 --> 00:20:24,204
+Vi suas memórias, Nash.
+
+376
+00:20:24,207 --> 00:20:28,428
+Sondei suas profundezas.
+Veio com essa pequena joia.
+
+377
+00:20:28,894 --> 00:20:32,036
+É horrível, não é?
+
+378
+00:20:32,040 --> 00:20:35,657
+É escuro.
+É negativo.
+
+379
+00:20:35,658 --> 00:20:40,010
+<i>- Nash!</i>
+- Maya.
+
+380
+00:20:40,450 --> 00:20:42,906
+Ela era genial, não era?
+
+381
+00:20:43,458 --> 00:20:44,858
+Funcionária perfeita.
+
+382
+00:20:44,860 --> 00:20:47,694
+Ambiciosa.
+
+383
+00:20:47,696 --> 00:20:50,747
+Quando ela foi
+buscar o emissor sônico
+
+384
+00:20:50,749 --> 00:20:54,367
+no topo do pico mais alto
+de Corto Maltese, lembra disso?
+
+385
+00:20:54,369 --> 00:20:57,162
+E arrancou-o, tão determinada
+em obter o emissor.
+
+386
+00:20:58,548 --> 00:20:59,976
+Porque afinal,
+
+387
+00:21:02,339 --> 00:21:04,098
+o prêmio significa tudo.
+
+388
+00:21:05,541 --> 00:21:07,521
+- Não é?
+- Deixe-me ir!
+
+389
+00:21:07,523 --> 00:21:08,954
+Quer sair dessa memória?
+
+390
+00:21:11,028 --> 00:21:12,695
+Fique à vontade.
+
+391
+00:21:14,937 --> 00:21:16,957
+Não quer sair?
+Por quê?
+
+392
+00:21:17,917 --> 00:21:20,841
+- Aconteceu alguma coisa lá?
+- Não foi minha culpa!
+
+393
+00:21:20,843 --> 00:21:23,205
+- Foi culpa dela!
+- Certo.
+
+394
+00:21:23,207 --> 00:21:24,610
+Não foi minha culpa.
+
+395
+00:21:26,026 --> 00:21:28,544
+- Ela morreu.
+- Não foi minha culpa!
+
+396
+00:21:28,546 --> 00:21:30,885
+Foi tudo culpa sua.
+
+397
+00:21:30,888 --> 00:21:34,366
+A culpa foi dela.
+Não foi minha culpa.
+
+398
+00:21:35,414 --> 00:21:36,826
+Não foi minha culpa.
+
+399
+00:21:36,828 --> 00:21:39,797
+Não entendo.
+Os DTPs estão a todo vapor.
+
+400
+00:21:39,799 --> 00:21:42,356
+Os táquions negativos
+deviam estar desestabilizando,
+
+401
+00:21:42,358 --> 00:21:44,309
+mas os dados
+não mostram resistência.
+
+402
+00:21:44,312 --> 00:21:46,170
+A energia dele
+está se intensificando.
+
+403
+00:21:47,422 --> 00:21:49,013
+O que ele está fazendo
+com você?
+
+404
+00:21:49,015 --> 00:21:50,524
+Eu mal sinto o Nash.
+
+405
+00:21:52,358 --> 00:21:56,221
+Tudo o que sinto é medo
+e vergonha ao meu redor.
+
+406
+00:21:56,223 --> 00:21:58,479
+Acho que não consigo.
+
+407
+00:21:58,482 --> 00:22:00,409
+Cecile, você está bem?
+
+408
+00:22:01,163 --> 00:22:02,569
+Quase lá.
+
+409
+00:22:12,708 --> 00:22:14,184
+Elas não vão me segurar.
+
+410
+00:22:22,095 --> 00:22:23,501
+O que aconteceu?
+
+411
+00:22:23,504 --> 00:22:25,965
+Thawne se conectou
+com a Força de Aceleração dele.
+
+412
+00:22:25,968 --> 00:22:28,679
+Se acontecer de novo,
+perderemos o Nash para sempre.
+
+413
+00:22:30,941 --> 00:22:33,025
+E o Flash Reverso
+vive novamente.
+
+414
+00:22:42,789 --> 00:22:45,676
+A ARGUS deve chegar
+a qualquer momento, Capitão.
+
+415
+00:22:45,678 --> 00:22:48,680
+Bom trabalho, Korber.
+Avise assim quando chegarem.
+
+416
+00:22:48,682 --> 00:22:50,085
+Obrigado.
+
+417
+00:22:52,744 --> 00:22:54,276
+- Oi.
+- Capitão.
+
+418
+00:22:55,316 --> 00:22:58,058
+Sei que está movendo
+aquela coisa daqui.
+
+419
+00:22:58,060 --> 00:22:59,719
+Vim supervisionar
+a transferência.
+
+420
+00:22:59,721 --> 00:23:01,134
+Sério? Por quê?
+
+421
+00:23:03,345 --> 00:23:05,836
+Fiz uma pequena leitura
+como você sugeriu.
+
+422
+00:23:07,881 --> 00:23:09,294
+E concordo com você.
+
+423
+00:23:09,960 --> 00:23:12,318
+Acho que Carver
+tem alguém infiltrado.
+
+424
+00:23:12,320 --> 00:23:14,798
+E precisamos investigar
+isso nós mesmos.
+
+425
+00:23:14,801 --> 00:23:16,209
+Obrigado, David.
+
+426
+00:23:18,636 --> 00:23:20,864
+Sabia que tinha escolhido
+o homem certo.
+
+427
+00:23:22,522 --> 00:23:25,351
+- Chegaram.
+- Vamos.
+
+428
+00:23:42,684 --> 00:23:44,350
+Obrigado por virem,
+senhores.
+
+429
+00:23:44,352 --> 00:23:46,495
+- Estão prontos?
+- Todos prontos, chefe.
+
+430
+00:23:46,497 --> 00:23:47,897
+À vontade.
+
+431
+00:23:48,540 --> 00:23:49,945
+Cuidado!
+
+432
+00:23:54,761 --> 00:23:57,463
+- Fiquem alertas.
+- Para onde ela foi?
+
+433
+00:24:04,535 --> 00:24:06,133
+<i>Ninguém mais
+precisa queimar.</i>
+
+434
+00:24:06,134 --> 00:24:07,536
+Para trás!
+
+435
+00:24:07,537 --> 00:24:09,421
+<i>Entreguem o Refrator.</i>
+
+436
+00:24:09,422 --> 00:24:11,552
+Não vamos te dar nada!
+
+437
+00:24:21,521 --> 00:24:23,036
+- Joe!
+- Aqui.
+
+438
+00:24:54,668 --> 00:24:57,521
+Saia de onde estiver.
+
+439
+00:25:13,219 --> 00:25:14,619
+Não!
+
+440
+00:25:19,170 --> 00:25:21,815
+É. Você é heliocinética.
+
+441
+00:25:21,816 --> 00:25:25,623
+Sem a luz do sul,
+é só uma ladra comum.
+
+442
+00:25:27,898 --> 00:25:29,511
+Os limites são uma droga,
+não é?
+
+443
+00:25:34,139 --> 00:25:35,893
+<i>Nossa casa está segura,</i>
+
+444
+00:25:35,894 --> 00:25:38,170
+o Refrator está sã e salvo
+na ARGUS.
+
+445
+00:25:38,171 --> 00:25:39,571
+Está bem mesmo, Chefe?
+
+446
+00:25:39,572 --> 00:25:42,310
+Sim, tenho uma cabeça dura.
+Pergunte ao meu marido.
+
+447
+00:25:44,531 --> 00:25:47,366
+Joe, e se a Raio de Luz
+for a espiã?
+
+448
+00:25:47,367 --> 00:25:49,370
+Ninguém teria visto-a
+mexendo nas fichas.
+
+449
+00:25:51,031 --> 00:25:54,242
+Ela é
+a agente invisível perfeita.
+
+450
+00:25:54,243 --> 00:25:57,418
+Se a detivermos aqui,
+
+451
+00:25:57,419 --> 00:26:01,261
+ela pode ser a peça
+para montarmos o caso de Carver.
+
+452
+00:26:01,740 --> 00:26:03,800
+- Você vem?
+- Não, vão na frente.
+
+453
+00:26:03,801 --> 00:26:05,976
+Preciso cuidar de algo.
+
+454
+00:26:08,933 --> 00:26:10,431
+<i>Por que
+não está funcionando?</i>
+
+455
+00:26:10,432 --> 00:26:12,580
+Os táquions
+se proliferam a um ritmo
+
+456
+00:26:12,581 --> 00:26:14,869
+que excede a capacidade
+do DTP.
+
+457
+00:26:14,870 --> 00:26:18,374
+É uma questão de tempo
+até Thawne tomar o corpo dele.
+
+458
+00:26:18,375 --> 00:26:22,134
+O que acontecerá ao Nash?
+E aos outros Wells?
+
+459
+00:26:22,135 --> 00:26:23,844
+Estarão em um inferno.
+
+460
+00:26:24,732 --> 00:26:27,303
+Presos dentro da mente de Thawne
+para sempre.
+
+461
+00:26:29,005 --> 00:26:30,855
+Ele poderá sugar
+o conhecimento deles.
+
+462
+00:26:30,856 --> 00:26:34,070
+Se ele se soltar, ele não pode
+ter a mente e as coisas do Nash.
+
+463
+00:26:34,071 --> 00:26:35,639
+Temos que destruir isso.
+
+464
+00:26:38,336 --> 00:26:41,447
+- Essa é a Allegra?
+- Não, é uma sósia.
+
+465
+00:26:41,448 --> 00:26:43,941
+Deve ser por isso
+que o Nash sempre fica por aqui.
+
+466
+00:26:43,942 --> 00:26:46,293
+Allegra faz ele lembrar
+de alguém que conhecia.
+
+467
+00:26:47,050 --> 00:26:50,127
+Faz ele lembrar.
+
+468
+00:26:50,650 --> 00:26:54,287
+Tudo que ele está sentindo,
+todas as emoções deles
+
+469
+00:26:54,288 --> 00:26:59,288
+me fazem lembrar do que sinto
+quando penso em Joanie ou Jenna.
+
+470
+00:27:01,608 --> 00:27:04,373
+É quase paterno.
+Mas não é só isso,
+
+471
+00:27:04,374 --> 00:27:07,555
+é misturado ao sentimento
+que tive em 1995
+
+472
+00:27:07,556 --> 00:27:10,274
+quando minha mãe faleceu.
+
+473
+00:27:11,864 --> 00:27:15,058
+Luto. Meu deus, Cisco.
+
+474
+00:27:15,059 --> 00:27:19,371
+Acho que Nash
+está preso em um loop
+
+475
+00:27:19,372 --> 00:27:22,364
+feito de remorso
+
+476
+00:27:22,365 --> 00:27:25,215
+- e tristeza.
+- Negatividade.
+
+477
+00:27:25,216 --> 00:27:27,550
+Acho que a sósia da Allegra
+morreu.
+
+478
+00:27:27,551 --> 00:27:30,329
+O que pode ser mais doloroso
+do que a perda de um filho?
+
+479
+00:27:30,623 --> 00:27:32,943
+Cecile, se estiver certa,
+
+480
+00:27:32,944 --> 00:27:36,279
+Thawne está prendendo Nash
+na memória da morte dela.
+
+481
+00:27:36,625 --> 00:27:39,511
+É por isso que Nash
+é quem tem que expulsar Thawne.
+
+482
+00:27:39,707 --> 00:27:41,191
+Vamos ajudá-lo.
+
+483
+00:27:41,676 --> 00:27:43,496
+O MAD 2.0.
+
+484
+00:27:43,497 --> 00:27:45,490
+Usamos para entrar
+na mente do Pensador.
+
+485
+00:27:45,491 --> 00:27:47,821
+Dessa vez entraremos
+na mente do Nash,
+
+486
+00:27:47,822 --> 00:27:49,725
+e, juntos,
+forçaremos Thawne a sair.
+
+487
+00:27:50,098 --> 00:27:51,524
+Lá de dentro.
+
+488
+00:28:00,674 --> 00:28:02,282
+Tem certeza
+que quer fazer isso?
+
+489
+00:28:02,558 --> 00:28:04,578
+Não pode perder
+mais velocidade.
+
+490
+00:28:04,579 --> 00:28:06,374
+Não perderei.
+Confie em mim.
+
+491
+00:28:07,477 --> 00:28:10,931
+Aguentem firme, garotos.
+Vai ter turbulência.
+
+492
+00:28:14,108 --> 00:28:17,163
+<i>Não é minha culpa.</i>
+
+493
+00:28:20,315 --> 00:28:22,458
+Não é minha culpa.
+
+494
+00:28:22,459 --> 00:28:24,407
+Não é minha culpa.
+
+495
+00:28:24,574 --> 00:28:29,294
+Não é minha culpa.
+
+496
+00:28:29,295 --> 00:28:30,901
+É hora de você ir, Thawne.
+
+497
+00:28:32,246 --> 00:28:34,114
+Chegou tarde demais, Flash.
+
+498
+00:28:36,961 --> 00:28:38,566
+O Nash é meu.
+
+499
+00:28:39,333 --> 00:28:40,733
+Nash!
+
+500
+00:28:40,877 --> 00:28:42,299
+Não, ainda não é.
+
+501
+00:28:43,443 --> 00:28:44,843
+Cisco.
+
+502
+00:28:45,908 --> 00:28:47,354
+Você veio me ajudar.
+
+503
+00:28:47,355 --> 00:28:49,990
+Sim, mas você é o único
+que pode se livrar daqui.
+
+504
+00:28:49,991 --> 00:28:52,035
+Se quer o Nash,
+terá que passar por mim.
+
+505
+00:28:52,036 --> 00:28:55,156
+Você tem gula por castigo?
+
+506
+00:28:55,157 --> 00:28:57,399
+Está sempre lá
+para testemunhar
+
+507
+00:28:57,400 --> 00:29:00,764
+a morte de alguém
+que quer salvar.
+
+508
+00:29:00,765 --> 00:29:02,416
+Você não vai vencer
+dessa vez.
+
+509
+00:29:02,417 --> 00:29:04,053
+Acho que vou.
+Olhe para ele.
+
+510
+00:29:04,054 --> 00:29:06,238
+Tem que encarar
+o que tem lá dentro.
+
+511
+00:29:06,239 --> 00:29:08,103
+Não, não posso entrar lá.
+
+512
+00:29:08,104 --> 00:29:10,214
+Ele é fraco.
+Ele é patético.
+
+513
+00:29:10,215 --> 00:29:13,401
+Ele é limitado
+pelas emoções.
+
+514
+00:29:13,402 --> 00:29:14,893
+Assim como você.
+
+515
+00:29:14,894 --> 00:29:17,075
+Ele quer que fique aqui.
+Quanto mais sofrer,
+
+516
+00:29:17,076 --> 00:29:18,476
+- mais forte ele fica.
+- Não.
+
+517
+00:29:18,477 --> 00:29:21,114
+<i>O prêmio significa tudo.</i>
+
+518
+00:29:21,316 --> 00:29:22,923
+A sósia da Allegra.
+
+519
+00:29:24,303 --> 00:29:26,381
+É ela, não é?
+Ela está lá dentro.
+
+520
+00:29:26,382 --> 00:29:27,782
+Maya.
+
+521
+00:29:28,368 --> 00:29:31,812
+- O nome dela é Maya.
+- Em breve vou quebrar
+
+522
+00:29:33,016 --> 00:29:36,861
+o campo de táquions do Cisco
+e então...
+
+523
+00:29:38,264 --> 00:29:40,423
+Então a diversão começa.
+
+524
+00:29:40,424 --> 00:29:45,424
+Alimentada pelo luto do Nash
+pela preciosa filha.
+
+525
+00:29:45,935 --> 00:29:49,624
+Sabe um pouco sobre luto
+
+526
+00:29:50,034 --> 00:29:52,214
+por uma filha preciosa,
+não é?
+
+527
+00:29:54,559 --> 00:29:56,399
+Não, Barry.
+
+528
+00:29:57,335 --> 00:30:01,265
+Barry, por favor.
+Não deixe ele te atingir.
+
+529
+00:30:01,266 --> 00:30:06,179
+Não aproveitou ao máximo
+seu tempo com sua filha.
+
+530
+00:30:06,750 --> 00:30:08,193
+Eu a ensinei tudo que sei
+
+531
+00:30:08,194 --> 00:30:11,272
+enquanto você ficou sentado
+e não fez nada!
+
+532
+00:30:11,273 --> 00:30:15,390
+Ela fez uma má escolha, só isso.
+Ela só fez uma escolha, só isso.
+
+533
+00:30:15,391 --> 00:30:17,159
+- Ouça-me.
+- Ela fez uma má escolha.
+
+534
+00:30:17,160 --> 00:30:19,005
+- Ouça-me.
+- Não, não posso!
+
+535
+00:30:19,006 --> 00:30:21,032
+Se não for naquela caverna,
+você morrerá.
+
+536
+00:30:21,033 --> 00:30:22,792
+Não posso ir
+naquela caverna!
+
+537
+00:30:23,486 --> 00:30:27,701
+Tudo que você fez
+foi sufocar as habilidades dela.
+
+538
+00:30:28,615 --> 00:30:31,062
+Você foi um péssimo pai
+para ela.
+
+539
+00:30:36,157 --> 00:30:38,400
+Sinto saudade da minha filha
+todo dia.
+
+540
+00:30:39,267 --> 00:30:42,502
+Mas já cansei de você ter
+poder sobre mim por causa disso.
+
+541
+00:30:47,066 --> 00:30:50,777
+Eu vi Cynthia morrer
+e isso me dói em lugares
+
+542
+00:30:50,778 --> 00:30:52,926
+que eu nem sabia
+que podia sentir dor.
+
+543
+00:30:54,949 --> 00:30:56,955
+Não consegui evitar.
+
+544
+00:30:58,595 --> 00:31:00,760
+Não pode sarar se evitar.
+
+545
+00:31:01,506 --> 00:31:05,843
+Acha que Nash e eu somos
+limitados pelas nossas emoções.
+
+546
+00:31:05,844 --> 00:31:07,321
+Mas está errado.
+
+547
+00:31:07,762 --> 00:31:09,880
+Elas nos dão nossas forças,
+
+548
+00:31:10,590 --> 00:31:13,824
+e nós podemos usá-las
+para superar qualquer situação.
+
+549
+00:31:14,265 --> 00:31:15,665
+Incluindo você.
+
+550
+00:31:17,305 --> 00:31:20,098
+Esse é seu maior defeito,
+Thawne.
+
+551
+00:31:20,099 --> 00:31:22,940
+Metas são os limitados.
+
+552
+00:31:23,620 --> 00:31:25,352
+Não as pessoas.
+
+553
+00:31:25,967 --> 00:31:27,367
+Não eu.
+
+554
+00:31:28,200 --> 00:31:31,657
+- E não o Nash.
+- Tem que encarar essa memória.
+
+555
+00:31:32,370 --> 00:31:35,994
+E quando o fizer,
+estarei aqui te esperando.
+
+556
+00:31:38,043 --> 00:31:39,657
+Eu prometo.
+
+557
+00:31:52,951 --> 00:31:54,848
+Não,
+você não passará por mim.
+
+558
+00:32:03,895 --> 00:32:06,495
+TERRA-13
+UM ANO ATRÁS
+
+559
+00:32:06,496 --> 00:32:09,575
+Você consegue, Maya.
+É moleza.
+
+560
+00:32:22,336 --> 00:32:24,538
+Nash! A última
+célula de memória está aqui!
+
+561
+00:32:24,539 --> 00:32:26,344
+Pegue-a
+que eu te puxarei para cima.
+
+562
+00:32:27,009 --> 00:32:28,538
+Não faça isso.
+
+563
+00:32:29,393 --> 00:32:30,793
+Pegou?
+
+564
+00:32:33,748 --> 00:32:36,934
+Acho que a caverna não quer
+que eu pegue isso, está presa.
+
+565
+00:32:36,935 --> 00:32:39,744
+Está bem, certo.
+Você está no final.
+
+566
+00:32:39,745 --> 00:32:42,080
+- Não faça isso.
+- Lembre-se do treinamento!
+
+567
+00:32:45,049 --> 00:32:48,368
+- O prêmio significa tudo.
+- Pare-a.
+
+568
+00:32:53,263 --> 00:32:56,367
+- O prêmio significa tudo.
+- Não é.
+
+569
+00:32:59,574 --> 00:33:02,824
+Peguei!
+Foi moleza.
+
+570
+00:33:04,537 --> 00:33:05,937
+Moleza!
+
+571
+00:33:08,991 --> 00:33:10,391
+Maya...
+
+572
+00:33:10,836 --> 00:33:14,396
+- Nash!
+- Maya, Maya...
+
+573
+00:33:15,105 --> 00:33:17,123
+Maya, Maya!
+
+574
+00:33:19,468 --> 00:33:22,254
+Solte isso,
+solte isso.
+
+575
+00:33:23,398 --> 00:33:24,798
+Maya...
+
+576
+00:33:26,065 --> 00:33:27,465
+Não!
+
+577
+00:33:29,596 --> 00:33:32,145
+Não!
+
+578
+00:33:35,893 --> 00:33:37,293
+Não.
+
+579
+00:34:08,114 --> 00:34:09,909
+Foi minha culpa.
+
+580
+00:34:11,713 --> 00:34:14,287
+Ela só fez
+o que eu lhe ensinei.
+
+581
+00:34:17,819 --> 00:34:19,527
+Foi minha culpa.
+
+582
+00:34:21,155 --> 00:34:23,115
+Foi minha culpa.
+
+583
+00:34:23,116 --> 00:34:25,469
+Nash está tomando o controle
+da dor dele.
+
+584
+00:34:25,470 --> 00:34:28,328
+- Não.
+- Não pode mais usá-lo.
+
+585
+00:34:28,329 --> 00:34:29,729
+Não.
+
+586
+00:34:40,033 --> 00:34:42,235
+- Acabou, Thawne.
+- Não.
+
+587
+00:34:48,411 --> 00:34:49,811
+Não.
+
+588
+00:34:50,630 --> 00:34:52,521
+<i>Não!</i>
+
+589
+00:35:18,379 --> 00:35:20,264
+Nash, estou aqui.
+
+590
+00:35:20,265 --> 00:35:23,383
+- Você está bem?
+- Ele ficará bem.
+
+591
+00:35:23,384 --> 00:35:25,118
+Preciso de uma soneca.
+
+592
+00:35:25,119 --> 00:35:27,213
+Você está bem.
+
+593
+00:35:27,639 --> 00:35:31,150
+Nash, estou aqui.
+
+594
+00:35:33,703 --> 00:35:35,765
+Foi minha culpa.
+
+595
+00:35:38,283 --> 00:35:40,588
+Foi tudo minha culpa.
+
+596
+00:35:52,302 --> 00:35:54,945
+As leituras do satélite dizem
+que não há traços
+
+597
+00:35:54,946 --> 00:35:56,501
+dos táquions negativos
+do Thawne
+
+598
+00:35:56,502 --> 00:35:59,030
+em nenhuma matéria orgânica
+do planeta.
+
+599
+00:35:59,031 --> 00:36:00,546
+Quanto ao Nash,
+
+600
+00:36:00,547 --> 00:36:03,887
+Cecile disse que não sentiu
+a energia do Thawne nele.
+
+601
+00:36:03,888 --> 00:36:05,789
+De acordo com a imagem
+tridimensional,
+
+602
+00:36:05,790 --> 00:36:08,721
+as ondas cerebrais de Nash
+estão livres de Thawne.
+
+603
+00:36:09,441 --> 00:36:13,017
+Acho que isso quer dizer
+que o STAR Labs fez
+
+604
+00:36:13,018 --> 00:36:15,720
+- seu primeiro exorcismo.
+- Thawne se foi.
+
+605
+00:36:15,721 --> 00:36:17,164
+- Por enquanto.
+- Certo.
+
+606
+00:36:17,165 --> 00:36:20,446
+Os táquions se dissiparam,
+mas não foram destruídos.
+
+607
+00:36:20,447 --> 00:36:23,771
+O que significa que não morreu,
+apenas está sem forma.
+
+608
+00:36:23,772 --> 00:36:26,510
+Ele deve estar procurando
+um outro corpo agora,
+
+609
+00:36:26,511 --> 00:36:29,859
+como um Voldemort
+de olhos vermelhos furioso.
+
+610
+00:36:29,860 --> 00:36:31,785
+Se ele voltar,
+estaremos prontos.
+
+611
+00:36:33,665 --> 00:36:35,399
+Vou ir ver Nash.
+
+612
+00:36:35,400 --> 00:36:36,800
+Você está...
+
+613
+00:36:37,647 --> 00:36:40,317
+- Você está bem?
+- Sim.
+
+614
+00:36:40,318 --> 00:36:42,741
+Tem alguém que eu devia
+ir ver também.
+
+615
+00:36:47,571 --> 00:36:49,155
+Como foi?
+
+616
+00:36:49,156 --> 00:36:51,096
+Como estar num nevoeiro.
+
+617
+00:36:51,097 --> 00:36:54,549
+Sabe como era?
+Era como estar submerso.
+
+618
+00:36:54,550 --> 00:36:56,670
+Eu podia ver, podia ouvir,
+
+619
+00:36:57,110 --> 00:37:00,766
+mas foi nebuloso,
+eu não podia fazer nada.
+
+620
+00:37:00,767 --> 00:37:03,685
+Basicamente,
+foi uma droga.
+
+621
+00:37:03,686 --> 00:37:05,265
+Você está livre disso.
+
+622
+00:37:05,716 --> 00:37:07,268
+Livre de Thawne.
+
+623
+00:37:07,269 --> 00:37:10,407
+Quanto aos outros Wells,
+suas ondas cerebrais
+
+624
+00:37:10,408 --> 00:37:14,040
+ainda estão entrelaçadas
+com as suas, infelizmente.
+
+625
+00:37:14,041 --> 00:37:18,082
+Então agora eles fazem parte
+de você e você deles.
+
+626
+00:37:18,083 --> 00:37:19,483
+Certo.
+
+627
+00:37:19,484 --> 00:37:21,032
+Espere, o quê?
+
+628
+00:37:22,481 --> 00:37:24,642
+Quer dizer que vou continuar
+ouvindo...
+
+629
+00:37:25,091 --> 00:37:26,641
+- Sim.
+- Vou continuar os vendo.
+
+630
+00:37:26,642 --> 00:37:28,042
+Sim.
+
+631
+00:37:29,264 --> 00:37:32,225
+Crise dos Wells Infinitos.
+
+632
+00:37:32,226 --> 00:37:33,813
+Já passei por coisa pior.
+
+633
+00:37:33,814 --> 00:37:36,238
+Veja, preciso ser justo,
+
+634
+00:37:36,239 --> 00:37:38,388
+sei que sem sua ajuda,
+
+635
+00:37:38,788 --> 00:37:40,991
+não teríamos tirado
+o psicopata do meu corpo,
+
+636
+00:37:40,992 --> 00:37:44,471
+então agradeço por isso.
+
+637
+00:37:44,694 --> 00:37:46,209
+Obrigado.
+
+638
+00:37:47,535 --> 00:37:49,520
+Te vejo por aí
+na Terra Primordial.
+
+639
+00:37:49,521 --> 00:37:51,605
+Não está esquecendo nada?
+
+640
+00:37:51,606 --> 00:37:54,743
+Acho que não.
+
+641
+00:38:01,645 --> 00:38:05,683
+Fiz muitas descobertas
+em minha carreira,
+
+642
+00:38:06,892 --> 00:38:09,311
+mas ela foi
+a melhor descoberta.
+
+643
+00:38:12,246 --> 00:38:14,734
+Sabe, ela tratava...
+Ela era...
+
+644
+00:38:17,755 --> 00:38:19,299
+Como uma filha.
+
+645
+00:38:22,824 --> 00:38:24,749
+Para mim, então...
+
+646
+00:38:27,327 --> 00:38:29,369
+- E Allegra?
+- O que tem Allegra?
+
+647
+00:38:29,370 --> 00:38:32,099
+Claro, ela não era Maya,
+mas...
+
+648
+00:38:33,038 --> 00:38:34,825
+Você a ajudou
+com os poderes dela.
+
+649
+00:38:34,826 --> 00:38:36,419
+Tivemos um começo difícil,
+
+650
+00:38:36,420 --> 00:38:38,625
+não precisamos
+ter um fim difícil.
+
+651
+00:38:38,626 --> 00:38:40,083
+- Nash?
+- O quê?
+
+652
+00:38:40,084 --> 00:38:42,160
+Escolha um Wells?
+Qualquer Wells.
+
+653
+00:38:42,161 --> 00:38:44,685
+- Eu preciso?
+- Não. Não importa.
+
+654
+00:38:44,686 --> 00:38:46,343
+Tive encontros difíceis
+com todos.
+
+655
+00:38:46,344 --> 00:38:48,194
+- Onde quer chegar?
+- Quero explicar
+
+656
+00:38:48,195 --> 00:38:51,628
+que sei o quanto é difícil
+separar o que sente por alguém
+
+657
+00:38:51,629 --> 00:38:53,347
+do que sente
+pela sósia dela.
+
+658
+00:38:53,348 --> 00:38:55,694
+Já te contei
+sobre quando conheci Harry?
+
+659
+00:38:55,695 --> 00:38:57,752
+Não contou.
+É o Wells da Terra-2?
+
+660
+00:38:57,753 --> 00:39:00,276
+- O próprio.
+- Vá em frente.
+
+661
+00:39:00,277 --> 00:39:01,819
+A primeira vez que o vi,
+
+662
+00:39:02,991 --> 00:39:05,501
+tudo o que eu enxergava
+era Eobard Thawne.
+
+663
+00:39:06,676 --> 00:39:08,308
+Mas quando eu o vi,
+
+664
+00:39:08,309 --> 00:39:09,860
+quando realmente vi
+
+665
+00:39:10,385 --> 00:39:12,617
+o Harry por quem ele era,
+
+666
+00:39:13,874 --> 00:39:15,672
+me tornei amigo dele.
+
+667
+00:39:17,236 --> 00:39:18,784
+E ele meu.
+
+668
+00:39:18,785 --> 00:39:23,032
+Sim, você teve
+um mau começo com Allegra,
+
+669
+00:39:23,033 --> 00:39:26,321
+mas não é tarde
+para construir algo bom.
+
+670
+00:39:29,479 --> 00:39:30,879
+Você é uma boa pessoa.
+
+671
+00:39:31,276 --> 00:39:32,962
+Não vai ficar meloso comigo,
+né?
+
+672
+00:39:32,963 --> 00:39:34,363
+Não.
+
+673
+00:39:36,056 --> 00:39:37,459
+Não.
+
+674
+00:39:39,233 --> 00:39:40,638
+- Ótimo.
+- Ótimo.
+
+675
+00:39:44,505 --> 00:39:46,179
+Ele está certo.
+
+676
+00:39:46,180 --> 00:39:49,900
+Ramon, ele teve
+uma segunda chance com Allegra.
+
+677
+00:39:49,901 --> 00:39:51,814
+É o que tenho tentado
+te dizer.
+
+678
+00:39:52,380 --> 00:39:54,706
+Você se acha tão esperto.
+
+679
+00:40:00,508 --> 00:40:02,057
+E ele se foi.
+
+680
+00:40:02,566 --> 00:40:05,007
+Vai demorar um pouco
+para eu me acostumar.
+
+681
+00:40:11,318 --> 00:40:12,765
+Caitlin, eu...
+
+682
+00:40:13,588 --> 00:40:17,269
+Preciso me desculpar,
+não segui seu conselho,
+
+683
+00:40:17,636 --> 00:40:19,470
+e você se machucou
+por causa de mim.
+
+684
+00:40:20,433 --> 00:40:22,779
+- Me desculpe.
+- Tudo bem, Barry.
+
+685
+00:40:22,780 --> 00:40:26,022
+Estou me recuperando.
+Já me sinto melhor.
+
+686
+00:40:26,023 --> 00:40:29,394
+- Então estamos bem?
+- Sempre.
+
+687
+00:40:30,217 --> 00:40:33,327
+Atualização de status,
+fisicamente Nash está bem,
+
+688
+00:40:33,328 --> 00:40:35,273
+mas emocionalmente
+destruído,
+
+689
+00:40:35,274 --> 00:40:37,961
+e Cisco está
+completamente exausto.
+
+690
+00:40:40,017 --> 00:40:41,616
+Vocês dois
+já fizeram as pazes?
+
+691
+00:40:42,353 --> 00:40:44,181
+- Graças a Deus.
+- Vocês acham mesmo
+
+692
+00:40:44,182 --> 00:40:47,088
+que criar a Força de Aceleração
+Artificial é uma boa ideia?
+
+693
+00:40:47,089 --> 00:40:49,544
+todos que tiveram contato
+com a de Thawne
+
+694
+00:40:49,545 --> 00:40:51,675
+- se machucaram.
+- A nossa será diferente.
+
+695
+00:40:51,676 --> 00:40:53,826
+Sim, mas ainda não sabemos
+por onde começar.
+
+696
+00:40:53,827 --> 00:40:56,356
+Na verdade, eu sei.
+
+697
+00:40:56,738 --> 00:40:58,539
+Sempre que Thawne
+tentou me machucar
+
+698
+00:40:58,540 --> 00:41:00,369
+usando a memória de Nora,
+
+699
+00:41:01,225 --> 00:41:03,482
+a única coisa que ele fez
+foi me fazer lembrar
+
+700
+00:41:03,975 --> 00:41:05,680
+o quanto eu a amava.
+
+701
+00:41:05,681 --> 00:41:08,418
+Me fez perceber
+que ela é a resposta.
+
+702
+00:41:11,682 --> 00:41:14,182
+- O diário de Nora?
+- Thawne ensinou Nora
+
+703
+00:41:14,183 --> 00:41:16,083
+como construir
+uma Força de Aceleração.
+
+704
+00:41:16,781 --> 00:41:18,561
+Agora ela pode
+nos ensinar.
+
+705
+00:41:29,204 --> 00:41:30,609
+E ninguém viu vocês?
+
+706
+00:41:30,610 --> 00:41:32,860
+A polícia se ocupou
+lutando com a Raio de Sol.
+
+707
+00:41:32,861 --> 00:41:34,972
+Entramos e saímos
+e ninguém viu.
+
+708
+00:41:34,973 --> 00:41:37,929
+Então meu marido parou
+de me procurar,
+
+709
+00:41:38,719 --> 00:41:41,652
+mas ainda está procurando
+meus brinquedos.
+
+710
+00:41:43,816 --> 00:41:46,015
+Vocês foram ótimas.
+
+711
+00:41:46,585 --> 00:41:48,882
+E desde que sigamos
+o plano...
+
+712
+00:41:48,883 --> 00:41:50,404
+O sucesso é garantido.
+
+713
+00:41:50,405 --> 00:41:53,631
+E estou mais perto
+de me libertar.
+
+714
+00:41:55,918 --> 00:41:57,318
+<b>www.insubs.com</b>
