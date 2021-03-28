@@ -1,0 +1,1834 @@
+1
+00:00:00,519 --> 00:00:03,766
+TecSubs e Li4rs,
+bazingamente apresentam:
+
+2
+00:00:03,820 --> 00:00:07,793
+Young Sheldon
+Episódio Piloto - 01x01
+
+3
+00:00:09,551 --> 00:00:11,791
+<i>Eu sempre amei trens.</i>
+
+4
+00:00:13,715 --> 00:00:17,966
+<i>Se minha carreira em física
+teórica não tivesse dado certo</i>
+
+5
+00:00:17,977 --> 00:00:21,810
+<i>meu plano reserva era ser
+um bilheteiro profissional.</i>
+
+6
+00:00:21,836 --> 00:00:24,197
+<i>Ou um desses vagabundos
+que moram em vagões.</i>
+
+7
+00:00:30,221 --> 00:00:33,401
+<i>E quando percebi
+que os trens me permitiam</i>
+
+8
+00:00:33,421 --> 00:00:35,285
+<i>provar a primeira lei de Newton</i>
+
+9
+00:00:35,295 --> 00:00:38,171
+<i>"um objeto em movimento,
+permanece em movimento,</i>
+
+10
+00:00:38,183 --> 00:00:40,723
+<i>com a mesma velocidade,
+e na mesma direção,</i>
+
+11
+00:00:40,737 --> 00:00:43,480
+<i>a menos que uma força
+seja aplicada sobre ele",</i>
+
+12
+00:00:43,493 --> 00:00:46,584
+<i>eu me senti como
+Neil Armstrong na lua,</i>
+
+13
+00:00:46,611 --> 00:00:48,426
+<i>sozinho e feliz.</i>
+
+14
+00:00:48,453 --> 00:00:50,381
+Shelly,
+o jantar está pronto!
+
+15
+00:00:52,581 --> 00:00:55,428
+<i>E não interessa
+se você é muito burro.</i>
+
+16
+00:00:55,438 --> 00:00:58,401
+<i>As leis da física
+sempre podem te fazer sorrir.</i>
+
+17
+00:00:58,569 --> 00:01:00,950
+<i>Claro, ninguém que conheci
+no leste do Texas</i>
+
+18
+00:01:00,960 --> 00:01:04,962
+<i>em 1989 se interessava
+em física newtoniana.</i>
+
+19
+00:01:05,133 --> 00:01:08,760
+<i>Os únicos Newtons importantes
+eram da dupla Wayne e Fig.</i>
+
+20
+00:01:08,780 --> 00:01:12,115
+Sheldon, se não vier agora,
+vou lamber sua escova de dentes!
+
+21
+00:01:12,148 --> 00:01:14,274
+- Estou chegando!
+- <i>Essa é a minha irmã.</i>
+
+22
+00:01:14,314 --> 00:01:16,200
+<i>E ela já tinha
+lambido uma vez.</i>
+
+23
+00:01:20,713 --> 00:01:23,673
+- Que diabos estava fazendo?
+- George, essa boca.
+
+24
+00:01:23,706 --> 00:01:25,480
+Que boca?
+Então?
+
+25
+00:01:25,490 --> 00:01:27,886
+Estava explorando a
+cinemática dimensional.
+
+26
+00:01:27,899 --> 00:01:29,349
+Admita, ele é adotado.
+
+27
+00:01:29,376 --> 00:01:32,078
+Como posso ser adotado
+se tenho uma irmã gêmea?
+
+28
+00:01:32,151 --> 00:01:33,904
+Pense, mico, pense.
+
+29
+00:01:33,919 --> 00:01:35,827
+Já chega.
+Ninguém é adotado.
+
+30
+00:01:35,841 --> 00:01:38,458
+- Bem que eu gostaria.
+- Ainda podemos dar um jeito.
+
+31
+00:01:38,699 --> 00:01:41,160
+- Agora, vamos orar.
+- Um momento, por favor.
+
+32
+00:01:43,462 --> 00:01:44,856
+Deixa ele.
+
+33
+00:01:44,866 --> 00:01:47,522
+Ele pode dar a mão pra própria
+família. Não vai matar.
+
+34
+00:01:47,541 --> 00:01:50,870
+Nunca se sabe. Georgie,
+lavou as mãos antes do jantar?
+
+35
+00:01:50,896 --> 00:01:53,415
+- Ou sequer esta semana?
+- Não é problema seu.
+
+36
+00:01:53,529 --> 00:01:55,096
+Por isso, luvas.
+
+37
+00:01:56,927 --> 00:01:59,427
+Obrigado meu Deus, por esta
+comida que vamos comer,
+
+38
+00:01:59,441 --> 00:02:00,950
+alimento de nossos corpos,
+
+39
+00:02:00,960 --> 00:02:02,996
+e abençoe as mãos
+que as prepararam.
+
+40
+00:02:03,006 --> 00:02:04,591
+Amém.
+
+41
+00:02:05,988 --> 00:02:07,950
+Por que não temos
+batatinhas?
+
+42
+00:02:07,960 --> 00:02:09,922
+Eu fiz batatinhas
+ontem à noite.
+
+43
+00:02:09,942 --> 00:02:12,328
+Prefiro mais batatinhas
+do que purê de batatas.
+
+44
+00:02:12,353 --> 00:02:13,825
+Coma o que eu fiz pra você.
+
+45
+00:02:13,838 --> 00:02:15,608
+Podemos ter batatinhas amanhã?
+
+46
+00:02:15,618 --> 00:02:17,655
+<i>Foram jantares
+familiares como este</i>
+
+47
+00:02:17,665 --> 00:02:20,778
+<i>que me levaram a adotar
+um sotaque mais culto.</i>
+
+48
+00:02:20,804 --> 00:02:24,349
+<i>Nenhum ganhador do Prêmio Nobel
+comeria "batatinhas".</i>
+
+49
+00:02:24,359 --> 00:02:26,672
+Todos animados pra
+começar a escola na segunda?
+
+50
+00:02:26,692 --> 00:02:28,484
+- Eu estou.
+- Eu acho que sim.
+
+51
+00:02:28,951 --> 00:02:30,373
+Georgie?
+
+52
+00:02:30,399 --> 00:02:32,038
+Ensino médio,
+é um grande passo.
+
+53
+00:02:32,058 --> 00:02:35,184
+Como posso me animar se ele
+vai estar na mesma série que eu?
+
+54
+00:02:35,224 --> 00:02:39,146
+Não se preocupe, Georgie, não
+vou ficar no 1º ano muito tempo.
+
+55
+00:02:39,173 --> 00:02:42,625
+Por mim, ele não está mais no
+meu ano, então estou exultante.
+
+56
+00:02:42,658 --> 00:02:44,626
+Boa sorte com a
+pintura de dedos.
+
+57
+00:02:44,663 --> 00:02:46,671
+Vão foder com você
+no ensino médio.
+
+58
+00:02:46,685 --> 00:02:48,132
+Ei, boca.
+
+59
+00:02:48,165 --> 00:02:49,511
+Não vou ser atacado.
+
+60
+00:02:49,538 --> 00:02:51,762
+Ensino médio é o lugar
+dos mais educados.
+
+61
+00:02:51,772 --> 00:02:53,073
+Oh, meu Deus.
+
+62
+00:02:53,093 --> 00:02:55,673
+Falando de Deus, quem vai
+à igreja comigo amanhã?
+
+63
+00:02:55,693 --> 00:02:58,079
+Não posso.
+Reunião com os treinadores.
+
+64
+00:02:58,134 --> 00:02:59,601
+Não pode ser
+depois da igreja?
+
+65
+00:02:59,620 --> 00:03:01,844
+Não, Mary, não pode ser
+depois da igreja.
+
+66
+00:03:03,012 --> 00:03:04,343
+Georgie?
+
+67
+00:03:04,356 --> 00:03:06,212
+Tenho que estudar
+o livro de regras.
+
+68
+00:03:09,511 --> 00:03:11,018
+Eu vou com você, mãe.
+
+69
+00:03:11,245 --> 00:03:13,628
+Por que você vai?
+Você não acredita em Deus.
+
+70
+00:03:13,638 --> 00:03:15,625
+Não, mas acredito na Mãe.
+
+71
+00:03:15,644 --> 00:03:17,351
+Essa eu aceito.
+Missy?
+
+72
+00:03:17,384 --> 00:03:19,386
+- Não dá, Heather me pediu...
+- Você vai.
+
+73
+00:03:19,416 --> 00:03:20,746
+Filha da puta.
+
+74
+00:03:24,392 --> 00:03:28,741
+Missy... não na mesa de jantar.
+George Jr.
+
+75
+00:03:28,787 --> 00:03:32,491
+<i>Jane Goodall teve que ir até
+a África para estudar macacos.</i>
+
+76
+00:03:33,171 --> 00:03:35,787
+<i>Eu só tinha que ir jantar.</i>
+
+77
+00:03:35,834 --> 00:03:38,978
+Nunca na mesa de jantar!
+Largue isso, George!
+
+78
+00:03:39,108 --> 00:03:40,795
+Não devolva!
+
+79
+00:03:40,915 --> 00:03:44,783
+<i>Avante, soldados cristãos</i>
+
+80
+00:03:44,849 --> 00:03:49,580
+<i>Marchando como a guerra</i>
+
+81
+00:03:49,846 --> 00:03:54,143
+<i>Com a cruz de Jesus</i>
+
+82
+00:03:54,689 --> 00:03:59,682
+<i>Indo além</i>
+
+83
+00:04:00,712 --> 00:04:03,988
+Em Mateus 9, versículo 4,
+Jesus disse:
+
+84
+00:04:04,135 --> 00:04:08,316
+<i>"Por que você mantém pensamentos
+malignos em seus corações?"</i>
+
+85
+00:04:08,640 --> 00:04:10,745
+Você tem
+pensamentos malignos?
+
+86
+00:04:10,765 --> 00:04:12,908
+Eu acho que essa parte
+não se aplica a mim.
+
+87
+00:04:12,930 --> 00:04:15,062
+Tudo bem.
+Fique quieto e ouça.
+
+88
+00:04:15,723 --> 00:04:17,251
+Eu só tenho nove anos.
+
+89
+00:04:17,261 --> 00:04:19,540
+As coisas malignas começam
+na puberdade.
+
+90
+00:04:20,999 --> 00:04:22,367
+Olá.
+
+91
+00:04:23,868 --> 00:04:26,164
+<i>"Finalmente, irmãos,
+seja o que for..."</i>
+
+92
+00:04:26,178 --> 00:04:27,744
+Você tem
+pensamentos malignos?
+
+93
+00:04:27,757 --> 00:04:29,200
+Estou tendo um agora.
+
+94
+00:04:29,210 --> 00:04:30,514
+Verdade? Qual é?
+
+95
+00:04:30,528 --> 00:04:33,243
+Quando chegar em casa,
+vou chutar suas bolinhas.
+
+96
+00:04:33,263 --> 00:04:35,572
+Você não consegue.
+Elas ainda não desceram.
+
+97
+00:04:37,628 --> 00:04:38,928
+- Mãe?
+- O quê?
+
+98
+00:04:38,978 --> 00:04:41,521
+Quando posso esperar
+ter meus testículos?
+
+99
+00:04:42,628 --> 00:04:44,745
+Qual o problema dele?
+
+100
+00:04:44,757 --> 00:04:46,705
+Ele não tem nenhum problema.
+
+101
+00:04:46,725 --> 00:04:49,268
+Agora, vire pra frente
+antes que eu te nocauteie.
+
+102
+00:04:49,384 --> 00:04:51,858
+<i>...continuamente nestas coisas.</i>
+
+103
+00:04:51,868 --> 00:04:54,642
+<i>Um bom pensamento leva
+a boas ações.</i>
+
+104
+00:04:54,710 --> 00:04:56,805
+<i>Sinta isso em seu corpo.
+Sinta em seu...</i>
+
+105
+00:04:56,834 --> 00:04:59,248
+<i>Minha mãe
+era meu soldado cristão.</i>
+
+106
+00:05:01,475 --> 00:05:04,757
+<i>E só pra constar, elas desceram
+quando eu tinha 15 anos.</i>
+
+107
+00:05:06,018 --> 00:05:09,018
+Legendas
+Cancer Man | LikaPoetisa | RedBeard
+
+108
+00:05:09,037 --> 00:05:11,037
+Revisão
+RedBeard
+
+109
+00:05:17,805 --> 00:05:19,950
+Shelly,
+é seu último dia de verão.
+
+110
+00:05:19,963 --> 00:05:21,278
+Saia e aproveite.
+
+111
+00:05:21,307 --> 00:05:23,293
+Mas tenho que estudar
+o manual do aluno.
+
+112
+00:05:23,478 --> 00:05:25,258
+Você sabia que
+penteados exóticos,
+
+113
+00:05:25,279 --> 00:05:27,793
+cavanhaques e bigodes
+não são permitidos?
+
+114
+00:05:27,803 --> 00:05:29,118
+Não sabia.
+
+115
+00:05:29,143 --> 00:05:30,830
+Eu já acho
+muito reconfortante.
+
+116
+00:05:30,869 --> 00:05:32,840
+Olhe como está
+um lindo dia.
+
+117
+00:05:45,720 --> 00:05:47,055
+Vá brincar.
+
+118
+00:05:47,452 --> 00:05:50,497
+"Vá brincar"...
+se a vida fosse tão simples.
+
+119
+00:05:56,857 --> 00:05:58,646
+Pronto...
+brinquei.
+
+120
+00:05:58,684 --> 00:06:00,001
+Ei, Sheldon!
+
+121
+00:06:00,254 --> 00:06:03,766
+Olá, Billy Sparks.
+Olá, Matilda Sparks.
+
+122
+00:06:03,815 --> 00:06:05,998
+Ouvi dizer que vai
+ao colégio amanhã.
+
+123
+00:06:06,024 --> 00:06:08,502
+Vou. Terá de
+encontrar outra pessoa
+
+124
+00:06:08,512 --> 00:06:10,540
+para atormentar
+no parquinho.
+
+125
+00:06:10,913 --> 00:06:12,327
+"Atormentar"?
+
+126
+00:06:12,422 --> 00:06:14,482
+Significa encher o saco.
+
+127
+00:06:14,535 --> 00:06:16,085
+"Seu saco"?
+
+128
+00:06:16,241 --> 00:06:17,545
+Isso foi engraçado.
+
+129
+00:06:17,555 --> 00:06:19,060
+Foi legal.
+
+130
+00:06:19,296 --> 00:06:20,856
+Ei, panaca!
+
+131
+00:06:22,301 --> 00:06:23,744
+Mãe!
+
+132
+00:06:24,147 --> 00:06:25,971
+- Boa garota.
+- Mamãe!
+
+133
+00:06:27,437 --> 00:06:29,491
+<i>O que posso fazer?
+Os pés dele crescem.</i>
+
+134
+00:06:29,640 --> 00:06:31,550
+<i>Por que não usa
+os sapatos do Georgie?</i>
+
+135
+00:06:31,569 --> 00:06:33,835
+<i>Ele nem encosta a mão,
+acha que vai por os pés</i>
+
+136
+00:06:33,848 --> 00:06:35,492
+<i>nos sapatos usados do irmão?</i>
+
+137
+00:06:35,516 --> 00:06:37,520
+<i>Estamos na merda,
+melhor economizar algo.</i>
+
+138
+00:06:37,546 --> 00:06:38,874
+<i>Dá pra falar baixo?</i>
+
+139
+00:06:40,044 --> 00:06:42,050
+Estão brigando por sua causa
+de novo.
+
+140
+00:06:42,060 --> 00:06:44,168
+Estão brigando por dinheiro.
+
+141
+00:06:44,178 --> 00:06:46,661
+É uma coisa comum
+nos casamentos.
+
+142
+00:06:49,601 --> 00:06:51,640
+Apagando as luzes...
+Grande dia amanhã.
+
+143
+00:06:53,518 --> 00:06:54,823
+Mãe?
+
+144
+00:06:55,426 --> 00:06:57,726
+Temos problemas financeiros?
+
+145
+00:06:58,762 --> 00:07:01,723
+Não se preocupe com isso.
+Estamos bem.
+
+146
+00:07:01,977 --> 00:07:03,483
+Agora, vá dormir.
+
+147
+00:07:05,463 --> 00:07:08,780
+Ela está mentindo. Só disse isso
+pra você se sentir melhor.
+
+148
+00:07:09,697 --> 00:07:11,006
+A mãe não mente.
+
+149
+00:07:11,700 --> 00:07:14,335
+Claro, ela pensa que a Terra
+foi feita em seis dias,
+
+150
+00:07:14,345 --> 00:07:17,037
+mas isso é porque ela é
+crédula, não uma mentirosa.
+
+151
+00:07:21,443 --> 00:07:22,765
+<i>Mãe,</i>
+
+152
+00:07:22,805 --> 00:07:24,766
+Sheldon não acha
+sua gravata borboleta.
+
+153
+00:07:24,925 --> 00:07:27,059
+Sério?
+Eu arrumei para ele.
+
+154
+00:07:27,069 --> 00:07:29,314
+Deixa ele, Mary.
+Ele não precisa de gravata.
+
+155
+00:07:29,324 --> 00:07:32,053
+É o primeiro dia na escola.
+Deixe que use o que quiser.
+
+156
+00:07:32,212 --> 00:07:34,718
+<i>Mãe, não consigo encontrar
+minha gravata borboleta!</i>
+
+157
+00:07:34,743 --> 00:07:37,471
+Senhor, por que ele tem que usar
+uma gravata borboleta?
+
+158
+00:07:38,154 --> 00:07:40,820
+- Posso dirigir com você?
+- Claro.
+
+159
+00:07:40,885 --> 00:07:42,950
+Todo mundo vai saber
+que ele é seu irmão.
+
+160
+00:07:42,960 --> 00:07:44,683
+Vai ser horrível para você.
+
+161
+00:07:44,693 --> 00:07:46,196
+Manda ela calar a boca.
+
+162
+00:07:46,548 --> 00:07:48,077
+Ela não está errada.
+
+163
+00:07:49,136 --> 00:07:51,869
+- Tem que estar aqui.
+- Não está!
+
+164
+00:07:51,879 --> 00:07:53,973
+Shelly, fique calmo.
+Vamos encontrá-la.
+
+165
+00:07:53,983 --> 00:07:56,108
+Minha gravata sumiu!
+
+166
+00:07:56,118 --> 00:07:57,818
+Shelly, não precisa
+de uma gravata.
+
+167
+00:07:57,828 --> 00:08:01,136
+Eu tenho que encontrar
+minha gravata.
+
+168
+00:08:01,146 --> 00:08:02,452
+Volto logo.
+
+169
+00:08:02,462 --> 00:08:05,493
+O Professor Proton
+usa uma gravata borboleta!
+
+170
+00:08:05,825 --> 00:08:07,286
+George Junior,
+
+171
+00:08:07,669 --> 00:08:09,640
+devolva aquela
+gravata borboleta agora!
+
+172
+00:08:09,650 --> 00:08:11,358
+- Não peguei!
+- Não minta para mim.
+
+173
+00:08:11,368 --> 00:08:12,962
+Não estou mentindo!
+
+174
+00:08:13,313 --> 00:08:16,634
+- Veremos.
+- Fique fora do meu quarto!
+
+175
+00:08:16,644 --> 00:08:18,676
+Ela vai achar
+suas revistas pornô.
+
+176
+00:08:18,686 --> 00:08:20,047
+Cala a boca!
+
+177
+00:08:20,057 --> 00:08:22,257
+Você não está tendo
+um bom dia.
+
+178
+00:08:34,978 --> 00:08:37,262
+- Ele não pegou.
+- Então onde foi parar?
+
+179
+00:08:37,283 --> 00:08:40,236
+<i>Ajudem a achar a gravata!
+Vou ver no banheiro!</i>
+
+180
+00:08:40,313 --> 00:08:41,619
+Eu peguei.
+
+181
+00:08:42,236 --> 00:08:43,611
+Por que faria isso?
+
+182
+00:08:43,621 --> 00:08:46,243
+Mary, o menino tem 9 anos
+e vai para o ensino médio.
+
+183
+00:08:46,367 --> 00:08:47,879
+Não é estranho o suficiente?
+
+184
+00:08:47,927 --> 00:08:51,067
+- Dê para mim.
+- Qual é, não é só o Sheldon.
+
+185
+00:08:51,280 --> 00:08:52,916
+O Georgie estará
+na classe dele.
+
+186
+00:08:52,926 --> 00:08:54,539
+<i>Não está no banheiro!</i>
+
+187
+00:08:55,009 --> 00:08:56,430
+Me dá.
+
+188
+00:09:08,389 --> 00:09:10,664
+Gostaria de jogar
+um jogo enquanto dirige?
+
+189
+00:09:10,674 --> 00:09:12,504
+Na verdade, não.
+Eu sempre perco.
+
+190
+00:09:12,514 --> 00:09:14,114
+Eu sei.
+Por isso que é divertido.
+
+191
+00:09:14,124 --> 00:09:17,374
+Que tal placas
+com números primos
+
+192
+00:09:17,384 --> 00:09:19,884
+- seguida de uma cons...
+- Por que não conversamos?
+
+193
+00:09:19,894 --> 00:09:21,285
+Muito bem.
+
+194
+00:09:22,668 --> 00:09:25,864
+Entende que algumas pessoas
+ficarão intimidadas por você
+
+195
+00:09:25,874 --> 00:09:27,409
+por conta
+da sua inteligência?
+
+196
+00:09:27,419 --> 00:09:29,492
+Ou talvez elas reconheçam
+meu intelecto
+
+197
+00:09:29,502 --> 00:09:31,175
+e façam de mim
+o seu líder.
+
+198
+00:09:31,963 --> 00:09:33,937
+Senhor, cuide do meu filho.
+
+199
+00:09:33,947 --> 00:09:36,417
+Não deixe que enfiem-no
+em alguma mochila.
+
+200
+00:09:49,704 --> 00:09:52,263
+- Nossa!
+- Pois é.
+
+201
+00:09:52,930 --> 00:09:55,224
+Aquele garoto tem
+uma tatuagem exposta.
+
+202
+00:09:55,234 --> 00:09:56,905
+- Tem sim.
+- Será que ele sabe
+
+203
+00:09:56,915 --> 00:09:59,349
+que isso viola
+o código de vestimenta?
+
+204
+00:09:59,913 --> 00:10:04,045
+Falando nisso,
+vamos tirar a gravata borboleta?
+
+205
+00:10:04,228 --> 00:10:05,574
+Por quê?
+
+206
+00:10:05,588 --> 00:10:08,147
+Olhe em volta, querido.
+Ninguém está usando.
+
+207
+00:10:08,157 --> 00:10:09,859
+Talvez eu vá
+começar uma moda.
+
+208
+00:10:09,869 --> 00:10:12,154
+Não, você não vai.
+Confie na mamãe.
+
+209
+00:10:13,795 --> 00:10:15,255
+Vamos combinar?
+
+210
+00:10:15,265 --> 00:10:17,490
+Você tira,
+e no fim de semana
+
+211
+00:10:17,500 --> 00:10:19,776
+levo você pra
+RadioShack.
+
+212
+00:10:29,345 --> 00:10:30,870
+Você está bem?
+
+213
+00:10:30,880 --> 00:10:32,494
+Acho que sim.
+
+214
+00:10:34,050 --> 00:10:35,675
+Cheiro de amônia.
+
+215
+00:10:35,685 --> 00:10:38,305
+Devem ter feito uma limpeza
+recentemente.
+
+216
+00:10:38,624 --> 00:10:39,987
+Eu gosto disso.
+
+217
+00:10:40,496 --> 00:10:43,516
+E lembre-se, se alguém
+te incomodar, o que você diz?
+
+218
+00:10:43,526 --> 00:10:45,486
+Meu pai é
+o treinador de futebol.
+
+219
+00:10:45,496 --> 00:10:47,731
+- E?
+- Meu irmão é jogador do time.
+
+220
+00:10:47,741 --> 00:10:49,051
+Bom.
+
+221
+00:10:49,104 --> 00:10:52,124
+Ei, mãe, olha.
+Essa menina está grávida.
+
+222
+00:10:52,676 --> 00:10:54,276
+Parabéns.
+
+223
+00:11:02,838 --> 00:11:05,013
+Isso foi revoltante.
+
+224
+00:11:05,499 --> 00:11:06,854
+Tudo bem.
+
+225
+00:11:06,974 --> 00:11:09,548
+Essa é sua classe.
+Quer que eu entre com você?
+
+226
+00:11:09,588 --> 00:11:12,303
+Não. Seria bom
+se tivesse entrado no banheiro.
+
+227
+00:11:12,822 --> 00:11:14,302
+Certo...
+
+228
+00:11:14,943 --> 00:11:16,287
+Tenha um bom dia.
+
+229
+00:11:16,340 --> 00:11:19,350
+Venho buscá-lo no fim da aula,
+na mesma porta que entramos.
+
+230
+00:11:19,444 --> 00:11:22,310
+Você está chorando
+ou tendo um ataque de alergia?
+
+231
+00:11:22,784 --> 00:11:24,177
+Alergia.
+
+232
+00:11:24,251 --> 00:11:25,796
+Provavelmente é a amônia.
+
+233
+00:11:25,810 --> 00:11:27,149
+Provavelmente.
+
+234
+00:11:28,189 --> 00:11:30,832
+Certo.
+Que comece a aprendizagem.
+
+235
+00:11:40,423 --> 00:11:44,543
+Tudo bem, classe,
+meu nome é Sra. MacElroy.
+
+236
+00:11:44,783 --> 00:11:46,921
+Além de ser
+sua professora de sala,
+
+237
+00:11:46,935 --> 00:11:49,375
+vou ver alguns de vocês
+na minha aula de inglês,
+
+238
+00:11:49,385 --> 00:11:51,385
+e alguns no campo de vôlei.
+
+239
+00:11:51,569 --> 00:11:53,220
+Para saberem
+um pouco de história,
+
+240
+00:11:53,296 --> 00:11:56,116
+estou aqui em Medford
+há 29 anos.
+
+241
+00:11:56,126 --> 00:11:58,781
+Ensinei alguns dos seus
+irmãos e irmãs mais velhos,
+
+242
+00:11:58,801 --> 00:12:01,387
+e, infelizmente,
+alguns de seus pais.
+
+243
+00:12:02,248 --> 00:12:05,206
+Não há nada que
+eu nunca tenha visto até hoje.
+
+244
+00:12:05,446 --> 00:12:08,780
+Sei que todos notaram que
+temos um aluno conosco,
+
+245
+00:12:08,800 --> 00:12:13,239
+que, apesar de sua tenra idade,
+é extraordinariamente talentoso.
+
+246
+00:12:13,287 --> 00:12:16,711
+E espero que vocês todos façam
+que ele se sinta bem-vindo.
+
+247
+00:12:17,761 --> 00:12:19,076
+Sim, Sheldon?
+
+248
+00:12:19,086 --> 00:12:21,452
+De acordo com o
+Código de Vestimenta
+
+249
+00:12:21,472 --> 00:12:23,451
+o cabelo deste garoto
+é muito comprido,
+
+250
+00:12:23,466 --> 00:12:27,262
+este garoto está usando roupa
+esportiva fora da área designada
+
+251
+00:12:27,282 --> 00:12:29,646
+e a blusa desta menina
+é diáfana,
+
+252
+00:12:29,663 --> 00:12:31,685
+o que significa que
+posso ver seu sutiã.
+
+253
+00:12:33,411 --> 00:12:36,282
+Obrigada.
+Vou levar isso em consideração.
+
+254
+00:12:36,689 --> 00:12:39,826
+Certo. Temos alguns minutos
+antes do primeiro intervalo.
+
+255
+00:12:39,836 --> 00:12:42,097
+Preciso que preencham
+esses formulários.
+
+256
+00:12:42,258 --> 00:12:44,314
+- O quê?
+- Também é violação
+
+257
+00:12:44,330 --> 00:12:48,267
+do Código de Conduta, página 48,
+artigo 5, subsecção B,
+
+258
+00:12:48,277 --> 00:12:50,446
+você tem um pouco de bigode.
+
+259
+00:12:52,617 --> 00:12:54,328
+Esta foi uma ideia estúpida.
+
+260
+00:12:54,338 --> 00:12:56,452
+O lugar desse menino
+não é a nossa escola.
+
+261
+00:12:56,462 --> 00:12:58,178
+Calma, Vicky,
+é só o primeiro dia.
+
+262
+00:12:58,194 --> 00:13:00,219
+Não é melhor todos nós
+respirarmos fundo?
+
+263
+00:13:00,282 --> 00:13:04,062
+5 minutos na aula de matemática
+e ele questionou minha formação.
+
+264
+00:13:04,096 --> 00:13:06,164
+Como posso controlar a
+sala se uma criança
+
+265
+00:13:06,184 --> 00:13:08,086
+me acusa de violar o
+código de higiene?
+
+266
+00:13:08,106 --> 00:13:10,513
+Hubert, não vai morrer se
+tomar banho mais vezes.
+
+267
+00:13:10,531 --> 00:13:12,640
+- George, quer opinar aqui?
+- Bem...
+
+268
+00:13:12,651 --> 00:13:15,339
+Universidade Oral Roberts
+é uma escola maravilhosa.
+
+269
+00:13:15,365 --> 00:13:18,418
+Ele disse que fui intimidado
+por sua inteligência e dai...
+
+270
+00:13:18,539 --> 00:13:20,644
+ele se ofereceu para ser
+meu "líder".
+
+271
+00:14:06,482 --> 00:14:08,107
+Você conhece essa sonata?
+
+272
+00:14:08,117 --> 00:14:09,441
+Não.
+
+273
+00:14:09,451 --> 00:14:11,551
+Há quanto tempo
+toca piano?
+
+274
+00:14:12,140 --> 00:14:14,333
+Eu não toco piano.
+
+275
+00:14:15,494 --> 00:14:17,989
+George, tem alguma coisa
+a acrescentar?
+
+276
+00:14:18,119 --> 00:14:19,518
+É claro que tenho.
+
+277
+00:14:21,069 --> 00:14:22,549
+Mary, diga a ele.
+
+278
+00:14:22,815 --> 00:14:25,182
+É simples.
+Nós não temos escolha.
+
+279
+00:14:25,209 --> 00:14:26,857
+Bem, vocês tentaram.
+
+280
+00:14:26,950 --> 00:14:28,863
+Desejamos sorte a Sheldon
+em outro...
+
+281
+00:14:28,883 --> 00:14:30,609
+Não, não, não.
+
+282
+00:14:30,819 --> 00:14:33,340
+Nós não temos escolha.
+Ele tem que ficar aqui.
+
+283
+00:14:33,448 --> 00:14:35,305
+Não podemos pagar
+uma escola especial.
+
+284
+00:14:35,327 --> 00:14:36,836
+Eu não posso
+educá-lo em casa.
+
+285
+00:14:36,867 --> 00:14:39,320
+Ele está fazendo cálculo
+Euclidiano ou algo assim.
+
+286
+00:14:39,341 --> 00:14:41,956
+Geometria euclidiana.
+Adivinhem onde eu aprendi isso.
+
+287
+00:14:41,977 --> 00:14:43,797
+Sim, sim, nós sabemos.
+
+288
+00:14:44,440 --> 00:14:46,798
+Tudo o que
+me interessa é que meu filho
+
+289
+00:14:46,818 --> 00:14:50,115
+receba a educação que merece
+então vão ter que resolver isso.
+
+290
+00:14:50,128 --> 00:14:52,284
+Treinador, pode me ajudar aqui,
+por favor?
+
+291
+00:14:52,294 --> 00:14:53,827
+Porque estou morrendo.
+
+292
+00:14:57,245 --> 00:14:58,733
+Prefiro não interferir.
+
+293
+00:15:03,051 --> 00:15:04,682
+Sol menor.
+
+294
+00:15:05,340 --> 00:15:06,785
+Fá.
+
+295
+00:15:08,436 --> 00:15:10,025
+Mi bemol.
+
+296
+00:15:11,647 --> 00:15:13,108
+Dó menor.
+
+297
+00:15:15,690 --> 00:15:17,398
+Você tem um ouvido absoluto.
+
+298
+00:15:17,613 --> 00:15:19,112
+Certo.
+
+299
+00:15:19,154 --> 00:15:22,460
+Docinho, você realmente
+devia seguir na música.
+
+300
+00:15:22,544 --> 00:15:25,445
+Não, obrigado.
+Os músicos usam drogas.
+
+301
+00:15:26,182 --> 00:15:28,890
+Há um banheiro nessa faculdade
+que eu possa usar?
+
+302
+00:15:43,645 --> 00:15:45,236
+Cooper, Stinson,
+são vocês.
+
+303
+00:15:45,616 --> 00:15:48,615
+Ei, olha,
+é o irmão burro.
+
+304
+00:15:50,407 --> 00:15:51,715
+Certo.
+
+305
+00:15:58,481 --> 00:16:00,170
+Chega.
+
+306
+00:16:01,530 --> 00:16:03,492
+Ei, chega!
+
+307
+00:16:03,502 --> 00:16:04,862
+- Ei, ei!
+- Chega!
+
+308
+00:16:04,872 --> 00:16:06,198
+Georgie.
+
+309
+00:16:06,218 --> 00:16:07,882
+Georgie! Georgie!
+
+310
+00:16:07,892 --> 00:16:09,524
+Pare! Pare!
+
+311
+00:16:11,981 --> 00:16:13,687
+Qual é seu problema?
+
+312
+00:16:17,679 --> 00:16:19,089
+Você está bem?
+
+313
+00:16:19,109 --> 00:16:21,304
+Não, não estou bem.
+
+314
+00:16:29,993 --> 00:16:31,459
+Onde acha que está indo?
+
+315
+00:16:31,494 --> 00:16:33,460
+Eu desisto.
+Não quero mais jogar!
+
+316
+00:16:33,495 --> 00:16:35,869
+- Desde quando?
+- Desde agora!
+
+317
+00:16:36,536 --> 00:16:38,176
+Tudo bem,
+o que está acontecendo?
+
+318
+00:16:38,196 --> 00:16:39,976
+O que acha
+que está acontecendo?!
+
+319
+00:16:41,135 --> 00:16:42,968
+Vai dizer que é o Sheldon?
+
+320
+00:16:45,192 --> 00:16:46,869
+Não pode deixar
+isso te incomodar.
+
+321
+00:16:46,883 --> 00:16:48,209
+E não incomoda você?
+
+322
+00:16:48,220 --> 00:16:50,209
+Você foi chamado
+na sala do diretor.
+
+323
+00:16:50,444 --> 00:16:52,295
+Sim, e não foi nada bom.
+
+324
+00:16:52,389 --> 00:16:54,343
+Não posso estar
+na mesma escola que ele!
+
+325
+00:16:54,363 --> 00:16:55,873
+Você não tem outra escolha.
+
+326
+00:16:55,893 --> 00:16:59,400
+Desde que ele aprendeu a falar,
+eu não tenho mais escolha.
+
+327
+00:17:06,471 --> 00:17:08,017
+Eu sei que é difícil.
+
+328
+00:17:09,227 --> 00:17:11,424
+Estou dizendo
+como seu treinador,
+
+329
+00:17:11,598 --> 00:17:15,199
+engula seu choro, coloque o
+uniforme e volte pra lá agora.
+
+330
+00:17:15,739 --> 00:17:17,678
+E como meu pai?
+
+331
+00:17:18,297 --> 00:17:20,319
+Seu pai está tendo um dia ruim.
+
+332
+00:17:20,469 --> 00:17:22,018
+Ouça o seu treinador.
+
+333
+00:17:27,856 --> 00:17:32,193
+<i>É possível alimentar um relógio
+por uma batata comum?</i>
+
+334
+00:17:32,454 --> 00:17:34,296
+<i>Espero que sim,
+meninos e meninas,</i>
+
+335
+00:17:34,316 --> 00:17:37,640
+<i>ou isso vai ser
+um episódio realmente chato.</i>
+
+336
+00:17:37,900 --> 00:17:39,435
+<i>Você vai precisar de...</i>
+
+337
+00:17:39,461 --> 00:17:41,421
+Por que não podemos assistir
+DuckTales?
+
+338
+00:17:41,441 --> 00:17:44,538
+Porque não aprendemos nada
+assistindo DuckTales.
+
+339
+00:17:44,605 --> 00:17:47,931
+Isso é TV,
+não é pra aprender nada.
+
+340
+00:17:48,059 --> 00:17:50,792
+<i>Duas presilhas e vamos ver...</i>
+
+341
+00:17:50,893 --> 00:17:53,092
+<i>claro, um relógio.</i>
+
+342
+00:17:53,102 --> 00:17:55,802
+Missy, vá pra outro lugar.
+Preciso falar com seu irmão.
+
+343
+00:17:55,812 --> 00:17:58,207
+Por que vocês não vão
+e eu fico vendo Duck...
+
+344
+00:17:58,221 --> 00:17:59,674
+Vai!
+
+345
+00:18:00,134 --> 00:18:01,686
+Eu odeio todo mundo.
+
+346
+00:18:01,780 --> 00:18:04,777
+<i>É hora da ciência.</i>
+
+347
+00:18:07,074 --> 00:18:10,539
+Ei, ele estava prestes a ligar
+um relógio com uma batata.
+
+348
+00:18:10,549 --> 00:18:12,508
+É impossível.
+Agora, ouça...
+
+349
+00:18:12,519 --> 00:18:14,515
+- Estou em apuros?
+- No.
+
+350
+00:18:15,495 --> 00:18:17,492
+Talvez.
+Apenas ouça.
+
+351
+00:18:19,258 --> 00:18:21,324
+Você não vai conseguir
+sobreviver à escola
+
+352
+00:18:21,338 --> 00:18:23,070
+se continuar
+dedurando as pessoas.
+
+353
+00:18:23,080 --> 00:18:26,141
+Mas estavam contra os Códigos
+de Conduta e Vestimenta.
+
+354
+00:18:26,221 --> 00:18:29,160
+Vi um menino com
+uma camiseta que dizia...
+
+355
+00:18:29,519 --> 00:18:30,837
+"Me Morda"
+
+356
+00:18:30,986 --> 00:18:33,406
+Sim. Isso é terrível.
+
+357
+00:18:33,772 --> 00:18:35,652
+Sheldon, deixe-me contar
+uma história.
+
+358
+00:18:35,719 --> 00:18:38,604
+Já se perguntou por que mudamos
+de Galveston para Medford?
+
+359
+00:18:38,630 --> 00:18:41,716
+Não. Costumo me preocupar
+com questões maiores.
+
+360
+00:18:41,850 --> 00:18:44,023
+Ok, bem,
+aqui está o motivo.
+
+361
+00:18:44,185 --> 00:18:46,926
+Seu pai tinha um excelente
+trabalho de treinador
+
+362
+00:18:47,166 --> 00:18:49,522
+e eu vi alguns adultos
+infringem umas regras.
+
+363
+00:18:49,612 --> 00:18:52,613
+- O que eles fizeram?
+- É um pouco complicado, mas...
+
+364
+00:18:52,901 --> 00:18:55,654
+treinadores não podem recrutar
+garotos de outras escolas
+
+365
+00:18:55,674 --> 00:18:57,056
+para jogar em seu time.
+
+366
+00:18:57,156 --> 00:18:58,632
+E você contou
+o que fizeram?
+
+367
+00:18:58,661 --> 00:19:00,642
+Sim.
+E sabe o que aconteceu?
+
+368
+00:19:00,726 --> 00:19:03,517
+A justiça desceu
+sobre os rompedores de regras?
+
+369
+00:19:04,650 --> 00:19:06,666
+Eu fui demitido, Sheldon.
+
+370
+00:19:07,148 --> 00:19:08,995
+E ganhei uma má reputação.
+
+371
+00:19:09,604 --> 00:19:12,610
+É por isso que
+você bebe tanta cerveja.
+
+372
+00:19:16,015 --> 00:19:18,020
+Faça um favor
+a você mesmo, certo?
+
+373
+00:19:18,206 --> 00:19:20,226
+Vá para a escola amanhã e
+
+374
+00:19:20,413 --> 00:19:22,110
+cuide apenas do seu nariz.
+
+375
+00:19:22,291 --> 00:19:23,637
+Certo?
+
+376
+00:19:25,318 --> 00:19:26,709
+Papai.
+
+377
+00:19:27,815 --> 00:19:30,209
+Você está triste
+porque foi demitido?
+
+378
+00:19:32,974 --> 00:19:34,820
+Estou mais com raiva.
+
+379
+00:19:36,380 --> 00:19:38,020
+Mas sim.
+
+380
+00:19:39,326 --> 00:19:40,968
+Talvez um pouco triste.
+
+381
+00:19:48,710 --> 00:19:50,979
+Tudo bem, vamos dar graças.
+
+382
+00:19:55,634 --> 00:19:59,454
+Obrigado meu Deus, por esta
+comida que vamos comer.
+
+383
+00:20:07,896 --> 00:20:11,337
+<i>Essa foi a primeira vez que
+segurei a mão do meu pai.</i>
+
+384
+00:20:11,409 --> 00:20:14,262
+e abençoe as mãos
+que as prepararam.
+
+385
+00:20:14,655 --> 00:20:17,283
+- Amém.
+- Amém.
+
+386
+00:20:19,999 --> 00:20:23,579
+<i>Ei, George Jr.,
+espere sua vez.</i>
+
+387
+00:20:23,619 --> 00:20:27,212
+Eu não toquei a mão do meu
+irmão até 17 anos depois,
+
+388
+00:20:27,222 --> 00:20:30,152
+graças à invenção
+do álcool em gel.
+
+389
+00:20:47,151 --> 00:20:48,995
+Sabe o que acho reconfortante?
+
+390
+00:20:49,005 --> 00:20:50,385
+O quê, querido?
+
+391
+00:20:50,418 --> 00:20:54,322
+Em um mundo cheio de incertezas,
+este lugar vai durar pra sempre.
+
+392
+00:20:56,441 --> 00:20:58,531
+<i>Ei, Sheldon,
+como você está?</i>
+
+393
+00:20:59,481 --> 00:21:02,474
+Venha legendar conosco!
+TecSubs & Equipe Li4rs
+
+394
+00:21:02,484 --> 00:21:06,484
+tec.subs@gmail.com
+facebook.com/TecSubs
+
+395
+00:21:06,494 --> 00:21:10,494
+equipeli4rs@live.com
+facebook.com/Li4rs
