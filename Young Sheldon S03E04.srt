@@ -1,0 +1,1640 @@
+1
+00:00:01,289 --> 00:00:02,720
+<i>Anteriormente...</i>
+
+2
+00:00:02,730 --> 00:00:04,265
+Que diabos está acontecendo?
+
+3
+00:00:04,286 --> 00:00:05,679
+Mamãe acha
+que sou louco.
+
+4
+00:00:06,951 --> 00:00:09,206
+Pensei que não deveríamos
+dizer coisas assim.
+
+5
+00:00:09,216 --> 00:00:11,127
+Querido,
+há algo que preciso lhe dizer.
+
+6
+00:00:11,137 --> 00:00:12,713
+Dr. Sturgis
+
+7
+00:00:12,723 --> 00:00:16,083
+não está no tipo de hospital
+que você pensa que ele está.
+
+8
+00:00:16,093 --> 00:00:18,085
+Em que tipo de
+hospital ele está?
+
+9
+00:00:18,095 --> 00:00:20,603
+Em um psiquiátrico.
+
+10
+00:00:20,613 --> 00:00:23,736
+E acha que, como ele e eu
+somos inteligentes,
+
+11
+00:00:23,746 --> 00:00:25,216
+vou ficar igual a ele?
+
+12
+00:00:25,226 --> 00:00:27,228
+Oh bebê.
+
+13
+00:00:28,490 --> 00:00:30,770
+Viram como é bom
+se comunicarem?
+
+14
+00:00:30,780 --> 00:00:32,364
+Não venha
+querer os créditos.
+
+15
+00:00:34,512 --> 00:00:37,837
+<i>Nunca se sabe onde a inspiração
+científica vai chegar.</i>
+
+16
+00:00:37,847 --> 00:00:40,013
+<i>Para Newton, foi embaixo
+de um pé de maçã.</i>
+
+17
+00:00:40,023 --> 00:00:42,408
+<i>Para Arquimedes,
+foi sentado em uma banheira.</i>
+
+18
+00:00:42,418 --> 00:00:44,627
+<i>Para mim, neste dia
+em particular,</i>
+
+19
+00:00:44,637 --> 00:00:48,009
+<i>tinha um tipo de vibração
+"pessoas suadas comendo carne".</i>
+
+20
+00:00:48,019 --> 00:00:50,011
+Sheldon, precisa mesmo
+fazer isso aqui?
+
+21
+00:00:50,026 --> 00:00:53,057
+Se não queriam que eu resolvesse
+a teoria do campo unificado,
+
+22
+00:00:53,067 --> 00:00:54,668
+por que me deram
+um giz de cera?
+
+23
+00:00:54,678 --> 00:00:57,292
+Eu disse para abrir uma
+janela e deixá-lo no carro.
+
+24
+00:00:57,302 --> 00:01:00,590
+Me ocorreu que as equações de
+Maxwell atingem simetria total
+
+25
+00:01:00,600 --> 00:01:02,985
+ao adicionar
+um monopolo magnético.
+
+26
+00:01:02,995 --> 00:01:04,692
+Eu desenhei uma joaninha.
+
+27
+00:01:05,449 --> 00:01:06,833
+Tudo bem, vocês todos.
+
+28
+00:01:07,566 --> 00:01:09,565
+Posso servir?
+
+29
+00:01:09,575 --> 00:01:11,645
+Estou ocupado.
+Poderia voltar depois?
+
+30
+00:01:11,655 --> 00:01:13,003
+Sheldon, estou com fome.
+
+31
+00:01:13,013 --> 00:01:14,526
+Vamos nos sentar ali.
+
+32
+00:01:14,536 --> 00:01:16,958
+Não. Vamos comer juntos
+em família.
+
+33
+00:01:16,968 --> 00:01:20,445
+Em vez de eletricidade,
+teremos magnetoeletricidade.
+
+34
+00:01:20,455 --> 00:01:22,230
+Está ficando pesado.
+
+35
+00:01:22,240 --> 00:01:24,544
+Estaremos bem ali se
+precisar de nós.
+
+36
+00:01:24,554 --> 00:01:27,419
+- Vamos.
+- Tchau, joaninha.
+
+37
+00:01:27,662 --> 00:01:30,067
+Tec Subs e Li4rs,
+bazingando desde criancinhas,
+
+38
+00:01:30,078 --> 00:01:32,078
+apresentam:
+Young Sheldon - 03x04
+
+39
+00:01:32,089 --> 00:01:34,089
+<i>Hobbitses, Physicses and
+a Ball With Zip</i>
+
+40
+00:01:34,100 --> 00:01:36,100
+Bazinguinhas:
+BrunoLoko ~ Chereguedel
+
+41
+00:01:36,111 --> 00:01:38,270
+Bazinguinhas:
+rsquint ~ Suzyane³ ~ curiango4
+
+42
+00:01:38,281 --> 00:01:40,281
+Bazinguinhas:
+ErosCohenard ~ LikaPoetisa
+
+43
+00:01:40,292 --> 00:01:42,292
+Sheldinho:
+RedBeard, The Flash
+
+44
+00:01:42,303 --> 00:01:44,303
+equipeli4rs@live.com
+Facebook.com/Li4rs
+
+45
+00:01:44,314 --> 00:01:46,314
+tec.subs@gmail.com
+Facebook.com/TecSubs
+
+46
+00:01:51,021 --> 00:01:52,796
+Querido, precisa comer
+alguma coisa.
+
+47
+00:01:52,806 --> 00:01:54,856
+Mas parece que posso
+mudar as definições
+
+48
+00:01:54,866 --> 00:01:56,505
+de campos elétricos
+e magnéticos
+
+49
+00:01:56,515 --> 00:01:59,335
+e rotacionar matematicamente
+a carga magnética até zero.
+
+50
+00:01:59,351 --> 00:02:01,247
+Talvez um pouco de
+quiabo frito ajude.
+
+51
+00:02:01,257 --> 00:02:03,965
+Richard Feynman não desenvolveu
+eletrodinâmica quântica
+
+52
+00:02:03,976 --> 00:02:05,356
+comendo quiabo frito.
+
+53
+00:02:05,366 --> 00:02:07,707
+Talvez seja porque
+a mãe dele não o amava
+
+54
+00:02:07,717 --> 00:02:09,580
+tanto quanto eu te amo.
+
+55
+00:02:09,590 --> 00:02:11,975
+<i>Richard Feynman era judeu.</i>
+
+56
+00:02:11,985 --> 00:02:14,246
+<i>Sua mãe não lhe dava
+quiabo frito.</i>
+
+57
+00:02:18,263 --> 00:02:20,886
+O que estou perdendo?
+
+58
+00:02:21,909 --> 00:02:25,597
+Me acorde mais uma vez
+e vou espirrar nas suas luvas.
+
+59
+00:02:25,607 --> 00:02:28,546
+Um espirro grande,
+molhado e catarrento.
+
+60
+00:02:34,442 --> 00:02:36,434
+Amor, o que você está fazendo?
+
+61
+00:02:36,444 --> 00:02:38,047
+Trabalhando.
+
+62
+00:02:38,978 --> 00:02:40,536
+Você ficou aqui a noite toda?
+
+63
+00:02:40,546 --> 00:02:42,673
+Não. Por que?
+Que horas são?
+
+64
+00:02:42,683 --> 00:02:44,036
+7:30.
+
+65
+00:02:44,046 --> 00:02:45,439
+Então sim.
+
+66
+00:02:49,964 --> 00:02:51,364
+Filho de uma...
+
+67
+00:02:51,374 --> 00:02:52,801
+Pai, você está ocupado?
+
+68
+00:02:52,811 --> 00:02:54,369
+Pareço estar ocupado?
+
+69
+00:02:54,379 --> 00:02:57,242
+Não consigo ver como você está.
+Você está embaixo da pia.
+
+70
+00:02:57,252 --> 00:02:59,114
+O que você quer?
+
+71
+00:02:59,124 --> 00:03:01,396
+Você me ensina a lançar
+uma bola de beisebol?
+
+72
+00:03:02,396 --> 00:03:04,134
+De onde veio isso?
+
+73
+00:03:20,327 --> 00:03:22,272
+Eu não sei,
+só parece divertido.
+
+74
+00:03:22,282 --> 00:03:23,755
+Claro, por que não?
+
+75
+00:03:23,765 --> 00:03:25,440
+Ótimo, vou pegar as luvas.
+
+76
+00:03:25,450 --> 00:03:27,104
+Agora não!
+
+77
+00:03:30,237 --> 00:03:32,056
+Então, quais as novidades?
+
+78
+00:03:32,066 --> 00:03:33,971
+Estou preocupada com Sheldon.
+
+79
+00:03:33,981 --> 00:03:35,973
+Eu disse "novidades".
+
+80
+00:03:35,983 --> 00:03:38,540
+Ele não está dormindo,
+não está comendo.
+
+81
+00:03:38,550 --> 00:03:40,145
+Fomos numa churrascaria
+ontem,
+
+82
+00:03:40,155 --> 00:03:41,586
+e ele não tocou em nada.
+
+83
+00:03:41,596 --> 00:03:43,313
+E também começou
+a roer as unhas.
+
+84
+00:03:43,324 --> 00:03:45,087
+Eu nunca vi
+fazer isso antes.
+
+85
+00:03:45,097 --> 00:03:46,922
+Ele está preocupado
+com alguma coisa?
+
+86
+00:03:46,933 --> 00:03:49,286
+Ele está fixo em algum
+problema científico.
+
+87
+00:03:49,296 --> 00:03:51,172
+Tenho certeza que
+quando ele resolver
+
+88
+00:03:51,191 --> 00:03:52,656
+tudo voltará ao normal.
+
+89
+00:03:52,682 --> 00:03:54,117
+Tomara que sim.
+
+90
+00:03:56,785 --> 00:03:58,603
+E tem notícias do John?
+
+91
+00:03:58,613 --> 00:04:00,605
+Não muito.
+
+92
+00:04:00,615 --> 00:04:02,804
+Escrevemos cartas
+um para o outro.
+
+93
+00:04:02,827 --> 00:04:04,186
+Isso é romântico.
+
+94
+00:04:04,196 --> 00:04:06,189
+Romântico se
+ele estivesse na guerra,
+
+95
+00:04:06,199 --> 00:04:08,286
+não em um hospital
+psiquiátrico.
+
+96
+00:04:08,868 --> 00:04:13,110
+Bem, ele está em guerra
+com seus demônios interiores.
+
+97
+00:04:17,502 --> 00:04:20,255
+- Você é destra, né?
+- Você não sabe?
+
+98
+00:04:20,265 --> 00:04:22,395
+Certo, espertinha, e eu?
+
+99
+00:04:23,610 --> 00:04:25,095
+Eu sou destra.
+
+100
+00:04:25,410 --> 00:04:27,412
+Coloque isso
+na mão esquerda.
+
+101
+00:04:28,103 --> 00:04:29,748
+Você já lançou uma bola antes?
+
+102
+00:04:29,758 --> 00:04:31,255
+Apenas pedras em Sheldon.
+
+103
+00:04:31,265 --> 00:04:32,735
+Acertou nele?
+
+104
+00:04:32,745 --> 00:04:34,086
+Todas as vezes.
+
+105
+00:04:34,096 --> 00:04:36,263
+Então, é um bom começo.
+
+106
+00:04:36,273 --> 00:04:38,179
+Tudo bem, já que você é destra,
+
+107
+00:04:38,189 --> 00:04:40,182
+que agora eu sei,
+
+108
+00:04:40,192 --> 00:04:42,359
+você vai levantar o braço
+
+109
+00:04:42,369 --> 00:04:45,319
+e fazer assim.
+
+110
+00:04:45,329 --> 00:04:47,331
+Certo.
+
+111
+00:04:49,971 --> 00:04:52,051
+Ótimo.
+Pode ser natural em você.
+
+112
+00:04:52,061 --> 00:04:54,931
+Não me surpreende.
+É o braço que uso pra colorir.
+
+113
+00:04:56,778 --> 00:04:59,051
+Nem percebi que estava
+roendo as unhas.
+
+114
+00:04:59,061 --> 00:05:00,924
+Acho que esse
+problema de matemática
+
+115
+00:05:00,934 --> 00:05:03,286
+no qual está trabalhando
+está estressando você.
+
+116
+00:05:03,296 --> 00:05:06,395
+Faz sentido. Einstein
+trabalhou nele por 30 anos
+
+117
+00:05:06,405 --> 00:05:08,355
+e nunca encontrou a solução.
+
+118
+00:05:08,365 --> 00:05:12,317
+Talvez se você parar de pensar
+nisso, a solução chega até você.
+
+119
+00:05:12,327 --> 00:05:14,407
+- Não. Não posso parar.
+- Sheldon.
+
+120
+00:05:14,417 --> 00:05:15,991
+Se eu parar,
+vou perder o foco.
+
+121
+00:05:16,002 --> 00:05:17,863
+Nunca vou resolver.
+Serei um fracasso.
+
+122
+00:05:17,874 --> 00:05:19,196
+Minha vida será inútil.
+
+123
+00:05:19,207 --> 00:05:22,317
+Certo, é isso. Você vai
+dar um tempo com ciência.
+
+124
+00:05:22,327 --> 00:05:24,794
+Me dê uma boa razão
+pela qual eu faria isso.
+
+125
+00:05:24,804 --> 00:05:27,145
+Onde está o Dr. Sturgis agora?
+
+126
+00:05:27,155 --> 00:05:29,644
+Essa é uma boa razão.
+
+127
+00:05:32,499 --> 00:05:33,996
+Lembre-se,
+você precisa olhar
+
+128
+00:05:34,008 --> 00:05:35,758
+exatamente onde quer
+que a bola vá.
+
+129
+00:05:35,773 --> 00:05:37,110
+Onde mais eu olharia?
+
+130
+00:05:37,121 --> 00:05:39,384
+Em cinco minutos
+você olhou uma borboleta,
+
+131
+00:05:39,394 --> 00:05:41,256
+um esquilo e o
+carrinho de sorvete.
+
+132
+00:05:41,266 --> 00:05:43,613
+Você também olhou para
+o carrinho de sorvete.
+
+133
+00:05:46,298 --> 00:05:48,949
+Qual time tem um grande
+"T" vermelho no boné?
+
+134
+00:05:48,972 --> 00:05:50,372
+Texas Rangers.
+
+135
+00:05:50,382 --> 00:05:52,299
+- É um time que gostamos?
+- Sim.
+
+136
+00:05:52,309 --> 00:05:55,113
+Sim, é para quem a maioria
+das pessoas por aqui torce.
+
+137
+00:05:56,175 --> 00:05:59,927
+E o que posso
+dizer sobre os Rangers?
+
+138
+00:05:59,937 --> 00:06:01,484
+Sabe, para parecer legal.
+
+139
+00:06:01,494 --> 00:06:03,617
+- Isso é sobre algum garoto?
+- Não.
+
+140
+00:06:03,627 --> 00:06:05,237
+Tudo bem, desculpe.
+
+141
+00:06:08,581 --> 00:06:12,263
+Poderia dizer: "Mesmo que
+Nolan Ryan esteja velho
+
+142
+00:06:12,273 --> 00:06:14,527
+os Rangers foram espertos
+em contratá-lo."
+
+143
+00:06:14,537 --> 00:06:15,964
+Isso é verdade?
+
+144
+00:06:15,974 --> 00:06:17,445
+É verdade.
+
+145
+00:06:17,455 --> 00:06:19,448
+Quantos anos o
+Nolan Ryan tem?
+
+146
+00:06:19,458 --> 00:06:20,846
+Minha idade.
+
+147
+00:06:20,872 --> 00:06:22,254
+Ai credo.
+
+148
+00:06:23,706 --> 00:06:25,775
+Estou tão acostumado
+a pensar em ciência,
+
+149
+00:06:25,785 --> 00:06:27,705
+que não sei como
+me fazer parar.
+
+150
+00:06:27,715 --> 00:06:31,595
+Assim que penso sobre não pensar
+nisso, estou pensando nisso.
+
+151
+00:06:31,605 --> 00:06:34,419
+Bem, por que simplesmente
+não pensa em outra coisa?
+
+152
+00:06:34,429 --> 00:06:36,253
+- Como o quê?
+- Eu não sei.
+
+153
+00:06:36,276 --> 00:06:37,656
+Ler história em quadrinhos?
+
+154
+00:06:37,667 --> 00:06:39,742
+Como a aranha que
+mordeu Peter Parker
+
+155
+00:06:39,753 --> 00:06:41,099
+ficou radioativa?
+Ciência.
+
+156
+00:06:41,109 --> 00:06:43,607
+Como Bruce Banner
+foi exposto a raios gama?
+
+157
+00:06:43,617 --> 00:06:44,927
+- Ciência.
+- Tudo bem.
+
+158
+00:06:44,937 --> 00:06:46,396
+Quando o Duende Verde voa...
+
+159
+00:06:46,406 --> 00:06:48,399
+- Eu disse tudo bem.
+- Ciência.
+
+160
+00:06:48,409 --> 00:06:50,141
+Sei que não quer
+ouvir isso,
+
+161
+00:06:50,151 --> 00:06:53,435
+mas acho que a oração traz
+uma incrível paz de espírito.
+
+162
+00:06:53,445 --> 00:06:55,917
+Qual é, Mary?
+Estou tentando ajudar o garoto.
+
+163
+00:06:56,570 --> 00:06:58,341
+Você só precisa de
+um novo hobby.
+
+164
+00:06:58,351 --> 00:07:00,732
+Muito bem.
+Quais são os seus?
+
+165
+00:07:00,742 --> 00:07:02,518
+Fumar, beber e jogar.
+
+166
+00:07:02,528 --> 00:07:05,522
+Mas podemos encontrar algo
+quase tão divertido para você.
+
+167
+00:07:05,532 --> 00:07:08,245
+<i>Vamos suar de novo!</i>
+
+168
+00:07:08,276 --> 00:07:09,658
+<i>Vamos lá pessoal!</i>
+
+169
+00:07:09,668 --> 00:07:11,373
+Vamos, Sheldon.
+
+170
+00:07:11,383 --> 00:07:13,324
+Vamos fazer o sangue jorrar.
+
+171
+00:07:13,520 --> 00:07:14,853
+Eu prefiro não.
+
+172
+00:07:15,334 --> 00:07:17,930
+Faça.
+Um pouco de exercício ajudará
+
+173
+00:07:17,940 --> 00:07:19,480
+a limpar sua cabeça.
+
+174
+00:07:22,301 --> 00:07:24,087
+<i>Mexam essas mãos.</i>
+
+175
+00:07:25,610 --> 00:07:27,169
+<i>De trás para frente.</i>
+
+176
+00:07:27,179 --> 00:07:30,314
+- O que você acha?
+- Acho que odeio isso.
+
+177
+00:07:30,324 --> 00:07:34,091
+Bom, mas não está pensando
+em ciências agora, está?
+
+178
+00:07:34,101 --> 00:07:36,292
+Penso em como sou infeliz.
+
+179
+00:07:36,302 --> 00:07:38,534
+<i>Vamos pegar aquele trem.
+Conseguem?</i>
+
+180
+00:07:38,544 --> 00:07:41,204
+<i>De trás para frente.
+Vamos lá.</i>
+
+181
+00:07:42,473 --> 00:07:43,815
+<i>Três.</i>
+
+182
+00:07:43,825 --> 00:07:46,432
+<i>Isso. Quatro.
+Contem para mim!</i>
+
+183
+00:07:46,442 --> 00:07:47,800
+<i>Cinco. Isso aí!</i>
+
+184
+00:07:51,561 --> 00:07:53,346
+B-14.
+
+185
+00:07:53,751 --> 00:07:55,806
+B-14.
+
+186
+00:07:59,592 --> 00:08:00,941
+O que mais você tem?
+
+187
+00:08:06,464 --> 00:08:09,466
+Tem certeza que dedos de outras
+pessoas não estiveram aqui?
+
+188
+00:08:09,476 --> 00:08:11,450
+Mandei te darem uma nova.
+
+189
+00:08:11,460 --> 00:08:13,232
+- Não parece nova.
+- É nova.
+
+190
+00:08:13,242 --> 00:08:14,542
+Agora jogue.
+
+191
+00:08:21,457 --> 00:08:23,750
+Ainda estou pensando
+em ciências.
+
+192
+00:08:23,760 --> 00:08:25,060
+Tudo bem.
+
+193
+00:08:25,501 --> 00:08:27,897
+É só apontar
+para o pino da frente.
+
+194
+00:09:12,820 --> 00:09:15,561
+Pareceu que você e a Missy
+se divertiram hoje.
+
+195
+00:09:15,571 --> 00:09:17,230
+Sim, nos divertimos.
+
+196
+00:09:18,135 --> 00:09:19,962
+Um pequeno vínculo pai-filha.
+
+197
+00:09:19,972 --> 00:09:22,028
+Sim. Foi legal.
+
+198
+00:09:23,014 --> 00:09:24,886
+Vocês ficaram fora
+bastante tempo.
+
+199
+00:09:27,507 --> 00:09:28,894
+Sobre o que conversaram?
+
+200
+00:09:28,904 --> 00:09:31,862
+Você sabe, apenas...
+coisas da vida.
+
+201
+00:09:33,577 --> 00:09:34,877
+Certo.
+
+202
+00:09:35,905 --> 00:09:38,845
+- Está tudo bem?
+- Tudo está bem.
+
+203
+00:09:39,217 --> 00:09:41,052
+Nada para se preocupar.
+
+204
+00:09:43,187 --> 00:09:45,061
+Não vai mesmo me contar?
+
+205
+00:09:45,592 --> 00:09:46,892
+Não.
+
+206
+00:09:50,606 --> 00:09:51,906
+DEVOLUÇÃO
+
+207
+00:09:53,114 --> 00:09:55,035
+Olá, Sheldon.
+Como posso te ajudar?
+
+208
+00:09:55,045 --> 00:09:58,377
+Você tem algum livro para parar
+com maus hábitos?
+
+209
+00:09:58,690 --> 00:10:00,883
+Alguns. Que hábito
+está tentando parar?
+
+210
+00:10:00,893 --> 00:10:02,632
+- Ciência.
+- Caramba.
+
+211
+00:10:02,799 --> 00:10:05,522
+Não é permanente.
+Só estou dando um tempo.
+
+212
+00:10:05,532 --> 00:10:07,402
+Já ouvi isso antes.
+
+213
+00:10:07,412 --> 00:10:09,171
+Deu um tempo do quê?
+
+214
+00:10:09,181 --> 00:10:11,396
+- Da felicidade.
+- Certo.
+
+215
+00:10:11,406 --> 00:10:15,214
+Tentei várias coisas,
+mas tudo me leva à ciência.
+
+216
+00:10:15,224 --> 00:10:18,250
+Bom, vamos pensar.
+Qual é o oposto da ciência?
+
+217
+00:10:18,260 --> 00:10:22,104
+Ciência é baseada em fato,
+então o oposto é a ficção.
+
+218
+00:10:22,114 --> 00:10:25,038
+E fantasia?
+Mágica e dragões.
+
+219
+00:10:25,048 --> 00:10:26,526
+Temos uma parte
+cheia disso.
+
+220
+00:10:26,536 --> 00:10:29,053
+Isso parece ser
+uma ruptura intelectual.
+
+221
+00:10:29,063 --> 00:10:30,480
+Vou tentar.
+
+222
+00:10:32,902 --> 00:10:35,937
+Boa notícia. Sei como
+dar um tempo na ciência.
+
+223
+00:10:35,947 --> 00:10:37,777
+Ótimo. O que é?
+
+224
+00:10:37,787 --> 00:10:41,521
+Um livro de fantasia
+chamado "Senhor dos Anéis."
+
+225
+00:10:41,531 --> 00:10:44,052
+Pelo menos
+tem "Senhor" nisso.
+
+226
+00:10:44,062 --> 00:10:46,034
+Interessante.
+
+227
+00:10:50,643 --> 00:10:52,574
+Esse foi muito preciso.
+
+228
+00:10:52,584 --> 00:10:55,272
+- Ser preciso é bom, certo?
+- É sim.
+
+229
+00:10:56,181 --> 00:10:58,044
+Parece que sei
+o que estou fazendo?
+
+230
+00:10:58,054 --> 00:11:00,056
+Como um profissional.
+
+231
+00:11:00,066 --> 00:11:02,088
+Mas uma moça profissional,
+certo?
+
+232
+00:11:02,098 --> 00:11:04,372
+Sim, com certeza.
+
+233
+00:11:05,505 --> 00:11:08,471
+Tem mais algo para eu saber
+sobre os Rangers?
+
+234
+00:11:09,165 --> 00:11:10,622
+Deixe-me ver.
+
+235
+00:11:11,225 --> 00:11:13,528
+Diga a quem se interessar,
+
+236
+00:11:13,538 --> 00:11:16,783
+ninguém vai bater o recorde
+de strikeouts de Nolan Ryan.
+
+237
+00:11:16,793 --> 00:11:18,742
+Por que ele sempre rebatia?
+
+238
+00:11:18,752 --> 00:11:21,843
+Não, porque ele
+arremessava pra strikeouts.
+
+239
+00:11:21,853 --> 00:11:26,328
+- Grande diferença.
+- O jantar está pronto!
+
+240
+00:11:26,338 --> 00:11:28,060
+5 minutos?
+
+241
+00:11:28,070 --> 00:11:31,876
+Ela quer mais 5 minutos
+com o pai dela.
+
+242
+00:11:35,598 --> 00:11:37,109
+O que eles estão fazendo?
+
+243
+00:11:37,119 --> 00:11:39,542
+Se relacionando. É bom.
+Sheldon, e o livro?
+
+244
+00:11:39,552 --> 00:11:41,552
+- Boa saída.
+- Excelente.
+
+245
+00:11:41,562 --> 00:11:45,338
+Tem o Gollum que foi corrompido
+pelo poder do Anel.
+
+246
+00:11:45,356 --> 00:11:48,497
+Hoje ele corre por aí pelado
+e come cabeças de peixes.
+
+247
+00:11:48,507 --> 00:11:49,992
+O nome disso é Sushi.
+
+248
+00:11:50,002 --> 00:11:53,038
+Que, por sinal,
+eu morrerei antes de comer.
+
+249
+00:11:53,048 --> 00:11:54,984
+Falando nisso,
+quando a senhora morrer
+
+250
+00:11:54,994 --> 00:11:56,620
+posso ficar com seu carro?
+
+251
+00:12:00,295 --> 00:12:02,204
+Isso não pode estar certo.
+
+252
+00:12:02,820 --> 00:12:04,239
+O que foi agora?
+
+253
+00:12:04,249 --> 00:12:07,114
+Na carta que Gandalf deixa
+para Frodo no Pônei Saltitante,
+
+254
+00:12:07,124 --> 00:12:10,379
+ele assina como "Condado,
+Dia do Meio do Ano de 1418".
+
+255
+00:12:10,389 --> 00:12:14,813
+Mas no Apêndice B diz que ele
+conhece Radagast em 29 de Junho,
+
+256
+00:12:14,823 --> 00:12:16,671
+o que é impossível porque...
+
+257
+00:12:17,502 --> 00:12:21,254
+A próxima vez é o meu sapato.
+E eu vou fechar o zíper dele.
+
+258
+00:12:24,293 --> 00:12:28,082
+"O homem que viveu na cidade
+era alto."
+
+259
+00:12:28,768 --> 00:12:31,072
+Qual palavra
+é o pronome relativo?
+
+260
+00:12:31,243 --> 00:12:32,689
+Sheldon.
+
+261
+00:12:32,730 --> 00:12:35,199
+A senhora já leu
+O Senhor dos Anéis?
+
+262
+00:12:35,895 --> 00:12:39,125
+Já, mas não é isso o que estamos
+fazendo agora.
+
+263
+00:12:39,135 --> 00:12:40,526
+O pronome relativo é "que".
+
+264
+00:12:40,536 --> 00:12:42,398
+Agora, você percebeu
+que na Sociedade,
+
+265
+00:12:42,408 --> 00:12:44,601
+Elrond diz que as fundações
+da Barad-dûr
+
+266
+00:12:44,611 --> 00:12:46,206
+foram construídas
+com o Um Anel?
+
+267
+00:12:46,506 --> 00:12:47,909
+Vamos dizer que percebi.
+
+268
+00:12:47,919 --> 00:12:50,534
+Mas, no Apêndice B,
+"O Conto dos Anos", fica claro
+
+269
+00:12:50,544 --> 00:12:54,182
+que Sauron começou a construí-lo
+no ano 1.000 da Segunda Era,
+
+270
+00:12:54,192 --> 00:12:57,518
+600 anos antes
+do anel ser forjado.
+
+271
+00:12:58,488 --> 00:13:01,339
+- Georgie.
+- Imagine morar com isso.
+
+272
+00:13:01,349 --> 00:13:03,861
+Uma hora por dia
+já é o bastante.
+
+273
+00:13:04,930 --> 00:13:06,553
+A linha do tempo
+não faz sentido.
+
+274
+00:13:06,563 --> 00:13:11,464
+Fala que Samwise Gamgee nasceu
+tanto em 2963 quanto em 2980.
+
+275
+00:13:11,852 --> 00:13:13,681
+Talvez ele mentiu
+sobre a idade dele.
+
+276
+00:13:13,691 --> 00:13:15,554
+- Por que?
+- Sei lá. Talvez ele ache
+
+277
+00:13:15,564 --> 00:13:18,043
+que o pescoço dele
+o faça parecer mais velho.
+
+278
+00:13:18,346 --> 00:13:21,144
+Mas ele está nos 30.
+Isso ainda é jovem.
+
+279
+00:13:21,518 --> 00:13:23,144
+- Obrigada.
+- Para um hobbit.
+
+280
+00:13:23,154 --> 00:13:25,713
+Para um humano
+é idade de mãe.
+
+281
+00:13:25,723 --> 00:13:27,123
+Obrigada.
+
+282
+00:13:27,927 --> 00:13:30,198
+Quando Frodo e Sam estão andando
+pelo Condado,
+
+283
+00:13:30,208 --> 00:13:31,951
+diz que a Lua
+se pôs no oeste
+
+284
+00:13:31,961 --> 00:13:35,142
+mas, pelo calendário de Tolkien,
+não deveria haver lua visível.
+
+285
+00:13:35,152 --> 00:13:37,393
+Mas no apêndice,
+Tolkien se cobre
+
+286
+00:13:37,403 --> 00:13:40,338
+dizendo que pode haver erros
+de tradução do livro vermelho.
+
+287
+00:13:40,348 --> 00:13:41,901
+Tolkien fictício diz isso,
+
+288
+00:13:41,911 --> 00:13:44,072
+mas me pergunto se ele é real,
+
+289
+00:13:44,082 --> 00:13:45,635
+se quem escreveu o livro, errou
+
+290
+00:13:45,645 --> 00:13:48,019
+ou se foi erro intencional
+do Tolkien fictício,
+
+291
+00:13:48,029 --> 00:13:50,013
+que traduziu esses
+eventos do mundo real
+
+292
+00:13:50,023 --> 00:13:51,436
+de uma fonte original.
+
+293
+00:13:53,259 --> 00:13:54,652
+Ah não.
+
+294
+00:13:54,662 --> 00:13:56,542
+É assim que eu pareço
+para as pessoas?
+
+295
+00:13:56,552 --> 00:13:58,560
+Você quer jogar bola por aí?
+
+296
+00:13:59,988 --> 00:14:01,706
+Não, vá embora.
+
+297
+00:14:03,315 --> 00:14:04,932
+Aconteceu alguma
+coisa na escola?
+
+298
+00:14:04,942 --> 00:14:06,964
+Eu não quero falar sobre isso.
+
+299
+00:14:07,941 --> 00:14:09,972
+Certo. Bem...
+
+300
+00:14:12,390 --> 00:14:15,499
+Se mudar de ideia,
+sabe que estou aqui para você.
+
+301
+00:14:20,030 --> 00:14:21,767
+Ele gosta de outra menina.
+
+302
+00:14:38,846 --> 00:14:40,557
+Sinto muito, querida.
+
+303
+00:14:40,939 --> 00:14:43,955
+Ela nem sabe quem é Nolan Ryan.
+
+304
+00:14:44,683 --> 00:14:46,399
+Esse cara parece um idiota.
+
+305
+00:14:46,409 --> 00:14:48,313
+Ele não é.
+Ele é perfeito.
+
+306
+00:14:48,323 --> 00:14:49,776
+Tudo certo.
+
+307
+00:14:52,855 --> 00:14:54,292
+Quer que chame sua mãe?
+
+308
+00:14:54,332 --> 00:14:55,737
+Não.
+
+309
+00:14:55,747 --> 00:14:57,753
+Você quer que eu bata
+nesse cara?
+
+310
+00:14:57,951 --> 00:14:59,363
+Não.
+
+311
+00:15:01,333 --> 00:15:02,753
+O que eu posso fazer?
+
+312
+00:15:08,448 --> 00:15:09,852
+Bom.
+
+313
+00:15:12,250 --> 00:15:13,772
+Como você faz a curva?
+
+314
+00:15:13,782 --> 00:15:15,960
+Bem, isso é um pouco complicado.
+
+315
+00:15:16,351 --> 00:15:19,086
+Você coloca dois dedos
+na costura.
+
+316
+00:15:19,180 --> 00:15:21,655
+Certo?
+Então você gira seu pulso.
+
+317
+00:15:21,665 --> 00:15:23,336
+- Certo.
+- Sim? Aqui, tente.
+
+318
+00:15:25,280 --> 00:15:26,835
+Dois... Aí está.
+
+319
+00:15:26,845 --> 00:15:28,732
+Lá vai você, bem no ponto.
+
+320
+00:15:28,742 --> 00:15:30,156
+Dois dedos nele.
+
+321
+00:15:30,928 --> 00:15:33,199
+- No final, gira o pulso.
+- Assim?
+
+322
+00:15:33,211 --> 00:15:35,038
+Ai está.
+Tenta assim.
+
+323
+00:15:35,867 --> 00:15:37,851
+Que tal isso?
+
+324
+00:15:38,155 --> 00:15:40,749
+Certo? Como um profissional,
+estou lhe dizendo.
+
+325
+00:15:41,712 --> 00:15:43,384
+Bem, vamos trabalhar nisso,
+vamos?
+
+326
+00:15:43,420 --> 00:15:45,032
+Definitivamente.
+
+327
+00:15:47,754 --> 00:15:49,220
+Bom.
+
+328
+00:15:50,600 --> 00:15:54,466
+<i>Como não encontrei respostas,
+tomei a iniciativa de corrigir</i>
+
+329
+00:15:54,476 --> 00:15:57,616
+<i>a cronologia inconsistente
+de Senhor dos Anéis.</i>
+
+330
+00:15:57,626 --> 00:16:00,291
+<i>J. R. R. Tolkien tinha
+uma mente brilhante,</i>
+
+331
+00:16:00,301 --> 00:16:04,050
+<i>mas vamos ser honestos.
+Ele não era o S. L. Cooper.</i>
+
+332
+00:16:13,450 --> 00:16:17,200
+- Está tudo bem aqui?
+- Estarei quando acabar isso.
+
+333
+00:16:20,150 --> 00:16:23,041
+<i>Por mais que tentasse elaborar
+uma cronologia consistente,</i>
+
+334
+00:16:23,051 --> 00:16:25,500
+<i>eu continuei me deparando
+com obstáculos.</i>
+
+335
+00:16:31,900 --> 00:16:33,800
+O que não estou vendo?
+
+336
+00:16:41,250 --> 00:16:43,900
+Nunca vamos descobrir
+isso.
+
+337
+00:16:45,700 --> 00:16:49,141
+Nós podemos, somos inteligentes.
+Somos muito inteligentes.
+
+338
+00:16:49,151 --> 00:16:51,100
+Nosso cérebro é precioso.
+
+339
+00:16:52,600 --> 00:16:56,341
+Se nosso cérebro é precioso,
+desperdiçamos-o com hobbies.
+
+340
+00:16:56,351 --> 00:16:59,841
+- Gostamos de ciências.
+- Demos uma pausa em ciências.
+
+341
+00:16:59,851 --> 00:17:03,141
+- Estava nos deixando loucos.
+- E olhe para nós agora.
+
+342
+00:17:03,151 --> 00:17:06,950
+Veja o que aqueles hobbies
+nos fizeram.
+
+343
+00:17:08,350 --> 00:17:13,066
+Não, foram os físicos.
+Os físicos fizeram isso conosco.
+
+344
+00:17:13,076 --> 00:17:15,441
+- Hobbies.
+- Físicos.
+
+345
+00:17:15,451 --> 00:17:17,250
+Hobbies.
+
+346
+00:17:20,950 --> 00:17:22,850
+Eu te avisei.
+
+347
+00:17:24,600 --> 00:17:28,416
+- Mãe. Mãe.
+- O que foi?
+
+348
+00:17:28,426 --> 00:17:30,466
+Eu era o Gollum e o Sméagol
+numa caverna
+
+349
+00:17:30,476 --> 00:17:32,941
+lutando comigo mesmo
+por físicos e hobbies.
+
+350
+00:17:32,951 --> 00:17:35,616
+E então percebi que,
+embora a física seja frustrante,
+
+351
+00:17:35,626 --> 00:17:37,616
+não me transformará
+num ser atormentado
+
+352
+00:17:37,626 --> 00:17:39,691
+que morde a cabeça
+dos peixes.
+
+353
+00:17:39,701 --> 00:17:41,500
+Muito bem, boa noite.
+
+354
+00:17:43,900 --> 00:17:47,500
+Tenho ido muito bem com a Missy.
+Este fica por tua conta.
+
+355
+00:18:04,195 --> 00:18:07,195
+Venha legendar conosco!
+TecSubs & Equipe Li4rs
+
+356
+00:18:07,206 --> 00:18:11,206
+tec.subs@gmail.com
+Facebook.com/TecSubs
+
+357
+00:18:11,217 --> 00:18:15,217
+equipeli4rs@live.com
+Facebook.com/Li4rs
+
