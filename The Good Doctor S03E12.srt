@@ -1,0 +1,2468 @@
+1
+00:00:03,262 --> 00:00:04,688
+Isso é seu.
+
+2
+00:00:05,137 --> 00:00:07,594
+Compramos juntos.
+
+3
+00:00:07,595 --> 00:00:10,686
+Porque você achou
+o padrão reconfortante.
+
+4
+00:00:18,712 --> 00:00:20,684
+Sentirei sua falta, Shaun.
+
+5
+00:00:21,340 --> 00:00:23,006
+Eu amo a Carly.
+
+6
+00:00:24,945 --> 00:00:28,490
+E isso é ótimo,
+eu fico muito feliz por você.
+
+7
+00:00:28,491 --> 00:00:32,313
+Agora pode pendurar
+o papel higiênico incorretamente
+
+8
+00:00:32,314 --> 00:00:33,794
+sempre que você quiser.
+
+9
+00:00:33,795 --> 00:00:35,297
+E Carly e eu
+poderemos voltar
+
+10
+00:00:35,298 --> 00:00:37,633
+a como as coisas eram
+antes da nossa briga.
+
+11
+00:00:38,532 --> 00:00:42,176
+Às vezes casais precisam
+de um tempo para se recuperar.
+
+12
+00:00:42,177 --> 00:00:45,898
+Não precisaremos.
+Carly pediu para você se mudar.
+
+13
+00:00:45,899 --> 00:00:47,726
+Você vai se mudar.
+
+14
+00:00:50,855 --> 00:00:53,280
+Preciso de quantos rins
+para a formatura?
+
+15
+00:00:53,281 --> 00:00:54,682
+Ryan...
+
+16
+00:00:54,683 --> 00:00:57,741
+Mesmo que a cirurgia remova
+meu rim, será laparoscópica,
+
+17
+00:00:57,742 --> 00:01:00,744
+então ficarei internado
+por 7 dias, no máximo,
+
+18
+00:01:00,745 --> 00:01:02,910
+e mais 3 dias
+de descanso em casa.
+
+19
+00:01:02,911 --> 00:01:05,246
+Levarei minha namorada
+ao baile, certo?
+
+20
+00:01:05,823 --> 00:01:07,714
+Não é uma decisão
+puramente médica.
+
+21
+00:01:07,715 --> 00:01:09,116
+Preciso tirar seu sangue.
+
+22
+00:01:09,117 --> 00:01:11,502
+Quais as chances
+do Dr. Melendez remover
+
+23
+00:01:11,503 --> 00:01:13,172
+o tumor e salvar
+o rim do Ryan?
+
+24
+00:01:13,173 --> 00:01:16,489
+A RM dirá o quanto
+a quimio encolheu o tumor,
+
+25
+00:01:16,490 --> 00:01:18,546
+mas não deveriam
+contar com isso.
+
+26
+00:01:18,879 --> 00:01:22,234
+Um hambúrguer apimentado,
+mostarda e picles extra.
+
+27
+00:01:22,235 --> 00:01:24,052
+Oi!
+Bom dia, Sr. Cooper.
+
+28
+00:01:24,053 --> 00:01:25,833
+Não comerá
+por causa da cirurgia.
+
+29
+00:01:25,834 --> 00:01:28,165
+Ele pode comer
+até às 18h30 de hoje.
+
+30
+00:01:28,686 --> 00:01:30,087
+Eu te conheço.
+
+31
+00:01:30,088 --> 00:01:32,618
+Angie... Valens.
+
+32
+00:01:32,619 --> 00:01:34,621
+Ajudei no seu tratamento.
+
+33
+00:01:34,622 --> 00:01:36,641
+Te devo um agradecimento.
+
+34
+00:01:36,642 --> 00:01:38,312
+Nos conhecemos na quimio.
+
+35
+00:01:38,313 --> 00:01:40,449
+Deveriam nos colocar
+em uma propaganda.
+
+36
+00:01:40,450 --> 00:01:44,831
+Sim. "Perdi um tumor e ganhei
+um namorado. Valeu, quimio."
+
+37
+00:01:48,379 --> 00:01:51,270
+- James McDougall?
+- Viemos por ele também.
+
+38
+00:01:51,271 --> 00:01:53,440
+Vocês podem ir à baia 4.
+
+39
+00:01:53,441 --> 00:01:56,055
+Ele veio há 6 meses
+por uma fratura de estresse.
+
+40
+00:01:56,056 --> 00:01:58,088
+Ele é
+um maratonista lunático.
+
+41
+00:01:58,089 --> 00:02:01,313
+Espero que não tenha esforçado
+e quebrado de novo.
+
+42
+00:02:07,132 --> 00:02:09,623
+Ele não quebrou de novo.
+
+43
+00:02:13,386 --> 00:02:15,586
+<b>Legenda:
+Frank | Pazolline | LayHolmes</b>
+
+44
+00:02:15,587 --> 00:02:17,787
+<b>Legenda:
+GoDo | Mrs. G | Darwina | GBG</b>
+
+45
+00:02:17,788 --> 00:02:19,788
+<b>Revisão:
+PedroSPJ</b>
+
+46
+00:02:19,789 --> 00:02:21,489
+<b>[S03E12]
+"Mutations"</b>
+
+47
+00:02:24,053 --> 00:02:26,595
+O clínico prescreveu
+cetoprofeno pro inchaço,
+
+48
+00:02:26,596 --> 00:02:28,239
+mas não está funcionando.
+
+49
+00:02:28,240 --> 00:02:29,853
+Por isso
+Dr. Murphy e Reznick
+
+50
+00:02:29,854 --> 00:02:31,951
+bloquearão
+alguns canais linfáticos.
+
+51
+00:02:31,952 --> 00:02:33,921
+Deve reduzir a produção.
+
+52
+00:02:33,922 --> 00:02:36,054
+A preocupação maior
+é o porquê.
+
+53
+00:02:36,055 --> 00:02:38,830
+Já fez cirurgia
+nos gânglios linfáticos?
+
+54
+00:02:39,302 --> 00:02:41,951
+E câncer e tratamento
+com radiação?
+
+55
+00:02:41,952 --> 00:02:44,481
+Não. Fisicamente,
+sempre fui saudável.
+
+56
+00:02:44,482 --> 00:02:46,107
+- Fisicamente?
+- Diagnosticado
+
+57
+00:02:46,108 --> 00:02:48,920
+com transtorno depressivo
+aos 16.
+
+58
+00:02:49,822 --> 00:02:52,535
+Por isso precisa
+me pôr de volta na estrada.
+
+59
+00:02:52,536 --> 00:02:55,038
+Antidepressivos
+não funcionam para você?
+
+60
+00:02:55,039 --> 00:02:59,034
+Eles ajudam,
+mas correr é a chave.
+
+61
+00:02:59,035 --> 00:03:01,813
+Salvou meu casamento
+e a minha vida.
+
+62
+00:03:01,814 --> 00:03:03,984
+Linfedema pode ser causada
+por infecção.
+
+63
+00:03:03,985 --> 00:03:06,371
+Ele não tem febre.
+
+64
+00:03:06,372 --> 00:03:08,386
+Cetoprofeno baixa a febre.
+
+65
+00:03:08,387 --> 00:03:11,504
+Colham amostras e comecem
+com antibióticos gerais.
+
+66
+00:03:15,812 --> 00:03:19,504
+Como solicitado,
+seu reabastecimento em enemas.
+
+67
+00:03:19,505 --> 00:03:20,905
+Muito bem.
+
+68
+00:03:22,002 --> 00:03:23,403
+Como está se sentindo?
+
+69
+00:03:23,404 --> 00:03:25,299
+O metotrexato está
+funcionando bem.
+
+70
+00:03:25,300 --> 00:03:27,694
+Sem dor, sem vermelhidão.
+
+71
+00:03:27,695 --> 00:03:31,204
+- Rigidez, sintomas da gripe?
+- Não, tudo ótimo.
+
+72
+00:03:32,209 --> 00:03:33,770
+Quanto tempo se esconderá
+
+73
+00:03:33,771 --> 00:03:37,304
+fazendo exames e cortando unha
+do pé de diabéticos?
+
+74
+00:03:37,836 --> 00:03:40,582
+Tontura, dores de cabeça,
+náusea?
+
+75
+00:03:40,583 --> 00:03:43,682
+Às vezes fico enjoada
+depois de comer.
+
+76
+00:03:44,017 --> 00:03:46,768
+Você devia amar
+a neurocirurgia.
+
+77
+00:03:47,611 --> 00:03:51,058
+Que tal arrumarmos uma medicação
+que não irrite o seu estômago.
+
+78
+00:03:51,059 --> 00:03:53,616
+Não, minhas mãos estão ótimas,
+é o que importa.
+
+79
+00:03:54,618 --> 00:03:58,337
+Costumava abrir crânios
+e cutucar o cérebro dos outros.
+
+80
+00:03:58,338 --> 00:04:00,881
+Não tem como isso
+te satisfazer.
+
+81
+00:04:00,882 --> 00:04:05,266
+Eu curto.
+Na verdade, costumava curtir.
+
+82
+00:04:06,583 --> 00:04:08,325
+Vou te deixar em paz.
+
+83
+00:04:10,529 --> 00:04:12,752
+Talvez alguém por aí
+precise de um enema.
+
+84
+00:04:17,761 --> 00:04:19,395
+Conseguiu mensurar
+o tumor?
+
+85
+00:04:19,396 --> 00:04:20,800
+Ainda não.
+
+86
+00:04:21,925 --> 00:04:25,876
+Disse que o limite
+de uma laparoscopia é 7cm,
+
+87
+00:04:25,877 --> 00:04:27,937
+e se aumentássemos
+para 7,2cm?
+
+88
+00:04:28,332 --> 00:04:29,955
+Iria acelerar a recuperação.
+
+89
+00:04:30,342 --> 00:04:31,642
+Reduziria alguns dias.
+
+90
+00:04:33,348 --> 00:04:35,069
+Esqueça o que falei.
+
+91
+00:04:35,070 --> 00:04:37,480
+Ryan espera levar
+a namorada para o baile,
+
+92
+00:04:37,481 --> 00:04:40,055
+não deveria ser um fator
+do nosso plano cirúrgico.
+
+93
+00:04:40,918 --> 00:04:45,202
+- Ele está apaixonado?
+- Demais da conta.
+
+94
+00:04:45,203 --> 00:04:47,508
+- Ambos estão.
+- Idiotas.
+
+95
+00:04:49,226 --> 00:04:51,827
+Não me importaria
+ser idiota assim novamente.
+
+96
+00:04:52,963 --> 00:04:56,265
+Embora, não tenho certeza,
+que senti isso algum dia,
+
+97
+00:04:56,266 --> 00:04:57,842
+completamente feliz.
+
+98
+00:04:57,843 --> 00:04:59,257
+A terapia está indo bem?
+
+99
+00:05:00,916 --> 00:05:02,667
+Sem metástase nos pulmões.
+
+100
+00:05:04,308 --> 00:05:05,608
+Olhe isso.
+
+101
+00:05:11,348 --> 00:05:12,791
+Seu tumor desapareceu.
+
+102
+00:05:15,130 --> 00:05:16,430
+Desapareceu?
+
+103
+00:05:17,588 --> 00:05:18,940
+Como isso é possível?
+
+104
+00:05:18,941 --> 00:05:21,890
+A quimioterapia funcionou melhor
+do que esperávamos.
+
+105
+00:05:21,891 --> 00:05:24,694
+Espera, tipo, sem tumor?
+Zero?
+
+106
+00:05:24,695 --> 00:05:27,163
+- Sem necessidade de cirurgia?
+- Está certo.
+
+107
+00:05:27,164 --> 00:05:29,009
+São os formulários de alta.
+
+108
+00:05:32,486 --> 00:05:34,337
+Meus dois rins
+vão te levar ao baile!
+
+109
+00:05:43,180 --> 00:05:44,514
+Angie?
+
+110
+00:05:46,951 --> 00:05:48,695
+- Angie!
+- Ela está convulsionando!
+
+111
+00:05:50,244 --> 00:05:52,622
+2mg de lorazepam
+e o oxigênio portátil, rápido!
+
+112
+00:05:52,623 --> 00:05:53,964
+Coloque embaixo da cabeça.
+
+113
+00:05:57,628 --> 00:05:59,124
+Pulmões cheios de fluidos.
+
+114
+00:06:00,530 --> 00:06:03,389
+Preciso de um raio-x do peito
+e o ultrassom de cabeceira.
+
+115
+00:06:03,390 --> 00:06:05,038
+E avise a Dra. Reznick.
+
+116
+00:06:17,724 --> 00:06:21,123
+A radiografia confirmou
+a volta do seu tumor cerebral.
+
+117
+00:06:22,275 --> 00:06:23,575
+Qual estágio?
+
+118
+00:06:24,633 --> 00:06:25,933
+Três.
+
+119
+00:06:27,187 --> 00:06:30,621
+A melhor opção é cirurgia
+com ampla ressecção do tumor,
+
+120
+00:06:30,622 --> 00:06:33,599
+seguido de radiação e quimio
+para que encolha.
+
+121
+00:06:34,727 --> 00:06:36,332
+Serão meses bem divertidos.
+
+122
+00:06:36,997 --> 00:06:41,056
+Recuperação total
+será algo em torno de 8 meses.
+
+123
+00:06:46,039 --> 00:06:48,094
+Vamos superar isso, amor,
+como antes.
+
+124
+00:06:50,476 --> 00:06:52,505
+Quando será a cirurgia?
+
+125
+00:06:52,879 --> 00:06:55,171
+Precisamos
+de mais algumas radiografias,
+
+126
+00:06:55,172 --> 00:06:57,964
+e consultarei um colega
+sobre qual é a melhor abordagem.
+
+127
+00:06:57,965 --> 00:06:59,265
+Isso vai levar uns dias.
+
+128
+00:07:01,000 --> 00:07:02,300
+O tempo que quiser.
+
+129
+00:07:04,161 --> 00:07:05,461
+Baile?
+
+130
+00:07:07,260 --> 00:07:10,162
+- Já que Ryan pode, preciso ir.
+- Amor.
+
+131
+00:07:10,612 --> 00:07:14,547
+- É sua saúde que está em jogo.
+- Mãe, por favor.
+
+132
+00:07:15,197 --> 00:07:18,024
+Quero fazer isso
+como uma pessoa normal.
+
+133
+00:07:20,579 --> 00:07:22,259
+Poderiam dizer
+que está tudo bem?
+
+134
+00:07:24,306 --> 00:07:26,158
+Não podemos.
+Até removermos seu tumor,
+
+135
+00:07:26,159 --> 00:07:28,651
+corre o risco
+de convulsões fatais.
+
+136
+00:07:30,883 --> 00:07:33,943
+Depois da sua recuperação,
+você e Ryan podem se arrumar
+
+137
+00:07:33,944 --> 00:07:35,844
+e todos vamos jantar
+no Grandview.
+
+138
+00:07:43,062 --> 00:07:44,362
+Porcaria de baile.
+
+139
+00:07:45,064 --> 00:07:46,732
+Meu amigo tinha um RG falso.
+
+140
+00:07:46,733 --> 00:07:50,210
+Fiquei tão bêbado que desmaiei
+e nunca participei da dança.
+
+141
+00:07:51,137 --> 00:07:53,321
+Talvez não tenha sido
+a melhor experiência.
+
+142
+00:07:53,740 --> 00:07:55,834
+Fui o rei do baile.
+E meu par, a rainha.
+
+143
+00:08:00,246 --> 00:08:01,810
+Tive o vestido,
+tive um par,
+
+144
+00:08:01,811 --> 00:08:03,741
+e uma mãe que foi presa.
+
+145
+00:08:03,742 --> 00:08:05,951
+Passei a noite toda
+cuidando da bêbada.
+
+146
+00:08:05,952 --> 00:08:07,252
+Viu o Park lá?
+
+147
+00:08:08,183 --> 00:08:11,089
+Vá ao agendamento e marque
+a cirurgia dela para sexta,
+
+148
+00:08:11,090 --> 00:08:12,934
+com o melhor neuro,
+SO e enfermeiros.
+
+149
+00:08:15,094 --> 00:08:16,394
+Vamos ver o Glassman.
+
+150
+00:08:17,663 --> 00:08:20,613
+Consegui achar
+vasos linfáticos submilimétrico.
+
+151
+00:08:20,614 --> 00:08:24,145
+Preciso da sutura 11
+e da agulha 0,7mm.
+
+152
+00:08:24,898 --> 00:08:27,328
+Em vez de procuramos
+áreas obstruídas,
+
+153
+00:08:27,329 --> 00:08:30,222
+poderíamos redirecionar
+para longe do sistema linfático?
+
+154
+00:08:30,223 --> 00:08:32,390
+Poderíamos.
+Se você identificar,
+
+155
+00:08:32,391 --> 00:08:35,159
+o vaso apropriado,
+pode fazer a conexão.
+
+156
+00:08:35,160 --> 00:08:37,591
+Não estamos lidando
+com uma infecção.
+
+157
+00:08:37,592 --> 00:08:39,958
+Deve haver um bloqueio
+no sistema linfático.
+
+158
+00:08:39,959 --> 00:08:41,874
+Provavelmente é câncer.
+
+159
+00:08:41,875 --> 00:08:45,040
+O hemograma
+não mostrou células anormais.
+
+160
+00:08:45,041 --> 00:08:47,416
+Linfoma nem sempre
+é detectado facilmente.
+
+161
+00:08:47,417 --> 00:08:49,959
+Temos que examinar
+os fluidos linfáticos.
+
+162
+00:08:55,625 --> 00:08:57,916
+Será ruim ou muito ruim,
+
+163
+00:08:57,917 --> 00:09:01,333
+dependendo de como se acoplar
+ao tálamo e ao fórnix.
+
+164
+00:09:01,834 --> 00:09:05,417
+Coisa que nenhum exame
+pode mostrar.
+
+165
+00:09:06,500 --> 00:09:08,082
+Quais são as nossas opções?
+
+166
+00:09:08,083 --> 00:09:11,666
+Uma abordagem endoscópica
+ou cirurgia de "peito aberto".
+
+167
+00:09:11,667 --> 00:09:13,208
+Exatamente.
+
+168
+00:09:15,625 --> 00:09:19,999
+Eu faria uma espectroscopia
+por ressonância magnética
+
+169
+00:09:20,000 --> 00:09:23,000
+para indicar quão perto
+a substância branca está.
+
+170
+00:09:23,959 --> 00:09:25,750
+Deveria participar
+do procedimento.
+
+171
+00:09:26,792 --> 00:09:28,792
+Outro médico pode
+assumir a clínica.
+
+172
+00:09:30,125 --> 00:09:33,040
+Não piso em um SO
+tem mais de 1 ano
+
+173
+00:09:33,041 --> 00:09:35,082
+e, na ocasião, era paciente.
+
+174
+00:09:35,083 --> 00:09:37,082
+Não estou pedindo
+para fazer o corte.
+
+175
+00:09:37,083 --> 00:09:39,500
+Mas seria muito bom
+tê-lo ao meu lado.
+
+176
+00:09:41,625 --> 00:09:43,290
+Agradeço.
+
+177
+00:09:43,291 --> 00:09:44,834
+Pensarei a respeito.
+
+178
+00:09:59,125 --> 00:10:02,207
+Olá, preciso que examine
+esse fluido linfático.
+
+179
+00:10:02,208 --> 00:10:04,166
+Fico feliz em ajudar.
+
+180
+00:10:07,917 --> 00:10:09,959
+A Lea saiu de casa hoje.
+
+181
+00:10:12,708 --> 00:10:14,833
+- Obrigada.
+- De nada.
+
+182
+00:10:14,834 --> 00:10:16,791
+Pode ir lá em casa hoje?
+
+183
+00:10:16,792 --> 00:10:18,541
+Acho que não...
+
+184
+00:10:18,542 --> 00:10:20,375
+Ou podemos ir
+para o seu apartamento?
+
+185
+00:10:21,333 --> 00:10:23,041
+Não posso.
+
+186
+00:10:24,917 --> 00:10:27,374
+A Lea falou
+que poderia levar um tempo
+
+187
+00:10:27,375 --> 00:10:29,374
+para nos acertamos
+depois da briga,
+
+188
+00:10:29,375 --> 00:10:31,165
+mas falei que estávamos bem.
+
+189
+00:10:31,166 --> 00:10:33,249
+E estamos.
+
+190
+00:10:33,250 --> 00:10:35,040
+Já tenho planos para hoje.
+
+191
+00:10:35,041 --> 00:10:38,208
+Vou sair com um amigo
+que acabou de perder o emprego,
+
+192
+00:10:38,583 --> 00:10:40,959
+mas adoraria
+ir pra sua casa amanhã.
+
+193
+00:10:41,542 --> 00:10:43,290
+Está bem.
+
+194
+00:10:43,291 --> 00:10:45,583
+Vou analisar logo
+esse material.
+
+195
+00:10:53,208 --> 00:10:55,916
+Fiquei impressionada...
+
+196
+00:10:55,917 --> 00:10:58,082
+com a sua técnica de cirurgia
+de linfedema.
+
+197
+00:10:58,083 --> 00:11:00,916
+Está meio cedo
+para ser puxa-saco, Reznick.
+
+198
+00:11:00,917 --> 00:11:02,999
+Não para mim.
+Gosto de me adiantar.
+
+199
+00:11:03,000 --> 00:11:05,416
+Encantou-me
+ao usar técnicas da plástica,
+
+200
+00:11:05,417 --> 00:11:08,207
+como microcirurgia,
+em uma cirurgia não plástica.
+
+201
+00:11:08,208 --> 00:11:11,040
+Pode ser uma assunto
+interessante para um artigo.
+
+202
+00:11:11,041 --> 00:11:12,625
+Gostaria de escrever comigo?
+
+203
+00:11:14,125 --> 00:11:16,458
+- Gostaria.
+- Vamos conversar e comer.
+
+204
+00:11:19,333 --> 00:11:21,083
+Isso não é café da manhã.
+
+205
+00:11:22,375 --> 00:11:24,082
+Pode deixar que eu pago.
+
+206
+00:11:24,083 --> 00:11:26,208
+Onde está querendo em publicar?
+
+207
+00:11:28,500 --> 00:11:31,082
+Da outra vez, a Angie vomitou
+no pós-operatório.
+
+208
+00:11:31,083 --> 00:11:32,917
+- Claro. Vou...
+- Com licença.
+
+209
+00:11:34,208 --> 00:11:37,124
+Ela está dormindo,
+precisa descansar.
+
+210
+00:11:37,125 --> 00:11:38,791
+Esperarei aqui
+até ela acordar.
+
+211
+00:11:38,792 --> 00:11:40,749
+Ryan,
+seu sistema imunológico é fraco.
+
+212
+00:11:40,750 --> 00:11:43,791
+Seria muito fácil passar
+algum vírus para a Angie.
+
+213
+00:11:43,792 --> 00:11:45,791
+Juro que só fiquei perto
+do meu pai.
+
+214
+00:11:45,792 --> 00:11:47,667
+Ele pode usar máscara.
+
+215
+00:11:51,750 --> 00:11:54,749
+Depois da cirurgia,
+vamos rever as visitas.
+
+216
+00:11:54,750 --> 00:11:56,667
+Por favor,
+informe-a que o Ryan veio.
+
+217
+00:11:59,667 --> 00:12:01,667
+Desculpa por me intrometer.
+
+218
+00:12:02,291 --> 00:12:05,332
+Gostaria de mudar o status dela
+para "visitas proibidas".
+
+219
+00:12:05,333 --> 00:12:07,125
+Tudo bem.
+
+220
+00:12:13,875 --> 00:12:17,041
+Por favor, leve o Sr. McDougall
+para o quarto. Já vou lá.
+
+221
+00:12:19,083 --> 00:12:20,875
+É o James McDougall?
+
+222
+00:12:21,708 --> 00:12:23,541
+- Quem é a moça?
+- É esposa dele.
+
+223
+00:12:23,542 --> 00:12:25,457
+É câncer?
+
+224
+00:12:25,458 --> 00:12:27,749
+Não, pior.
+
+225
+00:12:27,750 --> 00:12:31,207
+O linfedema dele é causado
+por mutação genética.
+
+226
+00:12:31,208 --> 00:12:33,624
+Se não encontrar um medicamento
+que faça efeito,
+
+227
+00:12:33,625 --> 00:12:36,041
+ele se afogará por dentro.
+
+228
+00:12:38,500 --> 00:12:41,332
+A mutação
+está no gene BRAF dele.
+
+229
+00:12:41,333 --> 00:12:43,207
+Produz a enzima quinase
+
+230
+00:12:43,208 --> 00:12:45,416
+que faz com que as células
+proliferem demais.
+
+231
+00:12:45,417 --> 00:12:47,291
+É uma condição genética?
+
+232
+00:12:48,708 --> 00:12:50,332
+O que causou dessa vez?
+
+233
+00:12:50,333 --> 00:12:53,416
+Talvez a fratura fez
+o imunitário dele sobrecarregar,
+
+234
+00:12:53,417 --> 00:12:55,457
+o que ativou
+o sistema linfático dele.
+
+235
+00:12:55,458 --> 00:12:57,791
+A mutação se encaixa
+em que tipo de tratamento?
+
+236
+00:12:57,792 --> 00:13:01,082
+Inibidor MEK.
+O problema é qual usar?
+
+237
+00:13:01,083 --> 00:13:04,417
+São 41 tipos e cada um
+tem um efeitos colaterais.
+
+238
+00:13:05,041 --> 00:13:06,916
+Boa sorte.
+
+239
+00:13:06,917 --> 00:13:08,917
+Gostaria que você
+pudesse ficar.
+
+240
+00:13:12,625 --> 00:13:14,678
+Certo. Claro.
+
+241
+00:13:17,086 --> 00:13:19,181
+Precisamos que fique
+completamente parada.
+
+242
+00:13:20,258 --> 00:13:21,986
+<i>Sem problema.</i>
+
+243
+00:13:23,576 --> 00:13:24,976
+Você está bem?
+
+244
+00:13:25,858 --> 00:13:27,456
+<i>Ryan sumiu.</i>
+
+245
+00:13:27,457 --> 00:13:29,371
+<i>Ele não voltou
+para me ver.</i>
+
+246
+00:13:32,257 --> 00:13:34,489
+Se disser que a mãe dela
+o proibiu de vir,
+
+247
+00:13:34,490 --> 00:13:37,341
+ela ficará brava com a mãe.
+Como isso vai ajudar?
+
+248
+00:13:39,725 --> 00:13:42,651
+Ele deve estar ocupado
+com a escola.
+
+249
+00:13:45,533 --> 00:13:46,962
+<i>Tínhamos um pacto.</i>
+
+250
+00:13:47,312 --> 00:13:50,354
+<i>Se ficássemos juntos,
+o câncer não nos venceria.</i>
+
+251
+00:13:51,478 --> 00:13:52,878
+<i>Ele quebrou.</i>
+
+252
+00:13:53,355 --> 00:13:54,866
+<i>O câncer vence.</i>
+
+253
+00:13:59,866 --> 00:14:01,287
+Se importa de terminar?
+
+254
+00:14:13,272 --> 00:14:15,711
+- O exame terminou?
+- Não realmente.
+
+255
+00:14:15,712 --> 00:14:17,267
+Sra. Valens,
+
+256
+00:14:17,268 --> 00:14:19,914
+Angie gostaria
+de ver o Ryan.
+
+257
+00:14:19,915 --> 00:14:21,815
+Sei que está preocupada
+com a infecção,
+
+258
+00:14:21,816 --> 00:14:24,462
+mas há risco mínimo.
+Nenhum, na verdade.
+
+259
+00:14:24,463 --> 00:14:26,251
+Se for por vídeo.
+
+260
+00:14:26,863 --> 00:14:28,263
+Ideia interessante.
+
+261
+00:14:28,724 --> 00:14:30,124
+Vou pensar nisso.
+
+262
+00:14:32,554 --> 00:14:34,283
+Angie está depressiva.
+
+263
+00:14:34,284 --> 00:14:36,898
+E estudos mostram
+que pode ter um impacto negativo
+
+264
+00:14:36,899 --> 00:14:38,527
+no resultado da cirurgia.
+
+265
+00:14:41,377 --> 00:14:44,272
+Ryan nem sempre melhora
+o humor da Angie.
+
+266
+00:14:44,919 --> 00:14:47,580
+Semanas atrás,
+eles tiveram uma briga boba,
+
+267
+00:14:47,581 --> 00:14:49,101
+e ela chorou por dias.
+
+268
+00:14:49,841 --> 00:14:51,536
+Obrigado por me avisar.
+
+269
+00:14:51,537 --> 00:14:53,155
+Vou dar meu melhor
+para animá-la.
+
+270
+00:14:53,156 --> 00:14:55,084
+Ela tem 16 anos.
+
+271
+00:14:55,085 --> 00:14:56,734
+Ela quer o namorado.
+
+272
+00:14:57,084 --> 00:15:00,179
+Sim. Você era muito
+esperta com 16 anos?
+
+273
+00:15:07,629 --> 00:15:09,693
+Que tal Selumetinib?
+
+274
+00:15:09,694 --> 00:15:12,429
+Mostra resultados promissores
+nessas condições.
+
+275
+00:15:12,430 --> 00:15:14,915
+E um número grande
+de doença no fígado.
+
+276
+00:15:14,916 --> 00:15:18,935
+Binimetinib é parecido,
+mas há menos complicações.
+
+277
+00:15:19,704 --> 00:15:21,187
+Alguma objeção?
+
+278
+00:15:23,496 --> 00:15:25,237
+Vamos começar a dar
+para James.
+
+279
+00:15:33,285 --> 00:15:36,720
+É excitante
+trabalharmos juntos.
+
+280
+00:15:36,721 --> 00:15:38,347
+É, sim.
+
+281
+00:15:38,348 --> 00:15:40,049
+Mesmo que esteja acostumada
+
+282
+00:15:40,050 --> 00:15:42,949
+com testes e amostras
+em vez de pacientes.
+
+283
+00:15:46,510 --> 00:15:49,241
+Pacientes podem ser difíceis,
+
+284
+00:15:49,242 --> 00:15:51,126
+mas vai ficar bem.
+
+285
+00:16:10,055 --> 00:16:11,659
+Precisa de algo?
+
+286
+00:16:13,476 --> 00:16:16,800
+Queria ver como o James estava
+respondendo à Binimetinib.
+
+287
+00:16:16,801 --> 00:16:18,342
+O teste da urina saiu,
+
+288
+00:16:18,343 --> 00:16:20,859
+e sugere
+que o liquido linfático...
+
+289
+00:16:21,839 --> 00:16:25,065
+e potássio estão baixos.
+Pode dar isso a ele?
+
+290
+00:16:25,066 --> 00:16:26,466
+Eu não...
+
+291
+00:16:42,797 --> 00:16:45,736
+Oi.
+Sou a Dra. Lever.
+
+292
+00:16:45,737 --> 00:16:49,428
+O tumor está infiltrando
+na massa branca do fórnix.
+
+293
+00:16:49,429 --> 00:16:51,260
+Vamos ter que remover
+uma parte.
+
+294
+00:16:51,261 --> 00:16:53,560
+Vai afetar a habilidade
+de formar memórias.
+
+295
+00:16:53,561 --> 00:16:55,151
+Com reabilitação
+neuropsíquica,
+
+296
+00:16:55,152 --> 00:16:57,458
+ela pode compensar
+com outros caminhos.
+
+297
+00:16:57,459 --> 00:16:59,644
+Estudo mostram
+que atitudes positivas
+
+298
+00:16:59,645 --> 00:17:01,200
+levam a resultados positivos.
+
+299
+00:17:01,201 --> 00:17:03,765
+- Preocupada com a atitude?
+- É com o namoradinho.
+
+300
+00:17:03,766 --> 00:17:06,018
+Com o que ela lidará
+após a cirurgia.
+
+301
+00:17:06,019 --> 00:17:08,521
+Fisioterapia,
+terapia cognitiva,
+
+302
+00:17:08,522 --> 00:17:11,702
+um desafio atrás do outro.
+E o que ela quer é bem simples.
+
+303
+00:17:13,908 --> 00:17:15,663
+Quer fazer
+uma criança triste feliz?
+
+304
+00:17:17,284 --> 00:17:19,213
+Acho que sim.
+O que não é meu trabalho,
+
+305
+00:17:19,214 --> 00:17:21,585
+e preciso parar de me meter
+na vida dos outros.
+
+306
+00:17:21,586 --> 00:17:24,220
+Tem algum modo de fazer isso
+sem vilanizar a mãe?
+
+307
+00:17:27,948 --> 00:17:29,348
+Talvez.
+
+308
+00:17:30,226 --> 00:17:31,626
+Então a faça feliz.
+
+309
+00:17:48,751 --> 00:17:50,941
+Nunca fomos
+tão longe assim antes.
+
+310
+00:17:51,428 --> 00:17:53,952
+Não.
+Não fomos.
+
+311
+00:17:53,953 --> 00:17:55,559
+E você está bem?
+
+312
+00:17:56,628 --> 00:17:58,636
+Estou muito bem.
+
+313
+00:18:08,006 --> 00:18:09,450
+Carly.
+
+314
+00:18:24,222 --> 00:18:25,722
+Certo.
+
+315
+00:18:32,567 --> 00:18:36,064
+Eu fiz algo errado?
+
+316
+00:18:36,945 --> 00:18:38,817
+Não, desculpe. Sou eu.
+
+317
+00:18:40,011 --> 00:18:43,475
+Você disse
+que estávamos bem.
+
+318
+00:18:43,476 --> 00:18:46,275
+Achei que estava.
+Quero que a gente fique.
+
+319
+00:18:46,276 --> 00:18:48,420
+Você não tem motivo
+para ainda estar brava.
+
+320
+00:18:48,421 --> 00:18:51,074
+Não estou brava.
+Eu só...
+
+321
+00:18:57,281 --> 00:18:58,582
+É a Morgan.
+
+322
+00:18:58,583 --> 00:19:01,965
+A medicação causou
+uma hemorragia em James.
+
+323
+00:19:08,285 --> 00:19:10,043
+Localizaram
+a fonte do sangramento?
+
+324
+00:19:10,044 --> 00:19:13,578
+Trabalhando nisso.
+Parece vir do antro do estômago.
+
+325
+00:19:13,579 --> 00:19:15,376
+Paramos o Binimetinib.
+
+326
+00:19:15,377 --> 00:19:18,043
+Além de causar isso,
+não conseguiu reduzir o inchaço.
+
+327
+00:19:18,044 --> 00:19:21,371
+- Onde está a Dra. Lever?
+- Aqui está a lesão. Cauterizar.
+
+328
+00:19:24,424 --> 00:19:26,125
+Peixe-zebra.
+
+329
+00:19:26,126 --> 00:19:29,175
+São usados em pesquisas médicas
+devido à rápida maturação,
+
+330
+00:19:29,176 --> 00:19:31,933
+e 84% dos genes associados
+à doença humanas
+
+331
+00:19:31,934 --> 00:19:33,566
+têm um equivalente nele.
+
+332
+00:19:33,567 --> 00:19:37,346
+Você acha que devemos fazer
+uma expressão transgênica
+
+333
+00:19:37,347 --> 00:19:41,216
+da mutação de James
+no genoma do peixe-zebra.
+
+334
+00:19:41,217 --> 00:19:44,327
+Tradução para quem não tem
+um manual de genética à mão?
+
+335
+00:19:44,328 --> 00:19:48,248
+Fazemos mini-James peixe-zebra,
+todos com a mesma doença.
+
+336
+00:19:48,249 --> 00:19:51,157
+Então testamos todos os remédios
+nesses peixes.
+
+337
+00:19:51,158 --> 00:19:53,079
+Quanto tempo
+para começarmos a testar?
+
+338
+00:19:53,080 --> 00:19:54,856
+Se implantarmos
+os embriões agora,
+
+339
+00:19:54,857 --> 00:19:56,764
+provavelmente
+amanhã no fim da tarde.
+
+340
+00:19:56,765 --> 00:19:59,605
+Vá em frente. Shaun, ajude.
+Você tem experiência nisso.
+
+341
+00:20:20,836 --> 00:20:23,400
+Eu entendo que não é não.
+
+342
+00:20:24,015 --> 00:20:27,066
+Se você não quer fazer sexo,
+
+343
+00:20:27,860 --> 00:20:29,654
+eu aceito isso.
+
+344
+00:20:29,655 --> 00:20:32,646
+Mas estou muito confuso.
+
+345
+00:20:32,647 --> 00:20:34,276
+Eu também.
+
+346
+00:20:34,277 --> 00:20:36,849
+Eu pensei que estava bem
+até que eu...
+
+347
+00:20:36,850 --> 00:20:40,830
+Eu disse a Lea para sair,
+como você queria.
+
+348
+00:20:40,831 --> 00:20:43,914
+Você disse
+que estava tudo bem.
+
+349
+00:20:44,322 --> 00:20:47,271
+Não está.
+Como faço para ficar tudo bem?
+
+350
+00:20:47,687 --> 00:20:50,293
+Não posso dizer,
+porque não sei.
+
+351
+00:21:14,457 --> 00:21:16,100
+Quando eu fazia quimioterapia,
+
+352
+00:21:16,101 --> 00:21:18,522
+as enfermeiras costumavam
+me forçar a tomar isso,
+
+353
+00:21:18,523 --> 00:21:21,888
+então sei que não está bebendo
+por causa do gosto.
+
+354
+00:21:22,231 --> 00:21:23,965
+É uma nutrição rápida e fácil.
+
+355
+00:21:23,966 --> 00:21:27,217
+Isso e você não acaba
+vomitando no banheiro.
+
+356
+00:21:28,463 --> 00:21:30,968
+Fui presidente desse hospital
+por mais de 10 anos.
+
+357
+00:21:30,969 --> 00:21:33,957
+Fiz alguns amigos,
+incluindo Jack, o zelador...
+
+358
+00:21:33,958 --> 00:21:36,639
+Fala muito, fã da A,
+fofocas horríveis.
+
+359
+00:21:37,107 --> 00:21:39,277
+Se o metotrexato
+está te deixando enjoada,
+
+360
+00:21:39,278 --> 00:21:41,128
+devemos tentar
+outro medicamento.
+
+361
+00:21:43,585 --> 00:21:46,388
+Como pode garantir
+que não vai vomitar
+
+362
+00:21:46,389 --> 00:21:48,389
+no meio
+da sua próxima cirurgia?
+
+363
+00:21:48,799 --> 00:21:50,432
+Isso não vai acontecer.
+
+364
+00:21:51,494 --> 00:21:54,569
+Porque isso só acontece
+se eu comer alimentos sólidos.
+
+365
+00:21:54,570 --> 00:21:56,106
+E eu parei.
+
+366
+00:21:57,024 --> 00:21:58,650
+Pelo menos no trabalho.
+
+367
+00:22:10,079 --> 00:22:12,791
+Muitos aquários.
+
+368
+00:22:12,792 --> 00:22:17,599
+Quarenta. Para poder testar
+os medicamentos para...
+
+369
+00:22:17,600 --> 00:22:20,972
+- Vai dar uma festa?
+- Espero que sim.
+
+370
+00:22:33,469 --> 00:22:35,140
+Como você está, Shaun?
+
+371
+00:22:35,905 --> 00:22:38,186
+Desde que seu pai faleceu?
+
+372
+00:22:40,109 --> 00:22:44,453
+Eu não penso muito nele.
+
+373
+00:22:48,284 --> 00:22:51,876
+Minha mãe morreu recentemente.
+
+374
+00:22:51,877 --> 00:22:53,828
+Não sei se você sabia disso.
+
+375
+00:22:55,291 --> 00:22:57,986
+Penso nela o tempo todo.
+
+376
+00:22:59,628 --> 00:23:01,855
+Nem sempre
+são pensamentos agradáveis.
+
+377
+00:23:08,270 --> 00:23:12,404
+Não há problema
+em não amá-los.
+
+378
+00:23:13,943 --> 00:23:16,065
+Eles não nos tornaram
+quem somos.
+
+379
+00:23:53,122 --> 00:23:54,884
+Sua mãe foi para casa?
+
+380
+00:23:56,978 --> 00:24:00,899
+Há mais uma coisa com que temos
+que lidar esta noite.
+
+381
+00:24:01,951 --> 00:24:03,253
+Qual é!
+
+382
+00:24:03,254 --> 00:24:05,988
+Quantos outros exames
+é possível fazer?
+
+383
+00:24:07,663 --> 00:24:10,509
+Um deles
+é seu vestido de formatura.
+
+384
+00:24:10,510 --> 00:24:14,709
+Eu gosto do rosa, mas acho
+que você ficaria linda nos dois.
+
+385
+00:24:17,840 --> 00:24:19,688
+Apresse-se e escolha.
+
+386
+00:24:19,689 --> 00:24:21,463
+Seu acompanhante chegará logo.
+
+387
+00:24:34,390 --> 00:24:36,641
+Todos os medicamentos
+foram administrados.
+
+388
+00:24:37,071 --> 00:24:41,161
+O que significa mais espera
+para ver qual deles funciona.
+
+389
+00:24:41,162 --> 00:24:43,060
+É difícil ser paciente.
+
+390
+00:24:48,303 --> 00:24:52,527
+Acha que os peixes controlam
+como eles reagem aos remédios?
+
+391
+00:24:52,528 --> 00:24:54,000
+Não.
+
+392
+00:24:54,877 --> 00:24:57,798
+É só como seus corpos respondem.
+
+393
+00:24:59,895 --> 00:25:02,287
+Foi assim que me senti
+ontem à noite.
+
+394
+00:25:04,486 --> 00:25:07,161
+Eu pensei que estava pronta
+para ficarmos juntos,
+
+395
+00:25:07,162 --> 00:25:11,392
+mas meu corpo teve
+uma resposta diferente.
+
+396
+00:25:13,262 --> 00:25:15,068
+Não posso desativar
+essa resposta
+
+397
+00:25:15,069 --> 00:25:16,944
+mais do que os peixes
+podem controlar
+
+398
+00:25:16,945 --> 00:25:19,896
+como a mutação
+reage ao medicamento.
+
+399
+00:25:25,941 --> 00:25:28,075
+Foi nossa mutação,
+
+400
+00:25:28,076 --> 00:25:31,149
+minha ida ao Wyoming
+com a Lea?
+
+401
+00:25:37,686 --> 00:25:42,160
+Acha que podemos encontrar
+a medicação adequada para nós?
+
+402
+00:26:16,258 --> 00:26:17,949
+Você está incrível.
+
+403
+00:26:22,798 --> 00:26:24,395
+Você também.
+
+404
+00:27:20,389 --> 00:27:24,102
+Parece que você está se sentindo
+um pouco boba alegre agora.
+
+405
+00:27:26,127 --> 00:27:27,939
+Talvez um pouco.
+
+406
+00:27:34,703 --> 00:27:36,386
+Uma dança
+com o rei do baile?
+
+407
+00:27:55,657 --> 00:27:57,179
+Ele está com taquicardia.
+
+408
+00:27:58,627 --> 00:28:00,494
+Estávamos conversando
+e ele parou.
+
+409
+00:28:00,495 --> 00:28:02,172
+Vamos fazer
+uma pericardiocentese.
+
+410
+00:28:02,173 --> 00:28:03,808
+Avise
+o centro de cateterismo.
+
+411
+00:28:03,809 --> 00:28:05,232
+Não dá tempo.
+Faremos aqui.
+
+412
+00:28:05,233 --> 00:28:08,002
+James, a dor no seu peito
+é de fluido no seu coração.
+
+413
+00:28:08,003 --> 00:28:09,904
+Vamos por um tubo
+para drená-lo.
+
+414
+00:28:09,905 --> 00:28:12,060
+Avise o Shaun e a Carly
+que não temos tempo.
+
+415
+00:28:43,639 --> 00:28:45,439
+Eu trouxe o ursinho da Angie.
+
+416
+00:28:45,440 --> 00:28:47,168
+Sempre faz ela se sentir...
+
+417
+00:28:50,912 --> 00:28:53,547
+É um baile.
+
+418
+00:28:53,548 --> 00:28:56,137
+O Ryan usou a máscara
+a noite toda.
+
+419
+00:29:11,300 --> 00:29:13,311
+Não deixe ela ficar
+acordada até tarde.
+
+420
+00:29:28,250 --> 00:29:31,503
+A Morgan ligou.
+O James não está bem.
+
+421
+00:29:37,192 --> 00:29:40,314
+Elimine o SL-327 da lista.
+
+422
+00:29:41,162 --> 00:29:43,397
+Eu vejo um...
+
+423
+00:29:43,398 --> 00:29:46,851
+Não.
+Dois tumores.
+
+424
+00:30:07,271 --> 00:30:08,573
+Certo.
+
+425
+00:30:08,945 --> 00:30:10,681
+Eu fico por aqui.
+
+426
+00:30:10,682 --> 00:30:12,450
+Vejo você depois.
+
+427
+00:30:12,451 --> 00:30:13,952
+Te amo.
+
+428
+00:30:13,953 --> 00:30:15,593
+Também te amo, mãe.
+
+429
+00:30:19,002 --> 00:30:21,237
+Não se preocupe, tá?
+
+430
+00:30:21,238 --> 00:30:22,691
+Eu dou conta disso.
+
+431
+00:30:25,089 --> 00:30:26,689
+Sei que dá.
+
+432
+00:30:34,632 --> 00:30:36,955
+- Tudo bem.
+- Tudo bem.
+
+433
+00:30:42,185 --> 00:30:46,747
+E se eu acordar
+e não me lembrar do Ryan?
+
+434
+00:30:49,980 --> 00:30:51,857
+Então...
+
+435
+00:30:52,516 --> 00:30:55,766
+Você terá a chance
+de se apaixonar por ele de novo.
+
+436
+00:31:00,290 --> 00:31:01,890
+Está bem.
+
+437
+00:31:02,626 --> 00:31:03,970
+Certo.
+
+438
+00:31:14,725 --> 00:31:16,936
+Temos cinco possíveis opções.
+
+439
+00:31:16,937 --> 00:31:19,339
+Não quero cinco opções.
+Preciso de uma certeza.
+
+440
+00:31:19,340 --> 00:31:21,140
+Tem dois
+que melhor encaixam...
+
+441
+00:31:21,141 --> 00:31:22,445
+Escolha um.
+
+442
+00:31:23,243 --> 00:31:27,146
+Devíamos tentar Refametinib.
+
+443
+00:31:27,147 --> 00:31:28,982
+Causou
+crescimento celular anormal.
+
+444
+00:31:28,983 --> 00:31:30,646
+Trametinib é mais seguro.
+
+445
+00:31:31,037 --> 00:31:32,687
+Mas não significa
+que seja seguro.
+
+446
+00:31:32,688 --> 00:31:35,258
+Nada é seguro.
+Qual quer que usemos?
+
+447
+00:31:39,860 --> 00:31:41,212
+Trametinib.
+
+448
+00:31:41,213 --> 00:31:42,705
+Esse é o escolhido.
+
+449
+00:31:48,235 --> 00:31:49,554
+Soro injetado.
+
+450
+00:31:49,555 --> 00:31:52,205
+Avançando o escopo em direção
+ao terceiro ventrículo.
+
+451
+00:31:52,206 --> 00:31:54,260
+Claire, mantenha
+uma leve pressão no tumor
+
+452
+00:31:54,261 --> 00:31:56,167
+enquanto corto
+o suprimento de sangue.
+
+453
+00:32:02,729 --> 00:32:04,525
+Temos um sangramento grande.
+
+454
+00:32:04,526 --> 00:32:06,245
+Ajuste o escopo e a sucção.
+
+455
+00:32:11,040 --> 00:32:12,471
+Olhe mais para cima.
+
+456
+00:32:13,298 --> 00:32:15,181
+Veia septal,
+ai está seu sangramento.
+
+457
+00:32:15,182 --> 00:32:16,482
+Cauterize.
+
+458
+00:33:01,516 --> 00:33:02,880
+Microdissector.
+
+459
+00:33:08,205 --> 00:33:09,760
+O tumor está imóvel.
+
+460
+00:33:09,761 --> 00:33:12,074
+Não consigo ressecá-lo
+sem ferir vias nervosas.
+
+461
+00:33:12,075 --> 00:33:13,676
+Ela ficaria em coma.
+
+462
+00:33:13,677 --> 00:33:15,254
+Tente dissecação aguda.
+
+463
+00:33:16,684 --> 00:33:18,451
+- Não consigo.
+- Quão ruim?
+
+464
+00:33:18,452 --> 00:33:20,329
+Invadiu o tálamo
+por completo.
+
+465
+00:33:20,330 --> 00:33:24,020
+Dilua com
+um aspirador de sucção.
+
+466
+00:33:29,931 --> 00:33:31,442
+É muito aderente.
+
+467
+00:33:31,443 --> 00:33:33,323
+Se eu continuar, eu vou matá-la.
+
+468
+00:33:35,323 --> 00:33:36,623
+Alguma ideia?
+
+469
+00:33:58,579 --> 00:34:02,380
+Diga à UTI que Angie chegará
+mais cedo do que planejamos.
+
+470
+00:34:03,850 --> 00:34:05,217
+Vamos fechá-la.
+
+471
+00:34:22,775 --> 00:34:24,352
+O que vem agora?
+
+472
+00:34:24,353 --> 00:34:26,765
+Outra rodada de radiação,
+quimioterapia?
+
+473
+00:34:29,499 --> 00:34:32,188
+O carcinoma dela
+provavelmente
+
+474
+00:34:32,189 --> 00:34:35,038
+não responderá
+a esses tratamentos.
+
+475
+00:34:38,791 --> 00:34:41,145
+Não. Temos que tentar.
+
+476
+00:34:41,980 --> 00:34:43,324
+Angie vai querer lutar.
+
+477
+00:34:43,325 --> 00:34:44,634
+Ela está convulsionando.
+
+478
+00:34:44,635 --> 00:34:45,935
+Lorazepam e Dilantina.
+
+479
+00:34:45,936 --> 00:34:47,246
+Fenobarbital e propofol.
+
+480
+00:35:10,179 --> 00:35:11,479
+Você está chorando.
+
+481
+00:35:14,983 --> 00:35:16,283
+Sim.
+
+482
+00:35:19,708 --> 00:35:21,008
+Por quê?
+
+483
+00:35:23,413 --> 00:35:25,617
+Encontrei James no Facebook.
+
+484
+00:35:27,605 --> 00:35:30,297
+Ele e Marjorie
+querem ir para a Costa Rica.
+
+485
+00:35:32,055 --> 00:35:35,578
+O cachorro deles é um adotado
+de três patas chamado Tripé.
+
+486
+00:35:40,217 --> 00:35:42,602
+Ele não é uma lâmina.
+Ele é uma pessoa.
+
+487
+00:35:43,729 --> 00:35:45,353
+Ele é uma boa pessoa.
+
+488
+00:35:45,354 --> 00:35:46,891
+E ele pode morrer.
+
+489
+00:35:48,636 --> 00:35:51,133
+É por isso que gosto
+de ficar no laboratório.
+
+490
+00:35:56,394 --> 00:35:57,694
+Isso...
+
+491
+00:35:58,614 --> 00:36:01,267
+É uma coisa muito besta
+de se dizer.
+
+492
+00:36:03,889 --> 00:36:06,086
+Se você tivesse
+ficado no laboratório,
+
+493
+00:36:06,532 --> 00:36:09,992
+James provavelmente
+já estaria morto.
+
+494
+00:36:12,446 --> 00:36:15,369
+Seu plano com o peixe-zebra
+
+495
+00:36:15,370 --> 00:36:17,540
+deu uma chance para ele.
+
+496
+00:36:18,032 --> 00:36:22,688
+Foi uma ideia linda
+e perfeita,
+
+497
+00:36:23,670 --> 00:36:26,782
+de uma pessoa linda
+e quase perfeita.
+
+498
+00:36:32,478 --> 00:36:35,116
+Seus lóbulos
+são desequilibrados.
+
+499
+00:37:08,578 --> 00:37:10,193
+Eu sinto muitíssimo.
+
+500
+00:37:10,980 --> 00:37:12,701
+Não conseguimos salvá-la.
+
+501
+00:37:33,321 --> 00:37:34,621
+Sra. Valens?
+
+502
+00:38:07,460 --> 00:38:09,481
+Boa sacada
+com o peixe-zebra.
+
+503
+00:38:28,744 --> 00:38:31,153
+Sobre o nosso artigo,
+vamos nos ver toda semana.
+
+504
+00:38:31,154 --> 00:38:33,994
+Estou pensando em almoçar
+toda terça-feira na cafeteria.
+
+505
+00:38:33,995 --> 00:38:35,295
+Perfeito.
+
+506
+00:38:45,166 --> 00:38:48,289
+Eu ouvi sobre o paciente
+de Melendez.
+
+507
+00:38:51,194 --> 00:38:52,494
+Sim.
+
+508
+00:39:02,357 --> 00:39:03,993
+Você estava certo.
+
+509
+00:39:03,994 --> 00:39:08,469
+Eu provavelmente deveria tentar
+outro medicamento para o meu AR.
+
+510
+00:39:09,941 --> 00:39:11,743
+Eu preciso de comida sólida.
+
+511
+00:39:23,361 --> 00:39:25,265
+<i>Claire? Espere.</i>
+
+512
+00:39:26,514 --> 00:39:27,905
+Você está bem?
+
+513
+00:39:27,906 --> 00:39:30,038
+Bem.
+Estou apenas cansada.
+
+514
+00:39:31,882 --> 00:39:34,264
+Você fez uma coisa incrível
+para Angie.
+
+515
+00:39:34,265 --> 00:39:36,795
+Deu à mãe dela uma lembrança
+que terá para sempre.
+
+516
+00:39:37,224 --> 00:39:39,646
+Bem, não compensará
+a filha que perdeu.
+
+517
+00:39:40,098 --> 00:39:42,022
+- Você está com raiva.
+- Eu estou.
+
+518
+00:39:42,023 --> 00:39:43,491
+Estou triste.
+
+519
+00:39:43,492 --> 00:39:45,673
+- Com quem você está com raiva?
+- Não estou.
+
+520
+00:39:45,674 --> 00:39:47,952
+De mim e Glassman
+por não conseguir salvá-la?
+
+521
+00:39:47,953 --> 00:39:49,627
+- Não!
+- Da Angie?
+
+522
+00:39:49,628 --> 00:39:52,331
+Não, você não pode ficar
+bravo com alguém por morrer!
+
+523
+00:39:53,073 --> 00:39:55,189
+Isso não é verdade.
+Você sabe disso.
+
+524
+00:39:57,522 --> 00:39:59,200
+Ela estava doente.
+
+525
+00:39:59,201 --> 00:40:01,446
+E ela estava
+tentando melhorar.
+
+526
+00:40:01,447 --> 00:40:03,946
+Ela falhou
+e te deixou sozinha.
+
+527
+00:40:03,947 --> 00:40:06,573
+Depois de passar a vida inteira
+tentando cuidar dela.
+
+528
+00:40:07,350 --> 00:40:09,873
+Tem todos os motivos
+para ficar brava com sua mãe.
+
+529
+00:40:10,978 --> 00:40:12,878
+Eu odeio me sentir assim.
+
+530
+00:40:12,879 --> 00:40:14,888
+Minha vida inteira,
+tive raiva dela
+
+531
+00:40:14,889 --> 00:40:16,899
+e agora isso nunca vai mudar.
+
+532
+00:40:17,766 --> 00:40:19,579
+Eu não sei como parar.
+
+533
+00:40:23,409 --> 00:40:25,212
+A terapia vai ajudar.
+
+534
+00:40:25,773 --> 00:40:27,160
+O tempo vai ajudar.
+
+535
+00:40:29,417 --> 00:40:31,915
+Tem outra coisa
+que tem funcionado para mim.
+
+536
+00:40:44,172 --> 00:40:46,711
+Corrigimos nossa mutação?
+
+537
+00:40:59,921 --> 00:41:01,628
+É o melhor que consegue?
+
+538
+00:41:02,628 --> 00:41:05,628
+<b>Venha legendar conosco!
+contatoenjoyteam@gmail.com</b>
