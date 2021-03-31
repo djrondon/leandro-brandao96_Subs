@@ -1,0 +1,4021 @@
+﻿1
+00:00:01,265 --> 00:00:03,294
+<font color="#ffff00">Olá.
+Sou Freddie Highmore.</font>
+
+2
+00:00:03,726 --> 00:00:06,663
+<font color="#ffff00">O seguinte episódio retrata
+nossa esperança para o futuro.</font>
+
+3
+00:00:06,944 --> 00:00:08,770
+<font color="#ffff00">Um futuro onde ninguém
+terá que usar máscaras</font>
+
+4
+00:00:08,795 --> 00:00:11,625
+<font color="#ffff00">ou tomar outras medidas para
+se proteger do COVID.</font>
+
+5
+00:00:11,985 --> 00:00:13,087
+<font color="#ffff00">Até lá,</font>
+
+6
+00:00:13,112 --> 00:00:15,227
+<font color="#ffff00">por favor, se protejam.</font>
+
+7
+00:00:18,362 --> 00:00:19,525
+<font color="#ffff00">Sou Jordan Allen.</font>
+
+8
+00:00:19,550 --> 00:00:21,954
+<font color="#ffff00">No primeiro ano na faculdade
+desenhei uma tornozeleira</font>
+
+9
+00:00:21,979 --> 00:00:25,140
+<font color="#ffff00">que monitora a extensão de
+imobilização via aplicativo.</font>
+
+10
+00:00:25,165 --> 00:00:26,531
+<font color="#ffff00">Quando vendi a licença</font>
+
+11
+00:00:26,556 --> 00:00:29,978
+<font color="#ffff00">consegui pagar mais da metade
+dos meus empréstimos estudantis.</font>
+
+12
+00:00:30,670 --> 00:00:31,853
+<font color="#ffff00">John Lundberg.</font>
+
+13
+00:00:31,878 --> 00:00:33,424
+<font color="#ffff00">Trabalhei todo o verão
+desde os 16 anos</font>
+
+14
+00:00:33,449 --> 00:00:34,993
+<font color="#ffff00">no Acampamento Hope Heartland,</font>
+
+15
+00:00:35,018 --> 00:00:37,747
+<font color="#ffff00">programa para crianças
+com câncer em Des Moines,</font>
+
+16
+00:00:37,772 --> 00:00:38,901
+<font color="#ffff00">onde cresci.</font>
+
+17
+00:00:38,926 --> 00:00:40,566
+<font color="#ffff00">Asher Wolke.</font>
+
+18
+00:00:40,591 --> 00:00:42,039
+<font color="#ffff00">Quando eu tinha 18 anos,</font>
+
+19
+00:00:42,064 --> 00:00:45,504
+<font color="#ffff00">saí da comunidade hassídica
+em que fui criado.</font>
+
+20
+00:00:45,529 --> 00:00:47,460
+<font color="#ffff00">Eu percebi que, se havia
+realmente um Deus,</font>
+
+21
+00:00:47,485 --> 00:00:49,401
+<font color="#ffff00">só poderia ser algo cruel</font>
+
+22
+00:00:49,426 --> 00:00:52,376
+<font color="#ffff00">por quem não sentia
+nada além de desprezo.</font>
+
+23
+00:00:52,888 --> 00:00:54,955
+<font color="#ffff00">Foi também quando decidi
+cursar medicina,</font>
+
+24
+00:00:54,980 --> 00:00:57,119
+<font color="#ffff00">e comecei a namorar homens.</font>
+
+25
+00:01:00,302 --> 00:01:01,854
+<font color="#ffff00">Sou Olivia Jackson.</font>
+
+26
+00:01:01,879 --> 00:01:04,734
+<font color="#ffff00">Tenho 25 anos. Sou de Chicago.</font>
+
+27
+00:01:06,834 --> 00:01:10,333
+<font color="#ffff00">Eu toco piano ragtime
+sozinha no meu apartamento.</font>
+
+28
+00:01:12,215 --> 00:01:13,598
+<font color="#ffff00">Isso é interessante?</font>
+
+29
+00:01:13,623 --> 00:01:15,036
+<font color="#ffff00">Will Hooper.</font>
+
+30
+00:01:15,165 --> 00:01:17,610
+<font color="#ffff00">Tecnicamente sou
+um atleta profissional.</font>
+
+31
+00:01:17,694 --> 00:01:20,173
+<font color="#ffff00">Embora seja um esporte
+que ninguém presta atenção,</font>
+
+32
+00:01:20,312 --> 00:01:23,516
+<font color="#ffff00">e que o salário mal cubra as
+despesas de treinamento, mas,</font>
+
+33
+00:01:23,593 --> 00:01:25,899
+<font color="#ffff00">estou na Seleção Nacional de Remo
+dos Estados Unidos</font>
+
+34
+00:01:25,977 --> 00:01:27,379
+<font color="#ffff00">Oito remadores.</font>
+
+35
+00:01:28,472 --> 00:01:31,075
+<font color="#ffff00">Oi, eu sou Enrique.</font>
+
+36
+00:01:31,253 --> 00:01:33,267
+<font color="#ffff00">Passei o verão passado
+na Costa Rica,</font>
+
+37
+00:01:33,292 --> 00:01:37,039
+<font color="#ffff00">onde aprendi a surfar,
+e agora estou obcecado por isso.</font>
+
+38
+00:01:37,931 --> 00:01:42,539
+<font color="#ffff00">Tive um encontro interessante
+com um crocodilo de água salgada.</font>
+
+39
+00:01:42,618 --> 00:01:43,910
+<font color="#ffff00">Eu só pensei...</font>
+
+40
+00:01:43,935 --> 00:01:46,910
+<font color="#ffff00">Por que você está
+vestindo roupas de banho?</font>
+
+41
+00:01:48,792 --> 00:01:51,629
+<font color="#ffff00">Eles são na verdade
+calções de banho híbridos.</font>
+
+42
+00:01:51,792 --> 00:01:53,611
+<font color="#ffff00">Eu gosto de trabalhar duro,</font>
+
+43
+00:01:53,636 --> 00:01:55,768
+<font color="#ffff00">e é mais fácil quando
+você está confortável.</font>
+
+44
+00:01:56,338 --> 00:01:58,057
+<font color="#ffff00">Além disso,</font>
+
+45
+00:01:58,143 --> 00:02:01,072
+<font color="#ffff00">acho que uma roupa mais casual
+deixa os pacientes à vontade.</font>
+
+46
+00:02:06,310 --> 00:02:08,232
+<font color="#ffff00">E o Dra. Lim disse que...</font>
+
+47
+00:02:08,409 --> 00:02:09,943
+<font color="#ffff00">estava tudo bem.</font>
+
+48
+00:02:10,671 --> 00:02:13,646
+<font color="#ffff00">A política do hospital
+exige que todos os residentes...</font>
+
+49
+00:02:13,671 --> 00:02:16,163
+<font color="#ffff00">Ele não é um residente.
+É um candidato.</font>
+
+50
+00:02:16,188 --> 00:02:18,561
+<font color="#ffff00">Um dos seis finalistas
+para as quatro vagas.</font>
+
+51
+00:02:18,586 --> 00:02:20,484
+<font color="#ffff00">Agora eles serão
+observados por dois dias.</font>
+
+52
+00:02:20,509 --> 00:02:22,156
+<font color="#ffff00">Façam um tour com eles,
+mostrem-lhes tudo,</font>
+
+53
+00:02:22,181 --> 00:02:24,889
+<font color="#ffff00">podem pressioná-los um pouco,
+vejam como reagem.</font>
+
+54
+00:02:24,914 --> 00:02:27,227
+<font color="#ffff00">Vocês serão responsáveis
+por supervisioná-los,</font>
+
+55
+00:02:27,252 --> 00:02:29,179
+<font color="#ffff00">então, quero que sejam
+totalmente honestos</font>
+
+56
+00:02:29,204 --> 00:02:30,572
+<font color="#ffff00">antes que eu
+tome a decisão final.</font>
+
+57
+00:02:30,597 --> 00:02:31,737
+<font color="#ffff00">Aqueles calções...</font>
+
+58
+00:02:31,762 --> 00:02:33,748
+<font color="#ffff00">Vamos chamá-los de
+"Primeiro Strike".</font>
+
+59
+00:02:34,040 --> 00:02:36,507
+<font color="#ffff00">E, além de ser
+um atleta olímpico,</font>
+
+60
+00:02:36,532 --> 00:02:37,925
+<font color="#ffff00">Will Hooper é um Rodes.</font>
+
+61
+00:02:37,950 --> 00:02:40,473
+<font color="#ffff00">Se formou como 1º
+da turma em Stanford.</font>
+
+62
+00:02:40,498 --> 00:02:42,183
+<font color="#ffff00">Ele é muito bonito.</font>
+
+63
+00:02:42,208 --> 00:02:43,472
+<font color="#ffff00">E bem cheio de si.</font>
+
+64
+00:02:43,497 --> 00:02:45,399
+<font color="#ffff00">É classificado em 1º
+por todo programa</font>
+
+65
+00:02:45,424 --> 00:02:47,754
+<font color="#ffff00">então, o que puderem fazer
+para tê-lo conosco, façam.</font>
+
+66
+00:02:47,779 --> 00:02:49,690
+<font color="#ffff00">Eu já posso te dar
+minha impressão...</font>
+
+67
+00:02:49,715 --> 00:02:52,771
+<font color="#ffff00">Não julgue um livro
+pelos seus calções de banho.</font>
+
+68
+00:03:02,913 --> 00:03:04,412
+<font color="#ffff00">Você queria me ver?</font>
+
+69
+00:03:04,437 --> 00:03:05,826
+<font color="#ffff00">Bom Dia.</font>
+
+70
+00:03:05,851 --> 00:03:06,906
+<font color="#ffff00">Desculpe.</font>
+
+71
+00:03:07,085 --> 00:03:08,115
+<font color="#ffff00">Bom dia.</font>
+
+72
+00:03:08,140 --> 00:03:09,507
+<font color="#ffff00">O que eu fiz de errado?</font>
+
+73
+00:03:09,532 --> 00:03:12,766
+<font color="#ffff00">Só queria verificar como
+a nova posição está indo.</font>
+
+74
+00:03:12,791 --> 00:03:14,196
+<font color="#ffff00">Honestamente?</font>
+
+75
+00:03:15,962 --> 00:03:19,626
+<font color="#ffff00">Poderia começar um novo
+relacionamento com uma mentira.</font>
+
+76
+00:03:19,651 --> 00:03:21,347
+<font color="#ffff00">Isso é sempre divertido.</font>
+
+77
+00:03:22,556 --> 00:03:24,980
+<font color="#ffff00">Medicina interna é...</font>
+
+78
+00:03:25,661 --> 00:03:26,735
+<font color="#ffff00">chato.</font>
+
+79
+00:03:27,211 --> 00:03:29,603
+<font color="#ffff00">Entre fumantes
+e diabéticos obesos,</font>
+
+80
+00:03:29,628 --> 00:03:32,632
+<font color="#ffff00">parece que só estou protegendo
+as pessoas delas mesmas.</font>
+
+81
+00:03:35,119 --> 00:03:36,683
+<font color="#ffff00">Como residente cirúrgico,</font>
+
+82
+00:03:36,708 --> 00:03:38,468
+<font color="#ffff00">você nunca trataria
+motoristas bêbados, ou</font>
+
+83
+00:03:38,493 --> 00:03:40,507
+<font color="#ffff00">extrairia objetos
+aleatórios de rapazes...</font>
+
+84
+00:03:40,532 --> 00:03:42,085
+<font color="#ffff00">Entendi.
+As pessoas são estúpidas.</font>
+
+85
+00:03:42,110 --> 00:03:44,214
+<font color="#ffff00">Não é o meu ponto, mas é verdade.</font>
+
+86
+00:03:46,430 --> 00:03:48,121
+<font color="#ffff00">Não é a mesma adrenalina, mas,</font>
+
+87
+00:03:48,146 --> 00:03:50,910
+<font color="#ffff00">medicina interna
+pode ser gratificante.</font>
+
+88
+00:03:51,300 --> 00:03:54,385
+<font color="#ffff00">Com o tempo,
+se você for paciente.</font>
+
+89
+00:03:55,447 --> 00:03:56,678
+<font color="#ffff00">Obrigada.</font>
+
+90
+00:03:58,850 --> 00:04:01,630
+<font color="#ffff00">Não foi assim que
+imaginei essa reunião.</font>
+
+91
+00:04:02,221 --> 00:04:04,507
+<font color="#ffff00">Imaginei que uma das enfermeiras
+haviam reclamado de mim.</font>
+
+92
+00:04:04,532 --> 00:04:06,154
+<font color="#ffff00">Não foi apenas uma.</font>
+
+93
+00:04:06,924 --> 00:04:11,126
+<font color="#ffff00">Se acontecer de novo, será
+exatamente como você imaginou.</font>
+
+94
+00:04:23,753 --> 00:04:24,936
+<font color="#ffff00">Desculpa.</font>
+
+95
+00:04:24,961 --> 00:04:27,074
+<font color="#ffff00">Eu deveria ter apenas
+cancelado o consulta.</font>
+
+96
+00:04:27,166 --> 00:04:28,245
+<font color="#ffff00">Você estava certa.</font>
+
+97
+00:04:28,270 --> 00:04:31,473
+<font color="#ffff00">A tontura passou assim que parei
+de beber café e Red Bull.</font>
+
+98
+00:04:31,498 --> 00:04:32,895
+<font color="#ffff00">Não se preocupe.</font>
+
+99
+00:04:33,396 --> 00:04:34,762
+<font color="#ffff00">Pode deitar de costas,
+por favor?</font>
+
+100
+00:04:34,787 --> 00:04:35,817
+<font color="#ffff00">Sim.</font>
+
+101
+00:04:37,072 --> 00:04:38,665
+<font color="#ffff00">Conseguiu essa
+cicatriz em um incêndio?</font>
+
+102
+00:04:38,690 --> 00:04:39,764
+<font color="#ffff00">Meio que sim.</font>
+
+103
+00:04:39,789 --> 00:04:42,212
+<font color="#ffff00">Um acidente doméstico com uma
+vela quando tinha 12 anos.</font>
+
+104
+00:04:42,900 --> 00:04:44,282
+<font color="#ffff00">Ficaria surpresa
+com quantos de nós</font>
+
+105
+00:04:44,307 --> 00:04:46,179
+<font color="#ffff00">brincava com fogo
+quando criança.</font>
+
+106
+00:04:46,502 --> 00:04:49,229
+<font color="#ffff00">Fiz uma arma de batata para a
+feira de ciências do 6º ano.</font>
+
+107
+00:04:49,254 --> 00:04:51,038
+<font color="#ffff00">Quase me expulsaram da escola.</font>
+
+108
+00:04:51,063 --> 00:04:52,972
+<font color="#ffff00">Tem que nos visitar algum dia.</font>
+
+109
+00:04:53,067 --> 00:04:55,066
+<font color="#ffff00">Você se encaixaria perfeitamente.</font>
+
+110
+00:04:56,619 --> 00:04:57,658
+<font color="#ffff00">Você vê algo?</font>
+
+111
+00:04:57,683 --> 00:05:00,571
+<font color="#ffff00">Não fale.
+Só respire normalmente.</font>
+
+112
+00:05:07,620 --> 00:05:10,228
+<font color="#ffff00">Você tem um grande tumor
+na parede do seu coração.</font>
+
+113
+00:05:11,222 --> 00:05:12,361
+<font color="#ffff00">Câncer?</font>
+
+114
+00:05:12,386 --> 00:05:13,487
+<font color="#ffff00">Eu não sei.</font>
+
+115
+00:05:13,512 --> 00:05:15,661
+<font color="#ffff00">Mas definitivamente
+vai precisar de uma cirurgia.</font>
+
+116
+00:05:15,686 --> 00:05:17,489
+<font color="#ffff00">O mais breve possível.</font>
+
+117
+00:05:18,397 --> 00:05:20,327
+<font color="#00ff00">SeuSeriadoSubs
+Apresenta...</font>
+
+118
+00:05:20,351 --> 00:05:21,998
+<font color="#00ff00">The Good Doctor 4x3
+"Newbies"</font>
+
+119
+00:05:22,022 --> 00:05:24,535
+<font color="#00ff00">Tradução: Mikaela | LuizH
+mari.vrgs | LetCosta | Maiara Leticia</font>
+
+120
+00:05:24,560 --> 00:05:26,482
+<font color="#00ff00">Revisão: Julia | Kelly
+Bruna | WF7</font>
+
+121
+00:05:29,785 --> 00:05:32,439
+<font color="#ffff00">Agradeço por me deixar
+compartilhar seu caso.</font>
+
+122
+00:05:32,464 --> 00:05:35,996
+<font color="#ffff00">Sem problemas. Parei de ter
+vergonha depois da 100ª vez.</font>
+
+123
+00:05:36,021 --> 00:05:38,896
+<font color="#ffff00">Estarei usando uma versão da
+técnica de Lejour que eu adaptei.</font>
+
+124
+00:05:38,921 --> 00:05:41,304
+<font color="#ffff00">Vamos dividir o peito
+em três pedículos,</font>
+
+125
+00:05:41,329 --> 00:05:43,914
+<font color="#ffff00">e então redistribuir o tecido
+e inserir implantes salinos</font>
+
+126
+00:05:43,939 --> 00:05:46,034
+<font color="#ffff00">para corrigir a
+deformidade da mama.</font>
+
+127
+00:05:46,044 --> 00:05:48,470
+<font color="#ffff00">Por que você
+quer implantes mamários?</font>
+
+128
+00:05:48,546 --> 00:05:51,673
+<font color="#ffff00">Você é linda. E seus seios
+parecem estar bem.</font>
+
+129
+00:05:51,698 --> 00:05:53,994
+<font color="#ffff00">Não, eles não são.</font>
+
+130
+00:05:54,150 --> 00:05:55,399
+<font color="#ffff00">A base é restrita,</font>
+
+131
+00:05:55,424 --> 00:05:57,697
+<font color="#ffff00">o desenvolvimento
+horizontal é deficiente,</font>
+
+132
+00:05:57,722 --> 00:05:59,234
+<font color="#ffff00">e o complexo aréola-mamilo...</font>
+
+133
+00:05:59,259 --> 00:06:01,476
+<font color="#ffff00">-Murphy.
+-Tudo bem. Ele tem razão.</font>
+
+134
+00:06:01,501 --> 00:06:03,203
+<font color="#ffff00">É por isso que estou aqui.</font>
+
+135
+00:06:03,994 --> 00:06:05,322
+<font color="#ffff00">Obrigada.</font>
+
+136
+00:06:05,822 --> 00:06:07,597
+<font color="#ffff00">Eu sei que você esta
+tentando ser legal.</font>
+
+137
+00:06:07,622 --> 00:06:10,379
+<font color="#ffff00">Meus amigos e familiares
+vem dizendo há anos,</font>
+
+138
+00:06:10,404 --> 00:06:12,301
+<font color="#ffff00">"Você é linda do
+jeito que você é."</font>
+
+139
+00:06:12,326 --> 00:06:14,605
+<font color="#ffff00">Mas, não me sinto bonita.</font>
+
+140
+00:06:14,630 --> 00:06:16,657
+<font color="#ffff00">Você tem 17 anos.</font>
+
+141
+00:06:16,682 --> 00:06:18,887
+<font color="#ffff00">Toda garota da sua
+a idade se sente assim.</font>
+
+142
+00:06:18,920 --> 00:06:20,646
+<font color="#ffff00">Isso não pode ser verdade.</font>
+
+143
+00:06:20,671 --> 00:06:23,151
+<font color="#ffff00">A deformidade de mama tuberosa
+é uma condição rara.</font>
+
+144
+00:06:23,176 --> 00:06:24,881
+<font color="#ffff00">Não vamos debater</font>
+
+145
+00:06:24,906 --> 00:06:27,662
+<font color="#ffff00">uma decisão pessoal
+que o paciente já tomou.</font>
+
+146
+00:06:28,068 --> 00:06:30,966
+<font color="#ffff00">Penso nisso desde
+os meus 13 anos.</font>
+
+147
+00:06:31,175 --> 00:06:33,077
+<font color="#ffff00">Cada vez que me olho no espelho.</font>
+
+148
+00:06:33,102 --> 00:06:34,833
+<font color="#ffff00">Estou prestes a
+começar a faculdade,</font>
+
+149
+00:06:34,858 --> 00:06:37,905
+<font color="#ffff00">e não há como começar
+este novo capítulo</font>
+
+150
+00:06:37,930 --> 00:06:39,634
+<font color="#ffff00">até que eu seja consertada.</font>
+
+151
+00:06:40,716 --> 00:06:42,032
+<font color="#ffff00">Ótimo.</font>
+
+152
+00:06:44,931 --> 00:06:47,601
+<font color="#ffff00">Está pensando em esternotomia
+mediana ou toracotomia direita?</font>
+
+153
+00:06:47,626 --> 00:06:50,417
+<font color="#ffff00">Estou pensando em
+terminar a avaliação primeiro.</font>
+
+154
+00:06:50,442 --> 00:06:52,237
+<font color="#ffff00">Certo. Sem pressa.</font>
+
+155
+00:06:52,865 --> 00:06:54,622
+<font color="#ffff00">Na realidade,
+há um pouco de pressa.</font>
+
+156
+00:06:54,647 --> 00:06:56,866
+<font color="#ffff00">Mas você sabe o que quero dizer.</font>
+
+157
+00:06:57,083 --> 00:06:59,565
+<font color="#ffff00">Então, novatos. E ai?
+De onde vocês são?</font>
+
+158
+00:06:59,590 --> 00:07:01,089
+<font color="#ffff00">-Cidades natais ou...
+-Universidades.</font>
+
+159
+00:07:01,114 --> 00:07:02,473
+<font color="#ffff00">De quê importa
+onde você cresceu?</font>
+
+160
+00:07:02,498 --> 00:07:03,589
+<font color="#ffff00">Stanford.</font>
+
+161
+00:07:03,614 --> 00:07:05,361
+<font color="#ffff00">-Nova York.
+-Harvard.</font>
+
+162
+00:07:05,386 --> 00:07:08,377
+<font color="#ffff00">-Especialidades preferidas?
+-Ortopedia. Sem dúvidas.</font>
+
+163
+00:07:08,402 --> 00:07:10,144
+<font color="#ffff00">-Neuro.
+-Planejo uma especialidade</font>
+
+164
+00:07:10,169 --> 00:07:12,503
+<font color="#ffff00">dupla em neonatal e
+oncologia pediátrica.</font>
+
+165
+00:07:12,528 --> 00:07:14,198
+<font color="#ffff00">Impressionante.
+Também improvável.</font>
+
+166
+00:07:14,223 --> 00:07:15,709
+<font color="#ffff00">Eu sei, é uma muito trabalho,</font>
+
+167
+00:07:15,734 --> 00:07:17,174
+<font color="#ffff00">mas eu sou muito boa
+em multitarefa.</font>
+
+168
+00:07:17,199 --> 00:07:19,246
+<font color="#ffff00">Na faculdade fiz graduação
+e pós ao mesmo tempo...</font>
+
+169
+00:07:19,271 --> 00:07:20,528
+<font color="#ffff00">O que sua mãe faz?</font>
+
+170
+00:07:20,553 --> 00:07:22,558
+<font color="#ffff00">-Minha mãe?
+-Não perca tempo. Responda.</font>
+
+171
+00:07:22,583 --> 00:07:24,662
+<font color="#ffff00">Ela ensina francês
+no ensino médio.</font>
+
+172
+00:07:25,073 --> 00:07:26,350
+<font color="#ffff00">Dona de casa.</font>
+
+173
+00:07:26,375 --> 00:07:28,700
+<font color="#ffff00">-Cirurgiã.
+-Ai! Pai?</font>
+
+174
+00:07:28,725 --> 00:07:31,160
+<font color="#ffff00">-Também cirurgião.
+-Ai duplo. E o seu?</font>
+
+175
+00:07:31,185 --> 00:07:32,339
+<font color="#ffff00">Rabino hassídico.</font>
+
+176
+00:07:32,364 --> 00:07:33,417
+<font color="#ffff00">Você deixou o ninho.</font>
+
+177
+00:07:33,442 --> 00:07:35,262
+<font color="#ffff00">Na verdade,
+a floresta toda.</font>
+
+178
+00:07:35,848 --> 00:07:37,901
+<font color="#ffff00">E o seu funciona
+em Wall Street.</font>
+
+179
+00:07:37,926 --> 00:07:39,332
+<font color="#ffff00">Mas não é negociador.</font>
+
+180
+00:07:39,551 --> 00:07:41,587
+<font color="#ffff00">Deixa adivinhar...
+advogado de Fusões Aquisições?</font>
+
+181
+00:07:41,791 --> 00:07:42,839
+<font color="#ffff00">Como adivinhou?</font>
+
+182
+00:07:42,924 --> 00:07:45,439
+<font color="#ffff00">Ela leu seu currículo,
+vasculhou suas redes sociais.</font>
+
+183
+00:07:45,464 --> 00:07:47,393
+<font color="#ffff00">Deve ter verificado seu crédito.</font>
+
+184
+00:07:47,730 --> 00:07:50,237
+<font color="#ffff00">Tem menos que 50 anos,
+mas usa camisa social abotoada.</font>
+
+185
+00:07:50,510 --> 00:07:51,557
+<font color="#ffff00">Pronto?</font>
+
+186
+00:07:52,188 --> 00:07:53,562
+<font color="#ffff00">Toracotomia esquerda</font>
+
+187
+00:07:53,587 --> 00:07:55,901
+<font color="#ffff00">com uma possível incisão
+no átrio direito</font>
+
+188
+00:07:55,926 --> 00:07:58,102
+<font color="#ffff00">e septo interatrial
+conforme necessário.</font>
+
+189
+00:07:58,127 --> 00:08:00,884
+<font color="#ffff00">Abordagem atrial esquerda no
+Sondergaard faz mais sentido.</font>
+
+190
+00:08:01,477 --> 00:08:02,527
+<font color="#ffff00">Para mim não.</font>
+
+191
+00:08:04,765 --> 00:08:06,867
+<font color="#ffff00">-É meu paciente.
+-Mas você não é cirurgiã.</font>
+
+192
+00:08:07,141 --> 00:08:09,599
+<font color="#ffff00">Por isso não tem por que
+você ficar analisando,</font>
+
+193
+00:08:09,623 --> 00:08:11,124
+<font color="#ffff00">ou escolhendo o método.</font>
+
+194
+00:08:11,259 --> 00:08:12,946
+<font color="#ffff00">Pare de se preocupar
+com seu território.</font>
+
+195
+00:08:12,971 --> 00:08:14,070
+<font color="#ffff00">Pare de pisar nele.</font>
+
+196
+00:08:14,095 --> 00:08:16,197
+<font color="#ffff00">Você está olhando os testes
+que eu fiz.</font>
+
+197
+00:08:16,312 --> 00:08:18,004
+<font color="#ffff00">Como estou pisando
+no seu território?</font>
+
+198
+00:08:18,065 --> 00:08:20,476
+<font color="#ffff00">Acho que a Dra. Browne
+estando dizer</font>
+
+199
+00:08:20,501 --> 00:08:23,390
+<font color="#ffff00">que não há método perfeito,
+então talvez seja melhor usar</font>
+
+200
+00:08:23,415 --> 00:08:25,191
+<font color="#ffff00">a recomendação do departamento
+cirúrgico.</font>
+
+201
+00:08:26,152 --> 00:08:27,504
+<font color="#ffff00">Ele me deu uma lição?</font>
+
+202
+00:08:28,449 --> 00:08:29,753
+<font color="#ffff00">Não. Eu...
+estava tentando...</font>
+
+203
+00:08:29,777 --> 00:08:31,057
+<font color="#ffff00">Você vai fazer de novo?</font>
+
+204
+00:08:31,191 --> 00:08:32,448
+<font color="#ffff00">Não, só estou tentando...</font>
+
+205
+00:08:32,473 --> 00:08:33,512
+<font color="#ffff00">-Cala boca.
+-Cala boca.</font>
+
+206
+00:08:34,971 --> 00:08:36,942
+<font color="#ffff00">Vamos fazer a
+toracotomia esquerda.</font>
+
+207
+00:08:37,685 --> 00:08:38,927
+<font color="#ffff00">Não gosto,</font>
+
+208
+00:08:38,952 --> 00:08:40,153
+<font color="#ffff00">mas vai funcionar.</font>
+
+209
+00:08:42,033 --> 00:08:43,306
+<font color="#ffff00">O que estava pensando?</font>
+
+210
+00:08:43,425 --> 00:08:44,992
+<font color="#ffff00">Achou que ia me impressionar</font>
+
+211
+00:08:45,017 --> 00:08:48,175
+<font color="#ffff00">diminuindo a confiança do
+paciente sobre meu parecer?</font>
+
+212
+00:08:48,315 --> 00:08:50,172
+<font color="#ffff00">Desculpe, não foi
+minha intenção.</font>
+
+213
+00:08:50,197 --> 00:08:51,892
+<font color="#ffff00">Você deveria ser
+uma mentora,</font>
+
+214
+00:08:51,917 --> 00:08:53,567
+<font color="#ffff00">moldando o comportamento
+profissional,</font>
+
+215
+00:08:53,592 --> 00:08:54,974
+<font color="#ffff00">não piorando ele, Murphy.</font>
+
+216
+00:08:55,411 --> 00:08:58,171
+<font color="#ffff00">Ela questionou
+seu plano cirúrgico.</font>
+
+217
+00:08:58,196 --> 00:08:59,330
+<font color="#ffff00">Eu o defendi.</font>
+
+218
+00:08:59,355 --> 00:09:02,474
+<font color="#ffff00">-Como ambos estamos errados?
+-Não preciso que me defenda.</font>
+
+219
+00:09:03,115 --> 00:09:05,942
+<font color="#ffff00">E não quero debates
+na frente do paciente.</font>
+
+220
+00:09:06,809 --> 00:09:08,682
+<font color="#ffff00">Não estamos na frente
+de um agora.</font>
+
+221
+00:09:10,517 --> 00:09:13,309
+<font color="#ffff00">Os seios da paciente são
+pequenos e assimétricos,</font>
+
+222
+00:09:13,334 --> 00:09:15,699
+<font color="#ffff00">mas nenhuma mulher tem
+seios perfeitos.</font>
+
+223
+00:09:16,932 --> 00:09:20,314
+<font color="#ffff00">Você está usando sapatos Prada
+e blusa da Dolce & Gabana,</font>
+
+224
+00:09:20,339 --> 00:09:22,339
+<font color="#ffff00">que custam mais do que
+a renda dos estudantes,</font>
+
+225
+00:09:22,363 --> 00:09:24,197
+<font color="#ffff00">então, claramente você entende</font>
+
+226
+00:09:24,222 --> 00:09:26,990
+<font color="#ffff00">que a sua aparência tem grande
+impacto em como é tratada.</font>
+
+227
+00:09:27,015 --> 00:09:30,554
+<font color="#ffff00">Tem diferença entre roupas
+caras e cirurgias complicadas.</font>
+
+228
+00:09:31,476 --> 00:09:34,041
+<font color="#ffff00">Também sei que a indústria de
+cosméticos cirúrgicos</font>
+
+229
+00:09:34,066 --> 00:09:37,177
+<font color="#ffff00">é dominada por médicos homens
+com preconceitos sexistas.</font>
+
+230
+00:09:44,418 --> 00:09:47,154
+<font color="#ffff00">Eu a convidei para observar
+e aprender.</font>
+
+231
+00:09:48,556 --> 00:09:50,858
+<font color="#ffff00">Então sugiro que dê menos sermões</font>
+
+232
+00:09:51,053 --> 00:09:52,187
+<font color="#ffff00">e ouça mais.</font>
+
+233
+00:09:54,825 --> 00:09:58,669
+<font color="#ffff00">Vamos chegar ao tumor via incisão
+no tórax entre suas costelas.</font>
+
+234
+00:09:58,694 --> 00:10:01,513
+<font color="#ffff00">A recuperação será mais rápida
+do que abrir seu esterno.</font>
+
+235
+00:10:01,599 --> 00:10:04,237
+<font color="#ffff00">Tem certeza
+que não quer chamar sua família</font>
+
+236
+00:10:04,262 --> 00:10:05,402
+<font color="#ffff00">antes de sedarmos você?</font>
+
+237
+00:10:05,439 --> 00:10:07,122
+<font color="#ffff00">Para quê?
+Para ficarem preocupados?</font>
+
+238
+00:10:07,294 --> 00:10:09,247
+<font color="#ffff00">Melhor dar notícias boas
+quando terminarmos.</font>
+
+239
+00:10:10,743 --> 00:10:12,471
+<font color="#ffff00">Serão notícias boas,
+certo?</font>
+
+240
+00:10:13,112 --> 00:10:15,591
+<font color="#ffff00">Com reabilitação e
+atitude positiva,</font>
+
+241
+00:10:15,616 --> 00:10:17,084
+<font color="#ffff00">que você já tem,</font>
+
+242
+00:10:17,160 --> 00:10:19,297
+<font color="#ffff00">logo vai voltar a usar o poste
+dos bombeiros.</font>
+
+243
+00:10:19,553 --> 00:10:20,888
+<font color="#ffff00">Nosso quartel tem escadas.</font>
+
+244
+00:10:21,021 --> 00:10:22,122
+<font color="#ffff00">Chato.</font>
+
+245
+00:10:23,906 --> 00:10:27,006
+<font color="#ffff00">É um grupo de rede social
+onde fingimos serem formigas.</font>
+
+246
+00:10:27,889 --> 00:10:28,943
+<font color="#ffff00">Por quê?</font>
+
+247
+00:10:29,218 --> 00:10:32,966
+<font color="#ffff00">Formigas não ligam para
+políticas, esportes,</font>
+
+248
+00:10:32,991 --> 00:10:35,102
+<font color="#ffff00">ou outros fanatismos.</font>
+
+249
+00:10:35,235 --> 00:10:37,950
+<font color="#ffff00">Machos nascem de ovos inférteis,</font>
+
+250
+00:10:37,975 --> 00:10:40,895
+<font color="#ffff00">ou seja, eles não têm pai
+e não podem ter filhos.</font>
+
+251
+00:10:41,047 --> 00:10:44,088
+<font color="#ffff00">Mas têm avôs e podem
+ter netos.</font>
+
+252
+00:10:44,166 --> 00:10:45,242
+<font color="#ffff00">Interessante.</font>
+
+253
+00:10:45,352 --> 00:10:46,477
+<font color="#ffff00">E confuso.</font>
+
+254
+00:10:46,502 --> 00:10:49,393
+<font color="#ffff00">Impressão minha,
+ou estão nos observando?</font>
+
+255
+00:10:49,960 --> 00:10:51,979
+<font color="#ffff00">São os candidatos
+a residentes.</font>
+
+256
+00:10:52,345 --> 00:10:54,040
+<font color="#ffff00">Estão aqui para que
+o Park, Claire</font>
+
+257
+00:10:54,065 --> 00:10:55,868
+<font color="#ffff00">e eu os avaliemos
+para a Dra. Lim.</font>
+
+258
+00:10:56,298 --> 00:10:57,964
+<font color="#ffff00">Então,
+por que estão parados ali?</font>
+
+259
+00:10:58,892 --> 00:11:01,429
+<font color="#ffff00">Park está numa vídeo conferência
+com Kellan,</font>
+
+260
+00:11:01,454 --> 00:11:03,313
+<font color="#ffff00">e estou almoçando com você.</font>
+
+261
+00:11:03,338 --> 00:11:07,218
+<font color="#ffff00">Shaun, não pode deixá-los lá
+enquanto come.</font>
+
+262
+00:11:07,867 --> 00:11:10,103
+<font color="#ffff00">Ser um bom chefe
+é ser um bom anfitrião.</font>
+
+263
+00:11:10,128 --> 00:11:12,078
+<font color="#ffff00">Precisa apresentá-los para as
+pessoas.</font>
+
+264
+00:11:14,427 --> 00:11:15,761
+<font color="#ffff00">Como eu.
+Agora.</font>
+
+265
+00:11:18,412 --> 00:11:19,709
+<font color="#ffff00">Venham aqui, por favor.</font>
+
+266
+00:11:22,162 --> 00:11:24,552
+<font color="#ffff00">Dra. Allen, Dr. Lundberg,
+Dr. Guerin,</font>
+
+267
+00:11:24,577 --> 00:11:25,765
+<font color="#ffff00">essa é a minha namorada, Lea.</font>
+
+268
+00:11:25,790 --> 00:11:27,576
+<font color="#ffff00">Ela chefia o departamento de TI.</font>
+
+269
+00:11:27,601 --> 00:11:28,641
+<font color="#ffff00">Certo.</font>
+
+270
+00:11:28,666 --> 00:11:31,124
+<font color="#ffff00">Prazer em conhecê-los.
+Sentem-se.</font>
+
+271
+00:11:31,149 --> 00:11:33,193
+<font color="#ffff00">Shaun estava me contado
+sobre vocês.</font>
+
+272
+00:11:33,260 --> 00:11:36,193
+<font color="#ffff00">Não.
+Não estava.</font>
+
+273
+00:11:36,459 --> 00:11:39,733
+<font color="#ffff00">Então, espero que ele esteja
+pegando leve.</font>
+
+274
+00:11:39,889 --> 00:11:41,244
+<font color="#ffff00">Não, ele tem sido ótimo.</font>
+
+275
+00:11:42,002 --> 00:11:44,171
+<font color="#ffff00">O caso que estamos observando
+é interessante.</font>
+
+276
+00:11:44,304 --> 00:11:47,407
+<font color="#ffff00">Vamos corrigir os seios tuberosos
+de uma garota de 17 anos</font>
+
+277
+00:11:47,432 --> 00:11:48,933
+<font color="#ffff00">com implantes salinos.</font>
+
+278
+00:11:49,176 --> 00:11:51,712
+<font color="#ffff00">A Dra. Allen disse ao Dr. Andrews
+que isso é antiético.</font>
+
+279
+00:11:51,845 --> 00:11:52,963
+<font color="#ffff00">Ele ficou furioso.</font>
+
+280
+00:11:52,988 --> 00:11:55,808
+<font color="#ffff00">Não disse que era antiético.
+Eu só...</font>
+
+281
+00:11:57,098 --> 00:11:58,910
+<font color="#ffff00">Acho que não deveria ter me
+metido.</font>
+
+282
+00:12:00,521 --> 00:12:02,932
+<font color="#ffff00">Bem, não sei o que é um seio
+tuberoso,</font>
+
+283
+00:12:02,957 --> 00:12:05,265
+<font color="#ffff00">mas acho implantes
+superestimados demais.</font>
+
+284
+00:12:06,363 --> 00:12:09,242
+<font color="#ffff00">É porque seus seios
+são excelentes.</font>
+
+285
+00:12:09,329 --> 00:12:10,359
+<font color="#ffff00">Obrigada.</font>
+
+286
+00:12:11,298 --> 00:12:12,610
+<font color="#ffff00">É exatamente meu ponto.</font>
+
+287
+00:12:13,461 --> 00:12:14,922
+<font color="#ffff00">Os meus não são grandes,</font>
+
+288
+00:12:14,947 --> 00:12:18,561
+<font color="#ffff00">mas todo cara que os viu
+de perto ficou emocionado.</font>
+
+289
+00:12:19,540 --> 00:12:21,475
+<font color="#ffff00">Eu fiquei, com certeza.</font>
+
+290
+00:12:21,609 --> 00:12:24,318
+<font color="#ffff00">Sou entusiasmado com qualquer
+parte do seu corpo.</font>
+
+291
+00:12:26,914 --> 00:12:29,717
+<font color="#ffff00">Desculpe, foi mal, falei demais.</font>
+
+292
+00:12:29,850 --> 00:12:32,586
+<font color="#ffff00">Nem me incomodo
+com sua voz adenoide.</font>
+
+293
+00:12:32,611 --> 00:12:37,089
+<font color="#ffff00">Menos quando fala com sua mãe
+no telefone. Mas coloco fones.</font>
+
+294
+00:12:41,697 --> 00:12:44,898
+<font color="#ffff00">Pelo menos sabem que
+ele vai ser um chefe sincero.</font>
+
+295
+00:12:51,672 --> 00:12:54,667
+<font color="#ffff00">A incisão é estendida
+acima até a atriotomia,</font>
+
+296
+00:12:54,706 --> 00:12:56,500
+<font color="#ffff00">e então o septo
+interatrial é aberto.</font>
+
+297
+00:12:56,525 --> 00:12:57,570
+<font color="#ffff00">Retrator.</font>
+
+298
+00:12:57,726 --> 00:13:00,721
+<font color="#ffff00">O retrator Carpentie é usado para
+ver a válvula mitral.</font>
+
+299
+00:13:01,242 --> 00:13:03,091
+<font color="#ffff00">Isso permitirá ter uma
+visão clara do tumor.</font>
+
+300
+00:13:03,116 --> 00:13:04,484
+<font color="#ffff00">Pode mudar de canal?</font>
+
+301
+00:13:04,509 --> 00:13:06,513
+<font color="#ffff00">Esses comentários sobre cor
+estão me irritando.</font>
+
+302
+00:13:06,591 --> 00:13:08,312
+<font color="#ffff00">Com o átrio direito aberto...</font>
+
+303
+00:13:10,924 --> 00:13:13,561
+<font color="#ffff00">Como está o time Browne?
+Algum destaque?</font>
+
+304
+00:13:13,694 --> 00:13:15,996
+<font color="#ffff00">Jackson é um pouco tímido,
+mas esperto.</font>
+
+305
+00:13:16,129 --> 00:13:18,443
+<font color="#ffff00">Wolke é entusiasmado,</font>
+
+306
+00:13:18,468 --> 00:13:21,470
+<font color="#ffff00">e o seu recruta estrela...</font>
+
+307
+00:13:22,636 --> 00:13:23,966
+<font color="#ffff00">é cheio de si.</font>
+
+308
+00:13:24,728 --> 00:13:27,040
+<font color="#ffff00">Procuro cirurgiões,
+e de acordo com o histórico,</font>
+
+309
+00:13:27,065 --> 00:13:29,509
+<font color="#ffff00">ele pode dissecar e suturar
+como profissional.</font>
+
+310
+00:13:29,643 --> 00:13:31,689
+<font color="#ffff00">Achei que estava querendo
+nossa opinião.</font>
+
+311
+00:13:31,714 --> 00:13:34,025
+<font color="#ffff00">Ele sempre fica em primeiro
+em todos os programas.</font>
+
+312
+00:13:34,091 --> 00:13:36,335
+<font color="#ffff00">Acha que todos estão errados
+e você está certa?</font>
+
+313
+00:13:38,994 --> 00:13:40,896
+<font color="#ffff00">Por que vocês estão aqui?</font>
+
+314
+00:13:41,397 --> 00:13:43,600
+<font color="#ffff00">Minha LCA foi reconstruída no
+ensino médio,</font>
+
+315
+00:13:43,757 --> 00:13:45,318
+<font color="#ffff00">meus dois rotadores na faculdade.</font>
+
+316
+00:13:46,293 --> 00:13:48,128
+<font color="#ffff00">Amo a ideia de
+consertar pessoas,</font>
+
+317
+00:13:48,153 --> 00:13:50,381
+<font color="#ffff00">ajudar a serem
+o melhor que puderem.</font>
+
+318
+00:13:51,483 --> 00:13:53,634
+<font color="#ffff00">Cirurgiões são aqueles
+com complexo de Deus, certo?</font>
+
+319
+00:13:56,417 --> 00:13:57,447
+<font color="#ffff00">Tenho isso.</font>
+
+320
+00:13:59,266 --> 00:14:02,007
+<font color="#ffff00">Passei minha vida falando
+ídiche e estudando o Talmude,</font>
+
+321
+00:14:02,032 --> 00:14:03,914
+<font color="#ffff00">sem cortar meu cabelo dos lados,</font>
+
+322
+00:14:03,939 --> 00:14:05,930
+<font color="#ffff00">porque alguém lá em cima
+supostamente liga.</font>
+
+323
+00:14:06,716 --> 00:14:08,169
+<font color="#ffff00">Mas aí percebi</font>
+
+324
+00:14:09,968 --> 00:14:11,397
+<font color="#ffff00">que não tem ninguém
+lá em cima.</font>
+
+325
+00:14:12,346 --> 00:14:13,920
+<font color="#ffff00">Ninguém liga.</font>
+
+326
+00:14:14,813 --> 00:14:18,491
+<font color="#ffff00">Nenhum poder benevolente
+vai nos salvar, então...</font>
+
+327
+00:14:20,193 --> 00:14:21,273
+<font color="#ffff00">Temos que nos salvar.</font>
+
+328
+00:14:24,583 --> 00:14:25,733
+<font color="#ffff00">Pode superar isso?</font>
+
+329
+00:14:25,827 --> 00:14:27,622
+<font color="#ffff00">-Com certeza não.
+-Tente.</font>
+
+330
+00:14:28,450 --> 00:14:31,036
+<font color="#ffff00">Você é esperta,
+tem dois diplomas de Harvard.</font>
+
+331
+00:14:31,777 --> 00:14:33,481
+<font color="#ffff00">Meus pais estudaram lá,
+então...</font>
+
+332
+00:14:33,576 --> 00:14:34,865
+<font color="#ffff00">isso me ajudou a entrar lá.</font>
+
+333
+00:14:34,890 --> 00:14:37,158
+<font color="#ffff00">Você não vai ser contratada
+se autodepreciando...</font>
+
+334
+00:14:38,278 --> 00:14:39,477
+<font color="#ffff00">Algo deu errado.</font>
+
+335
+00:14:39,962 --> 00:14:41,658
+<font color="#ffff00">Parece que cortaram
+uma artéria pulmonar.</font>
+
+336
+00:14:41,682 --> 00:14:43,673
+<font color="#ffff00">Não, senão Browne
+estaria sugando</font>
+
+337
+00:14:43,698 --> 00:14:45,581
+<font color="#ffff00">ao invés de Lim estar
+usando as mãos.</font>
+
+338
+00:14:49,638 --> 00:14:50,963
+<font color="#ffff00">O que estão fazendo?</font>
+
+339
+00:14:51,659 --> 00:14:52,689
+<font color="#ffff00">Nada.</font>
+
+340
+00:14:53,357 --> 00:14:54,764
+<font color="#ffff00">Não podemos acessar o tumor sem</font>
+
+341
+00:14:54,789 --> 00:14:56,664
+<font color="#ffff00">comprometer toda via
+cardíaca de saída.</font>
+
+342
+00:14:56,689 --> 00:14:59,399
+<font color="#ffff00">Por que não o jeito que sugeri?
+A esternotomia mediana.</font>
+
+343
+00:14:59,424 --> 00:15:02,213
+<font color="#ffff00">O tumor está muito atrás.
+Precisamos fechá-lo.</font>
+
+344
+00:15:09,903 --> 00:15:12,981
+<font color="#ffff00">A radiação seria
+muito tóxica para o coração.</font>
+
+345
+00:15:13,006 --> 00:15:14,581
+<font color="#ffff00">Imunoterapia também.</font>
+
+346
+00:15:14,606 --> 00:15:16,982
+<font color="#ffff00">Não conseguimos acessar
+o tumor cirurgicamente,</font>
+
+347
+00:15:17,007 --> 00:15:19,690
+<font color="#ffff00">e não conseguimos tratá-lo
+sem atingir o coração.</font>
+
+348
+00:15:19,854 --> 00:15:21,851
+<font color="#ffff00">E se cortarmos o que conseguimos
+acessar</font>
+
+349
+00:15:21,876 --> 00:15:24,909
+<font color="#ffff00">e tentamos quimioterapia
+no que sobrar?</font>
+
+350
+00:15:25,066 --> 00:15:27,569
+<font color="#ffff00">Doxorrubicina e Ifosfamida podem
+retardar o crescimento,</font>
+
+351
+00:15:27,594 --> 00:15:29,518
+<font color="#ffff00">dá-lo mais alguns meses.</font>
+
+352
+00:15:29,543 --> 00:15:32,389
+<font color="#ffff00">Não, não vou mandá-lo para casa
+com mais alguns meses.</font>
+
+353
+00:15:32,414 --> 00:15:33,600
+<font color="#ffff00">Melhor que nada.</font>
+
+354
+00:15:33,625 --> 00:15:35,112
+<font color="#ffff00">E um transplante?</font>
+
+355
+00:15:35,137 --> 00:15:38,218
+<font color="#ffff00">Não é um opção. Tumores no
+coração são contraindicados.</font>
+
+356
+00:15:38,494 --> 00:15:40,804
+<font color="#ffff00">E se transplantarmos
+o seu próprio coração?</font>
+
+357
+00:15:41,109 --> 00:15:42,711
+<font color="#ffff00">Tirarmos do peito,</font>
+
+358
+00:15:42,736 --> 00:15:44,765
+<font color="#ffff00">teríamos acesso
+ao coração todo.</font>
+
+359
+00:15:44,790 --> 00:15:47,158
+<font color="#ffff00">Poderíamos tirar o tumor,
+arrumar o defeito que deixou,</font>
+
+360
+00:15:47,183 --> 00:15:48,978
+<font color="#ffff00">-e colocar de volta.
+-Legal.</font>
+
+361
+00:15:49,003 --> 00:15:51,331
+<font color="#ffff00">Não é legal.
+Em um transplante normal,</font>
+
+362
+00:15:51,356 --> 00:15:53,198
+<font color="#ffff00">você pegaria um coração saudável.</font>
+
+363
+00:15:53,223 --> 00:15:55,592
+<font color="#ffff00">A ideia dela tem o risco
+de retirar o coração</font>
+
+364
+00:15:55,617 --> 00:15:58,078
+<font color="#ffff00">e adiciona o risco do coração
+que colocarmos de volta</font>
+
+365
+00:15:58,103 --> 00:16:01,384
+<font color="#ffff00">estar muito danificado
+por causa do tumor removido.</font>
+
+366
+00:16:01,409 --> 00:16:05,262
+<font color="#ffff00">Ele é jovem, e a parte
+do coração sem tumor é forte.</font>
+
+367
+00:16:07,960 --> 00:16:11,901
+<font color="#ffff00">Faça um angiografia e veja
+se o tumor atingiu as coronárias.</font>
+
+368
+00:16:11,926 --> 00:16:13,887
+<font color="#ffff00">Se não atingiu,
+a ideia da Morgan pode funcionar.</font>
+
+369
+00:16:13,912 --> 00:16:15,235
+<font color="#ffff00">Vou marcar.</font>
+
+370
+00:16:17,709 --> 00:16:20,210
+<font color="#ffff00">Dr. Murphy está dividindo
+o parênquima mamário</font>
+
+371
+00:16:20,235 --> 00:16:22,269
+<font color="#ffff00">em três pedículos.</font>
+
+372
+00:16:22,375 --> 00:16:24,463
+<font color="#ffff00">Alguém sabe de onde vem
+essa técnica?</font>
+
+373
+00:16:24,488 --> 00:16:26,294
+<font color="#ffff00">Cirurgia de redução de seios.</font>
+
+374
+00:16:26,600 --> 00:16:27,887
+<font color="#ffff00">Correto.</font>
+
+375
+00:16:27,987 --> 00:16:31,296
+<font color="#ffff00">E por que eu usaria
+uma técnica de redução</font>
+
+376
+00:16:31,321 --> 00:16:33,517
+<font color="#ffff00">para aumentar os seios?</font>
+
+377
+00:16:33,542 --> 00:16:35,830
+<font color="#ffff00">A técnica libera o tecido.</font>
+
+378
+00:16:36,118 --> 00:16:37,720
+<font color="#ffff00">Você pode juntar os pedículos</font>
+
+379
+00:16:37,745 --> 00:16:39,688
+<font color="#ffff00">para diminuir os seios,</font>
+
+380
+00:16:39,713 --> 00:16:42,860
+<font color="#ffff00">ou espalhá-los em cima
+de um implante para aumentar.</font>
+
+381
+00:16:43,475 --> 00:16:44,758
+<font color="#ffff00">Muito bem.</font>
+
+382
+00:16:44,783 --> 00:16:47,419
+<font color="#ffff00">Agora vou desligar o som.</font>
+
+383
+00:16:47,444 --> 00:16:48,607
+<font color="#ffff00">Não se preocupem.</font>
+
+384
+00:16:48,632 --> 00:16:51,653
+<font color="#ffff00">Só quero falar de vocês
+pelas costas um pouco.</font>
+
+385
+00:16:53,698 --> 00:16:56,010
+<font color="#ffff00">Primeiras impressões.</font>
+
+386
+00:16:56,175 --> 00:16:59,232
+<font color="#ffff00">-Murphy?
+-Eu gosto do Dr. John Lundberg.</font>
+
+387
+00:17:00,012 --> 00:17:01,723
+<font color="#ffff00">Eu não o ouvi falar.</font>
+
+388
+00:17:01,748 --> 00:17:03,882
+<font color="#ffff00">Ele tem a nota mais alta
+de certificação.</font>
+
+389
+00:17:03,907 --> 00:17:05,717
+<font color="#ffff00">Isso é importante para você?</font>
+
+390
+00:17:06,194 --> 00:17:07,224
+<font color="#ffff00">Sim.</font>
+
+391
+00:17:08,003 --> 00:17:11,193
+<font color="#ffff00">Mostra que ele tem
+muito conhecimento de medicina.</font>
+
+392
+00:17:11,609 --> 00:17:14,015
+<font color="#ffff00">O que é importante para você?</font>
+
+393
+00:17:14,040 --> 00:17:16,937
+<font color="#ffff00">Me interessa o que eles podem
+fazer com esse conhecimento,</font>
+
+394
+00:17:16,962 --> 00:17:20,124
+<font color="#ffff00">por isso estou impressionado
+com a Jordan Allen.</font>
+
+395
+00:17:20,483 --> 00:17:24,343
+<font color="#ffff00">Não, você disse
+que ela te desrespeitou.</font>
+
+396
+00:17:24,368 --> 00:17:28,635
+<font color="#ffff00">Que precisa de coragem
+e assertividade, que é bem útil.</font>
+
+397
+00:17:28,763 --> 00:17:32,338
+<font color="#ffff00">Então, por que você a repreendeu?</font>
+
+398
+00:17:32,363 --> 00:17:34,832
+<font color="#ffff00">É mais fácil ensinar
+um residente agressivo restrição</font>
+
+399
+00:17:34,857 --> 00:17:37,631
+<font color="#ffff00">do que um passivo
+a ser assertivo.</font>
+
+400
+00:17:39,710 --> 00:17:41,811
+<font color="#ffff00">E você, Park?
+O que é importante para você?</font>
+
+401
+00:17:41,836 --> 00:17:44,848
+<font color="#ffff00">Quero saber quem eu aguento
+por 80 horas semanais.</font>
+
+402
+00:17:44,873 --> 00:17:47,733
+<font color="#ffff00">Algo que aprendi como policial
+é que você não conhece a pessoa</font>
+
+403
+00:17:47,758 --> 00:17:49,929
+<font color="#ffff00">até beber com ela.</font>
+
+404
+00:17:56,110 --> 00:17:58,092
+<font color="#ffff00">LAD e circunflexo parecem limpos.</font>
+
+405
+00:17:58,117 --> 00:18:00,117
+<font color="#ffff00">O que tem na coronária direita?</font>
+
+406
+00:18:00,213 --> 00:18:02,713
+<font color="#ffff00">Parece estreita na origem.</font>
+
+407
+00:18:03,145 --> 00:18:05,379
+<font color="#ffff00">Um pouco estreita,
+mas uma variante normal.</font>
+
+408
+00:18:05,404 --> 00:18:07,035
+<font color="#ffff00">Sim, mas parece nebuloso,</font>
+
+409
+00:18:07,060 --> 00:18:09,683
+<font color="#ffff00">pode ser uma infiltração
+do tumor.</font>
+
+410
+00:18:10,740 --> 00:18:12,160
+<font color="#ffff00">O que vocês acham?</font>
+
+411
+00:18:12,335 --> 00:18:13,636
+<font color="#ffff00">-A gente?
+-Sim.</font>
+
+412
+00:18:13,661 --> 00:18:15,028
+<font color="#ffff00">Deem uma olhada.</font>
+
+413
+00:18:18,017 --> 00:18:19,049
+<font color="#ffff00">Eu acho...</font>
+
+414
+00:18:19,074 --> 00:18:20,942
+<font color="#ffff00">-É angiogênese na esquerda.
+-Pare.</font>
+
+415
+00:18:21,849 --> 00:18:25,646
+<font color="#ffff00">Interromper uma colega
+é tão chato quanto <i>mansplaining</i>.</font>
+
+416
+00:18:25,671 --> 00:18:26,958
+<font color="#ffff00">Isso não é uma corrida.</font>
+
+417
+00:18:26,983 --> 00:18:28,859
+<font color="#ffff00">Não precisa falar primeiro.</font>
+
+418
+00:18:29,995 --> 00:18:34,210
+<font color="#ffff00">Eu não gosto da interrupção.</font>
+
+419
+00:18:35,730 --> 00:18:36,760
+<font color="#ffff00">Mas...</font>
+
+420
+00:18:37,269 --> 00:18:39,278
+<font color="#ffff00">Gosto do entusiasmo.</font>
+
+421
+00:18:40,545 --> 00:18:42,184
+<font color="#ffff00">O que você ia dizer?</font>
+
+422
+00:18:43,171 --> 00:18:46,184
+<font color="#ffff00">Primeiro, não sou sexista.</font>
+
+423
+00:18:47,023 --> 00:18:48,251
+<font color="#ffff00">Claro que não.</font>
+
+424
+00:18:48,346 --> 00:18:50,749
+<font color="#ffff00">Ele está mudando da circulação
+da direita para a esquerda</font>
+
+425
+00:18:50,774 --> 00:18:52,227
+<font color="#ffff00">para alimentar o tumor.</font>
+
+426
+00:18:52,344 --> 00:18:53,599
+<font color="#ffff00">-Angiogênese.
+-Entendi.</font>
+
+427
+00:18:53,624 --> 00:18:55,805
+<font color="#ffff00">A cirurgia mostrou o tumor
+indo para a direita.</font>
+
+428
+00:18:55,830 --> 00:18:57,538
+<font color="#ffff00">O que você ia dizer?</font>
+
+429
+00:18:58,023 --> 00:19:00,538
+<font color="#ffff00">A artéria pulmonar
+está atrás do vaso.</font>
+
+430
+00:19:02,395 --> 00:19:05,195
+<font color="#ffff00">Está causando dispersão
+radiográfica nesta área.</font>
+
+431
+00:19:05,220 --> 00:19:07,004
+<font color="#ffff00">O nebuloso é só um artefato.</font>
+
+432
+00:19:07,189 --> 00:19:08,886
+<font color="#ffff00">As artérias estão limpas.</font>
+
+433
+00:19:10,010 --> 00:19:11,764
+<font color="#ffff00">Acho que ela está certa.</font>
+
+434
+00:19:14,927 --> 00:19:16,700
+<font color="#ffff00">Sua ideia pode funcionar.</font>
+
+435
+00:19:21,093 --> 00:19:24,174
+<font color="#ffff00">Se invertemos as suturas
+e enterrá-las embaixo da pele,</font>
+
+436
+00:19:24,199 --> 00:19:25,932
+<font color="#ffff00">a cicatriz será invisível.</font>
+
+437
+00:19:25,957 --> 00:19:28,296
+<font color="#ffff00">Ninguém saberá
+que estivemos aqui.</font>
+
+438
+00:19:30,157 --> 00:19:31,749
+<font color="#ffff00">Bom trabalhos vocês dois.</font>
+
+439
+00:19:34,148 --> 00:19:35,342
+<font color="#ffff00">A pressão está caindo.</font>
+
+440
+00:19:35,367 --> 00:19:38,156
+<font color="#ffff00">Dê fluidos, vasopressores.
+Cheque por sangramentos.</font>
+
+441
+00:19:38,181 --> 00:19:40,898
+<font color="#ffff00">Ela está taquicardia.
+Tragam o desfibrilador.</font>
+
+442
+00:19:41,757 --> 00:19:44,375
+<font color="#ffff00">Sem sangramento.
+Sem hematomas.</font>
+
+443
+00:19:44,642 --> 00:19:46,054
+<font color="#ffff00">Carregando.</font>
+
+444
+00:19:47,437 --> 00:19:48,691
+<font color="#ffff00">Afastem-se.</font>
+
+445
+00:19:56,978 --> 00:20:00,102
+<font color="#ffff00">Ritmo sinusal.
+Pressão estabilizando.</font>
+
+446
+00:20:02,072 --> 00:20:04,884
+<font color="#ffff00">Coloque ela na UTI.
+Quero exames pós cirúrgicos,</font>
+
+447
+00:20:04,909 --> 00:20:07,970
+<font color="#ffff00">angiografia do peito
+e telemetria cardíaca.</font>
+
+448
+00:20:08,783 --> 00:20:10,959
+<font color="#ffff00">Precisamos descobrir
+o que aconteceu.</font>
+
+449
+00:20:18,006 --> 00:20:19,646
+<font color="#ffff00">Ela está estável,</font>
+
+450
+00:20:19,820 --> 00:20:21,354
+<font color="#ffff00">mas desaceleração difusa
+da onda delta.</font>
+
+451
+00:20:21,379 --> 00:20:23,240
+<font color="#ffff00">Atividade cerebral mínima.</font>
+
+452
+00:20:23,535 --> 00:20:26,205
+<font color="#ffff00">Um distúrbio metabólico não
+diagnosticado pode ter causado</font>
+
+453
+00:20:26,230 --> 00:20:28,272
+<font color="#ffff00">uma reação a anestesia.</font>
+
+454
+00:20:28,297 --> 00:20:30,008
+<font color="#ffff00">Mas os exames estavam normais.</font>
+
+455
+00:20:30,033 --> 00:20:32,396
+<font color="#ffff00">Deve ser algo no coração.</font>
+
+456
+00:20:32,850 --> 00:20:36,855
+<font color="#ffff00">Vocês são cheios de opiniões.
+Que tal ideias? O que fariam?</font>
+
+457
+00:20:38,897 --> 00:20:40,645
+<font color="#ffff00">Eu usaria
+o estimulador de nervo periférico</font>
+
+458
+00:20:40,670 --> 00:20:43,276
+<font color="#ffff00">e reverteria a paralisia
+com neostigmina.</font>
+
+459
+00:20:43,346 --> 00:20:45,737
+<font color="#ffff00">Se Dr. Murphy está certo,
+ela acordará.</font>
+
+460
+00:20:46,022 --> 00:20:48,211
+<font color="#ffff00">Esperto, mas arriscado.</font>
+
+461
+00:20:48,291 --> 00:20:50,187
+<font color="#ffff00">Os remédios vão forçar o coração.</font>
+
+462
+00:20:50,212 --> 00:20:52,796
+<font color="#ffff00">Se Park estiver certo,
+ela terá uma parada cardíaca.</font>
+
+463
+00:20:53,999 --> 00:20:56,413
+<font color="#ffff00">Eu vi um caso parecido em Borneo.</font>
+
+464
+00:20:56,438 --> 00:20:58,179
+<font color="#ffff00">Você foi estagiário em Borneo?</font>
+
+465
+00:20:58,204 --> 00:21:02,287
+<font color="#ffff00">Não. Eu fui voluntário
+em um fundação de orangotangos.</font>
+
+466
+00:21:03,134 --> 00:21:07,606
+<font color="#ffff00">O guia, um morador local, caiu
+de uma árvore há 25m do chão.</font>
+
+467
+00:21:07,631 --> 00:21:10,660
+<font color="#ffff00">Como cair de uma árvore é
+similar com um paciente</font>
+
+468
+00:21:10,685 --> 00:21:13,116
+<font color="#ffff00">tendo uma parada cardíaca
+em uma cirurgia?</font>
+
+469
+00:21:13,141 --> 00:21:14,644
+<font color="#ffff00">Bem, ele quebrou a coluna,</font>
+
+470
+00:21:14,669 --> 00:21:16,276
+<font color="#ffff00">mas quando chegamos ao hospital,</font>
+
+471
+00:21:16,301 --> 00:21:18,295
+<font color="#ffff00">descobri que ele tinha
+danos no coração</font>
+
+472
+00:21:18,320 --> 00:21:21,623
+<font color="#ffff00">por febre reumática
+e anormalidade metabólica.</font>
+
+473
+00:21:21,813 --> 00:21:24,106
+<font color="#ffff00">É raro aqui, mas comum lá.</font>
+
+474
+00:21:24,131 --> 00:21:26,633
+<font color="#ffff00">Só descobrimos quando fizemos
+uma varredura de perfusão nuclear</font>
+
+475
+00:21:26,658 --> 00:21:28,055
+<font color="#ffff00">no corpo todo.</font>
+
+476
+00:21:28,223 --> 00:21:29,264
+<font color="#ffff00">Boa ideia.</font>
+
+477
+00:21:29,401 --> 00:21:32,869
+<font color="#ffff00">Mas uma varredura assim precisa
+de vários traços radioativos.</font>
+
+478
+00:21:32,894 --> 00:21:34,636
+<font color="#ffff00">Acha que o coração dela aguenta?</font>
+
+479
+00:21:35,022 --> 00:21:36,065
+<font color="#ffff00">Não hoje.</font>
+
+480
+00:21:36,487 --> 00:21:38,416
+<font color="#ffff00">Vou pedir permissão da mãe.</font>
+
+481
+00:21:38,760 --> 00:21:40,397
+<font color="#ffff00">Faremos amanhã cedo.</font>
+
+482
+00:21:40,903 --> 00:21:42,883
+<font color="#ffff00">Assim que confirmarmos
+o fechamento atrial,</font>
+
+483
+00:21:42,908 --> 00:21:44,539
+<font color="#ffff00">colocaremos o coração de volta.</font>
+
+484
+00:21:44,564 --> 00:21:46,299
+<font color="#ffff00">Dra. Lim reconectará a aorta</font>
+
+485
+00:21:46,324 --> 00:21:48,050
+<font color="#ffff00">e as conexões venosas superiores,</font>
+
+486
+00:21:48,075 --> 00:21:50,265
+<font color="#ffff00">enquanto eu conecto
+as inferiores.</font>
+
+487
+00:21:50,290 --> 00:21:51,791
+<font color="#ffff00">Durante meu estágio,</font>
+
+488
+00:21:51,816 --> 00:21:53,790
+<font color="#ffff00">ajudei em vários transplantes
+de coração.</font>
+
+489
+00:21:53,815 --> 00:21:56,108
+<font color="#ffff00">Até mesmo suturei
+o manguito atrial em um.</font>
+
+490
+00:21:56,966 --> 00:21:59,619
+<font color="#ffff00">Já entrei em
+um transplante de fígado.</font>
+
+491
+00:21:59,883 --> 00:22:01,151
+<font color="#ffff00">O paciente morreu.</font>
+
+492
+00:22:01,176 --> 00:22:02,586
+<font color="#ffff00">O que você aprendeu?</font>
+
+493
+00:22:03,116 --> 00:22:05,974
+<font color="#ffff00">É mais difícil achar vazamento do
+ducto biliar do que sangramentos.</font>
+
+494
+00:22:05,999 --> 00:22:09,334
+<font color="#ffff00">Bom. Na próxima vez, fale isso
+em vez de "o paciente morreu".</font>
+
+495
+00:22:12,754 --> 00:22:15,048
+<font color="#ffff00">-Vocês terminaram?
+-Por quê?</font>
+
+496
+00:22:15,235 --> 00:22:19,126
+<font color="#ffff00">Dr. Park quer que todos
+se juntem a ele.</font>
+
+497
+00:22:25,108 --> 00:22:26,821
+<font color="#ffff00">Sou Alex Park.</font>
+
+498
+00:22:26,846 --> 00:22:29,890
+<font color="#ffff00">Sou um antigo competidor amador
+de artes marciais</font>
+
+499
+00:22:29,915 --> 00:22:32,361
+<font color="#ffff00">que achou que seria legal
+lutar contra um boxeador</font>
+
+500
+00:22:32,386 --> 00:22:34,352
+<font color="#ffff00">visitando o ginásio do meu pai.</font>
+
+501
+00:22:34,551 --> 00:22:37,867
+<font color="#ffff00">E esse cara era, Mike Tyson.</font>
+
+502
+00:22:39,939 --> 00:22:41,766
+<font color="#ffff00">Quem é Mike Tyson?</font>
+
+503
+00:22:42,128 --> 00:22:44,107
+<font color="#ffff00">O cara de Se Beber Não Case.</font>
+
+504
+00:22:44,132 --> 00:22:46,832
+<font color="#ffff00">Com o tigre e as tatuagens
+no rosto.</font>
+
+505
+00:22:47,523 --> 00:22:50,629
+<font color="#ffff00">Você mostrou que é louco e velho.</font>
+
+506
+00:22:53,893 --> 00:22:56,883
+<font color="#ffff00">Eu vi <i>Wicked</i> mais de 50 vezes.</font>
+
+507
+00:22:56,908 --> 00:22:59,928
+<font color="#ffff00">No São Francisco Tryout,
+Broadway, Chicago.</font>
+
+508
+00:23:00,014 --> 00:23:02,624
+<font color="#ffff00">Vi a sobrinha de um amigo do
+namorado interpretar Glinda</font>
+
+509
+00:23:02,649 --> 00:23:03,999
+<font color="#ffff00">no acampamento
+de verão Stagedoor.</font>
+
+510
+00:23:04,651 --> 00:23:06,319
+<font color="#ffff00">Nerd.
+Próximo.</font>
+
+511
+00:23:10,872 --> 00:23:12,345
+<font color="#ffff00">Oi. Sou Claire Browne.</font>
+
+512
+00:23:13,325 --> 00:23:14,418
+<font color="#ffff00">Eu</font>
+
+513
+00:23:14,443 --> 00:23:18,562
+<font color="#ffff00">amo música,
+mas odeio musicais, e, eu não...</font>
+
+514
+00:23:19,077 --> 00:23:22,169
+<font color="#ffff00">Não gosto de falar sobre mim,
+então é a vez do Shaun.</font>
+
+515
+00:23:28,834 --> 00:23:31,118
+<font color="#ffff00">Meu nome é Dr. Shaun Murphy.</font>
+
+516
+00:23:31,378 --> 00:23:33,045
+<font color="#ffff00">Eu não gostava de música,</font>
+
+517
+00:23:33,070 --> 00:23:36,251
+<font color="#ffff00">mas minha namorada, Lea,
+mudou minha opinião.</font>
+
+518
+00:23:36,329 --> 00:23:40,381
+<font color="#ffff00">E gosto de ver o
+Canal do Tempo na TV.</font>
+
+519
+00:23:40,953 --> 00:23:41,983
+<font color="#ffff00">E...</font>
+
+520
+00:23:43,794 --> 00:23:45,729
+<font color="#ffff00">Acho que picles são nojentos.</font>
+
+521
+00:23:49,161 --> 00:23:50,663
+<font color="#ffff00">Policiais sabem ser mais.</font>
+
+522
+00:23:50,688 --> 00:23:52,106
+<font color="#ffff00">Ser para menos que é o problema.</font>
+
+523
+00:23:52,131 --> 00:23:54,309
+<font color="#ffff00">Ele é maduro, atencioso,</font>
+
+524
+00:23:54,553 --> 00:23:55,818
+<font color="#ffff00">não tem um ego.</font>
+
+525
+00:23:56,099 --> 00:23:57,535
+<font color="#ffff00">Nem o Murphy,</font>
+
+526
+00:23:57,629 --> 00:23:59,316
+<font color="#ffff00">mas acha que isso
+o qualifica para</font>
+
+527
+00:23:59,341 --> 00:24:00,756
+<font color="#ffff00">supervisionar os
+Primeiros Anos?</font>
+
+528
+00:24:01,214 --> 00:24:02,684
+<font color="#ffff00">Bem, Murphy é inteligente,</font>
+
+529
+00:24:03,239 --> 00:24:06,403
+<font color="#ffff00">mas brutalmente honesto, não tem
+respeito pela convenção social.</font>
+
+530
+00:24:06,793 --> 00:24:08,291
+<font color="#ffff00">Funcionou para Bill Belichick.</font>
+
+531
+00:24:09,692 --> 00:24:12,160
+<font color="#ffff00">The Patriots são a mais corrupta,
+desonesta organização</font>
+
+532
+00:24:12,184 --> 00:24:13,224
+<font color="#ffff00">na história do NFL.</font>
+
+533
+00:24:14,012 --> 00:24:15,183
+<font color="#ffff00">Os Seahawks não prestam.</font>
+
+534
+00:24:16,646 --> 00:24:18,942
+<font color="#ffff00">Então, como tem sido sua
+experiência aqui?</font>
+
+535
+00:24:19,647 --> 00:24:21,200
+<font color="#ffff00">Tem sido boa.</font>
+
+536
+00:24:24,562 --> 00:24:26,747
+<font color="#ffff00">Você considerou outros programas</font>
+
+537
+00:24:26,772 --> 00:24:28,445
+<font color="#ffff00">ou esse foi sua primeira escolha?</font>
+
+538
+00:24:28,688 --> 00:24:31,140
+<font color="#ffff00">Essa foi minha única escolha.</font>
+
+539
+00:24:31,751 --> 00:24:33,108
+<font color="#ffff00">Por que odeia Deus?</font>
+
+540
+00:24:34,540 --> 00:24:36,225
+<font color="#ffff00">Na verdade,</font>
+
+541
+00:24:36,756 --> 00:24:38,756
+<font color="#ffff00">Não acredito que há um Deus.</font>
+
+542
+00:24:39,927 --> 00:24:41,872
+<font color="#ffff00">Pensei que talvez fosse por que</font>
+
+543
+00:24:41,897 --> 00:24:44,663
+<font color="#ffff00">acreditava que ele odiava
+homossexuais.</font>
+
+544
+00:24:44,726 --> 00:24:46,419
+<font color="#ffff00">Não acho que seja algo</font>
+
+545
+00:24:46,444 --> 00:24:48,226
+<font color="#ffff00">que deveríamos
+discutir no trabalho.</font>
+
+546
+00:24:50,677 --> 00:24:51,919
+<font color="#ffff00">Por que não?</font>
+
+547
+00:24:54,197 --> 00:24:55,572
+<font color="#ffff00">Por que é</font>
+
+548
+00:24:56,082 --> 00:24:57,157
+<font color="#ffff00">pessoal.</font>
+
+549
+00:25:00,185 --> 00:25:01,451
+<font color="#ffff00">Tem um namorado?</font>
+
+550
+00:25:01,758 --> 00:25:03,755
+<font color="#ffff00">Sinto muito, mas
+não pode perguntar</font>
+
+551
+00:25:03,780 --> 00:25:05,161
+<font color="#ffff00">isso num ambiente de trabalho.</font>
+
+552
+00:25:05,271 --> 00:25:08,778
+<font color="#ffff00">Dr. Park, ele quer que
+conheçamos vocês.</font>
+
+553
+00:25:08,803 --> 00:25:12,212
+<font color="#ffff00">Como posso fazer isso sem
+perguntar questões pessoais?</font>
+
+554
+00:25:12,677 --> 00:25:16,162
+<font color="#ffff00">Tenho uma namorada e ela é
+muito importante para mim.</font>
+
+555
+00:25:16,187 --> 00:25:18,193
+<font color="#ffff00">Isso afeta minha vida em
+todos os sentidos.</font>
+
+556
+00:25:19,083 --> 00:25:21,137
+<font color="#ffff00">Deveria ter pensado nisso
+antes de ter dito a ela</font>
+
+557
+00:25:21,162 --> 00:25:22,981
+<font color="#ffff00">o quanto a voz dela te irritava.</font>
+
+558
+00:25:23,537 --> 00:25:26,284
+<font color="#ffff00">Disse que não me incomodava.</font>
+
+559
+00:25:26,424 --> 00:25:28,971
+<font color="#ffff00">Foi um elogio.</font>
+
+560
+00:25:28,996 --> 00:25:31,998
+<font color="#ffff00">O que escutei foi você
+criticar a voz dela,</font>
+
+561
+00:25:32,023 --> 00:25:33,666
+<font color="#ffff00">e trazer a mãe dela
+para o assunto.</font>
+
+562
+00:25:36,097 --> 00:25:37,127
+<font color="#ffff00">Você está enrolado.</font>
+
+563
+00:25:43,243 --> 00:25:44,755
+<font color="#ffff00">E a Browne?</font>
+
+564
+00:25:45,282 --> 00:25:47,749
+<font color="#ffff00">Ela talvez tenha tanto problema
+em ser líder quanto o Murphy,</font>
+
+565
+00:25:47,780 --> 00:25:49,218
+<font color="#ffff00">e sem os dons dele.</font>
+
+566
+00:25:49,349 --> 00:25:51,050
+<font color="#ffff00">Ela tem dons próprios.</font>
+
+567
+00:25:51,184 --> 00:25:53,786
+<font color="#ffff00">Sim, lidar com pacientes
+e as famílias deles.</font>
+
+568
+00:25:53,920 --> 00:25:57,084
+<font color="#ffff00">Mas com os colegas dela,
+ela pode ser insegura.</font>
+
+569
+00:25:57,445 --> 00:25:59,702
+<font color="#ffff00">A assertividade dela sempre foi
+um ponto de interrogação.</font>
+
+570
+00:25:59,773 --> 00:26:01,803
+<font color="#ffff00">Todos eles têm áreas que
+precisam melhorar,</font>
+
+571
+00:26:01,828 --> 00:26:04,936
+<font color="#ffff00">mas conheci melhor Browne
+esses meses passados.</font>
+
+572
+00:26:05,622 --> 00:26:07,653
+<font color="#ffff00">Ela é mais forte do que parece.</font>
+
+573
+00:26:09,207 --> 00:26:10,747
+<font color="#ffff00">Quando foi a última
+vez que viu alguém</font>
+
+574
+00:26:10,772 --> 00:26:12,237
+<font color="#ffff00">cavando um buraco
+de terno e gravata?</font>
+
+575
+00:26:12,262 --> 00:26:14,182
+<font color="#ffff00">Cirurgiões não cavam buracos.</font>
+
+576
+00:26:14,207 --> 00:26:17,444
+<font color="#ffff00">Eles ajudam as pessoas nas horas
+mais vulneráveis da vida deles.</font>
+
+577
+00:26:17,577 --> 00:26:20,455
+<font color="#ffff00">E não deveria pegar
+a responsabilidade</font>
+
+578
+00:26:20,480 --> 00:26:22,409
+<font color="#ffff00">se não está completamente
+comprometida a isso.</font>
+
+579
+00:26:23,049 --> 00:26:24,992
+<font color="#ffff00">Está entrando numa nova
+fase em sua carreira,</font>
+
+580
+00:26:25,017 --> 00:26:26,361
+<font color="#ffff00">posição de autoridade.</font>
+
+581
+00:26:26,386 --> 00:26:28,784
+<font color="#ffff00">Talvez minhas roupas estão te
+fazendo sentir desrespeitada.</font>
+
+582
+00:26:28,809 --> 00:26:29,872
+<font color="#ffff00">Não.</font>
+
+583
+00:26:29,897 --> 00:26:31,399
+<font color="#ffff00">A verdade é,</font>
+
+584
+00:26:31,424 --> 00:26:33,994
+<font color="#ffff00">eu odeio usar qualquer
+coisa que me faz sentir</font>
+
+585
+00:26:35,038 --> 00:26:36,068
+<font color="#ffff00">que estou de terno.</font>
+
+586
+00:26:37,123 --> 00:26:38,557
+<font color="#ffff00">Ótimas notícias.</font>
+
+587
+00:26:38,582 --> 00:26:41,240
+<font color="#ffff00">Consegui Sowinski na anestesia
+para amanhã.</font>
+
+588
+00:26:41,268 --> 00:26:42,832
+<font color="#ffff00">Por quê?
+O quê aconteceu com Foley?</font>
+
+589
+00:26:42,857 --> 00:26:44,671
+<font color="#ffff00">Nada, mas acho que
+Sowinski é melhor.</font>
+
+590
+00:26:44,696 --> 00:26:46,560
+<font color="#ffff00">E precisamos do melhor
+time para isso.</font>
+
+591
+00:26:46,585 --> 00:26:48,083
+<font color="#ffff00">Sim, concordo.</font>
+
+592
+00:26:48,108 --> 00:26:50,877
+<font color="#ffff00">Por isso que consegui o Foley.</font>
+
+593
+00:26:51,388 --> 00:26:53,032
+<font color="#ffff00">Mas Foley não age
+bem sob pressão.</font>
+
+594
+00:26:53,413 --> 00:26:54,881
+<font color="#ffff00">-Se lembra daquela vez...
+-Morgan.</font>
+
+595
+00:26:55,271 --> 00:26:56,513
+<font color="#ffff00">Precisa parar de se intrometer.</font>
+
+596
+00:26:56,538 --> 00:26:58,271
+<font color="#ffff00">Não é cirurgiã.
+Não é o seu trabalho.</font>
+
+597
+00:26:59,519 --> 00:27:01,120
+<font color="#ffff00">Meu trabalho é ajudar o paciente</font>
+
+598
+00:27:01,145 --> 00:27:03,146
+<font color="#ffff00">durante todo o processo
+de tratamento.</font>
+
+599
+00:27:03,171 --> 00:27:04,478
+<font color="#ffff00">O melhor anestesiologista para</font>
+
+600
+00:27:04,503 --> 00:27:06,114
+<font color="#ffff00">cirurgia de transplante
+é Sowinski.</font>
+
+601
+00:27:06,157 --> 00:27:08,157
+<font color="#ffff00">Já falei com Lim, então será ele.</font>
+
+602
+00:27:09,196 --> 00:27:10,226
+<font color="#ffff00">Lide com isso.</font>
+
+603
+00:27:20,106 --> 00:27:22,285
+<font color="#ffff00">Está com raiva de mim?</font>
+
+604
+00:27:25,445 --> 00:27:28,788
+<font color="#ffff00">Disse que sua voz não
+me incomoda.</font>
+
+605
+00:27:29,081 --> 00:27:31,529
+<font color="#ffff00">Foi um elogio.</font>
+
+606
+00:27:31,743 --> 00:27:35,146
+<font color="#ffff00">O que disse é que ama
+tanto meus seios</font>
+
+607
+00:27:35,171 --> 00:27:38,157
+<font color="#ffff00">que com a ajuda de fones de
+ouvido com cancelamento de ruído,</font>
+
+608
+00:27:38,291 --> 00:27:41,077
+<font color="#ffff00">você está disposto a aturar
+minha voz irritante.</font>
+
+609
+00:27:41,831 --> 00:27:42,861
+<font color="#ffff00">Sim.</font>
+
+610
+00:27:43,821 --> 00:27:45,432
+<font color="#ffff00">Não é um elogio.</font>
+
+611
+00:27:47,704 --> 00:27:49,585
+<font color="#ffff00">Então está com raiva de mim?</font>
+
+612
+00:27:49,610 --> 00:27:51,479
+<font color="#ffff00">Não estou com raiva, Shaun.
+Só ocupada,</font>
+
+613
+00:27:51,504 --> 00:27:54,251
+<font color="#ffff00">tentando manter, tipo, um bilhão
+de hackers fora de nossa rede.</font>
+
+614
+00:27:55,748 --> 00:27:57,395
+<font color="#ffff00">Na verdade, não.
+Não estou fazendo isso.</font>
+
+615
+00:27:57,420 --> 00:27:58,553
+<font color="#ffff00">Vou ir para casa.</font>
+
+616
+00:27:58,578 --> 00:28:01,585
+<font color="#ffff00">Quer tomar tequila, já?</font>
+
+617
+00:28:01,614 --> 00:28:03,591
+<font color="#ffff00">Também temos pizza sobrando.</font>
+
+618
+00:28:03,616 --> 00:28:06,018
+<font color="#ffff00">Não, não quero tequila ou pizza.</font>
+
+619
+00:28:06,043 --> 00:28:08,296
+<font color="#ffff00">Isso significa que deve
+estar com raiva.</font>
+
+620
+00:28:08,321 --> 00:28:09,421
+<font color="#ffff00">Só estou</font>
+
+621
+00:28:09,758 --> 00:28:10,875
+<font color="#ffff00">chateada.</font>
+
+622
+00:28:11,291 --> 00:28:13,260
+<font color="#ffff00">E confusa.</font>
+
+623
+00:28:13,285 --> 00:28:16,271
+<font color="#ffff00">E não acho que tem algo que
+você possa fazer sobre isso,</font>
+
+624
+00:28:16,296 --> 00:28:18,156
+<font color="#ffff00">então precisa parar de tentar
+e...</font>
+
+625
+00:28:18,660 --> 00:28:19,898
+<font color="#ffff00"> me deixar sozinha.</font>
+
+626
+00:28:28,741 --> 00:28:30,718
+<font color="#ffff00">Ela não está com raiva de mim.</font>
+
+627
+00:28:30,743 --> 00:28:32,445
+<font color="#ffff00">Ela está com raiva de você.</font>
+
+628
+00:28:32,579 --> 00:28:35,382
+<font color="#ffff00">Ela geralmente não esconde
+o que pensa.</font>
+
+629
+00:28:35,407 --> 00:28:37,086
+<font color="#ffff00">Ela não está com raiva dele.</font>
+
+630
+00:28:37,884 --> 00:28:41,020
+<font color="#ffff00">Ela sabe como ele é,
+como ele conversa.</font>
+
+631
+00:28:41,153 --> 00:28:42,391
+<font color="#ffff00">Ela está com raiva de si mesma</font>
+
+632
+00:28:42,416 --> 00:28:43,447
+<font color="#ffff00">E com medo.</font>
+
+633
+00:28:44,591 --> 00:28:46,659
+<font color="#ffff00">Todos temos aquela coisa que
+somos inseguros sobre.</font>
+
+634
+00:28:46,793 --> 00:28:48,676
+<font color="#ffff00">Por isso se apaixonar
+é arriscado.</font>
+
+635
+00:28:51,121 --> 00:28:53,208
+<font color="#ffff00">Esperamos que quando
+abaixarmos a guarda,</font>
+
+636
+00:28:53,232 --> 00:28:55,232
+<font color="#ffff00">é para a pessoa que não
+vê nossos defeitos.</font>
+
+637
+00:28:59,272 --> 00:29:00,469
+<font color="#ffff00">Então</font>
+
+638
+00:29:01,143 --> 00:29:02,493
+<font color="#ffff00">o que faço?</font>
+
+639
+00:29:03,355 --> 00:29:06,035
+<font color="#ffff00">Estava sendo honesto. Não pode
+pedir desculpa sobre isso.</font>
+
+640
+00:29:06,646 --> 00:29:08,244
+<font color="#ffff00">Tem que descobrir o
+que ela precisa para</font>
+
+641
+00:29:08,269 --> 00:29:09,710
+<font color="#ffff00">se sentir segura na
+relação de novo.</font>
+
+642
+00:29:12,752 --> 00:29:14,877
+<font color="#ffff00">Não olhe para mim.
+Estou solteira.</font>
+
+643
+00:29:19,931 --> 00:29:22,704
+<font color="#ffff00">Não cabe a mim comentar
+sobre sua vida pessoal.</font>
+
+644
+00:29:22,729 --> 00:29:24,760
+<font color="#ffff00">Você tem uma opinião.
+Vamos escutá-la.</font>
+
+645
+00:29:25,228 --> 00:29:26,258
+<font color="#ffff00">Certo.</font>
+
+646
+00:29:27,900 --> 00:29:29,702
+<font color="#ffff00">Pode ampliar na base
+do crânio dela?</font>
+
+647
+00:29:29,836 --> 00:29:31,245
+<font color="#ffff00">Posso, mas por quê?</font>
+
+648
+00:29:31,270 --> 00:29:32,462
+<font color="#ffff00">Estávamos preocupados sobre</font>
+
+649
+00:29:32,487 --> 00:29:34,275
+<font color="#ffff00">anormalidades do
+coração e metabolismo.</font>
+
+650
+00:29:34,574 --> 00:29:36,011
+<font color="#ffff00">Não devemos.</font>
+
+651
+00:29:36,036 --> 00:29:37,233
+<font color="#ffff00">Não mais.</font>
+
+652
+00:29:37,344 --> 00:29:40,079
+<font color="#ffff00">Você e Dr. Murphy
+estavam errados.</font>
+
+653
+00:29:40,104 --> 00:29:42,802
+<font color="#ffff00">Ela não tem um problema
+cardíaco ou metabólico.</font>
+
+654
+00:29:43,383 --> 00:29:45,859
+<font color="#ffff00">Ela baixo fluxo sanguíneo na
+artéria que fornece sangue</font>
+
+655
+00:29:45,884 --> 00:29:47,796
+<font color="#ffff00">na área do cérebro que
+contra a consciência.</font>
+
+656
+00:29:47,820 --> 00:29:50,890
+<font color="#ffff00">Um pequeno coágulo na
+artéria de Percheron.</font>
+
+657
+00:29:51,023 --> 00:29:54,437
+<font color="#ffff00">Se não removermos isso rápido,
+ela nunca mais acordará.</font>
+
+658
+00:30:06,548 --> 00:30:07,858
+<font color="#ffff00">Isso é incrível.</font>
+
+659
+00:30:07,883 --> 00:30:09,376
+<font color="#ffff00">Não, não é.</font>
+
+660
+00:30:10,076 --> 00:30:13,145
+<font color="#ffff00">O coração está todo fora
+do corpo e ainda batendo.</font>
+
+661
+00:30:13,170 --> 00:30:15,181
+<font color="#ffff00">É como se tivesse mente própria.</font>
+
+662
+00:30:15,206 --> 00:30:17,609
+<font color="#ffff00">Ela devia ter começado
+a reimplantação.</font>
+
+663
+00:30:17,850 --> 00:30:19,419
+<font color="#ffff00">Está tudo certo, Dra. Lim?</font>
+
+664
+00:30:19,552 --> 00:30:22,229
+<font color="#ffff00">O tumor tinha gavinhas invadindo
+a parede do átrio direito.</font>
+
+665
+00:30:22,254 --> 00:30:24,466
+<font color="#ffff00">Tiramos muito tecido para
+ter uma margem limpa,</font>
+
+666
+00:30:24,491 --> 00:30:26,278
+<font color="#ffff00">não há o suficiente
+para reconstruir</font>
+
+667
+00:30:26,303 --> 00:30:27,769
+<font color="#ffff00">câmaras de influxo
+de seu coração.</font>
+
+668
+00:30:27,794 --> 00:30:29,325
+<font color="#ffff00">E enxerto expandido PTFE?</font>
+
+669
+00:30:29,350 --> 00:30:31,407
+<font color="#ffff00">Não tem átrio restante
+para fixar o enxerto.</font>
+
+670
+00:30:31,431 --> 00:30:33,007
+<font color="#ffff00">Você pode usar a parede septal.</font>
+
+671
+00:30:33,032 --> 00:30:34,667
+<font color="#ffff00">Ele tem denso
+fibras de condução lá.</font>
+
+672
+00:30:34,692 --> 00:30:36,858
+<font color="#ffff00">Pode causar coração
+arritmias. Não se você usar...</font>
+
+673
+00:30:36,883 --> 00:30:38,587
+<font color="#ffff00">Ele tem pressão arterial baixa.</font>
+
+674
+00:30:38,649 --> 00:30:40,568
+<font color="#ffff00">Ele está com vazamentos
+nos locais de canulação.</font>
+
+675
+00:30:40,593 --> 00:30:42,819
+<font color="#ffff00">É um distúrbio causado por uso de
+marca-passo prolongado.</font>
+
+676
+00:30:42,843 --> 00:30:44,552
+<font color="#ffff00">Precisa colocar o coração
+de volta rápido.</font>
+
+677
+00:30:44,577 --> 00:30:47,834
+<font color="#ffff00">Não podemos colocar o coração de
+volta com duas câmaras faltando.</font>
+
+678
+00:30:55,321 --> 00:30:56,799
+<font color="#ffff00"><i>É uma rara complicação,</i></font>
+
+679
+00:30:56,823 --> 00:30:59,251
+<font color="#ffff00"><i>mas um coágulo sanguíneo é
+um risco em toda cirurgia.</i></font>
+
+680
+00:30:59,291 --> 00:31:00,969
+<font color="#ffff00">Está muito fundo no
+cérebro para cirurgia.</font>
+
+681
+00:31:00,993 --> 00:31:02,504
+<font color="#ffff00">Se formos por esse caminho,</font>
+
+682
+00:31:02,529 --> 00:31:05,289
+<font color="#ffff00">podemos danificar o
+PCA e matá-la.</font>
+
+683
+00:31:05,314 --> 00:31:07,875
+<font color="#ffff00">Podemos injetar um agente
+dissolvente no coágulo.</font>
+
+684
+00:31:07,967 --> 00:31:12,405
+<font color="#ffff00">Há uma probabilidade de 50%
+que não dissolverá totalmente</font>
+
+685
+00:31:12,430 --> 00:31:13,645
+<font color="#ffff00">o que poderia deixar ela com</font>
+
+686
+00:31:13,670 --> 00:31:15,250
+<font color="#ffff00">fraqueza e dificuldades
+cognitivas.</font>
+
+687
+00:31:15,274 --> 00:31:17,250
+<font color="#ffff00">Presumindo que ela acordará.</font>
+
+688
+00:31:21,781 --> 00:31:25,046
+<font color="#ffff00">Precisamos remover o coágulo.</font>
+
+689
+00:31:26,715 --> 00:31:29,208
+<font color="#ffff00">Se rompermos o
+artéria cerebral posterior</font>
+
+690
+00:31:29,233 --> 00:31:31,129
+<font color="#ffff00">ela morrerá na mesa.</font>
+
+691
+00:31:32,926 --> 00:31:34,902
+<font color="#ffff00">Ou recuperará totalmente.</font>
+
+692
+00:31:36,271 --> 00:31:38,139
+<font color="#ffff00">Foi assim que ela chegou
+nesse hospital.</font>
+
+693
+00:31:38,468 --> 00:31:40,036
+<font color="#ffff00">E é como ela saíra daqui.</font>
+
+694
+00:31:42,809 --> 00:31:44,769
+<font color="#ffff00">Prepare-a para
+stent retrieval.</font>
+
+695
+00:31:46,365 --> 00:31:49,316
+<font color="#ffff00">Estou colocando plaquetas
+e plasma fresco congelado.</font>
+
+696
+00:31:49,341 --> 00:31:51,356
+<font color="#ffff00">A pressão dele ainda é mínima,</font>
+
+697
+00:31:51,381 --> 00:31:53,162
+<font color="#ffff00">mas o sangramento está
+diminuindo.</font>
+
+698
+00:31:53,187 --> 00:31:54,353
+<font color="#ffff00">Não por muito tempo.</font>
+
+699
+00:31:54,378 --> 00:31:56,845
+<font color="#ffff00">Submucosa do intestino delgado
+tem a conformidade certa</font>
+
+700
+00:31:56,870 --> 00:31:58,445
+<font color="#ffff00">para moldar as paredes
+da câmara, mas...</font>
+
+701
+00:31:58,470 --> 00:31:59,955
+<font color="#ffff00">Não tem suficiente
+para cobrir a área.</font>
+
+702
+00:31:59,980 --> 00:32:02,263
+<font color="#ffff00">Se usar pouco ele terá
+insuficiência cardíaca em um mês.</font>
+
+703
+00:32:02,310 --> 00:32:03,998
+<font color="#ffff00">Eu sei. Por isso o "mas".</font>
+
+704
+00:32:04,023 --> 00:32:05,705
+<font color="#ffff00">Quão grossa está
+a fáscia profunda?</font>
+
+705
+00:32:05,730 --> 00:32:07,841
+<font color="#ffff00">-Se estiver maior que 2 mm...
+-Morgan.</font>
+
+706
+00:32:08,514 --> 00:32:09,544
+<font color="#ffff00">Saia.</font>
+
+707
+00:32:09,696 --> 00:32:11,097
+<font color="#ffff00">Desculpe. Eu...
+Eu vou ficar quieta.</font>
+
+708
+00:32:11,122 --> 00:32:12,440
+<font color="#ffff00">Não, não vai.
+Você não consegue.</font>
+
+709
+00:32:12,465 --> 00:32:13,888
+<font color="#ffff00">Então saia da galeria.</font>
+
+710
+00:32:16,572 --> 00:32:17,602
+<font color="#ffff00">Agora.</font>
+
+711
+00:32:23,743 --> 00:32:27,288
+<font color="#ffff00">Precisamos de 2.6 mm de tecido
+grosso, perfeitamente complacente</font>
+
+712
+00:32:27,313 --> 00:32:29,682
+<font color="#ffff00">para o enchimento arterial e
+pressão contrátil.</font>
+
+713
+00:32:29,816 --> 00:32:31,026
+<font color="#ffff00">Se fosse apenas a válvula,</font>
+
+714
+00:32:31,051 --> 00:32:32,855
+<font color="#ffff00">usaríamos um enxerto
+bovino no pericárdio.</font>
+
+715
+00:32:33,085 --> 00:32:34,937
+<font color="#ffff00">Mas o tecido bovino
+não é durável</font>
+
+716
+00:32:34,962 --> 00:32:36,813
+<font color="#ffff00">o suficiente para a
+cavidade inteira.</font>
+
+717
+00:32:36,923 --> 00:32:39,358
+<font color="#ffff00">Colocar o tecido
+da bexiga de porco o certo.</font>
+
+718
+00:32:39,383 --> 00:32:41,404
+<font color="#ffff00">Eu uso para cirurgia
+de reconstrução de bexiga,</font>
+
+719
+00:32:41,429 --> 00:32:42,629
+<font color="#ffff00"> mas nunca em corações.</font>
+
+720
+00:32:42,654 --> 00:32:45,185
+<font color="#ffff00">Vamos reconstruir as paredes
+arteriais inteiras com ele.</font>
+
+721
+00:32:45,560 --> 00:32:47,122
+<font color="#ffff00">Volte ao laboratório de tecidos</font>
+
+722
+00:32:47,147 --> 00:32:49,661
+<font color="#ffff00">e pegue 200 cm
+de tecido de bexiga suína.</font>
+
+723
+00:32:59,011 --> 00:33:01,489
+<font color="#ffff00">As ondas cerebrais dela
+estão diminuindo mais.</font>
+
+724
+00:33:01,514 --> 00:33:04,261
+<font color="#ffff00">Ela tem apenas
+um vaso alimentando o tálamo.</font>
+
+725
+00:33:05,051 --> 00:33:06,986
+<font color="#ffff00">É por isso que o coágulo
+parou naquele lugar.</font>
+
+726
+00:33:07,011 --> 00:33:09,885
+<font color="#ffff00">Estou me aproximando da
+artéria de Percheron.</font>
+
+727
+00:33:10,356 --> 00:33:12,586
+<font color="#ffff00">Estou a um milímetro do coágulo.</font>
+
+728
+00:33:12,826 --> 00:33:13,856
+<font color="#ffff00">Pare aí mesmo.</font>
+
+729
+00:33:19,566 --> 00:33:20,701
+<font color="#ffff00">Se rompermos esse coágulo,</font>
+
+730
+00:33:20,726 --> 00:33:23,266
+<font color="#ffff00">vamos causar um banho de êmbolos
+ dentro do cérebro dela.</font>
+
+731
+00:33:46,520 --> 00:33:47,931
+<font color="#ffff00">Implantando o retriever.</font>
+
+732
+00:33:51,279 --> 00:33:52,807
+<font color="#ffff00">O EEG
+acabou de ficar sem atividade.</font>
+
+733
+00:33:52,832 --> 00:33:53,862
+<font color="#ffff00">Calma. Estou quase...</font>
+
+734
+00:33:56,503 --> 00:33:57,533
+<font color="#ffff00">Pronto.</font>
+
+735
+00:34:04,135 --> 00:34:06,237
+<font color="#ffff00">O sangue está fluindo
+pela artéria.</font>
+
+736
+00:34:06,262 --> 00:34:08,197
+<font color="#ffff00">As condições cerebrais
+parecem melhores.</font>
+
+737
+00:34:14,554 --> 00:34:16,799
+<font color="#ffff00">Isso deve preencher
+a lacuna entre</font>
+
+738
+00:34:16,824 --> 00:34:18,851
+<font color="#ffff00">a veia cava inferior e superior</font>
+
+739
+00:34:18,876 --> 00:34:20,758
+<font color="#ffff00">quando a nova
+cavidade for costurada.</font>
+
+740
+00:34:20,906 --> 00:34:22,328
+<font color="#ffff00">Onde está o enxerto?</font>
+
+741
+00:34:22,854 --> 00:34:25,140
+<font color="#ffff00">Preciso de mais esponjas.
+O sangramento está piorando.</font>
+
+742
+00:34:25,165 --> 00:34:26,609
+<font color="#ffff00">Ele está parando.</font>
+
+743
+00:34:26,633 --> 00:34:27,663
+<font color="#ffff00">Pode aplicar epinefrina?</font>
+
+744
+00:34:27,767 --> 00:34:29,110
+<font color="#ffff00">Eu já fiz.
+Ele está se esgotando.</font>
+
+745
+00:34:29,135 --> 00:34:31,088
+<font color="#ffff00">Estou ficando sem meios
+de manter a pressão alta.</font>
+
+746
+00:34:31,370 --> 00:34:32,438
+<font color="#ffff00">Peguei.</font>
+
+747
+00:34:32,572 --> 00:34:34,315
+<font color="#ffff00">Eles tinham 205 cm.</font>
+
+748
+00:34:34,621 --> 00:34:35,988
+<font color="#ffff00">Obrigada.</font>
+
+749
+00:34:36,676 --> 00:34:38,978
+<font color="#ffff00">Se quiser se vestir,
+pode assistir daqui debaixo.</font>
+
+750
+00:34:39,111 --> 00:34:40,728
+<font color="#ffff00">Definitivamente.
+Obrigado</font>
+
+751
+00:34:43,215 --> 00:34:45,151
+<font color="#ffff00">Eu pensei que dizer
+o quanto a amo</font>
+
+752
+00:34:45,176 --> 00:34:47,261
+<font color="#ffff00">na frente de outras pessoas
+faria ela se sentir bem.</font>
+
+753
+00:34:47,286 --> 00:34:49,184
+<font color="#ffff00">Mas o Dr. Guerin
+disse que eu a fiz</font>
+
+754
+00:34:49,209 --> 00:34:51,082
+<font color="#ffff00">se sentir insegura e assustada.</font>
+
+755
+00:34:51,912 --> 00:34:53,080
+<font color="#ffff00">Mulheres são sensíveis.</font>
+
+756
+00:34:53,893 --> 00:34:56,166
+<font color="#ffff00">Em relação aos defeitos delas,</font>
+
+757
+00:34:56,191 --> 00:34:58,606
+<font color="#ffff00">honestidade total é
+um procedimento de alto risco.</font>
+
+758
+00:34:58,631 --> 00:35:00,074
+<font color="#ffff00">Isso me soa sexista.</font>
+
+759
+00:35:00,099 --> 00:35:02,675
+<font color="#ffff00">Homens também não são
+inseguros sobre seus defeitos?</font>
+
+760
+00:35:02,700 --> 00:35:04,075
+<font color="#ffff00">Homens são muito, muito piores.</font>
+
+761
+00:35:04,208 --> 00:35:05,747
+<font color="#ffff00">Além disso, somos bem estúpidos.</font>
+
+762
+00:35:05,772 --> 00:35:06,848
+<font color="#ffff00">Tudo bem.</font>
+
+763
+00:35:06,873 --> 00:35:09,840
+<font color="#ffff00">O que eu faço agora?</font>
+
+764
+00:35:09,865 --> 00:35:12,325
+<font color="#ffff00">Já disse minhas coisas idiotas.</font>
+
+765
+00:35:12,350 --> 00:35:14,365
+<font color="#ffff00">Eu não quero que ela fique
+chateada comigo.</font>
+
+766
+00:35:16,583 --> 00:35:17,613
+<font color="#ffff00">Eu tenho uma ideia.</font>
+
+767
+00:35:19,794 --> 00:35:22,264
+<font color="#ffff00">Acho que essas suturas
+irão se segurar ao anel,</font>
+
+768
+00:35:22,288 --> 00:35:23,773
+<font color="#ffff00">mas estou preocupada com
+vazamentos.</font>
+
+769
+00:35:23,798 --> 00:35:25,913
+<font color="#ffff00">Podemos colocar uma segunda
+sutura pledgeted</font>
+
+770
+00:35:25,938 --> 00:35:27,485
+<font color="#ffff00">para ter certeza que
+está hemostático.</font>
+
+771
+00:35:27,510 --> 00:35:29,672
+<font color="#ffff00">Isso é surreal.</font>
+
+772
+00:35:30,462 --> 00:35:32,039
+<font color="#ffff00">É um trabalho de arte.</font>
+
+773
+00:35:34,000 --> 00:35:35,376
+<font color="#ffff00">Agora vamos colocar de volta</font>
+
+774
+00:35:35,401 --> 00:35:37,218
+<font color="#ffff00">enquanto ainda podemos
+tirá-lo vivo do by-pass.</font>
+
+775
+00:35:42,074 --> 00:35:43,314
+<font color="#ffff00">Reenchendo o coração.</font>
+
+776
+00:35:45,311 --> 00:35:46,951
+<font color="#ffff00">Temos um ritmo.</font>
+
+777
+00:36:18,173 --> 00:36:19,203
+<font color="#ffff00">Ei.</font>
+
+778
+00:36:21,096 --> 00:36:24,389
+<font color="#ffff00">Houve uma complicação durante
+a cirurgia de reconstrução.</font>
+
+779
+00:36:25,484 --> 00:36:28,342
+<font color="#ffff00">Um coágulo, que te causou
+o lapso para um coma.</font>
+
+780
+00:36:29,766 --> 00:36:31,699
+<font color="#ffff00">Nós fizemos uma segunda
+cirurgia em seu cérebro,</font>
+
+781
+00:36:31,724 --> 00:36:33,241
+<font color="#ffff00">que foi bem-sucedida.</font>
+
+782
+00:36:34,727 --> 00:36:35,795
+<font color="#ffff00">Você vai ficar bem.</font>
+
+783
+00:36:36,162 --> 00:36:37,579
+<font color="#ffff00">Mas meus seios...</font>
+
+784
+00:36:38,235 --> 00:36:39,980
+<font color="#ffff00">O coágulo ocorreu depois que</font>
+
+785
+00:36:40,005 --> 00:36:42,311
+<font color="#ffff00">terminamos de inserir
+os implantes.</font>
+
+786
+00:36:44,913 --> 00:36:47,367
+<font color="#ffff00">Acho que você vai ficar muito
+satisfeita com o resultado.</font>
+
+787
+00:36:48,813 --> 00:36:49,843
+<font color="#ffff00">Obrigada.</font>
+
+788
+00:36:58,117 --> 00:37:01,320
+<font color="#ffff00">Eu...
+acho que sinto muito.</font>
+
+789
+00:37:05,624 --> 00:37:07,309
+<font color="#ffff00">O Dr. Guerin disse que eu</font>
+
+790
+00:37:07,333 --> 00:37:11,184
+<font color="#ffff00">nunca devo dizer algo que possa
+soar negativo para uma namorada.</font>
+
+791
+00:37:11,430 --> 00:37:13,556
+<font color="#ffff00">E o Dr. Glassman disse
+que honestidade</font>
+
+792
+00:37:13,581 --> 00:37:15,760
+<font color="#ffff00">total é um procedimento
+muito arriscado.</font>
+
+793
+00:37:16,443 --> 00:37:19,396
+<font color="#ffff00">Com uma namorada é melhor mostrar
+meu amor do que</font>
+
+794
+00:37:19,490 --> 00:37:21,013
+<font color="#ffff00">tentar explicá-lo.</font>
+
+795
+00:37:23,730 --> 00:37:27,112
+<font color="#ffff00">Mas eu quero ser</font>
+
+796
+00:37:27,370 --> 00:37:29,370
+<font color="#ffff00">completamente sincero com você.</font>
+
+797
+00:37:35,421 --> 00:37:39,992
+<font color="#ffff00">Eu não gosto do seu corpo
+por ele ser excelente.</font>
+
+798
+00:37:40,305 --> 00:37:42,322
+<font color="#ffff00">Eu gosto porque é seu.</font>
+
+799
+00:37:44,797 --> 00:37:48,667
+<font color="#ffff00">E eu amo ouvir você falar.</font>
+
+800
+00:37:48,801 --> 00:37:50,536
+<font color="#ffff00">Quando eu ouço sua voz,</font>
+
+801
+00:37:51,237 --> 00:37:54,006
+<font color="#ffff00">especialmente quando
+tive um dia difícil,</font>
+
+802
+00:37:54,412 --> 00:37:55,770
+<font color="#ffff00">é reconfortante.</font>
+
+803
+00:38:01,328 --> 00:38:03,925
+<font color="#ffff00">Agora eu quero te abraçar. Posso?</font>
+
+804
+00:38:04,616 --> 00:38:05,646
+<font color="#ffff00">Eu gostaria disso.</font>
+
+805
+00:38:16,763 --> 00:38:17,793
+<font color="#ffff00">Eu amo você.</font>
+
+806
+00:38:19,398 --> 00:38:20,428
+<font color="#ffff00">Obrigada.</font>
+
+807
+00:38:22,045 --> 00:38:24,102
+<font color="#ffff00">Por sua completa sinceridade.</font>
+
+808
+00:38:31,143 --> 00:38:32,454
+<font color="#ffff00">Sua cirurgia correu bem.</font>
+
+809
+00:38:32,478 --> 00:38:33,767
+<font color="#ffff00">Com algum tempo
+na reabilitação,</font>
+
+810
+00:38:33,792 --> 00:38:35,337
+<font color="#ffff00">você deve voltar ao
+trabalho em um mês.</font>
+
+811
+00:38:36,063 --> 00:38:37,177
+<font color="#ffff00">Obrigado.</font>
+
+812
+00:38:37,383 --> 00:38:39,600
+<font color="#ffff00">Não me agradeça.
+Agradeça a sua cirurgiã.</font>
+
+813
+00:38:40,286 --> 00:38:42,170
+<font color="#ffff00">Ela fez todas as
+partes importantes.</font>
+
+814
+00:38:46,503 --> 00:38:47,831
+<font color="#ffff00">O menino de ouro da Lim entrou.</font>
+
+815
+00:38:47,856 --> 00:38:49,247
+<font color="#ffff00">Nada que possamos
+fazer sobre isso.</font>
+
+816
+00:38:49,272 --> 00:38:51,238
+<font color="#ffff00">Então isso deixa três vagas.</font>
+
+817
+00:38:51,263 --> 00:38:54,308
+<font color="#ffff00">Só de pensar em trabalhar com o
+Will Hooper por dois anos...</font>
+
+818
+00:38:54,333 --> 00:38:56,277
+<font color="#ffff00">Se a Dra. Lim acha que ele
+será um bom residente,</font>
+
+819
+00:38:56,302 --> 00:38:58,537
+<font color="#ffff00">tenho certeza de que
+ela tem boas razões.</font>
+
+820
+00:38:58,670 --> 00:39:02,208
+<font color="#ffff00">Ela provavelmente pensa que
+arrogância é útil a um cirurgião.</font>
+
+821
+00:39:02,341 --> 00:39:04,118
+<font color="#ffff00">Bem, podemos tentar
+fazê-la mudar de ideia.</font>
+
+822
+00:39:04,143 --> 00:39:06,223
+<font color="#ffff00">Ela nos pediu para avaliar
+os candidatos, não ela.</font>
+
+823
+00:39:06,248 --> 00:39:09,284
+<font color="#ffff00">Ela pediu para sermos
+totalmente honestos.</font>
+
+824
+00:39:09,481 --> 00:39:11,450
+<font color="#ffff00">"Honestidade total"
+é um termo relativo</font>
+
+825
+00:39:11,475 --> 00:39:12,976
+<font color="#ffff00">quando você está
+dizendo a sua chefe</font>
+
+826
+00:39:13,001 --> 00:39:14,419
+<font color="#ffff00">que ela está
+completamente errada.</font>
+
+827
+00:39:17,966 --> 00:39:19,872
+<font color="#ffff00">Então, Hooper está dentro.
+Quem mais?</font>
+
+828
+00:39:20,046 --> 00:39:23,270
+<font color="#ffff00">O Dr. Andrews gosta da
+Dra. Jordan Allen.</font>
+
+829
+00:39:23,295 --> 00:39:26,109
+<font color="#ffff00">Eu também.
+Ela é confiante, obstinada.</font>
+
+830
+00:39:26,134 --> 00:39:27,441
+<font color="#ffff00">Ela não é muito de
+segurar mãos,</font>
+
+831
+00:39:27,466 --> 00:39:30,017
+<font color="#ffff00">e manter Andrews
+feliz nos deixa felizes.</font>
+
+832
+00:39:30,402 --> 00:39:31,735
+<font color="#ffff00">Ainda restam mais dois.</font>
+
+833
+00:39:31,979 --> 00:39:33,079
+<font color="#ffff00">Quem é o próximo?</font>
+
+834
+00:39:33,645 --> 00:39:37,833
+<font color="#ffff00">Asher Wolke é muito
+direto sobre quem ele é.</font>
+
+835
+00:39:37,858 --> 00:39:40,103
+<font color="#ffff00">-Eu gosto disso.
+-Ele é definitivamente ansioso.</font>
+
+836
+00:39:40,128 --> 00:39:41,977
+<font color="#ffff00">E ele não poderia estar
+mais aberto a aprender.</font>
+
+837
+00:39:42,002 --> 00:39:43,115
+<font color="#ffff00">Concordo.</font>
+
+838
+00:39:43,537 --> 00:39:44,567
+<font color="#ffff00">Nós temos mais um.</font>
+
+839
+00:39:45,985 --> 00:39:47,440
+<font color="#ffff00">John Lundberg.</font>
+
+840
+00:39:48,520 --> 00:39:50,389
+<font color="#ffff00">Esperto, profissional, maduro.</font>
+
+841
+00:39:50,708 --> 00:39:51,738
+<font color="#ffff00">Ele é um acéfalo.</font>
+
+842
+00:39:52,524 --> 00:39:53,792
+<font color="#ffff00">Lundberg está dentro.</font>
+
+843
+00:39:54,105 --> 00:39:55,392
+<font color="#ffff00">Lundberg está fora.</font>
+
+844
+00:39:55,527 --> 00:39:57,471
+<font color="#ffff00">Ele veio até o meu escritório
+antes de ir embora.</font>
+
+845
+00:39:57,496 --> 00:39:59,825
+<font color="#ffff00">Falou que não está mais
+interessado.</font>
+
+846
+00:40:00,666 --> 00:40:04,020
+<font color="#ffff00">Ele disse que vocês
+não são profissionais.</font>
+
+847
+00:40:04,536 --> 00:40:06,199
+<font color="#ffff00">Bebendo no trabalho.</font>
+
+848
+00:40:07,006 --> 00:40:09,160
+<font color="#ffff00">Perguntando coisas inapropriadas.</font>
+
+849
+00:40:09,456 --> 00:40:10,486
+<font color="#ffff00">Drama de namoro.</font>
+
+850
+00:40:13,745 --> 00:40:17,268
+<font color="#ffff00">Então, quem é sua alternativa?
+Olivia Jackson ou Boardshorts?</font>
+
+851
+00:40:18,617 --> 00:40:21,838
+<font color="#ffff00">Olivia tem conhecimento,
+mas é um pouco insegura.</font>
+
+852
+00:40:22,396 --> 00:40:24,698
+<font color="#ffff00">As respostas dela
+soam como perguntas.</font>
+
+853
+00:40:24,723 --> 00:40:27,533
+<font color="#ffff00">Eu gosto do Boardshorts.
+Ele é sensível.</font>
+
+854
+00:40:27,558 --> 00:40:28,588
+<font color="#ffff00">Como uma mulher.</font>
+
+855
+00:40:34,268 --> 00:40:36,171
+<font color="#ffff00">Eu voto nos dois.</font>
+
+856
+00:40:36,936 --> 00:40:39,559
+<font color="#ffff00">Essa não é uma opção.
+Não temos o orçamento.</font>
+
+857
+00:40:41,857 --> 00:40:43,153
+<font color="#ffff00">Hooper é o pior.</font>
+
+858
+00:40:44,176 --> 00:40:45,816
+<font color="#ffff00">A pessoa que eu
+disse ser o melhor?</font>
+
+859
+00:40:46,345 --> 00:40:49,410
+<font color="#ffff00">Ele é arrogante e desagradável.</font>
+
+860
+00:40:49,551 --> 00:40:51,450
+<font color="#ffff00">Se ele trabalhar aqui,
+vamos odiá-lo,</font>
+
+861
+00:40:51,583 --> 00:40:55,279
+<font color="#ffff00">o trabalho vai ser horrível,
+e ou ele irá matar pacientes</font>
+
+862
+00:40:55,304 --> 00:40:56,575
+<font color="#ffff00">ou nós o mataremos.</font>
+
+863
+00:41:02,828 --> 00:41:05,909
+<font color="#ffff00">E não tem como você não veja
+isso, o que me leva a pensar...</font>
+
+864
+00:41:09,178 --> 00:41:10,208
+<font color="#ffff00">Você viu.</font>
+
+865
+00:41:11,298 --> 00:41:12,328
+<font color="#ffff00">Isso foi um teste.</font>
+
+866
+00:41:13,772 --> 00:41:17,481
+<font color="#ffff00">Você só queria saber se
+seríamos completamente honestos.</font>
+
+867
+00:41:19,543 --> 00:41:20,684
+<font color="#ffff00">Bem feito.</font>
+
+868
+00:41:21,775 --> 00:41:24,311
+<font color="#ffff00">Hooper é definitivamente o pior.</font>
+
+869
+00:41:24,348 --> 00:41:26,971
+<font color="#ffff00">Eu apenas o deixo na visitação
+como um favor para o conselho.</font>
+
+870
+00:41:26,996 --> 00:41:28,746
+<font color="#ffff00">Imaginei que poderia
+dar uma segunda chance</font>
+
+871
+00:41:28,771 --> 00:41:30,321
+<font color="#ffff00">depois de sua entrevista
+desagradável.</font>
+
+872
+00:41:30,478 --> 00:41:33,285
+<font color="#ffff00">E um pequeno experimento.</font>
+
+873
+00:41:35,703 --> 00:41:36,733
+<font color="#ffff00">Então...</font>
+
+874
+00:41:37,396 --> 00:41:41,833
+<font color="#ffff00">É o Jordan, Asher,</font>
+
+875
+00:41:41,968 --> 00:41:44,896
+<font color="#ffff00">Olivia, e Enrique.</font>
+
+876
+00:41:47,239 --> 00:41:49,875
+<font color="#ffff00">Pela próxima fase do
+seu treinamento cirúrgico.</font>
+
+877
+00:41:50,009 --> 00:41:51,355
+<font color="#ffff00">Vocês ajudaram a escolhê-los.</font>
+
+878
+00:41:51,380 --> 00:41:53,099
+<font color="#ffff00">Como residentes
+seniores, é o trabalho</font>
+
+879
+00:41:53,124 --> 00:41:54,421
+<font color="#ffff00">de vocês ajudar a treiná-los.</font>
+
+880
+00:41:54,446 --> 00:41:56,482
+<font color="#ffff00">E não achem que é uma
+responsabilidade simples,</font>
+
+881
+00:41:56,521 --> 00:41:58,590
+<font color="#ffff00">porque se vocês não
+os treinarem direito,</font>
+
+882
+00:41:58,850 --> 00:41:59,880
+<font color="#ffff00">pessoas morrerão.</font>
+
+883
+00:42:09,178 --> 00:42:11,983
+<font color="#00ff00">SeuSeriado.com</font>
