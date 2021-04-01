@@ -1,0 +1,3206 @@
+1
+00:00:00,797 --> 00:00:03,248
+<i>- Esse é o Codex.
+- Anteriormente em "MacGyver"...</i>
+
+2
+00:00:03,249 --> 00:00:05,201
+<i>Uma organização terrorista
+internacional</i>
+
+3
+00:00:05,202 --> 00:00:07,991
+<i>do juízo final.
+Essa ameaça é real.</i>
+
+4
+00:00:07,992 --> 00:00:10,391
+Que tal? Café da manhã
+com sua querida tia?
+
+5
+00:00:10,392 --> 00:00:12,299
+<i>Por que não vê
+o que está acontecendo?</i>
+
+6
+00:00:12,300 --> 00:00:14,907
+- Você está comprometido.
+- Você está fora da missão.
+
+7
+00:00:14,908 --> 00:00:17,201
+<i>Pai, você dizia
+que única falha verdadeira</i>
+
+8
+00:00:17,202 --> 00:00:18,607
+<i>é nem ao menos tentar.</i>
+
+9
+00:00:18,608 --> 00:00:21,103
+Vou tentar uma coisa.
+Mas significa arriscar tudo.
+
+10
+00:00:21,104 --> 00:00:22,606
+Todos que amo.
+
+11
+00:00:28,431 --> 00:00:29,831
+Sinto muito.
+
+12
+00:00:30,499 --> 00:00:33,810
+Angus MacGyver é agora
+oficialmente inimigo do estado.
+
+13
+00:00:33,811 --> 00:00:35,400
+- Riles?
+- Entre!
+
+14
+00:00:35,401 --> 00:00:37,305
+<i>- Não precisa fazer isso.</i>
+- O quê?
+
+15
+00:00:37,306 --> 00:00:38,998
+E perder toda a diversão?
+
+16
+00:00:38,999 --> 00:00:40,399
+Muito bem.
+
+17
+00:00:41,099 --> 00:00:43,909
+- A família está reunida.
+- Codex tem uma bomba!
+
+18
+00:00:46,304 --> 00:00:48,017
+Bem-vindos
+de volta à Fênix.
+
+19
+00:00:48,892 --> 00:00:50,508
+Engraçadinho.
+
+20
+00:00:59,999 --> 00:01:02,636
+MARRAKECH, MARROCOS
+
+21
+00:01:03,302 --> 00:01:06,891
+DEZ MESES E UMA PANDEMIA
+DESDE A DERROTA DO CODEX
+
+22
+00:01:20,792 --> 00:01:22,192
+IDENTIDADE POSITIVA
+
+23
+00:01:38,602 --> 00:01:40,205
+Desculpe, amigo.
+
+24
+00:01:40,502 --> 00:01:42,614
+Qual é, cara.
+Cuidado, velho.
+
+25
+00:01:44,195 --> 00:01:46,798
+- O que disse?
+- Chega.
+
+26
+00:01:59,697 --> 00:02:01,399
+Não deveria funcionar
+tão rápido.
+
+27
+00:02:01,400 --> 00:02:03,702
+Sim, posso ter dado algo a ele,
+como precaução.
+
+28
+00:02:03,703 --> 00:02:05,161
+Você...?
+Russ, eu conseguiria.
+
+29
+00:02:05,162 --> 00:02:07,406
+Melhor garantir.
+Ajude-me com as pernas dele.
+
+30
+00:02:07,407 --> 00:02:09,607
+Não precisaria,
+se me deixasse cuidar disso.
+
+31
+00:02:12,595 --> 00:02:15,308
+Vá para trás dessa coisa.
+Pensarei em algo.
+
+32
+00:02:22,195 --> 00:02:25,102
+<i>Pressão é definida como força
+exercida por unidade de área.</i>
+
+33
+00:02:25,103 --> 00:02:27,021
+<i>E como a pressão
+que alguém pode sentir</i>
+
+34
+00:02:27,022 --> 00:02:29,293
+<i>de, digamos,
+ter um chefe britânico egoísta,</i>
+
+35
+00:02:29,294 --> 00:02:32,112
+<i>o vapor cria pressão, preso
+dentro da garrafa de vidro.</i>
+
+36
+00:02:32,113 --> 00:02:33,699
+<i>Com tempo e calor
+suficiente,</i>
+
+37
+00:02:33,700 --> 00:02:35,403
+<i>a pressão interna
+criada pelo vapor</i>
+
+38
+00:02:35,404 --> 00:02:38,807
+<i>torna-se mais forte
+do que o vidro, e ele explode.</i>
+
+39
+00:02:42,707 --> 00:02:45,117
+Vire-o. Acho que a primeira
+missão nesse retorno
+
+40
+00:02:45,118 --> 00:02:48,507
+- está indo muito bem, não é?
+- Teremos que discordar nisso.
+
+41
+00:02:49,487 --> 00:02:52,688
+<i><b>Agentes: LeilaC² | Stark
+Hall | rox | Sk@llTow</b></i>
+
+42
+00:02:52,689 --> 00:02:55,892
+<i><b>Broken Soul | KetchSketch
+Lu Colorada | Athena</b></i>
+
+43
+00:02:55,893 --> 00:02:59,098
+<i><b>dreeh | curiango4
+Darrow | LineSta</b></i>
+
+44
+00:02:59,099 --> 00:03:00,700
+<i><b>Fênix:
+White Wolf</b></i>
+
+45
+00:03:00,701 --> 00:03:02,702
+<i><b>GeekS
+engenhosamente apresenta...</b></i>
+
+46
+00:03:02,703 --> 00:03:05,678
+<i><b>MacGyver - 5.01</b></i>
+
+47
+00:03:05,679 --> 00:03:08,983
+<b><i>Resort + Desi + Riley
++ Window Cleaner + Witness</b></i>
+
+48
+00:03:20,389 --> 00:03:22,202
+Finalmente, acordou.
+
+49
+00:03:22,203 --> 00:03:25,406
+Bem, teria sido antes se alguém
+não tivesse dobrado a dose.
+
+50
+00:03:25,407 --> 00:03:27,794
+Sim. Sem discussão
+na frente do refém.
+
+51
+00:03:27,795 --> 00:03:29,308
+Onde estou?
+
+52
+00:03:29,998 --> 00:03:33,000
+- Quem são vocês?
+- Isso não importa.
+
+53
+00:03:33,001 --> 00:03:35,098
+Apenas queremos
+que dê um telefonema.
+
+54
+00:03:36,051 --> 00:03:38,405
+Precisamos que nos hospede
+no Grand Zurich.
+
+55
+00:03:38,845 --> 00:03:42,609
+Dizem que é um bom lugar
+para sair do radar. Sem polícia.
+
+56
+00:03:42,610 --> 00:03:45,198
+O problema é que só aceitam
+hospedes por indicação.
+
+57
+00:03:45,612 --> 00:03:47,012
+E estou pensando,
+
+58
+00:03:47,013 --> 00:03:49,966
+em uma recomendação pessoal
+de um grande idiota,
+
+59
+00:03:49,967 --> 00:03:53,006
+igual a você,
+seria o melhor a se fazer?
+
+60
+00:03:54,009 --> 00:03:55,745
+Claramente não sabe
+quem é meu pai,
+
+61
+00:03:55,746 --> 00:03:57,838
+caso contrário,
+não falaria comigo assim.
+
+62
+00:03:57,839 --> 00:03:59,997
+Sabemos quem é o seu pai.
+
+63
+00:03:59,998 --> 00:04:02,454
+Também sabemos
+que esconde segredos dele.
+
+64
+00:04:03,810 --> 00:04:06,217
+Acho que Vincent Senior
+gostaria de saber
+
+65
+00:04:06,218 --> 00:04:09,085
+que o filho dele
+esteve usando o Grand
+
+66
+00:04:09,086 --> 00:04:11,499
+para desviar dinheiro dele.
+
+67
+00:04:12,434 --> 00:04:17,406
+US$ 10 milhões,
+para sermos exatos.
+
+68
+00:04:23,587 --> 00:04:26,625
+- Quais nomes usaremos?
+- Não somos os hóspedes.
+
+69
+00:04:27,814 --> 00:04:29,214
+Tudo bem.
+
+70
+00:04:31,450 --> 00:04:33,374
+- Vamos.
+- Meu Deus.
+
+71
+00:04:33,375 --> 00:04:35,102
+Seu telefone está quebrado.
+
+72
+00:04:37,993 --> 00:04:41,083
+ZURIQUE, SUÍÇA
+
+73
+00:04:58,542 --> 00:04:59,942
+Abram a porta!
+
+74
+00:05:15,137 --> 00:05:16,571
+Vão fazer o <i>check-in</i>?
+
+75
+00:05:16,572 --> 00:05:19,056
+Reservas no nome
+de Diaz e Henderson.
+
+76
+00:05:31,211 --> 00:05:33,148
+Vincent Brulé
+reservou para nós.
+
+77
+00:05:36,327 --> 00:05:38,638
+Vincent. Sim, claro.
+
+78
+00:05:38,639 --> 00:05:42,663
+Amigos de Vincent são amigos
+do Zurique Grand.
+
+79
+00:05:43,207 --> 00:05:45,792
+O Zurique Grand
+não é fácil de entrar.
+
+80
+00:05:45,793 --> 00:05:47,982
+<i>Primeiro, meu amigo Egor
+estará na recepção.</i>
+
+81
+00:05:47,983 --> 00:05:52,135
+<i>Ele é o porteiro. Ele é de boa.</i>
+Se você seguir as regras.
+
+82
+00:05:52,136 --> 00:05:53,786
+Aqui estão vocês.
+
+83
+00:05:53,787 --> 00:05:56,188
+Devemos enviar
+o jantar para seu quarto?
+
+84
+00:05:56,189 --> 00:05:58,951
+<i>O hotel é velho.
+Está lá há muito tempo,</i>
+
+85
+00:05:58,952 --> 00:06:00,592
+<i>então tudo tem um código.</i>
+
+86
+00:06:00,593 --> 00:06:02,459
+"Jantar"
+significa primeiros socorros.
+
+87
+00:06:02,460 --> 00:06:04,019
+Vamos aceitar o jantar.
+
+88
+00:06:04,020 --> 00:06:08,874
+Claro. Qualquer coisa além
+do spa é aberto 24h por dia.
+
+89
+00:06:08,875 --> 00:06:12,590
+"Spa" é um hospital.
+Agora, um pouco de limpeza.
+
+90
+00:06:12,591 --> 00:06:14,833
+<i>"Limpeza"
+é um código para segurança.</i>
+
+91
+00:06:14,834 --> 00:06:16,914
+Sem armas, celulares,
+
+92
+00:06:16,915 --> 00:06:20,145
+tablets ou eletrônicos
+de qualquer tipo.
+
+93
+00:06:21,082 --> 00:06:23,836
+O Zurique Grand
+tem uma longa tradição
+
+94
+00:06:23,837 --> 00:06:27,696
+de ser
+um estabelecimento pacífico.
+
+95
+00:06:32,244 --> 00:06:35,014
+Bem-vindas
+ao Zurique Grand.
+
+96
+00:06:44,552 --> 00:06:46,820
+12 HORAS ANTES
+
+97
+00:06:47,422 --> 00:06:50,253
+E ALGUNS TIROS A MENOS
+
+98
+00:06:51,669 --> 00:06:53,077
+Foi bom o treino?
+
+99
+00:06:55,351 --> 00:06:56,907
+Que bom.
+
+100
+00:06:59,141 --> 00:07:00,998
+- Como vai a casa nova?
+- Vai bem.
+
+101
+00:07:00,999 --> 00:07:02,702
+Já estou acomodada.
+
+102
+00:07:16,010 --> 00:07:18,049
+Ótimo, vocês estão aqui.
+
+103
+00:07:18,050 --> 00:07:21,788
+- Fiz uma reserva para vocês.
+- Uma reserva?
+
+104
+00:07:21,789 --> 00:07:24,438
+Não terminou bem
+da última vez que jantamos.
+
+105
+00:07:24,439 --> 00:07:25,840
+Fiquei presa no porta-malas.
+
+106
+00:07:25,841 --> 00:07:27,954
+- Sua casa foi destruído.
+- Fui despejada.
+
+107
+00:07:27,955 --> 00:07:29,409
+Não é um jantar.
+
+108
+00:07:29,735 --> 00:07:32,957
+É um fim de semana
+no Zurich Grand Resort & Spa.
+
+109
+00:07:33,375 --> 00:07:35,776
+Está nos enviando
+para um spa?
+
+110
+00:07:35,777 --> 00:07:38,354
+- Não gosta de spa?
+- Não é meu estilo.
+
+111
+00:07:38,355 --> 00:07:39,758
+Não são férias.
+
+112
+00:07:39,759 --> 00:07:43,830
+O Zurich Grand é o esconderijo
+do submundo do crime na Europa.
+
+113
+00:07:43,831 --> 00:07:47,803
+Vocês duas irão disfarçadas
+para retirar Paula Matos.
+
+114
+00:07:47,804 --> 00:07:51,219
+Paula é gerente financeira
+de Gustavo Salazar.
+
+115
+00:07:51,220 --> 00:07:53,096
+O "Açougueiro do Brasil"?
+
+116
+00:07:53,097 --> 00:07:57,242
+Apelido merecido considerando
+os corpos deixados por ele.
+
+117
+00:07:57,243 --> 00:08:00,549
+- E essa Paula Matos?
+- Paula era gerente financeira
+
+118
+00:08:00,550 --> 00:08:03,006
+de um dos negócios legítimos
+de Salazar.
+
+119
+00:08:03,007 --> 00:08:06,334
+Ano passado, ele a levou
+para o lado criminoso,
+
+120
+00:08:06,335 --> 00:08:08,420
+ameaçando matar
+o filho dela.
+
+121
+00:08:08,421 --> 00:08:11,658
+Há algumas semanas,
+ela escondeu o filho e sumiu.
+
+122
+00:08:11,659 --> 00:08:14,033
+Nossa fonte a rastreou
+até o Zurich Grand.
+
+123
+00:08:15,161 --> 00:08:18,127
+Por que iria para o esconderijo
+se ela está fugindo?
+
+124
+00:08:18,128 --> 00:08:19,969
+Todos os hóspedes
+do Zurich Grand
+
+125
+00:08:19,970 --> 00:08:21,666
+têm segurança e anonimato,
+
+126
+00:08:21,667 --> 00:08:23,621
+enquanto conseguem
+uma identidade nova,
+
+127
+00:08:23,622 --> 00:08:25,437
+novas contas em banco,
+um recomeço.
+
+128
+00:08:25,438 --> 00:08:27,631
+E as novas identidades
+são irrastreáveis
+
+129
+00:08:27,632 --> 00:08:29,533
+pela forte
+segurança cibernética.
+
+130
+00:08:29,534 --> 00:08:32,110
+E graças ao novo amigo
+de Mac e Taylor, Vincent,
+
+131
+00:08:32,111 --> 00:08:34,321
+vocês se hospedarão
+no Zurich Grand
+
+132
+00:08:34,322 --> 00:08:38,592
+como um grupo especializado
+em roubo tecnológico.
+
+133
+00:08:38,593 --> 00:08:41,402
+Conto com vocês para entrar lá,
+e retirar Paula
+
+134
+00:08:41,403 --> 00:08:43,621
+- antes que ela suma de vez.
+- Apenas nós?
+
+135
+00:08:43,622 --> 00:08:46,359
+Só vocês.
+Preciso de uma técnica
+
+136
+00:08:46,360 --> 00:08:48,232
+e uma especialista em fuga.
+
+137
+00:08:48,233 --> 00:08:51,090
+Equipe pequena,
+discreta e disfarçada.
+
+138
+00:08:51,506 --> 00:08:53,388
+- Só nós.
+- Só nós.
+
+139
+00:08:55,501 --> 00:08:56,981
+Nós conseguimos.
+
+140
+00:08:58,279 --> 00:09:01,279
+- Nós conseguimos.
+- Boa sorte. Tchau.
+
+141
+00:09:01,574 --> 00:09:02,974
+Vocês dão conta!
+
+142
+00:09:02,975 --> 00:09:06,629
+Agora me conta.
+Aconteceu algo entre elas?
+
+143
+00:09:07,076 --> 00:09:08,773
+Quando Mac
+foi atrás do Codex,
+
+144
+00:09:08,774 --> 00:09:11,508
+Riley e Desi ficaram
+em lados opostos da operação.
+
+145
+00:09:11,509 --> 00:09:14,533
+Mac e Taylor também.
+Você viu a briga entre eles.
+
+146
+00:09:14,534 --> 00:09:17,727
+Confianças foram quebradas.
+Aí veio a pandemia.
+
+147
+00:09:18,158 --> 00:09:20,496
+Eles precisam se acertarem.
+Por isso os juntou.
+
+148
+00:09:20,497 --> 00:09:23,312
+Não, eles têm as habilidades
+certas para a operação,
+
+149
+00:09:23,313 --> 00:09:26,814
+mas como bônus,
+forçará Riley e Desi,
+
+150
+00:09:26,815 --> 00:09:29,251
+e Mac e Taylor
+a terem um tempo a sós,
+
+151
+00:09:29,252 --> 00:09:31,155
+para resolverem as coisas.
+
+152
+00:09:31,391 --> 00:09:35,027
+- Isso é genial.
+- Ou muito estúpido. Veremos.
+
+153
+00:09:40,807 --> 00:09:44,591
+Esperamos que o quarto
+agrade vocês, senhoritas.
+
+154
+00:09:44,592 --> 00:09:46,688
+- Boa sorte com o jantar.
+- Obrigada.
+
+155
+00:09:46,689 --> 00:09:49,276
+Não é a primeira vez
+que terei que cozinhar.
+
+156
+00:09:57,986 --> 00:09:59,975
+Decodificando
+o sistema deles agora.
+
+157
+00:10:01,417 --> 00:10:03,339
+O resort confisca
+seus eletrônicos
+
+158
+00:10:03,340 --> 00:10:05,658
+para cortar o contato
+com o mundo exterior.
+
+159
+00:10:05,659 --> 00:10:07,420
+Nos quartos
+há tablets antigos
+
+160
+00:10:07,421 --> 00:10:09,452
+que não conseguem
+hackear nada, mas...
+
+161
+00:10:09,923 --> 00:10:12,387
+Eles não pensaram
+em verificar suas armas.
+
+162
+00:10:12,388 --> 00:10:15,137
+Modifiquei a caixa
+para transmitir um sinal
+
+163
+00:10:15,138 --> 00:10:16,967
+conectando vocês ao Phoenix,
+então...
+
+164
+00:10:17,816 --> 00:10:20,940
+Dá para configurar e usar
+a força de nossos servidores
+
+165
+00:10:20,941 --> 00:10:22,341
+para quebrar o sistema.
+
+166
+00:10:23,606 --> 00:10:25,992
+- Estamos dentro.
+- Tudo certo.
+
+167
+00:10:25,993 --> 00:10:29,133
+Double-O-Boze
+mandou bem de novo.
+
+168
+00:10:31,109 --> 00:10:33,900
+Há três semanas,
+Paula deu entrada no hotel.
+
+169
+00:10:34,457 --> 00:10:38,320
+Três dias depois,
+fez tratamento facial no Spa.
+
+170
+00:10:40,294 --> 00:10:41,694
+E depois, nada.
+
+171
+00:10:43,501 --> 00:10:45,435
+Vou usar
+o reconhecimento facial,
+
+172
+00:10:45,436 --> 00:10:47,824
+verificar se há algo
+nas câmeras.
+
+173
+00:10:49,291 --> 00:10:50,691
+Que estranho.
+
+174
+00:10:51,411 --> 00:10:54,500
+Após o tratamento facial
+ela desapareceu.
+
+175
+00:11:00,508 --> 00:11:05,081
+- Chez Gustav's? Cinco estrelas.
+- Salmão e crustáceos.
+
+176
+00:11:05,498 --> 00:11:07,842
+- Sim.
+- Com um acompanhamento...
+
+177
+00:11:09,580 --> 00:11:12,368
+de beluga iraniana.
+
+178
+00:11:12,369 --> 00:11:13,853
+Caviar.
+
+179
+00:11:14,293 --> 00:11:16,651
+- Sim.
+- Então, o que você pode
+
+180
+00:11:16,652 --> 00:11:18,614
+nos contar sobre
+"tratamentos faciais"?
+
+181
+00:11:20,227 --> 00:11:22,403
+Os tratamentos faciais
+vão custar caro.
+
+182
+00:11:22,404 --> 00:11:23,914
+Imaginei.
+
+183
+00:11:23,915 --> 00:11:28,417
+Tenho dez milhões de razões
+pelas quais você vai nos contar.
+
+184
+00:11:29,397 --> 00:11:30,920
+Qual é o problema
+do seu pai?
+
+185
+00:11:30,921 --> 00:11:34,819
+O que? Pai?
+Não sou o pai dele, certo?
+
+186
+00:11:36,801 --> 00:11:38,201
+Agora, fale.
+
+187
+00:11:40,003 --> 00:11:42,288
+Tudo bem.
+O Grand emprega os melhores
+
+188
+00:11:42,289 --> 00:11:44,640
+cirurgiões plásticos
+da Europa.
+
+189
+00:11:44,641 --> 00:11:46,062
+Pacientes ganham
+novos rostos
+
+190
+00:11:46,063 --> 00:11:48,706
+e uma nova identidade
+junto com isso.
+
+191
+00:11:48,707 --> 00:11:51,683
+Usam registros em papel
+para evitar rastro digital
+
+192
+00:11:51,684 --> 00:11:53,608
+Sabem como é,
+garantia de sigilo total.
+
+193
+00:11:53,609 --> 00:11:55,987
+Logo, eles não conectam
+as identidades antigas.
+
+194
+00:11:56,704 --> 00:11:58,104
+Sim, exatamente.
+
+195
+00:12:02,015 --> 00:12:05,799
+Então, a Paula não tem a face
+da Paula, que beleza!
+
+196
+00:12:05,800 --> 00:12:07,728
+Descobrindo
+o que Paula fez,
+
+197
+00:12:07,729 --> 00:12:10,078
+posso inseri-la
+em um programa de próteses.
+
+198
+00:12:10,079 --> 00:12:12,983
+Posso criar uma foto
+de como a Paula pode estar hoje.
+
+199
+00:12:12,984 --> 00:12:16,166
+Infelizmente, não posso hackear
+registros em papel.
+
+200
+00:12:16,167 --> 00:12:18,095
+Significa que teremos
+que roubá-los.
+
+201
+00:12:18,096 --> 00:12:21,752
+Certo, ache as especificações
+do hospital para que entremos...
+
+202
+00:12:21,753 --> 00:12:23,225
+Sim, olá.
+
+203
+00:12:24,076 --> 00:12:26,615
+Quando é sua próxima
+consulta disponível?
+
+204
+00:12:29,776 --> 00:12:31,176
+Pode me atender agora?
+
+205
+00:12:31,828 --> 00:12:33,228
+Isso é ótimo.
+
+206
+00:12:34,564 --> 00:12:35,964
+Estamos no spa.
+
+207
+00:12:38,311 --> 00:12:39,838
+- O quê?
+- Sua ferida é falsa.
+
+208
+00:12:39,839 --> 00:12:41,861
+Sim, eu sei.
+Beleza, relaxa.
+
+209
+00:12:41,862 --> 00:12:43,262
+Eu cuido disso.
+
+210
+00:12:46,295 --> 00:12:47,695
+Confie em mim.
+
+211
+00:12:51,043 --> 00:12:53,893
+Olá, minhas queridas.
+Eu sou Susie.
+
+212
+00:12:53,894 --> 00:12:57,268
+Bem-vindas ao spa.
+Por favor, por aqui.
+
+213
+00:12:59,808 --> 00:13:02,994
+- Obrigada.
+- Se eu puder ver o ferimento.
+
+214
+00:13:02,995 --> 00:13:04,395
+Sim, claro.
+
+215
+00:13:12,245 --> 00:13:15,167
+O batom de tubo pneumático
+do Bozer, sei lá qual o nome,
+
+216
+00:13:15,168 --> 00:13:16,954
+era para ser
+um último recurso.
+
+217
+00:13:17,435 --> 00:13:18,965
+Relaxe, Dez.
+
+218
+00:13:18,966 --> 00:13:20,469
+Brinquedos...
+
+219
+00:13:20,916 --> 00:13:22,518
+São feitos
+para serem usados.
+
+220
+00:13:27,744 --> 00:13:30,529
+Parece que uma bala
+afastou uma costela.
+
+221
+00:13:33,706 --> 00:13:35,504
+É subcutâneo.
+
+222
+00:13:37,018 --> 00:13:39,649
+Queima-roupa,
+resíduos de pólvora.
+
+223
+00:13:40,050 --> 00:13:41,779
+Você tem muita sorte.
+
+224
+00:13:42,567 --> 00:13:46,538
+Chamarei a doutora, ela removerá
+e vai suturar imediatamente.
+
+225
+00:13:46,539 --> 00:13:49,145
+Certo.
+Obrigada. Obrigada.
+
+226
+00:13:57,160 --> 00:13:58,797
+Beleza.
+
+227
+00:13:58,798 --> 00:14:00,741
+Cancelando
+a página da médica.
+
+228
+00:14:00,742 --> 00:14:03,805
+Chamando a enfermeira
+à uma emergência no 14º andar.
+
+229
+00:14:03,806 --> 00:14:06,706
+Deve nos dar tempo suficiente
+para achar os registros dela.
+
+230
+00:14:07,153 --> 00:14:08,553
+Vamos lá.
+
+231
+00:14:14,649 --> 00:14:16,050
+Certo.
+
+232
+00:14:16,051 --> 00:14:19,266
+<i>Precisam comparar os registros</i>
+com as prescrições médicas.
+
+233
+00:14:19,267 --> 00:14:22,469
+Há anticoagulantes usados
+antes e após a cirurgia facial,
+
+234
+00:14:22,470 --> 00:14:24,500
+que ligarão
+as duas identidades da Paula.
+
+235
+00:14:24,501 --> 00:14:26,952
+Estamos procurando arquivos
+de três semanas atrás.
+
+236
+00:14:35,063 --> 00:14:37,929
+- Aqui está.
+- Perfeito.
+
+237
+00:14:41,942 --> 00:14:43,342
+Então...
+
+238
+00:14:43,850 --> 00:14:45,250
+Estamos bem?
+
+239
+00:14:46,720 --> 00:14:50,714
+Sério? Porque tem sido
+direta demais, até para você.
+
+240
+00:14:52,303 --> 00:14:53,703
+Vê do que estou falando?
+
+241
+00:14:56,457 --> 00:14:58,639
+Olha, paciente 247.
+
+242
+00:15:00,345 --> 00:15:01,745
+Essa deve ser a Paula.
+
+243
+00:15:02,963 --> 00:15:05,323
+Enviando ao Bozer agora.
+
+244
+00:15:06,282 --> 00:15:07,682
+ACESSO NEGADO
+
+245
+00:15:14,977 --> 00:15:17,109
+Não parecem
+com a segurança do resort.
+
+246
+00:15:17,110 --> 00:15:18,510
+Temos que nos esconder.
+
+247
+00:15:20,651 --> 00:15:22,051
+Eu tenho uma ideia.
+
+248
+00:15:22,953 --> 00:15:24,353
+Siga o que eu fizer.
+
+249
+00:15:27,633 --> 00:15:29,033
+Cavalheiros.
+
+250
+00:15:29,802 --> 00:15:31,251
+Posso te ajudar?
+
+251
+00:15:34,828 --> 00:15:36,246
+Olá.
+
+252
+00:15:37,280 --> 00:15:39,669
+- O que está fazendo?
+- Salvando nossa pele.
+
+253
+00:16:03,994 --> 00:16:06,642
+- Eles estavam acreditando!
+- Não, não estavam.
+
+254
+00:16:35,055 --> 00:16:36,500
+Dez!
+
+255
+00:16:38,372 --> 00:16:42,341
+- Dez, está bem?
+- Excepcionalmente bem, Riley.
+
+256
+00:16:52,138 --> 00:16:55,411
+- Você me apunhalou também?
+- Sim.
+
+257
+00:16:55,412 --> 00:16:58,796
+Irá me agradecer em três,
+dois, um.
+
+258
+00:17:04,338 --> 00:17:05,752
+Certo.
+
+259
+00:17:06,899 --> 00:17:09,527
+Enviando isso
+para o Bozer...
+
+260
+00:17:10,930 --> 00:17:12,342
+agora.
+
+261
+00:17:12,721 --> 00:17:14,354
+São dois dos homens
+do Salazar.
+
+262
+00:17:14,355 --> 00:17:16,057
+Claramente tentando
+achar a Paula.
+
+263
+00:17:16,058 --> 00:17:18,726
+E não serão os últimos
+que Salazar mandará atrás dela
+
+264
+00:17:18,727 --> 00:17:20,340
+quando esses não voltarem.
+
+265
+00:17:20,341 --> 00:17:23,045
+Mac, Taylor, vocês tem
+que entrar lá e protegê-las.
+
+266
+00:17:23,046 --> 00:17:25,635
+Vicent, como gostaria
+de recuperar sua liberdade,
+
+267
+00:17:25,636 --> 00:17:28,147
+e seu dinheiro
+sem seu pai saber?
+
+268
+00:17:28,148 --> 00:17:31,269
+- E meu caviar?
+- Logo terá o caviar.
+
+269
+00:17:31,270 --> 00:17:33,142
+Agora sim,
+do que precisam?
+
+270
+00:17:33,143 --> 00:17:35,993
+Que nos hospede no Zurich
+como seus sócios.
+
+271
+00:17:35,994 --> 00:17:38,454
+Lá dentro, pega seu dinheiro,
+divide conosco,
+
+272
+00:17:38,455 --> 00:17:39,877
+- e deixamos você ir.
+- Mac.
+
+273
+00:17:39,878 --> 00:17:41,661
+Tudo isso desaparece.
+
+274
+00:17:45,392 --> 00:17:48,617
+- Não confio nesse cara.
+- Apenas confie em mim.
+
+275
+00:17:50,090 --> 00:17:51,492
+- O quê?
+- Recentemente
+
+276
+00:17:51,493 --> 00:17:55,607
+teve um histórico de se envolver
+demais com um alvo da Fênix.
+
+277
+00:17:56,113 --> 00:17:57,956
+O negociador não é você.
+
+278
+00:17:57,957 --> 00:18:00,157
+E você tem histórico
+de se envolver demais
+
+279
+00:18:00,158 --> 00:18:01,974
+devido
+às suas vinganças pessoais.
+
+280
+00:18:01,975 --> 00:18:03,605
+Leland matou sua equipe.
+
+281
+00:18:03,606 --> 00:18:05,461
+Pelo o que sei,
+Salazar matou sua mãe.
+
+282
+00:18:05,462 --> 00:18:07,501
+Salazar
+é totalmente diferente.
+
+283
+00:18:07,502 --> 00:18:10,110
+- Vicent é diferente.
+- Você comprou caviar para ele.
+
+284
+00:18:10,111 --> 00:18:11,876
+Sr. Ciência,
+deixe-me esclarecer.
+
+285
+00:18:11,877 --> 00:18:14,655
+Estabelecer confiança
+é melhor do que violência.
+
+286
+00:18:14,656 --> 00:18:17,977
+Se trataria disso quando
+sua tia usou com você.
+
+287
+00:18:17,978 --> 00:18:19,640
+E ela nos ajudou
+a vencer o Codex.
+
+288
+00:18:19,641 --> 00:18:22,048
+Por isso digo para usar ele
+para pegar o Salazar,
+
+289
+00:18:22,049 --> 00:18:23,862
+a menos que prefira
+lançar uma bomba
+
+290
+00:18:23,863 --> 00:18:26,566
+- e encerrar o dia.
+- Parem, vocês dois.
+
+291
+00:18:26,567 --> 00:18:29,460
+- Concordo com o Mac nisso.
+- Nenhuma surpresa.
+
+292
+00:18:29,572 --> 00:18:32,459
+<i>Tomem cuidado, mas entrem lá.
+Agora.</i>
+
+293
+00:18:34,630 --> 00:18:38,248
+Certo. Se tentar algo
+e nós não entrarmos no horário,
+
+294
+00:18:38,249 --> 00:18:42,787
+nossa sócia passará informações
+dos seus delitos para o papai.
+
+295
+00:18:42,788 --> 00:18:44,188
+Entendeu?
+
+296
+00:18:44,965 --> 00:18:46,365
+Isso seria ruim.
+
+297
+00:18:47,234 --> 00:18:48,634
+Então?
+
+298
+00:18:49,355 --> 00:18:51,207
+Temos um acordo?
+
+299
+00:18:55,785 --> 00:18:58,761
+Vamos pegar esse dinheiro.
+Só tem um problema.
+
+300
+00:18:58,762 --> 00:19:02,451
+Ninguém acreditará que são
+meus parceiros vestidos assim.
+
+301
+00:19:27,299 --> 00:19:29,821
+- Vincent.
+- Querido.
+
+302
+00:19:30,256 --> 00:19:31,919
+Adorei o terno.
+
+303
+00:19:31,920 --> 00:19:34,750
+Egor, meu amigo,
+está maravilhoso como sempre.
+
+304
+00:19:34,751 --> 00:19:36,382
+Muito feliz
+em ter você de volta.
+
+305
+00:19:36,383 --> 00:19:38,945
+Diga-me, como está o seu pai
+nesses dias?
+
+306
+00:19:38,946 --> 00:19:41,345
+Infelizmente, ele está
+meio indisposto.
+
+307
+00:19:41,346 --> 00:19:44,023
+Indisposto.
+Sinto muito por isso.
+
+308
+00:19:44,024 --> 00:19:46,801
+- Mandarei um cartão.
+- Por favor, obrigado.
+
+309
+00:19:46,802 --> 00:19:49,020
+Agora vamos registrar
+seus amigos, sim?
+
+310
+00:19:49,021 --> 00:19:50,421
+Por favor.
+
+311
+00:19:52,399 --> 00:19:53,799
+Isso dói.
+
+312
+00:19:54,153 --> 00:19:58,232
+Devia ter pensado nisso antes
+de se machucar de verdade.
+
+313
+00:19:58,233 --> 00:20:00,736
+Se não gostou do plano,
+devia ter dito algo.
+
+314
+00:20:00,737 --> 00:20:02,667
+Você nem me deixou falar
+
+315
+00:20:02,668 --> 00:20:04,821
+antes de decidir
+e fazer uma "balatomia".
+
+316
+00:20:05,621 --> 00:20:08,168
+Gostei que nem me deixou
+falar com os brutamontes
+
+317
+00:20:08,169 --> 00:20:10,109
+antes de começar a socá-los.
+
+318
+00:20:23,783 --> 00:20:25,183
+Obrigada.
+
+319
+00:20:30,671 --> 00:20:32,676
+Sério, Dez,
+o que está acontecendo?
+
+320
+00:20:39,728 --> 00:20:41,128
+Precisamos nos livrar deles.
+
+321
+00:20:41,713 --> 00:20:43,163
+Vamos.
+Ajude-me a levantá-los.
+
+322
+00:20:45,135 --> 00:20:47,677
+Ninguém os encontrará
+antes de manhã
+
+323
+00:20:47,678 --> 00:20:49,814
+e até lá Paula e Be
+já terão sumido.
+
+324
+00:20:49,815 --> 00:20:51,524
+- Quanto antes, melhor.
+- Exato.
+
+325
+00:20:51,525 --> 00:20:52,925
+Vamos amarrá-los.
+
+326
+00:20:54,344 --> 00:20:57,119
+É sempre um prazer
+tê-lo conosco.
+
+327
+00:20:57,547 --> 00:21:01,175
+<i>- Obrigado.
+- Que tenha uma boa viagem.</i>
+
+328
+00:21:01,176 --> 00:21:02,678
+<i>Claro. Não tenho sempre?</i>
+
+329
+00:21:06,133 --> 00:21:08,666
+Salazar acabou de entrar
+no hotel.
+
+330
+00:21:10,435 --> 00:21:11,835
+<i>Espere.</i>
+
+331
+00:21:11,836 --> 00:21:13,676
+O Açougueiro do Brasil
+está aí?
+
+332
+00:21:14,449 --> 00:21:15,849
+Está.
+
+333
+00:21:25,898 --> 00:21:29,260
+Construí o rosto de Paula agora,
+segundo os prontuários.
+
+334
+00:21:29,261 --> 00:21:32,070
+Fazendo reconhecimento facial
+nos hóspedes.
+
+335
+00:21:35,535 --> 00:21:37,998
+Tem uma hóspede igual
+no 15º andar.
+
+336
+00:21:42,401 --> 00:21:44,413
+Salazar entrou no spa.
+
+337
+00:21:44,899 --> 00:21:46,299
+Ele não pode procurar lá.
+
+338
+00:21:46,300 --> 00:21:48,097
+Temos que achar Paula
+antes dele.
+
+339
+00:21:48,098 --> 00:21:50,330
+<i>Espere aqui.</i>
+Lidaremos com Salazar.
+
+340
+00:21:50,331 --> 00:21:52,200
+- Finja estar ferido.
+- Mas não estou.
+
+341
+00:21:52,201 --> 00:21:54,659
+Há 26 ossos no pé
+para quebrar.
+
+342
+00:21:54,660 --> 00:21:56,799
+Escolha 5 que não precise,
+ou finja.
+
+343
+00:21:56,800 --> 00:21:58,205
+Certo.
+
+344
+00:22:09,119 --> 00:22:10,770
+<i>Boa noite.</i>
+
+345
+00:22:10,771 --> 00:22:12,666
+Estou preocupado.
+
+346
+00:22:12,667 --> 00:22:15,056
+Era para eu encontrar
+meus amigos aqui,
+
+347
+00:22:15,057 --> 00:22:17,188
+e não consigo encontrá-los.
+
+348
+00:22:17,189 --> 00:22:18,900
+Desculpe, doçura.
+Você sabe.
+
+349
+00:22:18,901 --> 00:22:21,865
+Não podemos falar nada
+sobre os convidados.
+
+350
+00:22:21,866 --> 00:22:24,011
+Sabe como são com regras.
+
+351
+00:22:25,053 --> 00:22:27,430
+Vincent. Sente-se,
+seu belo diabo.
+
+352
+00:22:27,431 --> 00:22:29,324
+Já falo com você.
+
+353
+00:22:29,325 --> 00:22:31,885
+Sem pressa, meu amor.
+Sem pressa.
+
+354
+00:22:31,886 --> 00:22:35,369
+Acho que não tem problema
+se eu mesmo der uma olhada?
+
+355
+00:22:35,370 --> 00:22:36,779
+Não, não teria, docinho.
+
+356
+00:22:36,780 --> 00:22:38,696
+<i>Diluído em pequenas doses,</i>
+
+357
+00:22:38,697 --> 00:22:40,758
+<i>óleo de meleuca
+tem propriedades de cura.</i>
+
+358
+00:22:40,759 --> 00:22:42,805
+<i>Mas em altas quantidades,</i>
+
+359
+00:22:42,806 --> 00:22:45,462
+<i>o calor vai uni-lo com a amônia
+do limpador de janela,</i>
+
+360
+00:22:45,463 --> 00:22:47,954
+<i>e você tem
+uma dissuasão eficaz.</i>
+
+361
+00:22:49,700 --> 00:22:51,370
+- Espere meu sinal.
+<i>- Entendido.</i>
+
+362
+00:22:51,371 --> 00:22:53,334
+Eu cobriria o nariz
+se fosse vocês.
+
+363
+00:22:58,273 --> 00:23:00,392
+- O que é isso?
+- Dez, Riles, vamos.
+
+364
+00:23:00,393 --> 00:23:03,068
+- Vamos seguir Salazar.
+- Por favor, me acompanhem.
+
+365
+00:23:03,069 --> 00:23:04,736
+Indo para o quarto
+da Paula.
+
+366
+00:23:06,950 --> 00:23:08,394
+Aí estão vocês.
+Vamos.
+
+367
+00:23:11,379 --> 00:23:13,657
+Sempre a seu serviço,
+Vincent.
+
+368
+00:23:15,375 --> 00:23:19,304
+- Agora, quem são esses dois?
+- Honestamente, não tenho ideia.
+
+369
+00:23:19,305 --> 00:23:22,810
+Mas o velhaco aqui
+é muito rude.
+
+370
+00:23:22,811 --> 00:23:24,470
+Vincent, o que é isso?
+
+371
+00:23:24,870 --> 00:23:26,823
+Meu pai está perfeitamente bem,
+rapazes.
+
+372
+00:23:26,824 --> 00:23:30,405
+"Indisposto" é código do hotel
+para companhias indesejáveis.
+
+373
+00:23:31,478 --> 00:23:35,110
+- Está cometendo um grande erro.
+- Estou?
+
+374
+00:23:35,111 --> 00:23:37,200
+Quando nossos sócios
+sentirem nossa falta,
+
+375
+00:23:37,201 --> 00:23:38,601
+ligarão para seu pai.
+
+376
+00:23:38,602 --> 00:23:40,755
+Quando perceberem,
+já estarei longe.
+
+377
+00:23:40,756 --> 00:23:42,658
+Egor tem tudo que preciso
+aqui no Grand
+
+378
+00:23:42,659 --> 00:23:44,813
+para eu pegar meus documentos
+e desaparecer.
+
+379
+00:23:45,999 --> 00:23:48,949
+Sinto muito ter
+que te enganar assim, cara.
+
+380
+00:23:50,445 --> 00:23:51,845
+Tchau.
+
+381
+00:23:53,936 --> 00:23:55,589
+Serviço de quarto.
+
+382
+00:24:03,046 --> 00:24:04,546
+PROCESSANDO ALGORITMO
+
+383
+00:24:04,547 --> 00:24:05,947
+PORTA DESTRANCADA
+
+384
+00:24:11,315 --> 00:24:14,435
+Para trás!
+Mãos para cima! Para cima!
+
+385
+00:24:14,436 --> 00:24:15,974
+Quem são vocês?
+
+386
+00:24:17,992 --> 00:24:19,529
+Isso é cerâmica?
+
+387
+00:24:21,203 --> 00:24:23,237
+Como passou pela segurança?
+
+388
+00:24:23,899 --> 00:24:25,830
+- Esquece.
+- Não perguntarei de novo.
+
+389
+00:24:25,831 --> 00:24:27,464
+- Quem são vocês.
+- Resumindo,
+
+390
+00:24:27,465 --> 00:24:29,111
+Salazar entrou no hotel.
+
+391
+00:24:29,112 --> 00:24:32,954
+Ele quer te matar e estamos aqui
+para impedir isso.
+
+392
+00:24:33,838 --> 00:24:35,820
+Muitas pessoas
+querem me matar.
+
+393
+00:24:35,821 --> 00:24:37,784
+Como sei que vocês
+não querem também?
+
+394
+00:24:38,749 --> 00:24:41,691
+- Por que somos as mocinhas?
+- Fale por você.
+
+395
+00:24:47,742 --> 00:24:49,311
+Estou aqui,
+
+396
+00:24:49,312 --> 00:24:53,279
+porque a morte é muito pouco
+para um canalha como Salazar.
+
+397
+00:24:53,859 --> 00:24:55,868
+Quero vê-lo apodrecer
+em uma cela,
+
+398
+00:24:55,869 --> 00:24:57,524
+como um rato engaiolado.
+
+399
+00:24:58,190 --> 00:25:00,128
+Abandonado pela família.
+
+400
+00:25:00,606 --> 00:25:02,383
+Esquecido pelo mundo.
+
+401
+00:25:05,555 --> 00:25:06,969
+Continue.
+
+402
+00:25:08,391 --> 00:25:10,075
+Confiei no Salazar.
+
+403
+00:25:14,909 --> 00:25:16,313
+Confidenciei coisas a ele.
+
+404
+00:25:16,314 --> 00:25:19,645
+Achei que tivesse refúgio,
+mas errei ao confiar nisso.
+
+405
+00:25:20,201 --> 00:25:23,620
+Ele me traiu.
+Abandonou-me para morrer.
+
+406
+00:25:26,233 --> 00:25:28,718
+Estou aqui para fazer
+você testemunhar.
+
+407
+00:25:28,719 --> 00:25:33,007
+Condená-lo.
+Por mim, pelo seu filho.
+
+408
+00:25:33,008 --> 00:25:35,391
+Pelas outras vidas
+que ele arruinou.
+
+409
+00:25:36,529 --> 00:25:38,221
+Faça-o pagar, Paula.
+
+410
+00:25:42,318 --> 00:25:44,116
+Não posso testemunhar.
+
+411
+00:25:45,092 --> 00:25:46,862
+Mas tenho algo melhor
+que isso.
+
+412
+00:25:47,374 --> 00:25:51,073
+Toda a evidência em um <i>HD</i>.
+Os registros.
+
+413
+00:25:51,074 --> 00:25:52,524
+Onde enterraram os corpos.
+
+414
+00:25:52,931 --> 00:25:55,126
+Deixei com Egor,
+por segurança.
+
+415
+00:25:55,127 --> 00:25:56,937
+Está em um cofre,
+no porão.
+
+416
+00:25:56,938 --> 00:26:00,067
+Se me tirar daqui viva,
+é todo seu.
+
+417
+00:26:02,808 --> 00:26:04,943
+Tudo bem, temos um trato.
+
+418
+00:26:04,944 --> 00:26:06,598
+Mas precisa deixar
+a arma aqui.
+
+419
+00:26:06,599 --> 00:26:08,677
+Pode haver detectores
+de metal no caminho.
+
+420
+00:26:09,371 --> 00:26:10,771
+Regras do Resort.
+
+421
+00:26:11,826 --> 00:26:13,226
+Tudo bem.
+
+422
+00:26:13,227 --> 00:26:15,690
+Agora ela quer
+seguir as regras.
+
+423
+00:26:20,776 --> 00:26:23,231
+Bem-vindos,
+ao quarto RRB.
+
+424
+00:26:23,232 --> 00:26:25,294
+É um quarto com altas
+temperaturas?
+
+425
+00:26:25,295 --> 00:26:27,363
+Resgate, refém
+e bagunceiros.
+
+426
+00:26:27,364 --> 00:26:29,280
+O Grand tem vários tipos
+de acomodações
+
+427
+00:26:29,281 --> 00:26:32,674
+para os nossos hóspedes.
+Por favor, sintam-se em casa.
+
+428
+00:26:37,202 --> 00:26:38,672
+Matty, na escuta?
+
+429
+00:26:40,629 --> 00:26:42,852
+- Matty?
+- Deixaram apenas um guarda.
+
+430
+00:26:43,256 --> 00:26:45,295
+Porque o quarto
+é muito seguro.
+
+431
+00:26:45,296 --> 00:26:46,806
+Paredes reforçadas,
+imagino,
+
+432
+00:26:46,807 --> 00:26:49,052
+para impedir
+que nos comuniquemos com alguém.
+
+433
+00:26:49,495 --> 00:26:52,127
+Barra nas janelas
+e não vejo dutos
+
+434
+00:26:52,128 --> 00:26:53,709
+que caibam um de nós.
+
+435
+00:26:53,710 --> 00:26:55,333
+Você poderia...
+
+436
+00:26:55,334 --> 00:26:58,628
+ligar para seu amigo, Vincent.
+Dar-lhe sorvete, caso nos solte.
+
+437
+00:26:58,629 --> 00:27:00,462
+Eu disse
+que ele não era confiável.
+
+438
+00:27:00,463 --> 00:27:02,179
+Nunca disse
+que ele era confiável.
+
+439
+00:27:04,128 --> 00:27:05,588
+A pergunta, na verdade, é...
+
+440
+00:27:06,089 --> 00:27:08,201
+você confia que eu consigo
+nos tirar daqui?
+
+441
+00:27:12,910 --> 00:27:15,126
+Eu poderia muito bem
+te deixar algemado.
+
+442
+00:27:19,809 --> 00:27:21,209
+Angus...
+
+443
+00:27:22,216 --> 00:27:24,855
+Eu confio em você
+para nos tirar daqui.
+
+444
+00:27:26,582 --> 00:27:28,495
+Foi tão difícil?
+
+445
+00:27:30,810 --> 00:27:32,504
+Então, é o seguinte.
+
+446
+00:27:33,714 --> 00:27:35,777
+As paredes dos banheiros
+são coladas,
+
+447
+00:27:35,778 --> 00:27:37,613
+- então podemos...
+- Não me machuque.
+
+448
+00:27:41,596 --> 00:27:44,204
+Não estamos aqui
+para te machucar.
+
+449
+00:27:47,198 --> 00:27:49,430
+Nós tivemos um problema
+no resort,
+
+450
+00:27:49,431 --> 00:27:51,977
+- e também estamos presos.
+- Eles não me trancaram.
+
+451
+00:27:52,696 --> 00:27:54,516
+E por que você está aqui?
+
+452
+00:27:54,517 --> 00:27:56,267
+Meu chefe me rastreou.
+Imaginei...
+
+453
+00:27:56,268 --> 00:27:59,096
+que o banheiro seria
+o último lugar que ele viria.
+
+454
+00:27:59,613 --> 00:28:02,001
+Você é a Paula.
+
+455
+00:28:03,106 --> 00:28:04,506
+Paula Matos.
+
+456
+00:28:06,694 --> 00:28:09,915
+Tanto para o famoso
+anonimato do Grand!
+
+457
+00:28:09,916 --> 00:28:12,610
+Novo rosto, nova vida.
+Não faça perguntas.
+
+458
+00:28:13,708 --> 00:28:16,415
+- Mentirosos filhos da puta!
+- Estamos aqui por você.
+
+459
+00:28:16,416 --> 00:28:19,016
+- Viemos te resgatar.
+- Se você é a Paula...
+
+460
+00:28:20,302 --> 00:28:22,610
+então,
+quem está com a Desi e Riley?
+
+461
+00:28:55,615 --> 00:28:57,202
+Você fez
+um bom trabalho lá...
+
+462
+00:28:57,417 --> 00:28:59,108
+por tê-la convencido a vir.
+
+463
+00:29:00,895 --> 00:29:04,710
+Mas o discurso
+sobre abertura, e família?
+
+464
+00:29:06,716 --> 00:29:08,514
+Vamos, Dez, fale comigo.
+
+465
+00:29:09,103 --> 00:29:11,444
+Quando eu e Taylor
+nos juntamos ao Codex,
+
+466
+00:29:11,445 --> 00:29:14,329
+você correu foi atrás do Mac,
+por quê?
+
+467
+00:29:14,330 --> 00:29:16,108
+Porque confio nele.
+
+468
+00:29:17,304 --> 00:29:19,104
+A questão é:
+por que você não confia?
+
+469
+00:29:21,209 --> 00:29:23,514
+Talvez eu tivesse
+se você me perguntasse.
+
+470
+00:29:24,498 --> 00:29:26,817
+Mas você não me informou
+do plano e desistiu.
+
+471
+00:29:26,818 --> 00:29:29,048
+Pois você estava ocupada
+com a bomba.
+
+472
+00:29:29,049 --> 00:29:30,509
+Esse não era meu plano.
+
+473
+00:29:31,205 --> 00:29:33,803
+- E eu parei a bomba.
+- E nós paramos o Codex.
+
+474
+00:29:41,402 --> 00:29:43,118
+Vamos tirar Paula daqui.
+
+475
+00:29:45,601 --> 00:29:49,914
+Por que você não guarda isso
+por segurança?
+
+476
+00:29:51,998 --> 00:29:53,704
+Agora ela confia em mim.
+
+477
+00:29:57,196 --> 00:29:59,204
+Eu fico com o HD.
+
+478
+00:30:02,612 --> 00:30:05,438
+Juro que te vi
+deixar isso.
+
+479
+00:30:05,439 --> 00:30:07,610
+Tenho muitos truques
+na manga.
+
+480
+00:30:08,111 --> 00:30:09,970
+É incrível
+o que tintura de cabelo
+
+481
+00:30:09,971 --> 00:30:11,371
+e maquiagem podem fazer.
+
+482
+00:30:13,603 --> 00:30:15,407
+- Quem é você?
+- Chame-me de Jane.
+
+483
+00:30:15,813 --> 00:30:18,516
+Quando Salazar pôs um alvo
+em Paula Matos,
+
+484
+00:30:18,517 --> 00:30:21,079
+Eu estraguei tudo.
+Mas ele adicionou um bônus
+
+485
+00:30:21,080 --> 00:30:23,417
+por HD de evidências
+que ela tinha.
+
+486
+00:30:23,418 --> 00:30:26,710
+Enquanto todos vão atrás
+do pote de ouro,
+
+487
+00:30:26,711 --> 00:30:28,133
+eu pegarei as contas dele
+
+488
+00:30:28,134 --> 00:30:29,834
+e as venderei
+pelo lance mais alto.
+
+489
+00:30:29,835 --> 00:30:31,367
+O que você fez com a Paula?
+
+490
+00:30:31,368 --> 00:30:34,134
+Ela está em algum lugar.
+Eu a rastreei, como vocês.
+
+491
+00:30:34,135 --> 00:30:37,849
+Fiquei no spa até mudarem
+os hóspedes.
+
+492
+00:30:37,850 --> 00:30:40,250
+Caso de alguém te visse
+revistando o quarto dela.
+
+493
+00:30:40,251 --> 00:30:43,562
+O HD, agora,
+ou sua amiga morre.
+
+494
+00:30:45,107 --> 00:30:47,965
+Devo acreditar que são
+dois super espiões
+
+495
+00:30:47,966 --> 00:30:50,308
+que vão me salvar
+do gangster mais perigoso
+
+496
+00:30:50,309 --> 00:30:52,459
+- no ocidente?
+- Ouça, prometo...
+
+497
+00:30:52,460 --> 00:30:55,365
+Essas salas são para reféns
+e vítimas de sequestro.
+
+498
+00:30:55,366 --> 00:30:57,726
+- Não vamos sair.
+- Meu colega tem um talento
+
+499
+00:30:57,727 --> 00:31:00,934
+para olhar qualquer coisa,
+problemas, peças, pessoas,
+
+500
+00:31:00,935 --> 00:31:03,181
+e ver
+o que os outros não veem.
+
+501
+00:31:03,710 --> 00:31:07,028
+Os métodos dele
+não são ortodoxos.
+
+502
+00:31:08,506 --> 00:31:11,030
+Nem sempre faz
+o que acho que deveria,
+
+503
+00:31:11,031 --> 00:31:14,200
+mas o dom dele
+
+504
+00:31:14,201 --> 00:31:16,422
+é o que o torna o melhor.
+
+505
+00:31:19,284 --> 00:31:22,403
+Apesar do passado duvidoso
+do meu colega,
+
+506
+00:31:22,404 --> 00:31:26,503
+e da tendência de fazer
+vinganças pessoais,
+
+507
+00:31:26,504 --> 00:31:28,722
+no final,
+ele sempre faz a coisa certa.
+
+508
+00:31:36,109 --> 00:31:37,991
+Devo dizer algo?
+
+509
+00:31:37,992 --> 00:31:39,531
+Certo.
+Pronto?
+
+510
+00:31:39,609 --> 00:31:41,890
+<i>Veja como sair
+de uma sala trancada.</i>
+
+511
+00:31:41,891 --> 00:31:44,461
+<i>O campo magnético da bobina
+de indução do motor</i>
+
+512
+00:31:44,462 --> 00:31:46,624
+<i>move peças críticas
+dentro da fechadura,</i>
+
+513
+00:31:46,625 --> 00:31:48,585
+<i>permitindo retirá-los</i>
+
+514
+00:31:48,586 --> 00:31:50,665
+<i>transformando
+um item doméstico comum</i>
+
+515
+00:31:50,666 --> 00:31:52,125
+<i>em uma poderosa gazua.</i>
+
+516
+00:31:56,508 --> 00:31:57,928
+O disco rígido.
+
+517
+00:31:59,013 --> 00:32:01,082
+Dê o disco rígido
+para ela logo, Dez.
+
+518
+00:32:01,718 --> 00:32:04,588
+Se eu der, ela vai atirar
+de qualquer maneira.
+
+519
+00:32:04,589 --> 00:32:08,333
+Relaxa. Certo?
+Eu cuido disso.
+
+520
+00:32:12,214 --> 00:32:15,814
+Não me fale
+para relaxar, certo?
+
+521
+00:32:15,815 --> 00:32:19,001
+De todas aqui,
+você que precisa relaxar.
+
+522
+00:32:19,002 --> 00:32:20,476
+Essa é boa.
+Preciso relaxar?
+
+523
+00:32:20,477 --> 00:32:22,602
+Olhe para você.
+Todas aqui estão tensas
+
+524
+00:32:22,603 --> 00:32:24,055
+- com sua atitude.
+- O quê?
+
+525
+00:32:24,056 --> 00:32:27,194
+- Chateada? Estragou tudo!
+- Caladas! As duas!
+
+526
+00:32:27,195 --> 00:32:30,361
+- E me dê o maldito disco.
+- Está bem.
+
+527
+00:32:31,020 --> 00:32:34,104
+Como dissemos,
+apenas relaxe!
+
+528
+00:32:36,494 --> 00:32:38,470
+Vai. Para cima! Para cima!
+
+529
+00:32:42,501 --> 00:32:44,626
+- Lá estão elas!
+- Para baixo, para baixo!
+
+530
+00:32:57,856 --> 00:32:59,256
+Está trancada.
+
+531
+00:33:01,511 --> 00:33:04,596
+- Pode me dar dois minutos?
+- Com certeza.
+
+532
+00:33:28,897 --> 00:33:31,538
+Dois minutos
+podem ter sido otimismo.
+
+533
+00:33:48,098 --> 00:33:50,215
+Consegui, vamos!
+
+534
+00:33:51,691 --> 00:33:54,853
+Rumo ao sul no segundo andar.
+Salazar está nos perseguindo.
+
+535
+00:33:54,854 --> 00:33:56,676
+Estamos indo
+com a verdadeira Paula.
+
+536
+00:33:56,677 --> 00:33:59,027
+Infelizmente, os guardas
+não estão muito atrás.
+
+537
+00:34:00,310 --> 00:34:02,413
+Alguma ideia
+de como sair daqui?
+
+538
+00:34:02,414 --> 00:34:05,273
+- Você é o cara das ideias.
+- Sei uma saída. Sigam-me.
+
+539
+00:34:05,274 --> 00:34:07,196
+Como sabemos que não é
+uma armadilha?
+
+540
+00:34:07,197 --> 00:34:09,888
+Porque quero sair
+deste hotel mais que vocês.
+
+541
+00:34:10,728 --> 00:34:12,617
+Tudo bem,
+vamos segui-la.
+
+542
+00:34:13,595 --> 00:34:16,233
+O resort alterou
+a passagem dos empregados
+
+543
+00:34:16,234 --> 00:34:18,905
+em passagens secretas,
+para que o pessoal do resort
+
+544
+00:34:18,906 --> 00:34:20,740
+e a segurança
+possa andar por aí.
+
+545
+00:34:20,741 --> 00:34:22,680
+Igualzinha a Disneylândia.
+
+546
+00:34:26,507 --> 00:34:29,746
+Quando Riley hackear o elevador,
+poderemos escapar do saguão.
+
+547
+00:34:30,213 --> 00:34:31,613
+Estou bloqueada.
+
+548
+00:34:32,483 --> 00:34:33,883
+<i>Senhoras e senhores,</i>
+
+549
+00:34:33,884 --> 00:34:36,873
+<i>descobrimos, em nosso hotel,
+visitantes indesejados.</i>
+
+550
+00:34:36,874 --> 00:34:38,864
+<i>Pedimos
+que permaneçam nos quartos,</i>
+
+551
+00:34:38,865 --> 00:34:41,943
+<i>em confinamento,
+até o assunto ser resolvido.</i>
+
+552
+00:34:41,944 --> 00:34:44,494
+<i>E, mais uma vez,
+tenham uma estadia agradável</i>
+
+553
+00:34:44,495 --> 00:34:47,535
+<i>no Zurich Grand Resort
+e Spa.</i>
+
+554
+00:34:53,977 --> 00:34:56,964
+- Devia ter ficado no banheiro.
+- Vamos tirar você daqui.
+
+555
+00:34:56,965 --> 00:34:58,634
+Posso nos tirar
+fazendo uma polia.
+
+556
+00:34:58,635 --> 00:35:00,682
+Só preciso
+de um impulso para subir.
+
+557
+00:35:01,350 --> 00:35:03,164
+Pensou no que eu pensei?
+
+558
+00:35:03,165 --> 00:35:04,958
+Mac,
+venha para a sala de operações.
+
+559
+00:35:05,373 --> 00:35:06,986
+Podem bloquear a porta?
+
+560
+00:35:09,759 --> 00:35:11,610
+Nossos amigos estão no spa.
+
+561
+00:35:13,935 --> 00:35:16,725
+Diga ao pessoal da limpeza
+para me encontrar no spa
+
+562
+00:35:16,726 --> 00:35:18,126
+com as armas.
+
+563
+00:35:18,127 --> 00:35:19,992
+Todas as armas.
+
+564
+00:35:26,051 --> 00:35:28,227
+Dez,
+pode enrolar o tubo cirúrgico
+
+565
+00:35:28,228 --> 00:35:30,043
+nas vigas de sustentação?
+
+566
+00:35:30,481 --> 00:35:32,169
+E pode me ajudar com isto?
+
+567
+00:35:51,212 --> 00:35:52,612
+Usem seus pés.
+
+568
+00:35:56,147 --> 00:35:58,950
+Certo. Todos peguem um destes,
+enrolem em volta do pulso.
+
+569
+00:35:58,951 --> 00:36:00,351
+Paula?
+
+570
+00:36:00,685 --> 00:36:03,875
+Quando eu contar até três,
+vocês quebram as válvulas.
+
+571
+00:36:03,876 --> 00:36:06,062
+Vai impulsioná-los,
+puxando-nos para cima.
+
+572
+00:36:06,063 --> 00:36:09,821
+Espere. Confia que isto
+vai nos aguentar?
+
+573
+00:36:17,241 --> 00:36:18,641
+Sim.
+
+574
+00:36:19,729 --> 00:36:21,129
+Usem suas armas!
+
+575
+00:36:22,062 --> 00:36:24,156
+Um, dois, três!
+
+576
+00:36:31,674 --> 00:36:34,241
+<i>Pressão geralmente é visto
+como algo negativo,</i>
+
+577
+00:36:34,242 --> 00:36:36,653
+<i>mas basta uma pequena
+mudança de direção...</i>
+
+578
+00:36:36,654 --> 00:36:39,383
+<i>Neste caso, tubo cirúrgico
+enrolado em uma viga</i>
+
+579
+00:36:39,384 --> 00:36:41,620
+<i>e a confiança renovada
+na equipe,</i>
+
+580
+00:36:41,621 --> 00:36:43,960
+<i>para mudar a pressão
+de algo que destrói,</i>
+
+581
+00:36:43,961 --> 00:36:45,742
+<i>para algo que levanta.</i>
+
+582
+00:36:49,111 --> 00:36:50,850
+<i>Ainda não consigo acreditar</i>
+
+583
+00:36:50,851 --> 00:36:53,382
+que o negócio
+de cilindros voadores funcionou.
+
+584
+00:36:54,283 --> 00:36:56,696
+Ele dá um jeito,
+todas as vezes.
+
+585
+00:36:56,697 --> 00:36:58,097
+Está tudo na física,
+
+586
+00:36:58,098 --> 00:37:00,003
+pois mudando a direção
+de um movimento,
+
+587
+00:37:00,004 --> 00:37:02,232
+pode levantar qualquer coisa,
+até este avião.
+
+588
+00:37:02,233 --> 00:37:04,302
+Desculpe interromper
+a aula de Ciências.
+
+589
+00:37:04,303 --> 00:37:05,917
+Era Matilda.
+Está tudo preparado
+
+590
+00:37:05,918 --> 00:37:09,331
+para seu depoimento
+em troca da imunidade.
+
+591
+00:37:09,332 --> 00:37:13,513
+E tenho uma coisinha
+para garantir que Salazar
+
+592
+00:37:13,514 --> 00:37:15,648
+nunca mais
+veja a luz do dia.
+
+593
+00:37:15,649 --> 00:37:17,858
+Eu deveria saber o que é?
+
+594
+00:37:19,095 --> 00:37:21,498
+Esse são todos os arquivos
+contidos no HD.
+
+595
+00:37:21,499 --> 00:37:24,812
+- Falamos com o recepcionista.
+- Como conseguiram isso?
+
+596
+00:37:31,114 --> 00:37:32,514
+Obrigada.
+
+597
+00:37:32,515 --> 00:37:35,788
+Fiz backup de tudo caso Salazar
+fosse atrás do meu filho.
+
+598
+00:37:35,789 --> 00:37:38,305
+Falando nisso, enviamos
+uma equipe para buscá-lo,
+
+599
+00:37:38,306 --> 00:37:41,016
+então ele estará a sua esperar
+quando você chegar.
+
+600
+00:37:41,017 --> 00:37:44,731
+Obrigada.
+Todos vocês. Muito obrigada.
+
+601
+00:37:44,732 --> 00:37:48,995
+Fazem as coisas
+de um jeito diferente, não é?
+
+602
+00:37:49,409 --> 00:37:52,251
+Isso é um eufemismo.
+
+603
+00:38:06,699 --> 00:38:08,524
+Deixe-me perguntar algo.
+
+604
+00:38:09,965 --> 00:38:13,105
+Se você tinha a informação
+por que carreguei o HD?
+
+605
+00:38:15,633 --> 00:38:17,247
+Foi para despistar
+os outros.
+
+606
+00:38:17,860 --> 00:38:20,284
+Sabia que havia algo de errado
+com nossa Paula.
+
+607
+00:38:21,919 --> 00:38:25,039
+Por isso não me falou
+sobre o plano de novo?
+
+608
+00:38:26,727 --> 00:38:28,127
+Não.
+
+609
+00:38:30,886 --> 00:38:33,490
+Desde Codex, há essa...
+
+610
+00:38:33,893 --> 00:38:36,276
+parede entre nós.
+
+611
+00:38:37,940 --> 00:38:39,340
+Então...
+
+612
+00:38:40,241 --> 00:38:41,946
+Bem, isso é culpa minha.
+
+613
+00:38:42,389 --> 00:38:45,216
+Ainda estou com raiva de você
+por ir atrás do Mac.
+
+614
+00:38:47,436 --> 00:38:48,917
+Fiz isso para protegê-lo.
+
+615
+00:38:49,831 --> 00:38:51,805
+- Eu sei.
+- Mas você está certa.
+
+616
+00:38:53,254 --> 00:38:55,722
+Não te falei sobre o plano,
+sinto muito.
+
+617
+00:38:59,153 --> 00:39:00,553
+A verdade é...
+
+618
+00:39:02,050 --> 00:39:05,485
+Estava com raiva de mim por crer
+que vocês se juntaram ao Codex.
+
+619
+00:39:08,102 --> 00:39:09,759
+Lamento não ter confiado
+em vocês.
+
+620
+00:39:12,395 --> 00:39:14,088
+Espero
+que possa me perdoar.
+
+621
+00:39:17,117 --> 00:39:19,046
+- Estamos de boa, Riles.
+- Ótimo.
+
+622
+00:39:19,047 --> 00:39:20,932
+Porque tenho
+que confessar uma coisa.
+
+623
+00:39:21,403 --> 00:39:22,803
+Odeio minha nova casa.
+
+624
+00:39:22,804 --> 00:39:26,527
+Meu vizinho do lado
+escuta Macklemore o tempo todo.
+
+625
+00:39:26,962 --> 00:39:28,848
+Também tenho
+que confessar uma coisa.
+
+626
+00:39:29,853 --> 00:39:31,413
+Nunca fui a um spa.
+
+627
+00:39:32,565 --> 00:39:34,227
+- Sério?
+- Sim.
+
+628
+00:39:35,348 --> 00:39:37,486
+- Como você relaxa?
+- Eu soco coisas.
+
+629
+00:39:38,226 --> 00:39:40,375
+Isso explica muito
+sobre você.
+
+630
+00:39:42,836 --> 00:39:45,149
+<i>- Mamãe!</i>
+- Luis!
+
+631
+00:39:50,465 --> 00:39:51,865
+Quer saber o que acho...
+
+632
+00:39:53,190 --> 00:39:56,481
+Todos pensaram que tudo voltaria
+ao normal, após Codex.
+
+633
+00:39:57,704 --> 00:40:00,322
+Tudo voltou, a maior parte.
+
+634
+00:40:00,847 --> 00:40:04,621
+Fiquei tão focado
+em seus erros passados
+
+635
+00:40:04,622 --> 00:40:06,885
+que não enxerguei os meus.
+
+636
+00:40:07,772 --> 00:40:09,172
+E eu sinto muito.
+
+637
+00:40:10,595 --> 00:40:11,995
+Vamos começar de novo?
+
+638
+00:40:14,031 --> 00:40:15,767
+Para cometer novos erros.
+
+639
+00:40:17,459 --> 00:40:20,078
+E pensar que ele...
+Achou que eu fosse seu pai?
+
+640
+00:40:20,295 --> 00:40:21,967
+- É ridículo, não é?
+- Sim.
+
+641
+00:40:21,968 --> 00:40:24,515
+Irmão mais velho bonitão,
+talvez, mas...
+
+642
+00:40:24,516 --> 00:40:26,013
+Parabéns, pessoal.
+
+643
+00:40:26,014 --> 00:40:29,606
+Depois de revisar o HD da Paula
+e a promessa do testemunho dela,
+
+644
+00:40:29,607 --> 00:40:32,406
+a polícia suíça emitiu
+mandado para prisão de Salazar.
+
+645
+00:40:32,407 --> 00:40:35,204
+E o Grand Zurich ficou feliz
+em entregá-lo,
+
+646
+00:40:35,205 --> 00:40:37,752
+visto que ele era
+<i>persona non grata</i>
+
+647
+00:40:37,753 --> 00:40:39,669
+depois de quebrar
+as regras da casa.
+
+648
+00:40:39,670 --> 00:40:41,508
+Estou um pouco curioso
+
+649
+00:40:41,509 --> 00:40:44,697
+quanto ao que aconteceu
+nosso amigo, <i>Vincent</i>.
+
+650
+00:40:45,037 --> 00:40:47,300
+Após você escapar,
+Egor se voltou contra ele.
+
+651
+00:40:47,301 --> 00:40:50,408
+Ele estava furioso com Vincent
+por trazer a Fênix para o hotel
+
+652
+00:40:50,409 --> 00:40:52,396
+e recusou-se
+a ajudá-lo a desaparecer.
+
+653
+00:40:52,397 --> 00:40:53,996
+Como sabemos tudo isso?
+
+654
+00:40:53,997 --> 00:40:56,734
+Porque Vincent correu direto
+para as autoridades.
+
+655
+00:40:57,159 --> 00:40:59,813
+Acho que a prisão
+era uma perspectiva melhor
+
+656
+00:40:59,814 --> 00:41:02,207
+do que enfrentar a ira
+do Vincent sênior.
+
+657
+00:41:02,900 --> 00:41:06,422
+- Certo.
+- Onde estão Riley e Desi?
+
+658
+00:41:06,844 --> 00:41:09,407
+Dei a elas o jato da Fênix
+para uma missão especial.
+
+659
+00:41:09,408 --> 00:41:10,808
+Espere.
+
+660
+00:41:12,248 --> 00:41:16,509
+- Aquele jato é meu.
+- Certo. Até mais.
+
+661
+00:41:16,510 --> 00:41:18,302
+Matilda,
+você parece não entender.
+
+662
+00:41:18,303 --> 00:41:20,943
+Escute, não sei quantas vezes
+tenho que dizer isso.
+
+663
+00:41:20,944 --> 00:41:23,611
+Eu literalmente
+sou dono dessa op...
+
+664
+00:41:23,612 --> 00:41:27,409
+Matilda, eu literalmente
+<i>sou dono dessa operação</i>!
+
+665
+00:41:27,410 --> 00:41:31,404
+<i>Sirva-me mais um</i>
+
+666
+00:41:31,405 --> 00:41:33,297
+<i>Um forte</i>
+
+667
+00:41:34,587 --> 00:41:37,305
+AS MALDIVAS
+
+668
+00:41:38,113 --> 00:41:41,301
+AGORA SIM
+É UM FIM DE SEMANA NO SPA
+
+669
+00:41:41,302 --> 00:41:44,014
+- Muito obrigada.
+- De nada.
+
+670
+00:41:47,496 --> 00:41:52,306
+Um brinde à sua primeira
+ida ao spa para relaxar.
+
+671
+00:41:52,805 --> 00:41:55,452
+Sabe a quê?
+À nossa primeira ida juntas.
+
+672
+00:41:55,453 --> 00:41:57,091
+A primeira de muitas.
+
+673
+00:41:57,092 --> 00:41:58,706
+<i>Pela costa</i>
+
+674
+00:41:58,707 --> 00:42:01,096
+<i>Pacífico e procurando praias</i>
+
+675
+00:42:01,097 --> 00:42:03,539
+<i>Fácil é viver no paraíso</i>
+
+676
+00:42:03,540 --> 00:42:06,599
+- Odeia a lama, não é?
+- Sim. É lama.
+
+677
+00:42:06,600 --> 00:42:10,407
+- Não sei o que fazer.
+- Você deu uma chance.
+
+678
+00:42:11,644 --> 00:42:13,712
+Estou aqui pela companhia,
+Riley.
+
+679
+00:42:14,750 --> 00:42:17,211
+- Pode sair, Dez. Tudo bem.
+- Eu não posso.
+
+680
+00:42:18,196 --> 00:42:20,301
+Acho que perdi
+a parte de baixo do biquíni.
+
+681
+00:42:20,302 --> 00:42:22,314
+- O quê?
+- Não ouse rir.
+
+682
+00:42:22,315 --> 00:42:25,415
+Não ria. Não!
+
+683
+00:42:29,416 --> 00:42:31,416
+<b>GeekSubs
+Mais que legenders!</b>
+
