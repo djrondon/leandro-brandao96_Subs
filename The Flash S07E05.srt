@@ -1,0 +1,2269 @@
+1
+00:00:01,198 --> 00:00:02,449
+<i>O que foste fazer?</i>
+
+2
+00:00:41,280 --> 00:00:42,364
+Ainda nisso?
+
+3
+00:00:42,447 --> 00:00:45,075
+Acho que sei
+como localizar o que nos atacou.
+
+4
+00:00:48,662 --> 00:00:51,707
+- O que é isso?
+- Um espetógrafo do local do ataque.
+
+5
+00:00:51,790 --> 00:00:55,752
+Reprogramei os satélites para localizarem
+o raro isótopo geotérmico.
+
+6
+00:00:56,170 --> 00:01:00,132
+- Se tivermos uma correspondência...
+- Podemos localizar o nosso alvo.
+
+7
+00:01:00,215 --> 00:01:02,301
+- Bom trabalho!
+- Obrigado.
+
+8
+00:01:04,595 --> 00:01:06,972
+Barry, estiveste nisto a noite toda.
+
+9
+00:01:07,055 --> 00:01:09,516
+Devias parar um pouco e descansar.
+
+10
+00:01:09,600 --> 00:01:12,603
+Não vou descansar
+enquanto aquilo andar à solta.
+
+11
+00:01:12,686 --> 00:01:16,940
+Além disso, com o Ralph fora
+e a Nevasca a recuperar...
+
+12
+00:01:17,024 --> 00:01:19,943
+Eu diria que ela não está só a recuperar.
+
+13
+00:01:22,654 --> 00:01:24,740
+Vejam esta transformação.
+
+14
+00:01:33,540 --> 00:01:37,669
+- Será da medicação? Estou a ver a dobrar.
+- Sim, tu e eu.
+
+15
+00:01:37,753 --> 00:01:41,256
+- Sei que é difícil assimilar.
+- Disse-te que se iam passar.
+
+16
+00:02:22,714 --> 00:02:24,174
+<i>Cecile.</i>
+
+17
+00:02:35,894 --> 00:02:38,522
+<i>Cecile.</i>
+
+18
+00:02:52,661 --> 00:02:55,914
+Quem és tu? O que queres?
+
+19
+00:02:57,040 --> 00:02:59,543
+Está na hora de vires para casa, Cecile.
+
+20
+00:03:03,505 --> 00:03:04,548
+Afasta-te de mim.
+
+21
+00:03:04,631 --> 00:03:10,095
+Não me podes controlar!
+Nunca aprendeste a tua lição.
+
+22
+00:03:30,991 --> 00:03:32,034
+Amor!
+
+23
+00:03:32,451 --> 00:03:34,036
+Cecile!
+
+24
+00:03:34,536 --> 00:03:36,705
+O que foi? Estavas a gritar.
+
+25
+00:03:36,788 --> 00:03:38,999
+Não. Eu vi alguém.
+
+26
+00:03:39,124 --> 00:03:42,502
+Eu vi alguém, estava ali e depois...
+E depois...
+
+27
+00:03:42,628 --> 00:03:45,505
+Não está aqui ninguém. Só nós.
+
+28
+00:03:46,882 --> 00:03:49,676
+Tens trabalhado muito.
+Deves ter adormecido.
+
+29
+00:03:50,552 --> 00:03:51,803
+Parecia...
+
+30
+00:03:53,764 --> 00:03:57,476
+Mas, depois, o perigo era...
+
+31
+00:03:57,559 --> 00:03:59,353
+Era tão real.
+
+32
+00:04:00,062 --> 00:04:03,440
+Acredito que sim,
+mas os pesadelos não te podem fazer mal.
+
+33
+00:04:09,321 --> 00:04:11,531
+LABORATÓRIOS STAR
+
+34
+00:04:13,283 --> 00:04:16,828
+Lembram-se de quando a arma
+da Monarca do Espelho me atingiu?
+
+35
+00:04:16,912 --> 00:04:20,791
+Desde então,
+temos tido fortes dores de cabeça.
+
+36
+00:04:22,000 --> 00:04:26,004
+Ontem à noite,
+ficou tudo confuso, e a Caity desmaiou.
+
+37
+00:04:26,630 --> 00:04:28,965
+Quando acordámos, estávamos bem.
+
+38
+00:04:29,049 --> 00:04:30,592
+Mas éramos duas.
+
+39
+00:04:35,806 --> 00:04:40,435
+O chip refletivo do espelho da Eva
+deve ter forçado os criogenes da Nevasca
+
+40
+00:04:40,519 --> 00:04:44,564
+a replicarem-se rapidamente
+e a criar uma forma nova para sobreviver.
+
+41
+00:04:45,148 --> 00:04:46,274
+É de loucos, não é?
+
+42
+00:04:47,693 --> 00:04:50,612
+Ainda conseguem ouvir
+o pensamento uma da outra?
+
+43
+00:04:50,696 --> 00:04:53,281
+Não. Só um doce silêncio.
+
+44
+00:04:53,990 --> 00:04:55,575
+E mantive os meus poderes.
+
+45
+00:04:55,659 --> 00:04:59,204
+A Caity manteve-se bioengenheira
+e cientista, o que é na boa.
+
+46
+00:04:59,287 --> 00:05:01,581
+Sempre sentiram que eram duas pessoas.
+
+47
+00:05:01,915 --> 00:05:04,292
+Agora, só têm dois corpos diferentes.
+
+48
+00:05:04,459 --> 00:05:07,546
+Não se preocupem.
+Vou voltar a unir-nos rapidamente.
+
+49
+00:05:07,713 --> 00:05:10,340
+Quanto mais esperarmos, mais difícil será.
+
+50
+00:05:12,217 --> 00:05:16,555
+Não devíamos focar-nos antes
+na guerreira que matou o Abra Kadabra?
+
+51
+00:05:16,638 --> 00:05:18,640
+Ela tem razão. E quanto à Fuerza?
+
+52
+00:05:22,436 --> 00:05:27,482
+<i>"Fuerza."</i> É "força" em espanhol.
+"Mulher-Hulk" já não estava disponível.
+
+53
+00:05:27,566 --> 00:05:32,070
+Ainda não há sinal dela,
+mas o Barry descobriu como localizá-la.
+
+54
+00:05:32,821 --> 00:05:37,075
+Ótimo! Porque, se ela consegue sobreviver
+a uma explosão de antimatéria,
+
+55
+00:05:37,159 --> 00:05:42,038
+estamos a falar de um outro nível de vilã.
+Daquelas que nos fazem mijar de medo.
+
+56
+00:05:45,459 --> 00:05:48,253
+Os satélites detetaram
+uma assinatura isotópica.
+
+57
+00:05:48,378 --> 00:05:50,380
+É a Fuerza. Para onde se dirige?
+
+58
+00:05:51,298 --> 00:05:53,258
+Para aqui. Agora.
+
+59
+00:05:58,847 --> 00:06:01,475
+Trovões e raios?
+A Fuerza é velocista também?
+
+60
+00:06:04,227 --> 00:06:05,228
+Barry.
+
+61
+00:06:09,524 --> 00:06:10,525
+Quem é aquela?
+
+62
+00:06:32,172 --> 00:06:33,507
+Ajuda-me.
+
+63
+00:06:35,383 --> 00:06:37,052
+Ajuda-me.
+
+64
+00:06:53,902 --> 00:06:56,738
+Recuperei o Poder da Velocidade,
+e acontece isto.
+
+65
+00:06:57,614 --> 00:07:00,450
+E a tua velocidade? Foi afetada?
+
+66
+00:07:00,534 --> 00:07:05,038
+Não. Pelo menos, por enquanto.
+Ainda tento perceber como isto é possível.
+
+67
+00:07:05,372 --> 00:07:06,706
+Não faço ideia.
+
+68
+00:07:06,790 --> 00:07:10,710
+- Nunca vi biométrica igual.
+- Nunca tiveste um deus como paciente.
+
+69
+00:07:10,919 --> 00:07:14,256
+O PV assumiu esta forma
+após o funeral do H.R..
+
+70
+00:07:14,381 --> 00:07:19,135
+É como Zeus a descer do Olimpo
+disfarçado de mero mortal.
+
+71
+00:07:19,219 --> 00:07:21,972
+Mas porque iria um deus
+pedir a nossa ajuda?
+
+72
+00:07:22,097 --> 00:07:25,851
+Agora, o importante é perceber
+como monitorizar a recuperação.
+
+73
+00:07:31,231 --> 00:07:32,232
+Santíssima Mãe...
+
+74
+00:07:32,315 --> 00:07:34,359
+- Estás bem?
+- Sim. É só um minuto.
+
+75
+00:07:34,442 --> 00:07:37,529
+Pus-lhe o meu Medidor de Velocidade.
+Está vermelho.
+
+76
+00:07:37,654 --> 00:07:40,282
+Se mudar,
+os níveis de energia estão a subir.
+
+77
+00:07:40,365 --> 00:07:45,537
+Se for isso, talvez tenha entrado em coma
+para se autoajudar a recuperar.
+
+78
+00:07:45,620 --> 00:07:46,538
+Faz sentido.
+
+79
+00:07:46,621 --> 00:07:51,293
+E, quando recuperar,
+pode dizer-nos quem foi que lhe fez isto.
+
+80
+00:07:52,961 --> 00:07:54,087
+O que lhe fez isto.
+
+81
+00:07:55,463 --> 00:07:59,467
+Terá sido a mesma coisa que rasga
+antimatéria como se fosse um lenço?
+
+82
+00:08:00,218 --> 00:08:02,596
+Ela está cheia de isótopos geotérmicos.
+
+83
+00:08:03,096 --> 00:08:07,601
+Achas que a Fuerza fez isto?
+Deve ter sido uma luta e peras!
+
+84
+00:08:07,684 --> 00:08:10,270
+Não se compara à luta que lhe vamos dar.
+
+85
+00:08:11,605 --> 00:08:13,440
+Certo. Mas não estamos a falar
+
+86
+00:08:13,523 --> 00:08:16,026
+de uma meta qualquer.
+
+87
+00:08:16,109 --> 00:08:20,614
+Seja lá o que for, é forte o suficiente
+para danificar o Poder da Velocidade.
+
+88
+00:08:21,323 --> 00:08:24,200
+E se ela não acordar? O que te acontece?
+
+89
+00:08:24,326 --> 00:08:27,037
+Ouçam, já enfrentámos grandes ameaças.
+
+90
+00:08:27,120 --> 00:08:31,041
+A Crise, o Savitar, o Thawne,
+vencemo-los a todos.
+
+91
+00:08:31,750 --> 00:08:35,211
+Se a Fuerza fez isto,
+ela é que devia ter medo de nós.
+
+92
+00:08:38,632 --> 00:08:41,426
+Está bem.
+Vou continuar à procura de isótopos.
+
+93
+00:08:41,551 --> 00:08:43,094
+E eu vou monitorizar o PV.
+
+94
+00:08:47,766 --> 00:08:50,477
+Achas que a Fuerza
+virá terminar o que começou.
+
+95
+00:08:53,229 --> 00:08:57,400
+Já vi o PV desaparecer uma vez.
+Não deixarei que volte a acontecer.
+
+96
+00:09:01,446 --> 00:09:03,990
+POLÍCIA DE CENTRAL CITY
+
+97
+00:09:04,074 --> 00:09:06,534
+Sim. Liga-me quando souberes algo.
+
+98
+00:09:06,618 --> 00:09:08,703
+Está bem. Obrigado. Adeus.
+
+99
+00:09:09,579 --> 00:09:10,914
+- Desculpa.
+- Tudo bem.
+
+100
+00:09:10,997 --> 00:09:15,001
+Pai, o que sabes
+sobre o assalto no CC Mercantile?
+
+101
+00:09:16,086 --> 00:09:20,048
+O assaltante entrou e saiu
+porque o guarda-noturno estava a dormir.
+
+102
+00:09:20,423 --> 00:09:22,759
+Porquê o interesse num caso encerrado?
+
+103
+00:09:22,926 --> 00:09:27,222
+O guarda contou outra coisa ao <i>The Citizen</i>
+e acho que o posso ajudar
+
+104
+00:09:27,305 --> 00:09:30,684
+a reaver o emprego
+se descobrir o que realmente aconteceu.
+
+105
+00:09:30,767 --> 00:09:32,686
+Ele não adormeceu, pai.
+
+106
+00:09:32,769 --> 00:09:37,023
+Ele teve uma visão do padrasto abusador
+a persegui-lo no banco.
+
+107
+00:09:37,107 --> 00:09:42,404
+- Muito mais real que um pesadelo.
+- O assalto foi ontem, às 23h09,
+
+108
+00:09:42,487 --> 00:09:46,741
+mais ou menos à mesma hora
+que a Cecile também teve um pesadelo.
+
+109
+00:09:49,202 --> 00:09:50,537
+Raios!
+
+110
+00:09:50,620 --> 00:09:54,457
+Se estamos a lidar
+com alguma espécie de Freddy Krueger,
+
+111
+00:09:55,542 --> 00:09:56,710
+vamos encontrá-lo.
+
+112
+00:09:56,793 --> 00:10:00,088
+Vou pedir os registos de chamadas
+sobre visões estranhas.
+
+113
+00:10:02,215 --> 00:10:06,011
+Kristen Kramer. Da Comissão
+de Logística Municipal do governador.
+
+114
+00:10:06,094 --> 00:10:08,805
+Só a esperava logo à tarde.
+
+115
+00:10:08,888 --> 00:10:12,142
+- É bom conhecê-la finalmente.
+- Gosto de começar cedo.
+
+116
+00:10:12,225 --> 00:10:14,728
+Se não chegamos cedo,
+já estamos atrasados.
+
+117
+00:10:17,480 --> 00:10:19,274
+Deve ser a filha do capitão.
+
+118
+00:10:24,112 --> 00:10:26,406
+Li sobre como sobreviveu ao sequestro
+
+119
+00:10:26,489 --> 00:10:30,702
+para aquela dimensão do espelho, certo?
+Parece ter sido aterrador.
+
+120
+00:10:32,120 --> 00:10:35,582
+- Já sobrevivi a pior.
+- Impressionante.
+
+121
+00:10:38,126 --> 00:10:41,212
+Não quis interromper.
+Podemos falar amanhã, capitão.
+
+122
+00:10:41,921 --> 00:10:44,507
+- Almoço com o governador.
+- Parece-me bem.
+
+123
+00:10:49,220 --> 00:10:55,477
+- De onde disse ela que era?
+- Comissão de Logística Municipal. Porquê?
+
+124
+00:10:59,022 --> 00:11:00,690
+Apenas outro pressentimento.
+
+125
+00:11:08,031 --> 00:11:09,032
+Que fivela fixe!
+
+126
+00:11:10,033 --> 00:11:13,244
+Não é uma fivela.
+Isto é a Matriz da Tempestade.
+
+127
+00:11:14,245 --> 00:11:15,079
+Está bem.
+
+128
+00:11:15,163 --> 00:11:19,459
+Ajudei o Thawne a construí-la para fundir
+o Ronnie e o Stein no Firestorm.
+
+129
+00:11:20,126 --> 00:11:23,379
+E isso vai ajudar
+a fundir-me a mim e à Caity.
+
+130
+00:11:23,463 --> 00:11:25,632
+Agradece-lhe. Ela descobriu como.
+
+131
+00:11:26,216 --> 00:11:30,720
+Só temos de a redefinir
+para o ADN dela e o teu ARN.
+
+132
+00:11:30,804 --> 00:11:33,932
+Basicamente, estamos
+a redefinir a fusão em fissão.
+
+133
+00:11:34,015 --> 00:11:38,394
+Esta menina só precisa de umas horas
+para carregar e... já está.
+
+134
+00:11:38,478 --> 00:11:42,649
+Podem voltar à vossa vida normal
+de duas mentes num só corpo.
+
+135
+00:11:42,732 --> 00:11:45,985
+- O que para ti já é normal.
+- Isso foi rápido.
+
+136
+00:11:46,444 --> 00:11:48,530
+Não é assim tão mau estar separada.
+
+137
+00:11:50,198 --> 00:11:53,660
+Para a Caity.
+Assim, ela pode ver <i>Isto Somos Nós</i>
+
+138
+00:11:53,785 --> 00:11:56,329
+sem que lhe grite na cabeça:
+"Desliga isso!"
+
+139
+00:11:56,412 --> 00:11:59,374
+O que disse eu
+sobre falar mal de <i>Isto Somos Nós?</i>
+
+140
+00:11:59,457 --> 00:12:00,708
+São tão sentimentais.
+
+141
+00:12:00,792 --> 00:12:03,253
+O elenco é demasiado bom para este mundo.
+
+142
+00:12:03,336 --> 00:12:09,634
+Ouve, com base no quão aliviada a Caitlin
+estava por ter pensado nesta solução,
+
+143
+00:12:09,717 --> 00:12:14,806
+suponho que sinta mesmo falta
+de te ouvir na cabeça dela.
+
+144
+00:12:15,723 --> 00:12:18,560
+Pronto. Já acabei.
+
+145
+00:12:20,353 --> 00:12:23,606
+Agora, esperamos.
+Vou continuar a verificar os satélites
+
+146
+00:12:23,690 --> 00:12:26,943
+para não termos
+outra surpresa com assinatura isotópica.
+
+147
+00:12:51,092 --> 00:12:56,431
+Então, ela é o Poder da Velocidade.
+A Iris já me pôs a par de tudo.
+
+148
+00:12:59,809 --> 00:13:00,768
+O que foi?
+
+149
+00:13:01,811 --> 00:13:07,025
+Tive um pesadelo,
+mas parecia mais uma visão.
+
+150
+00:13:08,026 --> 00:13:12,155
+Achei que, com o aumento dos meus poderes,
+a Caitlin podia examinar-me.
+
+151
+00:13:16,993 --> 00:13:19,704
+- Estás bem?
+- Não, está a acontecer outra vez.
+
+152
+00:13:19,787 --> 00:13:22,457
+É como se me estivessem
+a esfaquear o cérebro!
+
+153
+00:13:22,540 --> 00:13:25,501
+- Vou chamar a Caitlin.
+- Não. Barry, não...
+
+154
+00:13:27,462 --> 00:13:30,465
+Não é um problema médico.
+São os meus poderes.
+
+155
+00:13:30,548 --> 00:13:34,761
+É como se estivessem a detetar medo puro.
+
+156
+00:13:37,931 --> 00:13:40,016
+Está a haver um assalto na baixa.
+
+157
+00:13:40,099 --> 00:13:42,477
+Não te preocupes. A sério. Já estou bem.
+
+158
+00:13:42,560 --> 00:13:45,396
+- Tens a certeza?
+- Sim. É melhor ires.
+
+159
+00:13:48,232 --> 00:13:51,277
+Eu tomo conta dela. Vai.
+
+160
+00:14:02,205 --> 00:14:03,873
+SEGURANÇA CROWS
+
+161
+00:14:05,708 --> 00:14:07,085
+Vai esmagar-nos!
+
+162
+00:14:11,589 --> 00:14:14,259
+Graças a Deus!
+Detenha aquilo! Vai matar-nos!
+
+163
+00:14:22,558 --> 00:14:24,852
+Não há...
+
+164
+00:14:26,688 --> 00:14:27,772
+Aonde...
+
+165
+00:14:28,731 --> 00:14:30,233
+Já te vais embora?
+
+166
+00:14:42,787 --> 00:14:45,623
+A ver se percebi.
+Fizeste os guardas alucinar
+
+167
+00:14:45,707 --> 00:14:48,960
+com uma espécie de Godzilla
+que quase os esmagou?
+
+168
+00:14:49,419 --> 00:14:51,254
+Suponho que seja uma correta
+
+169
+00:14:51,337 --> 00:14:54,882
+e excessivamente simples
+avaliação da situação.
+
+170
+00:14:54,966 --> 00:14:57,885
+Mas, sim, preguei-lhes um susto de morte.
+
+171
+00:14:57,969 --> 00:15:01,055
+E, antes, dei-lhes uma visão
+de uma dúzia de curiosos
+
+172
+00:15:01,139 --> 00:15:03,766
+a serem comidos vivos
+por um <i>kaiju</i> esfaimado.
+
+173
+00:15:04,267 --> 00:15:07,603
+É horrível quando pensamos
+que chegou a nossa vez.
+
+174
+00:15:07,687 --> 00:15:11,774
+Ouve, seja lá quem fores,
+não tenho tempo para isto.
+
+175
+00:15:12,317 --> 00:15:13,901
+Credo, que mal-educado!
+
+176
+00:15:13,985 --> 00:15:17,447
+E vindo de um super-herói.
+Deixam-te ser assim?
+
+177
+00:15:18,323 --> 00:15:23,244
+Peço desculpa pela má educação,
+mas espero que gostes da Iron Heights.
+
+178
+00:15:23,328 --> 00:15:25,330
+Tenho problemas mais graves hoje.
+
+179
+00:15:25,913 --> 00:15:28,875
+Ainda não. Mas estás prestes a ter.
+
+180
+00:15:30,168 --> 00:15:33,296
+Estou a receber mais registos
+de isótopos geotérmicos.
+
+181
+00:15:35,631 --> 00:15:37,592
+Vem de onde te encontras.
+
+182
+00:15:43,556 --> 00:15:44,640
+Já tens medo?
+
+183
+00:15:46,434 --> 00:15:47,852
+Vais ter.
+
+184
+00:16:01,074 --> 00:16:02,867
+Não me consegues deter, Flash.
+
+185
+00:16:03,326 --> 00:16:04,702
+E nunca conseguirás.
+
+186
+00:16:04,786 --> 00:16:08,331
+Não. Já não tenho medo de ti.
+
+187
+00:16:08,414 --> 00:16:12,001
+Isto é só uma alucinação,
+logo, não me podes fazer mal!
+
+188
+00:16:12,835 --> 00:16:14,003
+Vais arrepender-te.
+
+189
+00:16:35,650 --> 00:16:37,652
+Perdeste, Barry.
+
+190
+00:16:48,579 --> 00:16:49,872
+<i>Barry?</i>
+
+191
+00:16:51,582 --> 00:16:52,750
+<i>Barry!</i>
+
+192
+00:16:58,673 --> 00:17:01,884
+Os teus sinais vitais estavam altos,
+mas estabilizaram,
+
+193
+00:17:02,009 --> 00:17:03,970
+graças à tua velocidade em sarar.
+
+194
+00:17:04,053 --> 00:17:06,097
+O que raio se passou ali?
+
+195
+00:17:08,433 --> 00:17:09,559
+Estava a alucinar.
+
+196
+00:17:10,893 --> 00:17:16,190
+O Thawne, o Savitar...
+Estavam a tentar matar-me.
+
+197
+00:17:16,566 --> 00:17:19,402
+- Foi como...
+- Como um pesadelo tornado realidade?
+
+198
+00:17:20,153 --> 00:17:23,114
+Sim, como os guardas na carrinha.
+
+199
+00:17:24,240 --> 00:17:27,618
+Espera, como tu.
+Ontem, tiveste um pesadelo.
+
+200
+00:17:28,035 --> 00:17:29,162
+Sim.
+
+201
+00:17:29,787 --> 00:17:33,082
+Alguém anda a transmitir medo
+para dentro das vítimas
+
+202
+00:17:33,166 --> 00:17:35,585
+e consigo sintonizá-lo, como uma antena.
+
+203
+00:17:35,668 --> 00:17:36,711
+Medo, eu percebo.
+
+204
+00:17:36,794 --> 00:17:40,006
+As alucinações podem assustar,
+mas não fazer sangrar.
+
+205
+00:17:40,089 --> 00:17:43,759
+Quem está a fazer isto
+incita reações psicossomáticas extremas.
+
+206
+00:17:43,843 --> 00:17:46,179
+A mente dele levou o corpo a magoar-se.
+
+207
+00:17:46,929 --> 00:17:50,016
+Então, se morreres na alucinação...
+
+208
+00:17:50,099 --> 00:17:51,601
+Morres na vida real.
+
+209
+00:17:51,684 --> 00:17:54,729
+Ele tinha os mesmos vestígios
+de isótopos da Fuerza.
+
+210
+00:17:54,812 --> 00:17:57,690
+- Ou seja, podemos localizá-lo, certo?
+- Certo.
+
+211
+00:17:57,773 --> 00:18:01,444
+E isso significa que a Fuerza
+e o Psico devem estar ligados.
+
+212
+00:18:01,861 --> 00:18:02,778
+Psico?
+
+213
+00:18:02,862 --> 00:18:06,491
+É um psicopata psíquico
+que causa sintomas psicossomáticos.
+
+214
+00:18:06,574 --> 00:18:08,367
+Praticamente se autodenominou.
+
+215
+00:18:08,451 --> 00:18:10,912
+Só é perigoso porque me entrou na cabeça.
+
+216
+00:18:10,995 --> 00:18:14,165
+Temos os bloqueadores mentais
+usados contra o Grodd?
+
+217
+00:18:14,290 --> 00:18:17,126
+Podemos programá-los
+para repelir as alucinações.
+
+218
+00:18:17,210 --> 00:18:21,172
+Faz isso. Se não o deixarmos entrar
+na cabeça, não nos pode magoar.
+
+219
+00:18:23,633 --> 00:18:25,968
+- O que foi?
+- Deve ter sido assustador,
+
+220
+00:18:26,052 --> 00:18:28,179
+estares preso naquele pesadelo.
+
+221
+00:18:30,473 --> 00:18:32,517
+Eu estou bem. A sério.
+
+222
+00:18:34,185 --> 00:18:37,605
+Já derrubámos aqueles mauzões.
+O Psico não é diferente.
+
+223
+00:18:38,523 --> 00:18:39,774
+Barry, eu...
+
+224
+00:18:51,118 --> 00:18:53,329
+Investigaste uma funcionária pública?
+
+225
+00:18:53,412 --> 00:18:58,334
+Só conheço uma pessoa que usa a frase:
+"Se não chegamos cedo, estamos atrasados."
+
+226
+00:18:58,417 --> 00:19:00,294
+A fonte militar do <i>The Citizen.</i>
+
+227
+00:19:00,378 --> 00:19:01,587
+A Kramer serviu.
+
+228
+00:19:01,671 --> 00:19:04,924
+Sim. Mas também acho
+que mente sobre o que faz aqui.
+
+229
+00:19:06,008 --> 00:19:10,346
+Metade da informação dela na base de dados
+do Dep. da Defesa foi apagada.
+
+230
+00:19:10,763 --> 00:19:13,015
+E se não veio para ajudar?
+
+231
+00:19:13,099 --> 00:19:14,392
+Iris,
+
+232
+00:19:15,017 --> 00:19:18,980
+de certeza que isto não é uma reação
+ao que aconteceu com a Eva?
+
+233
+00:19:19,146 --> 00:19:20,940
+Ela mentiu-te durante semanas.
+
+234
+00:19:21,023 --> 00:19:24,944
+Não tenho medo de ser enganada,
+mas de não confiar no meu instinto.
+
+235
+00:19:26,112 --> 00:19:31,492
+Algo não bate certo com a Kramer.
+Tenho a certeza. Por favor, lê o ficheiro.
+
+236
+00:19:32,994 --> 00:19:34,745
+Está bem.
+
+237
+00:19:40,626 --> 00:19:42,336
+Estes rápidos são radicais.
+
+238
+00:19:42,795 --> 00:19:45,590
+A Caity sabe nadar?
+E se, quando nos separámos,
+
+239
+00:19:45,673 --> 00:19:48,634
+eu fiquei com isso,
+e ela, agora, precisa de boias?
+
+240
+00:19:49,719 --> 00:19:51,971
+Ninguém vai precisar de boias, sim?
+
+241
+00:19:52,054 --> 00:19:53,931
+Vocês estarão novamente unidas
+
+242
+00:19:54,015 --> 00:19:56,434
+quando, e se, tiverem de nadar.
+
+243
+00:19:56,517 --> 00:19:57,727
+Nevasca!
+
+244
+00:19:59,812 --> 00:20:00,730
+Ou não.
+
+245
+00:20:01,731 --> 00:20:03,733
+Sabotaram a Matriz da Tempestade.
+
+246
+00:20:03,816 --> 00:20:06,485
+Mas fizeram parecer
+que foi um curto-circuito.
+
+247
+00:20:06,569 --> 00:20:08,237
+Antes de culpares a Nevasca...
+
+248
+00:20:08,362 --> 00:20:10,740
+Analisei o adaptador com infravermelhos
+
+249
+00:20:10,865 --> 00:20:14,076
+e adivinha a temperatura.
+Setenta graus negativos.
+
+250
+00:20:14,910 --> 00:20:20,082
+- Pronto. Estraguei a tua preciosa Matriz.
+- Porquê? Porque nos fizeste isso?
+
+251
+00:20:20,166 --> 00:20:23,544
+Vai levar semanas
+até podermos tentar fazer uma fusão.
+
+252
+00:20:23,628 --> 00:20:25,171
+Porque talvez não queira!
+
+253
+00:20:27,298 --> 00:20:28,382
+Porque não?
+
+254
+00:20:31,260 --> 00:20:32,136
+Eu...
+
+255
+00:20:35,848 --> 00:20:37,516
+Avisa-me quando souberes.
+
+256
+00:20:48,653 --> 00:20:50,821
+Isto lembra-me aquela cena
+
+257
+00:20:50,905 --> 00:20:53,991
+em que a Rebecca e o Jack discutem...
+
+258
+00:20:54,450 --> 00:20:56,952
+Vê só. Vamos! Temos de ir!
+
+259
+00:20:59,789 --> 00:21:03,918
+A assinatura isotópica do Psico
+está nos escritórios da Cleary Capital.
+
+260
+00:21:04,085 --> 00:21:07,338
+- Toca a usar os bloqueadores.
+- E a dar cabo dele!
+
+261
+00:21:10,966 --> 00:21:15,471
+Perdemos 5,3 biliões. Foi-se tudo.
+
+262
+00:21:15,805 --> 00:21:17,640
+Meu Deus! Estou arruinada.
+
+263
+00:21:20,518 --> 00:21:22,436
+Há de voltar a subir.
+
+264
+00:21:22,520 --> 00:21:25,064
+O Dow só caiu 789 pontos.
+
+265
+00:21:25,147 --> 00:21:27,316
+Há de voltar a subir. Tem de subir.
+
+266
+00:21:29,443 --> 00:21:31,445
+Podia passar o dia a fazer isto.
+
+267
+00:21:39,412 --> 00:21:40,538
+És tu outra vez.
+
+268
+00:21:41,539 --> 00:21:42,832
+Já estou entediado.
+
+269
+00:21:43,165 --> 00:21:46,877
+- Não deixaremos que magoes mais ninguém.
+- Não magoei ninguém.
+
+270
+00:21:47,294 --> 00:21:49,588
+Libertei-os de um sistema
+
+271
+00:21:49,672 --> 00:21:52,633
+que dá riqueza aos ricos
+e condena o resto.
+
+272
+00:21:52,717 --> 00:21:54,301
+Muito poético, não achas?
+
+273
+00:21:55,803 --> 00:21:59,557
+- Qual é a cena dele?
+- Acho que está a tentar compensar.
+
+274
+00:22:00,015 --> 00:22:02,184
+Não gosto dos teus amigos, Flash.
+
+275
+00:22:02,268 --> 00:22:05,354
+E, se achas
+que os bloqueadores me vão deter,
+
+276
+00:22:05,730 --> 00:22:08,774
+talvez também vocês
+estejam a precisar de liberdade.
+
+277
+00:22:19,910 --> 00:22:23,456
+Nevasca, estás presa
+por crimes contra a cidade.
+
+278
+00:22:23,539 --> 00:22:26,083
+O quê? Não. Agora, sou um dos bons.
+
+279
+00:22:26,167 --> 00:22:29,128
+Diz isso ao juiz Tanaka.
+Temos uma testemunha.
+
+280
+00:22:29,712 --> 00:22:31,547
+Contou-nos tudo o que fizeste.
+
+281
+00:22:31,630 --> 00:22:33,841
+Quem me entregou? Foi o Mark?
+
+282
+00:22:33,924 --> 00:22:34,842
+Não.
+
+283
+00:22:36,093 --> 00:22:37,470
+Foi a Caitlin Snow.
+
+284
+00:22:38,429 --> 00:22:41,682
+Não.
+
+285
+00:22:42,183 --> 00:22:43,893
+Como pôde ela...
+
+286
+00:22:47,354 --> 00:22:48,397
+Não.
+
+287
+00:22:51,317 --> 00:22:54,028
+- Isto não pode acabar assim.
+- Como pôde ela...
+
+288
+00:23:16,634 --> 00:23:18,844
+Alguém quer levar outra vez.
+
+289
+00:23:19,303 --> 00:23:22,723
+Já me mostraste o meu maior medo.
+Não me assustará de novo.
+
+290
+00:23:23,724 --> 00:23:26,852
+Mas, Flash, aqueles mauzões
+não são o teu maior medo.
+
+291
+00:23:27,978 --> 00:23:29,063
+Isto é que é.
+
+292
+00:23:47,873 --> 00:23:49,041
+Não.
+
+293
+00:23:49,291 --> 00:23:53,712
+VERDADE - LIBERDADE - JUSTIÇA
+
+294
+00:23:57,800 --> 00:24:01,554
+Não. Por favor, não.
+
+295
+00:24:03,430 --> 00:24:05,933
+Não.
+
+296
+00:24:11,230 --> 00:24:12,523
+Não.
+
+297
+00:24:17,152 --> 00:24:18,571
+Tenham bons pesadelos.
+
+298
+00:24:37,256 --> 00:24:41,051
+Primeiro, a Fuerza, depois,
+o Poder da Velocidade e, agora, isto?
+
+299
+00:24:41,135 --> 00:24:42,678
+Porque não paro de tremer?
+
+300
+00:24:42,761 --> 00:24:46,473
+Têm os dados biométricos elevados,
+e as amígdalas, superativas.
+
+301
+00:24:46,557 --> 00:24:48,225
+Tivemos ataques de pânico?
+
+302
+00:24:48,309 --> 00:24:50,936
+Muito fortes.
+O Psico não manipula só o medo,
+
+303
+00:24:51,020 --> 00:24:52,229
+também o aumenta.
+
+304
+00:24:52,313 --> 00:24:55,524
+Mas o cortisol
+está a normalizar lentamente, ou seja...
+
+305
+00:24:55,608 --> 00:24:59,695
+- Os poderes dele têm efeitos residuais.
+- E o Barry teve dose dupla.
+
+306
+00:25:00,362 --> 00:25:03,240
+- A Nevasca?
+- Ela queria estar sozinha.
+
+307
+00:25:03,324 --> 00:25:05,951
+Até a Rainha do Gelo
+se passou com o que viu.
+
+308
+00:25:06,076 --> 00:25:09,955
+- Os bloqueadores não resultaram.
+- O Psico conseguiu transpô-los.
+
+309
+00:25:10,122 --> 00:25:14,251
+Na próxima vez que o enfrentarem,
+não poderemos proteger a vossa mente.
+
+310
+00:25:14,376 --> 00:25:16,712
+Na próxima? Como nos antecipamos a ele?
+
+311
+00:25:16,795 --> 00:25:19,465
+- Vigiamos os bancos?
+- Ele não quer dinheiro.
+
+312
+00:25:19,548 --> 00:25:24,386
+Ele disse que queria libertar as pessoas
+do poder que o dinheiro tem sobre elas.
+
+313
+00:25:25,137 --> 00:25:27,723
+E então?
+Tem uma razão pessoal para o fazer?
+
+314
+00:25:27,806 --> 00:25:32,269
+Sim. Isso explica
+porque atacou a Cleary Capital.
+
+315
+00:25:32,353 --> 00:25:35,272
+Ele não quer dinheiro. Quer caos.
+
+316
+00:25:35,356 --> 00:25:36,774
+E conseguiu-o.
+
+317
+00:25:40,152 --> 00:25:42,154
+O que foi que ele te fez ver?
+
+318
+00:25:45,074 --> 00:25:48,494
+A Kamilla em perigo.
+
+319
+00:25:48,577 --> 00:25:50,371
+E tu? O que viste?
+
+320
+00:25:50,788 --> 00:25:51,789
+Não é importante.
+
+321
+00:25:52,956 --> 00:25:53,999
+E se for?
+
+322
+00:25:54,083 --> 00:25:56,126
+E se houver uma pista ou assim
+
+323
+00:25:56,210 --> 00:25:57,795
+no que viste...
+- Não há.
+
+324
+00:25:58,295 --> 00:25:59,880
+Não sabes.
+
+325
+00:25:59,963 --> 00:26:04,134
+-Ouve, vais ter de voltar a enfrentá-lo...
+-E se não conseguir?
+
+326
+00:26:04,218 --> 00:26:07,012
+E se for demasiado poderoso
+e não o puder deter?
+
+327
+00:26:07,137 --> 00:26:09,431
+- Ninguém disse...
+- Não era preciso.
+
+328
+00:26:09,515 --> 00:26:13,185
+Talvez ele destrua a cidade toda.
+Não há nada que possa fazer.
+
+329
+00:26:30,953 --> 00:26:34,373
+A tentar voltar a ligar o transmissor
+ao circuito de saída?
+
+330
+00:26:35,874 --> 00:26:39,503
+Pelos vistos,
+sou melhor a estragar do que a reparar.
+
+331
+00:26:40,754 --> 00:26:45,175
+Queres dizer-me o que te assustou tanto
+quando o Psico entrou na tua cabeça?
+
+332
+00:26:45,592 --> 00:26:49,596
+Vá lá. Já partilhámos um cérebro.
+Sei que não te assustas facilmente.
+
+333
+00:26:55,519 --> 00:26:59,273
+Fui presa pelos crimes
+que cometi como Nevasca.
+
+334
+00:27:03,235 --> 00:27:07,322
+- E foste tu que me entregaste.
+- Eu nunca faria isso.
+
+335
+00:27:09,074 --> 00:27:10,492
+Eu sei.
+
+336
+00:27:13,162 --> 00:27:15,664
+Desde que me deixaste assumir o comando,
+
+337
+00:27:15,748 --> 00:27:20,544
+pude viver a minha vida.
+Não pela metade, mas em pleno.
+
+338
+00:27:22,212 --> 00:27:23,297
+Eu gostava disso...
+
+339
+00:27:25,215 --> 00:27:28,969
+... e não quero
+voltar a vivê-la pela metade.
+
+340
+00:27:31,972 --> 00:27:34,057
+Receei que me odiasses por isso.
+
+341
+00:27:36,852 --> 00:27:38,187
+Eu nunca te odiaria.
+
+342
+00:27:39,062 --> 00:27:42,858
+És minha irmã. Podes desabafar comigo
+sempre que quiseres.
+
+343
+00:27:45,486 --> 00:27:46,737
+Não sei como fazê-lo.
+
+344
+00:27:48,489 --> 00:27:49,531
+Quer dizer,
+
+345
+00:27:50,783 --> 00:27:54,453
+até posso ser a mais forte,
+mas tu és a mais corajosa.
+
+346
+00:27:54,536 --> 00:27:56,288
+És destemida.
+
+347
+00:27:56,413 --> 00:27:59,249
+Desde que tenho de lidar
+com os meus sentimentos,
+
+348
+00:28:00,959 --> 00:28:04,671
+estou sempre com medo.
+
+349
+00:28:05,589 --> 00:28:07,382
+Às vezes, nem sei porquê.
+
+350
+00:28:08,008 --> 00:28:10,677
+Achas que és a única que tem medo?
+
+351
+00:28:11,553 --> 00:28:15,098
+Desde que nos separámos,
+há um silêncio ensurdecedor
+
+352
+00:28:15,182 --> 00:28:19,812
+na minha cabeça, onde costumavas estar,
+e isso deixa-me apavorada.
+
+353
+00:28:21,271 --> 00:28:24,525
+É por isso que tenho andado desesperada
+para nos fundir.
+
+354
+00:28:25,484 --> 00:28:28,862
+E porque fiquei irritada
+por teres estragado a Matriz.
+
+355
+00:28:32,115 --> 00:28:35,536
+O meu maior medo é ter de viver sem ti.
+
+356
+00:28:38,831 --> 00:28:40,124
+O meu também.
+
+357
+00:28:42,084 --> 00:28:44,002
+Porque não o enfrentamos juntas?
+
+358
+00:28:46,421 --> 00:28:47,381
+Queres dizer...
+
+359
+00:28:47,464 --> 00:28:50,592
+Talvez duas Snows sejam melhor do que uma.
+
+360
+00:28:52,052 --> 00:28:55,597
+Tenho um T2. Dava-me jeito ter
+com quem dividi-lo. Que dizes?
+
+361
+00:28:59,560 --> 00:29:00,811
+Digo...
+
+362
+00:29:02,813 --> 00:29:03,897
+"Isto somos nós."
+
+363
+00:29:18,620 --> 00:29:22,082
+Cecile, desculpa.
+Só precisava de um minuto.
+
+364
+00:29:22,166 --> 00:29:23,375
+Está bem.
+
+365
+00:29:26,378 --> 00:29:31,091
+Mas sabes que não foste o único a levar
+com mais de uma dose do medo do Psico.
+
+366
+00:29:33,260 --> 00:29:35,971
+Tens sentido a energia dele
+sempre que aparece.
+
+367
+00:29:36,054 --> 00:29:37,431
+Ontem à noite, vi...
+
+368
+00:29:40,350 --> 00:29:45,647
+Vi um pesadelo
+em que não controlava os meus poderes.
+
+369
+00:29:47,065 --> 00:29:48,442
+Foi aterrador.
+
+370
+00:29:49,776 --> 00:29:52,487
+Tem sido muito difícil
+controlar os meus medos.
+
+371
+00:29:53,572 --> 00:29:57,367
+Passei o último ano com tanto medo
+de perder quem amava na Crise,
+
+372
+00:29:57,492 --> 00:30:00,162
+que nunca pensei
+voltar a enfrentar esse medo.
+
+373
+00:30:02,122 --> 00:30:03,832
+O Psico mostrou-me...
+
+374
+00:30:05,959 --> 00:30:08,587
+... as pessoas que eu amo mortas.
+
+375
+00:30:10,756 --> 00:30:12,257
+A Fuerza tinha-as matado.
+
+376
+00:30:15,052 --> 00:30:19,723
+Já enfrentámos o impossível muitas vezes.
+
+377
+00:30:21,934 --> 00:30:25,270
+Mas há algo de diferente
+nestas novas ameaças.
+
+378
+00:30:25,354 --> 00:30:26,688
+São ainda maiores.
+
+379
+00:30:28,232 --> 00:30:30,484
+E, pela primeira vez desde a Crise...
+
+380
+00:30:34,696 --> 00:30:36,615
+... estou assustado.
+
+381
+00:30:39,034 --> 00:30:43,914
+Às vezes, quando estou assustada,
+pergunto-me: "O que faria o Flash?"
+
+382
+00:30:45,040 --> 00:30:46,416
+A sério.
+
+383
+00:30:47,834 --> 00:30:49,211
+Barry,
+
+384
+00:30:49,294 --> 00:30:54,675
+tu passas a correr por cima do medo
+sempre que salvas a cidade.
+
+385
+00:30:55,759 --> 00:30:58,845
+Só tens de encontrar
+alguma dessa coragem para ti.
+
+386
+00:31:03,100 --> 00:31:06,645
+<i>Malta, detetámos</i>
+<i>a assinatura isotópica do Psico.</i>
+
+387
+00:31:06,728 --> 00:31:09,523
+<i>Está a alastrar-se</i>
+<i>por todo o Sandoval Heights.</i>
+
+388
+00:31:13,485 --> 00:31:14,987
+Cecile,
+
+389
+00:31:15,529 --> 00:31:18,115
+tu passaste o teu medo para a Pião.
+
+390
+00:31:19,366 --> 00:31:25,163
+- Conseguias fazê-lo a uma escala maior?
+- Eu... Nem pensar.
+
+391
+00:31:25,247 --> 00:31:28,875
+Barry, mal consegui transmitir
+uma emoção a poucos metros.
+
+392
+00:31:30,752 --> 00:31:32,379
+Então, arranjamos-te ajuda.
+
+393
+00:31:39,303 --> 00:31:41,888
+Barry, enlouqueceste?
+
+394
+00:31:41,972 --> 00:31:45,350
+Pode parecer de loucos,
+mas o DeVoe construiu esta cadeira
+
+395
+00:31:45,434 --> 00:31:47,769
+para expandir a capacidade mental dele.
+
+396
+00:31:47,853 --> 00:31:51,440
+Sim, e isso tornou-o num supervilão.
+
+397
+00:31:51,523 --> 00:31:54,651
+Mas a ti não,
+porque vais usá-la para salvar a cidade.
+
+398
+00:32:07,789 --> 00:32:11,793
+Consigo sentir o teu medo, Central City.
+
+399
+00:32:11,877 --> 00:32:15,714
+E o sabor é requintado.
+
+400
+00:32:24,139 --> 00:32:28,060
+Não... Por favor, deixa-me sair.
+
+401
+00:32:28,143 --> 00:32:29,561
+Deixa-me sair daqui!
+
+402
+00:32:29,895 --> 00:32:31,563
+É demasiado!
+
+403
+00:32:35,025 --> 00:32:36,234
+Não aguento!
+
+404
+00:32:37,903 --> 00:32:42,657
+Mãe, pai... Por favor, não me deixem aqui.
+
+405
+00:32:43,283 --> 00:32:45,369
+Porque não vêm para casa?
+
+406
+00:32:57,631 --> 00:33:00,675
+- Cecile, estás pronta?
+- Não. Nem por sombras.
+
+407
+00:33:00,759 --> 00:33:03,261
+Estou sentada numa máquina de morte.
+
+408
+00:33:03,345 --> 00:33:05,263
+E se isto fritar o meu cérebro?
+
+409
+00:33:05,347 --> 00:33:09,059
+E se me transformar numa vilã como a Pião?
+E se isso acontecer?
+
+410
+00:33:09,184 --> 00:33:12,854
+Como médica,
+prometo-te que não te vai acontecer nada.
+
+411
+00:33:12,938 --> 00:33:14,606
+- Está bem.
+- Provavelmente.
+
+412
+00:33:15,816 --> 00:33:17,025
+<i>Flash, onde estás?</i>
+
+413
+00:33:17,109 --> 00:33:19,277
+A aproximar-me do raio do Psico.
+
+414
+00:33:21,655 --> 00:33:23,073
+Pronto.
+
+415
+00:33:24,408 --> 00:33:25,492
+Força.
+
+416
+00:33:29,830 --> 00:33:32,624
+<i>Não consigo respirar! Façam-no parar!</i>
+
+417
+00:33:35,544 --> 00:33:37,754
+Está a funcionar. Consigo...
+
+418
+00:33:38,130 --> 00:33:42,092
+Consigo sentir... a mente das pessoas,
+
+419
+00:33:42,175 --> 00:33:45,387
+os pensamentos por toda a cidade.
+
+420
+00:33:47,139 --> 00:33:48,515
+Consigo sentir o Barry.
+
+421
+00:34:07,159 --> 00:34:09,494
+- Tem a amígdala a disparar.
+- Ouves-me?
+
+422
+00:34:09,703 --> 00:34:13,790
+A Cecile está ligada à tua mente.
+Luta contra o que estiveres a ver.
+
+423
+00:34:16,793 --> 00:34:18,170
+Isto não é real.
+
+424
+00:34:21,006 --> 00:34:24,342
+Não é real.
+
+425
+00:34:28,013 --> 00:34:29,556
+Não é real.
+
+426
+00:34:36,146 --> 00:34:37,856
+Deixaste-nos morrer, Barry.
+
+427
+00:34:46,823 --> 00:34:50,202
+Confiei em ti. Porque não me salvaste?
+
+428
+00:35:05,800 --> 00:35:08,803
+Quando me deixaste morrer,
+mataste os nossos filhos.
+
+429
+00:35:14,267 --> 00:35:19,648
+O Barry não nos consegue ouvir.
+Está preso no pesadelo dele.
+
+430
+00:35:21,191 --> 00:35:22,108
+Está perdido.
+
+431
+00:35:23,944 --> 00:35:27,239
+Vou desviar a energia dos satélites
+para as comunicações.
+
+432
+00:35:31,576 --> 00:35:35,288
+Ouve, Barry. Tens de superar isto.
+
+433
+00:35:35,539 --> 00:35:37,165
+Cisco, não sei se consigo.
+
+434
+00:35:37,249 --> 00:35:38,625
+<i>Sim, consegues.</i>
+
+435
+00:35:39,125 --> 00:35:41,336
+És forte o suficiente. Eu sei que és.
+
+436
+00:35:42,045 --> 00:35:44,297
+<i>Não conseguimos fazer isto sem ti.</i>
+
+437
+00:35:44,756 --> 00:35:47,300
+- És um cobarde.
+- Vais voltar a perder-nos.
+
+438
+00:35:47,384 --> 00:35:51,805
+Tudo porque tens medo de mais.
+Medo de mais para abrir os olhos.
+
+439
+00:35:57,727 --> 00:36:01,147
+Tens razão. Tenho medo.
+
+440
+00:36:02,357 --> 00:36:04,734
+Mas não deixarei esse medo controlar-me.
+
+441
+00:36:13,660 --> 00:36:15,745
+Ele conseguiu. Cecile, agora!
+
+442
+00:36:17,414 --> 00:36:19,916
+Barry, consigo sentir a tua coragem.
+
+443
+00:36:54,326 --> 00:36:56,620
+Já vens tarde, Flash.
+
+444
+00:37:11,635 --> 00:37:13,845
+<i>Funcionou. A Cecile conseguiu.</i>
+
+445
+00:37:13,928 --> 00:37:14,971
+Consegui.
+
+446
+00:37:15,055 --> 00:37:15,972
+Conseguiste.
+
+447
+00:37:18,808 --> 00:37:20,310
+- Consegui.
+- Conseguiste.
+
+448
+00:37:22,812 --> 00:37:26,441
+Malta, acho que preciso
+de uma barrita energética.
+
+449
+00:37:36,576 --> 00:37:38,578
+O teu córtex está a recuperar,
+
+450
+00:37:38,662 --> 00:37:41,206
+mas ainda tens
+o controlo motor debilitado.
+
+451
+00:37:41,289 --> 00:37:44,042
+Não há sinal do Psico nem da Fuerza.
+
+452
+00:37:44,125 --> 00:37:47,337
+Agora, já temos provas
+de que estão ligados.
+
+453
+00:37:48,963 --> 00:37:53,802
+Quando atingi o Psico com os meus raios,
+ele livrou-se deles facilmente.
+
+454
+00:37:53,885 --> 00:37:59,099
+Mas, por um minuto, os raios ficaram nele.
+
+455
+00:37:59,182 --> 00:38:01,559
+- Brilhava?
+- Sim.
+
+456
+00:38:03,228 --> 00:38:07,190
+- Aconteceu o mesmo com a Fuerza.
+- Ataquei-os com tudo o que tinha.
+
+457
+00:38:07,273 --> 00:38:10,318
+Todos o fizemos.
+E eles continuaram a atacar.
+
+458
+00:38:11,486 --> 00:38:14,114
+Felizmente,
+os teus poderes estão a aumentar.
+
+459
+00:38:14,197 --> 00:38:17,534
+A cadeira fez a maior parte do trabalho,
+mas obrigada.
+
+460
+00:38:17,659 --> 00:38:22,747
+Não sei, deste-lhe cá uma coça psíquica!
+Vais ter de dar aulas ao Caçador de Marte.
+
+461
+00:38:24,457 --> 00:38:25,875
+Barry!
+
+462
+00:38:25,959 --> 00:38:26,918
+É o Psico?
+
+463
+00:38:27,001 --> 00:38:30,004
+Não. É outra coisa.
+
+464
+00:38:30,088 --> 00:38:31,923
+São as mesmas leituras da Nora.
+
+465
+00:38:43,184 --> 00:38:46,521
+Tenho de me curar.
+Abre a cápsula criogénica.
+
+466
+00:38:46,604 --> 00:38:50,608
+- Não, Barry, pôr-te-á em coma.
+- É a única forma.
+
+467
+00:39:10,795 --> 00:39:12,922
+"Conformidade Logística."
+
+468
+00:39:13,006 --> 00:39:14,924
+Era o que fazia em Gotham?
+
+469
+00:39:15,508 --> 00:39:18,762
+Fui lá algumas vezes.
+Sou uma grande fã dos Knights.
+
+470
+00:39:18,845 --> 00:39:24,768
+Liguei a um amigo que fez patrulhas
+em Gotham durante mais de dez anos.
+
+471
+00:39:24,851 --> 00:39:26,394
+Jogou um jogo arriscado.
+
+472
+00:39:27,687 --> 00:39:28,772
+E...
+
+473
+00:39:29,689 --> 00:39:31,608
+... também há isto.
+
+474
+00:39:34,277 --> 00:39:39,157
+Portanto, não sei o que pretende,
+
+475
+00:39:40,074 --> 00:39:43,369
+que tal parar de mentir
+e ser franca comigo?
+
+476
+00:39:48,208 --> 00:39:49,167
+É justo.
+
+477
+00:39:51,461 --> 00:39:54,589
+Não planeava anunciar isto
+até estar mais orientada.
+
+478
+00:39:56,299 --> 00:39:57,801
+Por ordem do governador,
+
+479
+00:39:57,884 --> 00:40:01,805
+vim para encontrar
+e deter uma meta-humana criminosa.
+
+480
+00:40:02,847 --> 00:40:05,308
+E, francamente, já é hora
+
+481
+00:40:05,391 --> 00:40:09,646
+de alguém tratar de um problema
+de longa data que esta esquadra ignorou.
+
+482
+00:40:11,189 --> 00:40:12,565
+Quer prender o Flash?
+
+483
+00:40:12,649 --> 00:40:19,447
+Não. Não há nada contra ele. Até agora.
+Vim buscar alguém bem mais perigoso.
+
+484
+00:40:22,575 --> 00:40:25,495
+A meta-humana fugitiva
+conhecida como Nevasca.
+
+485
+00:40:40,218 --> 00:40:41,344
+Como está ele?
+
+486
+00:40:41,845 --> 00:40:45,974
+Melhor, acho eu.
+O sistema do Barry foi sobrecarregado
+
+487
+00:40:46,057 --> 00:40:49,435
+com as mesmas assinaturas estranhas
+que encontrei na Nora.
+
+488
+00:40:50,270 --> 00:40:52,981
+Os sinais vitais dele
+estabilizaram um pouco,
+
+489
+00:40:53,064 --> 00:40:57,110
+mas é difícil dizer
+quando estará completamente curado.
+
+490
+00:40:57,944 --> 00:41:00,905
+Se o Psico ou a Fuerza atacassem agora,
+
+491
+00:41:01,781 --> 00:41:05,201
+dependeríamos de nós.
+- Porque não fui rápida o suficiente.
+
+492
+00:41:07,537 --> 00:41:08,538
+Nora.
+
+493
+00:41:10,373 --> 00:41:12,375
+Esta forma física é nova para mim.
+
+494
+00:41:13,084 --> 00:41:15,336
+Não conhecia os limites.
+
+495
+00:41:16,004 --> 00:41:21,050
+Consigo sentir quão fraco ele ainda está,
+quão fracos ambos ainda estamos.
+
+496
+00:41:22,927 --> 00:41:27,140
+- O que aconteceu ao Barry?
+- Um poderoso metapsíquico atacou-o.
+
+497
+00:41:28,474 --> 00:41:30,476
+Que lhe mostrou o maior medo dele.
+
+498
+00:41:32,478 --> 00:41:34,981
+Esse psíquico foi o segundo que me atacou.
+
+499
+00:41:36,274 --> 00:41:38,109
+A Fuerza e o Psico atacaram-te?
+
+500
+00:41:40,320 --> 00:41:41,237
+Quem são eles?
+
+501
+00:41:42,280 --> 00:41:43,740
+Acho...
+
+502
+00:41:44,657 --> 00:41:46,701
+... que são como eu.
+
+503
+00:42:13,853 --> 00:42:15,855
+Legendas: Ricardo Reis
+
+504
+00:42:15,879 --> 00:42:17,879
+Ripadas por:
+Virtual_PT										
+
+
+
+  
+
+  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 										
