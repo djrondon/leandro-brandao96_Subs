@@ -1,0 +1,3284 @@
+1
+00:00:02,112 --> 00:00:04,065
+<i>Anteriormente...</i>
+
+2
+00:00:04,066 --> 00:00:06,686
+Meu nome é Ethan.
+Vou te levar para casa.
+
+3
+00:00:06,687 --> 00:00:10,010
+Certo.
+<i>Ethan Reigns é meu marido.</i>
+
+4
+00:00:10,011 --> 00:00:12,744
+<i>A S-Company descobriu
+um agente disfarçado entre eles.</i>
+
+5
+00:00:12,745 --> 00:00:14,501
+Vão te matar
+se souberem que é você.
+
+6
+00:00:14,502 --> 00:00:15,941
+Balance a cabeça
+se entendeu.
+
+7
+00:00:16,939 --> 00:00:19,840
+- Papai!
+<i>- Conheci a Deena,</i>
+
+8
+00:00:19,841 --> 00:00:22,102
+<i>e aí nossa filha nasceu.</i>
+Então, de repente,
+
+9
+00:00:22,103 --> 00:00:23,852
+o papel que eu estava fazendo
+
+10
+00:00:23,853 --> 00:00:26,976
+pelo tempo suficiente
+para voltar para você,
+
+11
+00:00:26,977 --> 00:00:28,482
+se tornou a minha vida.
+
+12
+00:00:36,694 --> 00:00:38,094
+Mac!
+
+13
+00:00:38,659 --> 00:00:40,059
+Mac!
+
+14
+00:00:42,516 --> 00:00:44,753
+- Tem que ser o Mac, não é?
+- Vamos logo!
+
+15
+00:00:49,115 --> 00:00:50,615
+Não pare. Continue.
+
+16
+00:00:53,856 --> 00:00:55,677
+Certo. Vai ficar bem.
+
+17
+00:00:57,600 --> 00:00:59,000
+Está bem?
+
+18
+00:01:02,934 --> 00:01:04,334
+Isso foi um tiro.
+
+19
+00:01:04,899 --> 00:01:06,299
+Vamos.
+
+20
+00:01:18,848 --> 00:01:20,848
+<font color=#00FF40>Legendas.TV apresenta:</font>
+
+21
+00:01:20,849 --> 00:01:23,849
+<font color=#00FFFF>MacGyver - Episódio 3x13:
+Selva + Treino + Sobrevivência</font>
+
+22
+00:01:23,850 --> 00:01:26,350
+<font color=#FFFF00>Tradução e Revisão:
+Khronnusboy</font>
+
+23
+00:01:30,051 --> 00:01:31,451
+INTERIOR DE WASHINGTON
+
+24
+00:01:31,452 --> 00:01:33,052
+36 HORAS ANTES
+
+25
+00:01:46,153 --> 00:01:48,385
+Bozer, me dá uma das águas
+aí de trás?
+
+26
+00:01:48,386 --> 00:01:49,786
+Beleza.
+
+27
+00:01:49,787 --> 00:01:51,937
+Não dá. Tá vazia.
+
+28
+00:01:51,938 --> 00:01:54,900
+- Você esqueceu de trazer as bebidas?
+- Não. Enchi antes de saírmos.
+
+29
+00:01:55,096 --> 00:01:57,425
+Alguém nos roubou
+naquela última parada?
+
+30
+00:01:57,426 --> 00:02:00,240
+Ninguém nos roubou, bozer.
+Eu esvazeei o cooler.
+
+31
+00:02:00,241 --> 00:02:02,393
+- Por quê?
+- Porque cooler cheios
+
+32
+00:02:02,394 --> 00:02:05,106
+são para acampamentos,
+e isso é sobrevivência na selva.
+
+33
+00:02:05,107 --> 00:02:07,970
+- Ficaremos em desbaste.
+- E "desbaste" significa sem água?
+
+34
+00:02:07,971 --> 00:02:09,700
+"Desbaste" significa sem água,
+sem comida,
+
+35
+00:02:09,701 --> 00:02:12,210
+sem celular, certamente,
+sem tenda.
+
+36
+00:02:12,211 --> 00:02:14,329
+Só nós três ao ar livre.
+
+37
+00:02:14,330 --> 00:02:16,768
+O que precisarmos,
+vamos fazer ou encontrar.
+
+38
+00:02:17,206 --> 00:02:20,516
+Então não vamos curtir
+<i>s'mores</i> no fogo, depois.
+
+39
+00:02:20,517 --> 00:02:22,732
+A menos que ache
+uma árvore de marshmallow.
+
+40
+00:02:22,733 --> 00:02:26,446
+A Matty me encarregou de ensiná-los
+habilidades de sobrevivência,
+
+41
+00:02:26,447 --> 00:02:28,632
+porque mais cedo ou mais tarde,
+todo agente se encontra
+
+42
+00:02:28,633 --> 00:02:30,218
+em uma situação
+onde vão precisar delas.
+
+43
+00:02:30,219 --> 00:02:33,330
+O treinamento nunca para,
+na nossa linha de atuação,
+
+44
+00:02:33,331 --> 00:02:35,656
+e treinamento imersivo
+é o melhor treinamento.
+
+45
+00:02:35,657 --> 00:02:38,521
+Não é o melhor treinamento
+se, você sabe...
+
+46
+00:02:38,822 --> 00:02:40,222
+nos matar.
+
+47
+00:02:50,162 --> 00:02:51,662
+Mac, onde nós estamos?
+
+48
+00:02:51,663 --> 00:02:55,174
+Porque esse parece o tipo de lugar
+onde serial killers são criados.
+
+49
+00:02:55,175 --> 00:02:57,884
+Bem, é onde vamos
+deixar o jipe.
+
+50
+00:02:57,885 --> 00:02:59,735
+Assumindo
+que o proprietário concorda.
+
+51
+00:03:00,128 --> 00:03:03,144
+Que proprietário? Pelo visto,
+ninguém vem aqui há anos.
+
+52
+00:03:03,145 --> 00:03:05,488
+Olá! Alguém em casa?
+
+53
+00:03:10,814 --> 00:03:12,214
+Senhor!
+
+54
+00:03:12,771 --> 00:03:15,485
+Ele tem um banjo.
+Eu vi esse filme.
+
+55
+00:03:15,486 --> 00:03:17,327
+Eu sei como termina.
+Eu morro primeiro.
+
+56
+00:03:17,328 --> 00:03:19,511
+- Precisamos ir agora.
+- Ele pode te ouvir.
+
+57
+00:03:28,662 --> 00:03:31,251
+Vocês não são daqui.
+
+58
+00:03:33,894 --> 00:03:36,944
+É exatamente
+como o filme começa.
+
+59
+00:03:38,154 --> 00:03:39,668
+Não. Somos de Los Angeles.
+
+60
+00:03:41,739 --> 00:03:43,485
+Eu e meus amigos aqui,
+
+61
+00:03:43,486 --> 00:03:47,010
+estamos indo acampar
+no desfiladeiro Walker.
+
+62
+00:03:47,011 --> 00:03:49,015
+Tem certeza que é bom
+falar isso, Mac?
+
+63
+00:03:50,934 --> 00:03:54,711
+Vai dar certo. E queremos saber
+se podemos deixar o jipe aqui.
+
+64
+00:03:54,712 --> 00:03:57,415
+Estamos dispostos a pagar
+pela estadia,
+
+65
+00:03:57,416 --> 00:03:59,580
+- se aceitar.
+- Não é uma boa ideia
+
+66
+00:03:59,581 --> 00:04:02,642
+para vocês três saírem
+pelo bosque.
+
+67
+00:04:02,643 --> 00:04:05,156
+Talvez devêssemos voltar
+para a estrada, Mac.
+
+68
+00:04:05,157 --> 00:04:07,441
+- Encontrar outro ponto.
+- Ele está me dando,
+
+69
+00:04:07,442 --> 00:04:09,738
+aquela vibe
+"mata-nos, enquanto dormimos".
+
+70
+00:04:16,844 --> 00:04:18,679
+- Como está indo, Freddy?
+- Como vai?
+
+71
+00:04:18,680 --> 00:04:20,180
+- Que bom te ver.
+- Bom te ver.
+
+72
+00:04:20,181 --> 00:04:22,625
+Bem, esses são meus amigos,
+Bozer e Riley.
+
+73
+00:04:22,626 --> 00:04:24,974
+- Esse é Freddy, dono do lugar.
+- Vocês me perdoem.
+
+74
+00:04:24,975 --> 00:04:27,581
+Desde que o Mac começou
+a trazer pessoas para cá,
+
+75
+00:04:27,582 --> 00:04:29,993
+nos divertimos um pouco
+às custas deles.
+
+76
+00:04:29,994 --> 00:04:31,394
+Sem ressentimentos.
+
+77
+00:04:31,395 --> 00:04:34,001
+Fico feliz por não sermos
+assassinados ou comidos.
+
+78
+00:04:34,002 --> 00:04:36,670
+Colocando mais dois novatos
+no moedor, imagino.
+
+79
+00:04:36,671 --> 00:04:39,395
+- Esse é o plano.
+- Bem, esteve quieto
+
+80
+00:04:39,396 --> 00:04:41,081
+desde a chuva
+da semana passada.
+
+81
+00:04:41,082 --> 00:04:42,787
+O lugar é todo de vocês.
+
+82
+00:04:42,788 --> 00:04:46,260
+E não se preocupem com o jipe.
+Ele ficará seguro, aqui.
+
+83
+00:04:46,261 --> 00:04:48,626
+- Está bem. Vou te dar isso.
+- Tudo bem.
+
+84
+00:04:49,727 --> 00:04:51,855
+Chaves, celulares,
+carteiras.
+
+85
+00:04:52,422 --> 00:04:54,819
+Adeus civilização moderna.
+
+86
+00:04:58,521 --> 00:05:00,234
+Não importa o que o Mac diz.
+
+87
+00:05:00,235 --> 00:05:02,437
+- Ele é assustador.
+- Muito bem.
+
+88
+00:05:02,438 --> 00:05:04,648
+Além do que estão vestindo
+e da capa de chuva,
+
+89
+00:05:04,649 --> 00:05:08,718
+Cada um dos três recebe três coisas:
+uma mochila, uma garrafa e uma faca.
+
+90
+00:05:08,719 --> 00:05:10,965
+Tem uma razão
+para essa mochila ser tão grande?
+
+91
+00:05:10,966 --> 00:05:12,529
+- Tipo, não levaremos muito.
+- Tem.
+
+92
+00:05:12,530 --> 00:05:14,710
+Espaço extra para as coisas
+que você vai pegar no caminho,
+
+93
+00:05:14,711 --> 00:05:16,665
+que você precisará,
+como lenha e comida.
+
+94
+00:05:16,666 --> 00:05:18,316
+Vai agradecer
+por ter vindo assim.
+
+95
+00:05:18,317 --> 00:05:21,398
+- Está bem, Freddy. Alguns dias?
+- Não esteja tão certo.
+
+96
+00:05:21,399 --> 00:05:25,818
+Não é todo mundo
+que anda nessa mata e volta.
+
+97
+00:05:30,187 --> 00:05:32,372
+Ele é bom demais nisso.
+
+98
+00:05:39,614 --> 00:05:41,548
+O sol é a sua bússola.
+
+99
+00:05:41,549 --> 00:05:43,707
+Agora,
+ele está nas nossas costas,
+
+100
+00:05:43,708 --> 00:05:45,832
+significa que estamos indo
+em que direção, Riley?
+
+101
+00:05:47,983 --> 00:05:49,973
+- Oeste.
+- Muito bem.
+
+102
+00:05:49,974 --> 00:05:52,838
+Estamos a 54 km
+do posto florestal mais próximo,
+
+103
+00:05:52,839 --> 00:05:54,679
+112 km da coisa mais próxima
+da civilização,
+
+104
+00:05:54,680 --> 00:05:57,334
+Ficar andando por aqui
+é a ordem,
+
+105
+00:05:57,335 --> 00:05:59,135
+a menos que queira
+morar aqui de vez.
+
+106
+00:05:59,836 --> 00:06:01,796
+Isso seria muito ruim?
+
+107
+00:06:02,097 --> 00:06:04,999
+Não tenho estado longe
+de uma tela de PC desde a prisão.
+
+108
+00:06:05,000 --> 00:06:08,120
+- É até refrescante, de verdade.
+- Diga isso ao meu estômago.
+
+109
+00:06:08,121 --> 00:06:10,243
+Não são dois ursos
+que está ouvindo lutar.
+
+110
+00:06:10,244 --> 00:06:11,783
+É dor de fome.
+
+111
+00:06:11,784 --> 00:06:14,060
+Bem, acho que estou ouvindo
+um riacho por perto.
+
+112
+00:06:14,061 --> 00:06:16,497
+- Ensinará a pescar, Mac?
+- Pescar é no terceiro dia.
+
+113
+00:06:16,498 --> 00:06:17,964
+Primeiro dia é forragem.
+
+114
+00:06:17,965 --> 00:06:20,314
+Forrar o quê?
+Não tem nada aqui para comer.
+
+115
+00:06:20,315 --> 00:06:23,463
+Tem bastante. Só precisa saber
+o que é comestível e para onde olhar.
+
+116
+00:06:24,058 --> 00:06:27,149
+Typhas.
+São o <i>fast food</i> da selva.
+
+117
+00:06:28,493 --> 00:06:29,893
+Um para você.
+
+118
+00:06:29,894 --> 00:06:31,294
+- Obrigada.
+- Um para você.
+
+119
+00:06:44,618 --> 00:06:46,018
+Tem gosto de...
+
+120
+00:06:47,521 --> 00:06:48,921
+cotonete usado.
+
+121
+00:06:48,922 --> 00:06:52,003
+Se esse fosse meu ingrediente
+secreto no MasterChef,
+
+122
+00:06:52,004 --> 00:06:53,604
+eu perderia.
+
+123
+00:06:53,605 --> 00:06:56,481
+Desculpa, galera, mas vocês têm
+que se acostumar com eles,
+
+124
+00:06:56,482 --> 00:06:59,572
+porque temos que consumir
+240 por dia,
+
+125
+00:06:59,573 --> 00:07:02,169
+para combinar com a energia
+que estamos exercendo.
+
+126
+00:07:02,170 --> 00:07:05,313
+São 10 calorias bem importantes
+que acabou de desperdiçar.
+
+127
+00:07:07,363 --> 00:07:09,840
+Desculpe. Você disse 240?
+
+128
+00:07:09,841 --> 00:07:11,578
+Sobreviver na floresta
+não é fácil.
+
+129
+00:07:11,579 --> 00:07:13,950
+É por isso
+que ninguém sai... daqui.
+
+130
+00:07:13,951 --> 00:07:16,682
+Na verdade,
+parece que alguém saiu.
+
+131
+00:07:16,683 --> 00:07:19,399
+Acho que o Fred estava errado.
+Pessoas saíram daqui.
+
+132
+00:07:20,400 --> 00:07:22,389
+Pessoas que trouxeram
+muito equipamento,
+
+133
+00:07:22,390 --> 00:07:24,391
+mas não tem ideia
+do que estavam fazendo.
+
+134
+00:07:24,392 --> 00:07:26,267
+Podem me dizer
+quais erros cometeram?
+
+135
+00:07:26,268 --> 00:07:27,785
+Riley?
+
+136
+00:07:27,786 --> 00:07:29,808
+De acordo
+com o manual da selva,
+
+137
+00:07:29,809 --> 00:07:31,789
+eles não fizeram fogo
+com pedras
+
+138
+00:07:31,790 --> 00:07:33,632
+para evitar
+que se espalhem, um.
+
+139
+00:07:35,443 --> 00:07:36,907
+Deixaram
+bitucas de cigarro,
+
+140
+00:07:36,908 --> 00:07:39,767
+o que não é apenas
+um risco de incêndio, mas...
+
+141
+00:07:39,768 --> 00:07:41,520
+viola a regra
+"não deixe rastro".
+
+142
+00:07:41,521 --> 00:07:43,184
+Sem mencionar,
+extremamente rude.
+
+143
+00:07:43,185 --> 00:07:45,801
+Isso.
+E acamparam em um vale,
+
+144
+00:07:45,802 --> 00:07:48,284
+o que é um grande erro
+por causa de inundações.
+
+145
+00:07:48,285 --> 00:07:50,373
+Muito bem, Riley.
+Só faltou uma coisa.
+
+146
+00:07:50,374 --> 00:07:52,314
+Fibras de algodão.
+
+147
+00:07:52,860 --> 00:07:56,365
+- Por que isso é ruim?
+- Bem, aqui fora, algodão mata.
+
+148
+00:07:56,366 --> 00:07:58,051
+Fica molhado e se fica molhado,
+
+149
+00:07:58,052 --> 00:08:01,167
+deixa vulnerável à hipotermia,
+toda vez que chover.
+
+150
+00:08:01,168 --> 00:08:03,748
+Por isso estamos de nylon e lã
+da cabeça aos pés.
+
+151
+00:08:03,749 --> 00:08:06,544
+Quem tiver feito isso,
+está pedindo problemas.
+
+152
+00:08:08,445 --> 00:08:11,345
+2.655 KM MAIS LONGE
+
+153
+00:08:13,269 --> 00:08:14,869
+Tem certeza disso, Matty?
+
+154
+00:08:15,833 --> 00:08:17,922
+Nunca é tarde
+para mudar de ideia, sabe.
+
+155
+00:08:17,923 --> 00:08:19,650
+- Vou ficar bem.
+- Tem certeza?
+
+156
+00:08:19,651 --> 00:08:21,051
+Vamos.
+
+157
+00:08:21,832 --> 00:08:23,232
+Certo.
+
+158
+00:08:28,239 --> 00:08:29,639
+Dalton.
+
+159
+00:08:30,569 --> 00:08:32,769
+Estamos prontos.
+Vamos lá.
+
+160
+00:08:36,804 --> 00:08:40,325
+- Matty, o que faz aqui?
+- Precisamos conversar.
+
+161
+00:08:41,496 --> 00:08:42,996
+Poderia ter ligado.
+
+162
+00:08:43,548 --> 00:08:44,948
+Querido?
+
+163
+00:08:48,489 --> 00:08:50,789
+- Oi.
+- Olá.
+
+164
+00:08:51,934 --> 00:08:53,634
+Matty, está tudo bem?
+
+165
+00:08:54,176 --> 00:08:56,397
+Não.
+É por isso que estamos aqui.
+
+166
+00:08:57,798 --> 00:09:01,329
+Não entendo. Seguimos o protocolo.
+Não deixamos rastros.
+
+167
+00:09:01,330 --> 00:09:03,577
+Minha família
+está levando uma vida normal.
+
+168
+00:09:03,578 --> 00:09:05,214
+- Como isso aconteceu?
+- O que posso dizer
+
+169
+00:09:05,215 --> 00:09:07,012
+é que a S-Company
+descobriu sua localização.
+
+170
+00:09:07,013 --> 00:09:09,745
+- Aqui não é mais seguro.
+- Você confia na informação?
+
+171
+00:09:09,746 --> 00:09:11,301
+Temos um nova ativa,
+dentro.
+
+172
+00:09:11,302 --> 00:09:12,828
+- Acredito no que ela nos dá.
+- Escute, Ethan,
+
+173
+00:09:12,829 --> 00:09:14,877
+você fez a S-Comapny de idiotas
+por 8 anos.
+
+174
+00:09:14,878 --> 00:09:16,868
+Estão querendo fazer de você
+e sua família um exemplo.
+
+175
+00:09:16,869 --> 00:09:19,395
+Isso não está em debate.
+Certo? Vamos.
+
+176
+00:09:21,750 --> 00:09:23,150
+Quando saímos?
+
+177
+00:09:34,392 --> 00:09:37,025
+Não vai pegar.
+A pedra está muito úmida.
+
+178
+00:09:37,974 --> 00:09:40,235
+Eu levei dois dias inteiros,
+
+179
+00:09:40,236 --> 00:09:41,781
+tentando começar o fogo.
+
+180
+00:09:41,782 --> 00:09:44,761
+Não estou brincando.
+48 h direto, dois pores do sol.
+
+181
+00:09:44,762 --> 00:09:46,633
+Mas tudo estava encharcado.
+
+182
+00:09:46,634 --> 00:09:48,663
+Estava convencido
+que ia congelar até a morte.
+
+183
+00:09:49,294 --> 00:09:51,414
+Isso foi durante o seu treinamento
+na selva da Phoenix?
+
+184
+00:09:51,415 --> 00:09:54,376
+Não, foi durante um acampamento
+com o meu avô.
+
+185
+00:09:54,377 --> 00:09:57,383
+Ele costumava me trazer aqui,
+depois que minha mãe morreu.
+
+186
+00:09:57,384 --> 00:09:58,784
+Ele costumava dizer:
+
+187
+00:09:58,785 --> 00:10:00,185
+"tudo que precisa
+para sobreviver na selva
+
+188
+00:10:00,186 --> 00:10:02,015
+é o que está aqui em cima
+e aqui fora".
+
+189
+00:10:02,516 --> 00:10:06,243
+Bem, acha que pode fazer
+um desumidificador com gravetos
+
+190
+00:10:06,244 --> 00:10:07,644
+e com o que tem aqui fora?
+
+191
+00:10:07,959 --> 00:10:09,359
+Não precisa.
+
+192
+00:10:10,005 --> 00:10:12,323
+Eu sobrevivi esse acampamento,
+obviamente,
+
+193
+00:10:12,324 --> 00:10:15,618
+porque percebi que estava cercado
+de uma planta chamada
+
+194
+00:10:15,619 --> 00:10:17,651
+<i>Chamaenerion angustifolium.</i>
+
+195
+00:10:17,652 --> 00:10:19,304
+Chamana... o quê?
+
+196
+00:10:19,305 --> 00:10:21,746
+É o nome
+de uma planta silvestre.
+
+197
+00:10:23,492 --> 00:10:25,570
+É o material perfeito
+para madeira úmida.
+
+198
+00:10:25,571 --> 00:10:27,696
+Só não coloque muito
+de uma vez.
+
+199
+00:10:27,697 --> 00:10:29,197
+Quer tentar de novo?
+
+200
+00:10:30,155 --> 00:10:31,555
+Tudo bem.
+
+201
+00:10:36,848 --> 00:10:38,448
+- Que massa!
+- Fogo rápido.
+
+202
+00:10:38,449 --> 00:10:41,329
+Agora colocaremos galhos maiores
+para deixar o fogo alto.
+
+203
+00:10:44,741 --> 00:10:47,156
+- Boze, largue isso!
+- O que foi? Por quê?
+
+204
+00:10:47,157 --> 00:10:48,818
+Larga isso, longe do fogo.
+
+205
+00:10:48,819 --> 00:10:52,283
+- Não me diga que é perigoso.
+- Não, mas estava prestes a ser.
+
+206
+00:10:52,284 --> 00:10:53,684
+Isso é carvalho venenoso.
+
+207
+00:10:54,116 --> 00:10:58,123
+Não queira inalar o óleo ardente
+de um carvalho desse, nunca.
+
+208
+00:10:58,124 --> 00:10:59,989
+Faz muito mal
+aos seus pulmões.
+
+209
+00:10:59,990 --> 00:11:02,888
+O Angus, de 12 anos, aprendeu
+da forma mais difícil, também.
+
+210
+00:11:02,889 --> 00:11:06,217
+- Desculpa, cara. Tô cansado.
+- Foi um longo dia.
+
+211
+00:11:06,218 --> 00:11:08,103
+Acho que todos podemos dizer.
+Mas se saíram bem.
+
+212
+00:11:08,104 --> 00:11:11,876
+Então percebi que podemos ter
+um jantar gourmet.
+
+213
+00:11:11,877 --> 00:11:14,277
+- É disso que estou falando. Traz aí!
+- Faminta.
+
+214
+00:11:14,628 --> 00:11:16,128
+Temos comida.
+
+215
+00:11:16,129 --> 00:11:18,197
+- Vamos de lanchinho.
+- Typhas.
+
+216
+00:11:18,198 --> 00:11:21,669
+- Cara, que droga!
+- Caramba!
+
+217
+00:11:22,070 --> 00:11:23,601
+Desculpa, não pude evitar.
+
+218
+00:11:24,402 --> 00:11:25,934
+Aqui está.
+
+219
+00:11:42,377 --> 00:11:45,598
+- Você estava roncando.
+- Você tinha que me acordar?
+
+220
+00:11:45,599 --> 00:11:47,299
+Estava tendo um ótimo sonho.
+
+221
+00:11:47,885 --> 00:11:50,829
+Estava comendo
+um bife saboroso
+
+222
+00:11:50,830 --> 00:11:52,899
+- com um pouco de...
+- Typhas?
+
+223
+00:11:52,900 --> 00:11:54,400
+Deus me livre.
+
+224
+00:11:54,401 --> 00:11:58,024
+É sério, Mac.
+Temos que ficar comendo isso?
+
+225
+00:12:02,113 --> 00:12:04,853
+- Onde está o Mac?
+- Não sei.
+
+226
+00:12:04,854 --> 00:12:07,335
+As botas e a mochila tinham sumido
+quando acordei.
+
+227
+00:12:08,311 --> 00:12:09,911
+Ele saiu sem nos avisar?
+
+228
+00:12:09,912 --> 00:12:12,060
+Talvez esteja fazendo
+caminhada matinal.
+
+229
+00:12:12,061 --> 00:12:14,670
+Espere. Ele não disse
+que o segundo dia era rastrear?
+
+230
+00:12:14,671 --> 00:12:17,044
+Talvez seja um teste
+e temos que encontrá-lo.
+
+231
+00:12:17,045 --> 00:12:19,481
+"Treinamento imersivo
+é o melhor treinamento".
+
+232
+00:12:19,482 --> 00:12:22,328
+Exatamente.
+Qual o primeiro passo?
+
+233
+00:12:22,329 --> 00:12:24,979
+- Pegar a trilha, eu acho.
+- Tudo bem.
+
+234
+00:12:30,362 --> 00:12:33,833
+- Tem umas pegadas por aqui.
+- Vamos ver.
+
+235
+00:12:34,389 --> 00:12:37,734
+Não são do Mac. Olha a sola.
+É um sapato diferente.
+
+236
+00:12:37,735 --> 00:12:39,685
+E não estavam aqui
+quando acampamos.
+
+237
+00:12:40,822 --> 00:12:42,222
+Está vendo?
+
+238
+00:12:42,796 --> 00:12:44,496
+Essas são as pegadas do Mac.
+
+239
+00:12:45,533 --> 00:12:47,233
+Então,
+mais alguém estava aqui?
+
+240
+00:12:55,247 --> 00:12:58,423
+Essa é a mesma bituca
+que vimos ontem, no acampamento.
+
+241
+00:12:59,221 --> 00:13:00,892
+E está todo umedecido,
+
+242
+00:13:00,893 --> 00:13:04,126
+o que significa que quem usou,
+estava aqui ontem à noite.
+
+243
+00:13:04,127 --> 00:13:06,637
+Então esse fumante estava nos olhando
+enquanto estávamos dormindo,
+
+244
+00:13:06,638 --> 00:13:08,372
+e agora o Mac
+de repente evapora?
+
+245
+00:13:10,216 --> 00:13:12,044
+Isso não está
+me cheirando bem.
+
+246
+00:13:24,596 --> 00:13:26,096
+Continue andando.
+
+247
+00:13:41,245 --> 00:13:42,645
+Senhores,
+
+248
+00:13:43,146 --> 00:13:44,591
+conheçam nosso novo guia.
+
+249
+00:13:51,964 --> 00:13:53,642
+É bom economizar nisso.
+
+250
+00:13:53,643 --> 00:13:56,201
+- É difícil água limpa por aqui.
+- Onde está sua comida?
+
+251
+00:13:56,202 --> 00:13:57,996
+Eu caço
+a minha própria comida.
+
+252
+00:13:59,145 --> 00:14:01,206
+Há quanto tempo
+a de vocês acabou?
+
+253
+00:14:02,107 --> 00:14:04,200
+- Muito tempo.
+- Chega de papo.
+
+254
+00:14:04,201 --> 00:14:06,470
+Levantem-se e façam as malas.
+Vamos continuar.
+
+255
+00:14:07,573 --> 00:14:08,973
+Vai.
+
+256
+00:14:17,181 --> 00:14:19,599
+Só vou dizer uma vez,
+Ranger Rick.
+
+257
+00:14:20,286 --> 00:14:21,686
+Não invente.
+
+258
+00:14:21,687 --> 00:14:24,162
+Meus amigos correm
+mais rápido que você.
+
+259
+00:14:27,251 --> 00:14:29,287
+Vai me dizer
+do que isso se trata?
+
+260
+00:14:30,773 --> 00:14:33,937
+Onde você quer tanto ir
+que está disposto a sequestrar um guia?
+
+261
+00:14:40,943 --> 00:14:42,530
+O X marca o lugar.
+
+262
+00:14:42,531 --> 00:14:45,287
+- O que tem no X?
+- Não te interessa. Só me leve lá.
+
+263
+00:14:46,175 --> 00:14:48,823
+Certo. Mas não sei como
+te direi isso.
+
+264
+00:14:48,824 --> 00:14:51,656
+Isso é do outro lado de alguns
+dos terrenos mais acidentados daqui.
+
+265
+00:14:51,657 --> 00:14:53,026
+Uma caminhada dessa
+só deve ser feita
+
+266
+00:14:53,027 --> 00:14:55,195
+por equipe bem treinada,
+não por um bando de novatos.
+
+267
+00:14:55,196 --> 00:14:57,053
+Eu não pedi a sua opinião.
+
+268
+00:14:57,054 --> 00:14:59,190
+Só nos leve lá, está certo?
+
+269
+00:14:59,191 --> 00:15:01,857
+Ficar com raiva não muda o fato
+que você está sem comida e sem água.
+
+270
+00:15:01,858 --> 00:15:05,026
+Você é inexperiente e não está preparado
+para essa caminhada.
+
+271
+00:15:05,027 --> 00:15:06,427
+Tipo, preste a chover e...
+
+272
+00:15:09,520 --> 00:15:11,634
+Talvez eu não tenha sido
+muito claro.
+
+273
+00:15:11,635 --> 00:15:15,899
+Aja como se sua vida dependesse
+de nos levar à esse X.
+
+274
+00:15:17,100 --> 00:15:18,700
+Porque depende.
+
+275
+00:15:23,316 --> 00:15:25,267
+Tudo bem, Jack.
+Hora de compartilhar.
+
+276
+00:15:25,268 --> 00:15:28,284
+O que você está olhando
+desde que saímos da casa do Ethan?
+
+277
+00:15:28,285 --> 00:15:30,626
+Alguém me mandou essa foto
+há pouco,
+
+278
+00:15:30,627 --> 00:15:33,508
+Mas não quero que se incomode,
+dadas as circunstâncias.
+
+279
+00:15:33,959 --> 00:15:35,831
+Não tem ideia
+de quem te mandou isso?
+
+280
+00:15:35,832 --> 00:15:37,882
+Não. E ele não retornará
+minhas mensagens.
+
+281
+00:15:37,883 --> 00:15:39,390
+Não consigo descobrir
+quem é.
+
+282
+00:15:39,391 --> 00:15:42,201
+- Mande ao laboratório. Vão analisar.
+- Tudo bem.
+
+283
+00:15:47,672 --> 00:15:50,648
+Me faz um favor
+e vai pegar uns petiscos?
+
+284
+00:15:51,581 --> 00:15:52,981
+Claro.
+
+285
+00:15:54,654 --> 00:15:56,554
+- Ethan.
+- Jack.
+
+286
+00:15:57,825 --> 00:15:59,491
+Como a Deena e a Mara
+estão indo?
+
+287
+00:15:59,492 --> 00:16:03,093
+Confusas. Assustadas.
+Com raiva.
+
+288
+00:16:03,094 --> 00:16:04,768
+É tão bom
+quanto pode se esperar.
+
+289
+00:16:04,769 --> 00:16:07,496
+- Então como a S-Company no achou?
+- Sabe que não posso dizer isso.
+
+290
+00:16:08,384 --> 00:16:09,784
+Está falando sério?
+
+291
+00:16:09,785 --> 00:16:12,177
+Lembra que eu tinha
+maior liberação que você,
+
+292
+00:16:12,178 --> 00:16:13,578
+- certo?
+- Agora não tem.
+
+293
+00:16:13,579 --> 00:16:15,261
+Ethan, você está fora.
+
+294
+00:16:15,262 --> 00:16:18,243
+Por mais estranho e complicado
+que isso seja,
+
+295
+00:16:18,644 --> 00:16:20,644
+preciso te tratar
+como um civil qualquer
+
+296
+00:16:20,645 --> 00:16:23,896
+- indo para proteção à testemunha.
+- Exceto que não sou, Matty.
+
+297
+00:16:23,897 --> 00:16:26,612
+Porque se eu fosse, a diretora
+de uma agência ultra-secreta
+
+298
+00:16:26,613 --> 00:16:29,754
+não cuidaria pessoalmente
+da minha realocação.
+
+299
+00:16:30,355 --> 00:16:31,755
+Você está certo.
+
+300
+00:16:32,296 --> 00:16:34,536
+Nossa situação é única.
+
+301
+00:16:35,761 --> 00:16:38,153
+Mas o fato
+de termos sido casados
+
+302
+00:16:38,154 --> 00:16:40,522
+não significa que eu posso
+descartar o governo...
+
+303
+00:16:40,523 --> 00:16:42,483
+- Deena...
+- Vocês eram casados?
+
+304
+00:16:46,433 --> 00:16:48,225
+Sem petiscos de carne seca.
+
+305
+00:16:48,226 --> 00:16:50,458
+Sabe, eles têm todos os sabores
+do mundo,
+
+306
+00:16:50,459 --> 00:16:51,863
+e não tem de carne seca?
+
+307
+00:16:51,864 --> 00:16:55,203
+Isso com certeza vai
+para a minha recomendação...
+
+308
+00:16:58,959 --> 00:17:00,751
+Precisamos pegar a estrada.
+
+309
+00:17:08,467 --> 00:17:10,193
+Sabe, precisamos mesmo parar
+acender uma fogueira
+
+310
+00:17:10,194 --> 00:17:12,504
+e secar essas roupas
+antes que todos fiquem hipotérmicos.
+
+311
+00:17:12,505 --> 00:17:14,115
+Só continue andando.
+
+312
+00:17:21,889 --> 00:17:23,289
+Por que a demora?
+
+313
+00:17:23,290 --> 00:17:26,173
+Precisamos de uma nova rota,
+porque essa é muito perigosa.
+
+314
+00:17:26,174 --> 00:17:28,251
+- Parece boa para mim.
+- Mas o que você não pode ver
+
+315
+00:17:28,252 --> 00:17:30,966
+é que a camada invisível de umidade
+deixada sobre as pedras
+
+316
+00:17:30,967 --> 00:17:32,926
+agora está congelada
+em uma invisível camada de gelo.
+
+317
+00:17:32,927 --> 00:17:35,551
+Então, cruzar essas pedras
+é um risco que podemos evitar
+
+318
+00:17:35,552 --> 00:17:37,721
+- indo por outro caminho.
+- Será mais longo?
+
+319
+00:17:38,122 --> 00:17:40,366
+- Sim, um pouco.
+- Então, não.
+
+320
+00:17:40,367 --> 00:17:43,363
+Não sairemos do caminho
+por causa de pedras lisas.
+
+321
+00:17:44,825 --> 00:17:46,225
+Certo.
+
+322
+00:17:46,226 --> 00:17:49,000
+Dá para fazer isso mais seguro,
+mas vou precisar do meu canivete
+
+323
+00:17:49,001 --> 00:17:51,130
+e todos os zíperes
+das tendas.
+
+324
+00:17:54,138 --> 00:17:56,495
+- Tudo bem.
+- Tem certeza?
+
+325
+00:17:57,192 --> 00:17:59,187
+Vamos ver
+o que ele fará com isso.
+
+326
+00:18:03,887 --> 00:18:08,247
+Tudo bem, eles darão
+mais tração às suas botas.
+
+327
+00:18:08,248 --> 00:18:12,397
+Mas ainda é perigoso,
+então dêem passos curtos.
+
+328
+00:18:12,398 --> 00:18:14,498
+Mas sério,
+sigam exatamente os meus passos.
+
+329
+00:18:14,499 --> 00:18:15,899
+Depois de você.
+
+330
+00:18:21,772 --> 00:18:23,572
+Eu disse para você me seguir.
+
+331
+00:18:32,424 --> 00:18:33,824
+- Dói?
+- Dói.
+
+332
+00:18:33,825 --> 00:18:36,032
+- Temos que parar pela noite.
+- Sem chance.
+
+333
+00:18:36,033 --> 00:18:38,686
+Olha, você não tem escolha.
+Ele torceu o tornozelo. Está feio.
+
+334
+00:18:38,687 --> 00:18:40,554
+Tenho que controlar o inchaço
+ou vai piorar
+
+335
+00:18:40,555 --> 00:18:42,327
+e significa aumentar
+o percurso algumas horas.
+
+336
+00:18:42,828 --> 00:18:45,985
+Vou procurar algo para fazer uma tala,
+e estabilizar a perna dele.
+
+337
+00:18:45,986 --> 00:18:49,276
+E aí fazer uma muleta, para você andar.
+Mas daqui em diante, vai ser lento.
+
+338
+00:18:49,817 --> 00:18:51,217
+Vá com ele.
+
+339
+00:18:53,809 --> 00:18:55,847
+- Gio, desculpe, cara.
+- Fica calmo, Cid.
+
+340
+00:18:56,467 --> 00:18:57,867
+Relaxa.
+
+341
+00:19:05,594 --> 00:19:07,362
+Certo. Isso foi um tiro,
+
+342
+00:19:07,363 --> 00:19:09,018
+- e vem daquele lado.
+- Vamos, temos que andar.
+
+343
+00:19:09,019 --> 00:19:11,491
+Espere. O que faremos
+quando pegarmos os caras?
+
+344
+00:19:11,492 --> 00:19:14,358
+- Eles têm armas!
+- Acho que improvisamos. Vamos.
+
+345
+00:19:24,007 --> 00:19:25,407
+O que você fez?
+
+346
+00:19:26,134 --> 00:19:28,443
+Você disse
+que ele ia nos atrasar.
+
+347
+00:19:34,141 --> 00:19:37,126
+Bem,
+meus amigos ouviram esse tiro.
+
+348
+00:19:37,127 --> 00:19:40,133
+Se quiser mantê-los fora disso,
+sugiro que você se adiante.
+
+349
+00:19:56,862 --> 00:19:58,262
+Mexa-se.
+
+350
+00:20:04,868 --> 00:20:07,868
+ALGUM LUGAR EM NEBRASKA
+
+351
+00:20:16,433 --> 00:20:17,933
+Louisiana.
+
+352
+00:20:19,339 --> 00:20:21,819
+Texas.
+Muito bem, Texas.
+
+353
+00:20:22,720 --> 00:20:24,120
+Kansas.
+
+354
+00:20:24,121 --> 00:20:27,999
+- Todo mundo tem que ir...
+- Jack, por favor pare.
+
+355
+00:20:28,000 --> 00:20:31,778
+- Você é o único brincando.
+- Só quero aliviar o clima.
+
+356
+00:20:31,779 --> 00:20:34,145
+- Parece um carro "fúlebre".
+- Fúnebre.
+
+357
+00:20:34,146 --> 00:20:35,747
+Foi o que eu disse,
+"fúlebre".
+
+358
+00:20:36,748 --> 00:20:39,526
+Essa parte de Nebraska
+onde estamos indo é muito linda.
+
+359
+00:20:40,230 --> 00:20:44,061
+É cheio de colinas ondulantes
+e riachos tranquilos.
+
+360
+00:20:44,062 --> 00:20:46,200
+Você vai adorar.
+A Mara também vai.
+
+361
+00:20:47,201 --> 00:20:49,128
+Vamos ter uma vida linda aqui.
+
+362
+00:21:00,947 --> 00:21:02,347
+Está muito longe?
+
+363
+00:21:03,078 --> 00:21:06,459
+3 km, como o corvo voa,
+mas será viagem só de ida
+
+364
+00:21:06,460 --> 00:21:08,282
+se não pararmos
+para pegar água.
+
+365
+00:21:08,283 --> 00:21:09,683
+Quando chegarmos lá.
+
+366
+00:21:10,384 --> 00:21:12,665
+E se nossos músculos
+sofrerem desidratação
+
+367
+00:21:12,666 --> 00:21:14,756
+antes de chegarmos,
+vai atirar em todos?
+
+368
+00:21:20,018 --> 00:21:21,418
+Olha,
+
+369
+00:21:22,291 --> 00:21:25,363
+você pode mandar seu pessoal
+por esse fluxo para coletar água.
+
+370
+00:21:25,364 --> 00:21:27,454
+Mas não bebam ainda.
+Não é potável.
+
+371
+00:21:27,455 --> 00:21:29,743
+E você vai torná-la potável?
+Como?
+
+372
+00:21:29,744 --> 00:21:33,306
+Preciso do canivete,
+um galho de pinheiro e...
+
+373
+00:21:34,420 --> 00:21:36,565
+um desses sacos de colchão.
+
+374
+00:21:42,057 --> 00:21:43,930
+Tudo bem. Vocês ouviram.
+
+375
+00:21:43,931 --> 00:21:45,711
+Encham todas as garrafas
+que temos.
+
+376
+00:21:45,712 --> 00:21:47,112
+Pode fazer.
+
+377
+00:21:48,265 --> 00:21:51,515
+<i>Acesso à água potável é vital
+numa sobrevivência na selva.</i>
+
+378
+00:21:51,516 --> 00:21:53,953
+<i>Sem isso,
+seu corpo cederá rapidamente.</i>
+
+379
+00:21:53,954 --> 00:21:57,055
+<i>Então, quando a água suja
+é a única opção do menu,</i>
+
+380
+00:21:57,056 --> 00:22:00,071
+<i>você tem que pedir ajuda
+à Mãe Natureza.</i>
+
+381
+00:22:02,121 --> 00:22:04,212
+Tem certeza que é seguro?
+
+382
+00:22:05,733 --> 00:22:07,133
+Absoluta.
+
+383
+00:22:07,134 --> 00:22:10,134
+O xilema nos galhos de pinheiro
+retiras as bactérias nocivas.
+
+384
+00:22:11,835 --> 00:22:14,733
+As árvores não bebem água suja,
+assim como as pessoas.
+
+385
+00:22:17,379 --> 00:22:19,079
+Há quanto tempo
+você conhece o Gio?
+
+386
+00:22:19,572 --> 00:22:20,972
+Alguns anos.
+
+387
+00:22:20,973 --> 00:22:22,881
+Mais tempo que o cara morto
+lá atrás?
+
+388
+00:22:24,996 --> 00:22:27,775
+Não.
+Gio e Cid eram mais antigos.
+
+389
+00:22:28,512 --> 00:22:29,921
+Por que a pergunta?
+
+390
+00:22:29,922 --> 00:22:32,914
+Se o Gio estava disposto a atirar
+no cara que ele conhecia há anos
+
+391
+00:22:32,915 --> 00:22:35,195
+só porque ele diminuiu
+um pouco o passo,
+
+392
+00:22:35,196 --> 00:22:37,433
+o que acha que ele fará
+com você
+
+393
+00:22:37,434 --> 00:22:39,715
+quando descobrir
+que não precisa mais de você?
+
+394
+00:22:45,284 --> 00:22:47,165
+Você é tão fofo.
+
+395
+00:22:47,166 --> 00:22:48,566
+Giovanni.
+
+396
+00:22:48,567 --> 00:22:51,912
+Seu GPS humano está tentando
+me virar contra você.
+
+397
+00:22:51,913 --> 00:22:54,427
+Sério?
+Funcionou?
+
+398
+00:22:55,242 --> 00:22:58,400
+Peça para puxar o gatilho,
+e eu provarei a minha lealdade.
+
+399
+00:22:58,801 --> 00:23:00,201
+Tentador.
+
+400
+00:23:00,602 --> 00:23:02,672
+Mas não agora.
+Ainda precisamos dele.
+
+401
+00:23:03,568 --> 00:23:05,418
+Não posso culpá-lo por tentar,
+garoto.
+
+402
+00:23:05,419 --> 00:23:08,304
+A punição, no entanto,
+tem que ficar para depois.
+
+403
+00:23:08,305 --> 00:23:10,791
+Se seu lance da água terminou,
+podemos ir andando.
+
+404
+00:23:10,792 --> 00:23:12,818
+Vamos. Guardando.
+
+405
+00:23:12,819 --> 00:23:14,953
+Achei mais sangue aqui.
+
+406
+00:23:27,545 --> 00:23:30,135
+Realmente achei
+que fosse o Mac, ali embaixo.
+
+407
+00:23:30,136 --> 00:23:31,639
+É, eu também.
+
+408
+00:23:31,640 --> 00:23:33,376
+Mas se fizeram isso
+com um deles...
+
+409
+00:23:33,377 --> 00:23:36,181
+É só questão de tempo
+antes que o próximo corpo seja o do Mac.
+
+410
+00:23:36,182 --> 00:23:38,697
+Bozer, olhe.
+Ele ainda tem um rádio com ele.
+
+411
+00:23:38,698 --> 00:23:41,092
+Se pegarmos, acho que podemos
+chamar um guarda.
+
+412
+00:23:41,593 --> 00:23:43,020
+Adorei o plano, Riley.
+
+413
+00:23:43,021 --> 00:23:45,905
+Só um pequeno problema
+de 15 metros,
+
+414
+00:23:46,824 --> 00:23:49,783
+O Mac nos ensinou a tecer corda
+para construir as barracas.
+
+415
+00:23:49,784 --> 00:23:52,865
+E se construirmos uma corda
+bem longa?
+
+416
+00:23:53,223 --> 00:23:54,775
+Forte o suficiente
+para descer?
+
+417
+00:23:54,776 --> 00:23:56,877
+Não, não.
+A corda não é para descida.
+
+418
+00:23:56,878 --> 00:23:58,378
+É para pesca.
+
+419
+00:24:01,014 --> 00:24:02,816
+Agora, ele enganchou.
+
+420
+00:24:02,817 --> 00:24:04,291
+Calma. Calma.
+
+421
+00:24:05,801 --> 00:24:07,438
+- Devagar. Devagar.
+- Entendi.
+
+422
+00:24:16,812 --> 00:24:19,063
+- Qual o problema?
+- É um rádio de comsumidor.
+
+423
+00:24:19,410 --> 00:24:22,149
+Ele não sintoniza a frequência
+do Serviço de Proteção.
+
+424
+00:24:22,150 --> 00:24:24,670
+Não existe um canal
+de emergência ou algo assim?
+
+425
+00:24:24,671 --> 00:24:27,443
+Sim, claro. Mas não tem garantia
+que alguém vá ouvir.
+
+426
+00:24:27,444 --> 00:24:29,425
+Podemos passar o dia todo
+chamando por ajuda.
+
+427
+00:24:29,912 --> 00:24:32,204
+Então, fizemos tudo isso
+para nada?
+
+428
+00:24:34,054 --> 00:24:35,554
+Na verdade, não.
+
+429
+00:24:36,076 --> 00:24:39,087
+Acho que consigo sintonizar
+a faixa autorizada do governo federal.
+
+430
+00:24:39,088 --> 00:24:40,488
+- Faz isso.
+- Vou tentar.
+
+431
+00:24:47,002 --> 00:24:50,483
+Bem, estamos...
+Estamos aqui.
+
+432
+00:24:50,484 --> 00:24:52,508
+Se espalhem. Encontrem.
+
+433
+00:25:00,617 --> 00:25:02,634
+Gio, não tem nada aqui.
+
+434
+00:25:05,949 --> 00:25:07,945
+- Você nos guiou para o lado errado.
+- Não levei.
+
+435
+00:25:07,946 --> 00:25:11,353
+- A localização geográfica é...
+- Ou você estragou tudo,
+
+436
+00:25:11,354 --> 00:25:13,392
+- ou está jogando jogos.
+- Não estou.
+
+437
+00:25:15,584 --> 00:25:17,969
+- Não acredito em você.
+- Espere.
+
+438
+00:25:17,970 --> 00:25:19,370
+Espere.
+
+439
+00:25:19,831 --> 00:25:23,981
+O que está procurando
+está fixado no chão?
+
+440
+00:25:24,649 --> 00:25:26,129
+Que tipo de pergunta é essa?
+
+441
+00:25:26,130 --> 00:25:29,255
+Porque se não estava, é possível
+que uma inundação tenha levado.
+
+442
+00:25:29,256 --> 00:25:32,525
+- Explique.
+- Veja a lama seca na pedra bem ali.
+
+443
+00:25:32,526 --> 00:25:34,409
+É linha d'água,
+e está recente.
+
+444
+00:25:34,410 --> 00:25:36,819
+Se me disser o tamanho e peso
+do que está procurando,
+
+445
+00:25:36,820 --> 00:25:40,627
+posso determinar
+para onde a inundação levou.
+
+446
+00:25:42,664 --> 00:25:45,084
+Estou procurando
+por US$ 18 milhões.
+
+447
+00:25:47,686 --> 00:25:49,086
+Tudo bem.
+
+448
+00:25:50,114 --> 00:25:53,226
+- Como isso parou aqui?
+- Eu joguei de um avião.
+
+449
+00:25:54,170 --> 00:25:55,570
+Tudo bem.
+
+450
+00:25:55,954 --> 00:25:59,200
+Tudo bem. Como foi
+a denominação das contas?
+
+451
+00:25:59,201 --> 00:26:01,458
+- Como isso importa?
+- Quer encontrar ou não?
+
+452
+00:26:01,459 --> 00:26:05,060
+- O dinheiro era em centenas.
+- Isso significa que era uns 180 kg.
+
+453
+00:26:05,061 --> 00:26:07,006
+- Está dentro de quê?
+- Caixote de madeira.
+
+454
+00:26:07,007 --> 00:26:09,308
+Alguns bancos usavam
+para enviar dinheiro um ao outro
+
+455
+00:26:09,309 --> 00:26:10,850
+quando estavam
+balanceando os livros.
+
+456
+00:26:10,851 --> 00:26:13,657
+Então vocês roubaram
+esse caixote,
+
+457
+00:26:13,658 --> 00:26:16,482
+carregaram de um avião,
+e aí jogaram em pleno voo.
+
+458
+00:26:16,483 --> 00:26:18,898
+- Suponho que estavam com os policiais.
+- Algo do tipo.
+
+459
+00:26:18,899 --> 00:26:20,743
+Estava muito embaçado
+para pousar com o dinheiro
+
+460
+00:26:20,744 --> 00:26:22,832
+então jogamos
+e marcamos a localização,
+
+461
+00:26:22,833 --> 00:26:26,942
+e o resto você sabe.
+Agora, onde está o dinheiro?
+
+462
+00:26:27,840 --> 00:26:29,820
+Não vou perguntar de novo.
+
+463
+00:26:29,821 --> 00:26:34,211
+Certo, olhe, posso usar
+a taxa de erosão do solo
+
+464
+00:26:34,212 --> 00:26:37,485
+para deterrminar a velocidade
+da água da inundação.
+
+465
+00:26:37,486 --> 00:26:40,816
+Então, descubro a direção e distância
+percorrida pelo caixote,
+
+466
+00:26:40,817 --> 00:26:42,942
+contanto que eu descubra
+a variável ausente aqui.
+
+467
+00:26:42,943 --> 00:26:44,384
+E qual é?
+
+468
+00:26:44,385 --> 00:26:47,613
+É o ângulo de inclinação do terreno
+que estamos agora.
+
+469
+00:26:47,614 --> 00:26:49,425
+Esse terreno
+é totalmente plano.
+
+470
+00:26:49,426 --> 00:26:52,054
+Para um olho nu.
+Me empresta a mira?
+
+471
+00:26:57,016 --> 00:26:58,626
+Dê para ele.
+
+472
+00:27:13,802 --> 00:27:15,302
+Ponha depois da rocha.
+
+473
+00:27:21,715 --> 00:27:25,252
+Certo. O maior ângulo
+de inclinação
+
+474
+00:27:25,253 --> 00:27:28,213
+é 18 graus a nordeste.
+
+475
+00:27:28,214 --> 00:27:32,619
+E procuramos um caixote,
+de digamos 195 kg,
+
+476
+00:27:32,620 --> 00:27:34,720
+feito de madeira porosa,
+cheia de dinheiro.
+
+477
+00:27:34,721 --> 00:27:37,663
+Então, calculando
+o tempo de inundação
+
+478
+00:27:37,664 --> 00:27:40,823
+e a velocidade da água
+usando a taxa de erosão,
+
+479
+00:27:40,824 --> 00:27:43,369
+então, significa
+que a caixa boiou
+
+480
+00:27:43,370 --> 00:27:46,773
+- bem por ali.
+- É melhor estar certo.
+
+481
+00:27:52,918 --> 00:27:55,439
+Fazer meus ouvidos sangrarem
+é parte do processo?
+
+482
+00:27:55,440 --> 00:27:57,617
+Não. É bônus de diversão.
+
+483
+00:27:57,618 --> 00:27:59,519
+Estou girando o fio de cobre
+para contornar
+
+484
+00:27:59,520 --> 00:28:01,029
+toda a frequência comercial.
+
+485
+00:28:01,030 --> 00:28:04,214
+Aí podemos alcançar
+o canal restrito do governo.
+
+486
+00:28:11,420 --> 00:28:14,024
+Socorro!
+
+487
+00:28:14,025 --> 00:28:16,287
+Precisamos de ajuda.
+Alguém na escuta?
+
+488
+00:28:16,288 --> 00:28:17,433
+Estamos longe de um guarda?
+
+489
+00:28:17,434 --> 00:28:20,061
+Estou tentando alcançar
+o Serviço de Parque de Washington.
+
+490
+00:28:20,062 --> 00:28:22,138
+Alguém na escuta?
+Precisamos de ajuda.
+
+491
+00:28:22,831 --> 00:28:25,369
+<i>Aqui é o guarda florestal.
+Quem fala?</i>
+
+492
+00:28:26,278 --> 00:28:27,778
+Aqui é Riley Davis.
+
+493
+00:28:27,779 --> 00:28:30,046
+Meus amigos e eu estávamos
+andando no desfiladeiro Walker
+
+494
+00:28:30,047 --> 00:28:31,537
+quando homens armados
+sequestraram um de nós.
+
+495
+00:28:31,538 --> 00:28:33,044
+Precisamos de ajuda imediata.
+
+496
+00:28:33,904 --> 00:28:36,316
+<i>Copiado.
+Sabe a sua localização?</i>
+
+497
+00:28:36,317 --> 00:28:38,017
+Estamos em um precipício?
+
+498
+00:28:38,695 --> 00:28:41,095
+Onde os sequestradores
+mataram um deles próprios.
+
+499
+00:28:41,781 --> 00:28:43,791
+Vejo uma cadeia de montanhas
+ao sul.
+
+500
+00:28:44,624 --> 00:28:46,733
+O desfiladeiro
+está uns 32 km a leste.
+
+501
+00:28:46,734 --> 00:28:48,670
+<i>Copiado.
+Acho que sei onde estão.</i>
+
+502
+00:28:48,671 --> 00:28:50,891
+<i>Estamos chamando
+apoio policial agora.</i>
+
+503
+00:28:50,892 --> 00:28:54,506
+<i>Fiquem onde estão,
+mantenham seu rádio ligado.</i>
+
+504
+00:28:55,787 --> 00:28:57,431
+A ajuda está a caminho.
+
+505
+00:29:01,296 --> 00:29:03,283
+E você disse que pegar
+o rádio do guarda
+
+506
+00:29:03,284 --> 00:29:05,393
+seria uma perda de tempo.
+Anton.
+
+507
+00:29:06,299 --> 00:29:08,165
+Volta lá,
+encontre os amigos dele.
+
+508
+00:29:08,166 --> 00:29:09,702
+Faça-os companhia.
+
+509
+00:29:10,970 --> 00:29:12,470
+Espere pelo meu sinal.
+
+510
+00:29:26,080 --> 00:29:27,995
+Acha que é fumaça suficiente
+para nortear os guardas?
+
+511
+00:29:29,387 --> 00:29:30,998
+Acho que a resposta é sim.
+
+512
+00:29:35,259 --> 00:29:37,650
+- Vocês que pediram socorro?
+- Pedimos, mas...
+
+513
+00:29:37,651 --> 00:29:39,134
+esperávamos
+um guarda florestal.
+
+514
+00:29:39,135 --> 00:29:40,635
+Infelizmente, eles não virão.
+
+515
+00:29:41,268 --> 00:29:43,267
+Agora jogue o rádio
+e calem a boca.
+
+516
+00:29:50,321 --> 00:29:51,869
+Gio. Emma.
+
+517
+00:29:51,870 --> 00:29:53,970
+<i>É a Emma.
+Encontrou os amigos dele?</i>
+
+518
+00:29:53,971 --> 00:29:56,178
+Claro que sim.
+Estamos nos <i>conhecendo</i>.
+
+519
+00:29:56,179 --> 00:29:59,067
+Ótimo. Estamos quase no dinheiro.
+Mantenha-os vivos.
+
+520
+00:29:59,068 --> 00:30:00,765
+Avisaremos, qualquer coisa.
+
+521
+00:30:07,140 --> 00:30:09,558
+- Está frio aqui.
+- Que parte do "calado" não entendeu?
+
+522
+00:30:09,559 --> 00:30:12,094
+Só dizendo, o sol irá se pôr,
+temperatura cai.
+
+523
+00:30:12,095 --> 00:30:14,126
+Se suas roupas de algodão
+são tão úmidas quanto parecem,
+
+524
+00:30:14,127 --> 00:30:16,381
+mas tenho certeza
+que um cara como você
+
+525
+00:30:16,382 --> 00:30:17,882
+sabe como lidar
+com hipotermia.
+
+526
+00:30:19,080 --> 00:30:21,725
+- E se não souber?
+- Precisamos acender uma fogueira.
+
+527
+00:30:21,726 --> 00:30:24,017
+Se usarmos alguns galhos
+e restos daquele mato ali,
+
+528
+00:30:24,018 --> 00:30:27,345
+nos manterá aquecidos
+até nossa situação atual ser resolvida.
+
+529
+00:30:30,296 --> 00:30:31,822
+Certo. Mas fiquem
+onde eu possa vê-los.
+
+530
+00:30:53,367 --> 00:30:54,780
+Bom trabalho, Bozer.
+
+531
+00:30:54,781 --> 00:30:57,151
+Já sabe como funciona
+o carvalho venenoso.
+
+532
+00:30:57,152 --> 00:30:59,246
+Agora,
+onde está nosso amigo?
+
+533
+00:31:00,952 --> 00:31:03,510
+Essa ravina atua como bacia
+de drenagem natural
+
+534
+00:31:03,511 --> 00:31:06,726
+para qualquer coisa
+deslocada pela correnteza.
+
+535
+00:31:06,727 --> 00:31:10,230
+Então, seu caixote
+deve estar aqui.
+
+536
+00:31:11,195 --> 00:31:12,795
+Ali, ali!
+
+537
+00:31:29,777 --> 00:31:31,177
+Está tudo aqui.
+
+538
+00:31:33,128 --> 00:31:34,693
+Podemos comemorar quando
+pusermos
+
+539
+00:31:34,694 --> 00:31:36,115
+- o dinheiro no carro.
+- Vai ser difícil.
+
+540
+00:31:36,116 --> 00:31:38,214
+Só temos três mochilas
+e um homem a menos.
+
+541
+00:31:38,215 --> 00:31:40,288
+Pelo lado positivo,
+18 milhões divididos em quatro
+
+542
+00:31:40,289 --> 00:31:41,689
+é muito melhor.
+
+543
+00:31:42,694 --> 00:31:46,168
+Certo. Fiz o que você pediu.
+Achei o seu dinheiro.
+
+544
+00:31:46,169 --> 00:31:48,371
+Agora, fale com seu homem
+e diga para soltar meus amigos.
+
+545
+00:31:49,417 --> 00:31:51,150
+Se eu dissesse que mataria
+seus amigos
+
+546
+00:31:51,151 --> 00:31:53,485
+caso não achasse uma forma
+de pegar esse dinheiro sozinho
+
+547
+00:31:53,486 --> 00:31:56,148
+- para si, o que diria?
+- Diria que não foi esse o acordo.
+
+548
+00:31:56,149 --> 00:31:58,336
+Bem, eu estou fazendo
+o acordo. Responda-me.
+
+549
+00:31:58,337 --> 00:32:02,343
+Pode construir algo
+para carregar meu dinheiro sozinho?
+
+550
+00:32:07,896 --> 00:32:09,296
+- Certeza?
+- Tenho.
+
+551
+00:32:09,297 --> 00:32:10,697
+- Por quê?
+- Está bem.
+
+552
+00:32:18,378 --> 00:32:19,778
+Então, faça.
+
+553
+00:32:19,779 --> 00:32:22,062
+Vamos carregá-lo
+assim que estiver pronto.
+
+554
+00:32:46,558 --> 00:32:47,958
+Tudo limpo.
+
+555
+00:32:54,723 --> 00:32:56,123
+Bem-vindo ao lar.
+
+556
+00:33:07,802 --> 00:33:09,202
+Certo.
+
+557
+00:33:11,095 --> 00:33:13,491
+Isso é tudo
+que eles trouxeram.
+
+558
+00:33:13,492 --> 00:33:16,166
+E o Ethan está fazendo
+outra varredura no bairro
+
+559
+00:33:16,167 --> 00:33:18,627
+só... para garantir.
+
+560
+00:33:21,399 --> 00:33:24,086
+- Como está lidando?
+- É com ela que me preocupo.
+
+561
+00:33:25,910 --> 00:33:27,318
+Dia pesado.
+
+562
+00:33:27,319 --> 00:33:28,721
+Quero falar com ela,
+
+563
+00:33:28,722 --> 00:33:30,442
+deixá-la mais tranquila, mas...
+
+564
+00:33:30,858 --> 00:33:34,073
+- Não tenho ideia do que dizer.
+- Claro que tem.
+
+565
+00:33:34,074 --> 00:33:37,271
+Você só acha que não sabe
+porque está muito...
+
+566
+00:33:37,872 --> 00:33:39,272
+envolvida.
+
+567
+00:33:39,667 --> 00:33:41,550
+Imagine se os papéis
+fossem invertidos
+
+568
+00:33:41,551 --> 00:33:44,240
+e eu estivesse inseguro de lidar.
+O que me diria para fazer?
+
+569
+00:33:44,241 --> 00:33:46,755
+Eu diria, "conte a ela a verdade
+sobre seu passado,
+
+570
+00:33:46,756 --> 00:33:48,356
+para ela não ficar adivinhando."
+
+571
+00:33:51,437 --> 00:33:52,837
+Conseguiu.
+
+572
+00:33:54,947 --> 00:33:57,548
+Mamãe, preciso do roxo.
+
+573
+00:34:01,972 --> 00:34:03,572
+Não está aqui, querida.
+
+574
+00:34:03,573 --> 00:34:05,829
+Mas preciso agora!
+
+575
+00:34:05,830 --> 00:34:07,230
+Quer saber, Mara?
+
+576
+00:34:09,465 --> 00:34:12,293
+Você pode fazer
+seu próprio roxo. Olhe.
+
+577
+00:34:12,824 --> 00:34:16,462
+Você só precisa
+do vermelho...
+
+578
+00:34:18,954 --> 00:34:20,354
+e do azul.
+
+579
+00:34:21,924 --> 00:34:24,318
+Está vendo? Roxo.
+Quer tentar?
+
+580
+00:34:27,059 --> 00:34:28,459
+Obrigada.
+
+581
+00:34:32,245 --> 00:34:34,723
+Desistir de tudo
+que já conheceu.
+
+582
+00:34:35,789 --> 00:34:38,620
+Ter que começar de novo
+duas vezes.
+
+583
+00:34:38,621 --> 00:34:41,126
+Não consigo imaginar
+o quanto é difícil para você.
+
+584
+00:34:42,252 --> 00:34:44,077
+Mas o que posso imaginar
+
+585
+00:34:44,078 --> 00:34:46,251
+é que você gostaria de começar
+sua nova vida
+
+586
+00:34:46,252 --> 00:34:47,907
+sem quaisquer perguntas.
+
+587
+00:34:47,908 --> 00:34:50,391
+Por isso, acho que você deve
+saber a verdade.
+
+588
+00:34:52,045 --> 00:34:53,906
+Ethan e eu éramos casados.
+
+589
+00:34:54,707 --> 00:34:59,006
+E nos amávamos muito,
+mas isso foi há muito tempo,
+
+590
+00:34:59,007 --> 00:35:00,956
+antes de você e ele
+se conhecerem.
+
+591
+00:35:00,957 --> 00:35:03,812
+Agora, você e a Mara
+são a vida dele.
+
+592
+00:35:03,813 --> 00:35:05,924
+E assim que tivermos certeza
+que estão seguros aqui,
+
+593
+00:35:05,925 --> 00:35:07,581
+você nunca mais me verá
+novamente.
+
+594
+00:35:11,844 --> 00:35:15,058
+Tudo que eu quero
+é dar à Mara uma vida boa.
+
+595
+00:35:15,059 --> 00:35:16,459
+E você vai.
+
+596
+00:35:20,591 --> 00:35:22,863
+- Para você.
+- Para mim?
+
+597
+00:35:23,981 --> 00:35:26,286
+É lindo.
+
+598
+00:35:26,287 --> 00:35:29,377
+- Obrigada.
+- De nada.
+
+599
+00:35:29,378 --> 00:35:30,878
+É, penso do mesmo jeito.
+
+600
+00:35:35,253 --> 00:35:36,653
+Tudo bem aqui?
+
+601
+00:35:39,426 --> 00:35:41,326
+Sim, tudo bem.
+
+602
+00:35:53,584 --> 00:35:56,295
+Quanto tempo mais
+levará esse seu trenó?
+
+603
+00:35:57,172 --> 00:35:59,521
+Não muito. Só mais uma coisa.
+
+604
+00:36:05,048 --> 00:36:06,548
+Meu dinheiro!
+
+605
+00:36:14,258 --> 00:36:16,692
+- Tem que ser o Mac. Certo?
+- É. Vamos, vamos.
+
+606
+00:36:20,448 --> 00:36:22,236
+Não pare. Continue.
+
+607
+00:37:03,200 --> 00:37:05,431
+- Mac! Mac!
+- Mac! Mac!
+
+608
+00:37:06,032 --> 00:37:07,432
+Mac!
+
+609
+00:37:07,474 --> 00:37:10,805
+Ele levou um tiro.
+Mas ainda está vivo.
+
+610
+00:37:11,131 --> 00:37:12,531
+- Mac.
+- Mac!
+
+611
+00:37:15,748 --> 00:37:18,050
+- Vocês estão bem?
+- Não é conosco que estamos preocupados.
+
+612
+00:37:18,051 --> 00:37:20,618
+Está com uma bala na perna.
+Precisa nos dizer como tirá-la.
+
+613
+00:37:20,619 --> 00:37:22,019
+Não tiram.
+
+614
+00:37:22,020 --> 00:37:25,344
+Só parem o sangramento
+e revistam o ferimento.
+
+615
+00:37:25,345 --> 00:37:27,634
+- Com o que revestimos o ferimento?
+- Milefólio.
+
+616
+00:37:27,635 --> 00:37:29,870
+- Milefólio?
+- É uma flor branca. Cresce de muitos.
+
+617
+00:37:29,871 --> 00:37:31,411
+Deve estar por aqui.
+
+618
+00:37:31,412 --> 00:37:34,719
+Está bem, mano,
+terá que fazer pressão nele.
+
+619
+00:37:35,320 --> 00:37:37,353
+- É muito?
+- Ainda não.
+
+620
+00:37:38,345 --> 00:37:40,113
+Isso. É desse jeito.
+É por aí.
+
+621
+00:37:42,063 --> 00:37:43,463
+Certo.
+
+622
+00:37:44,251 --> 00:37:48,420
+Tudo bem. Tape a ferida
+e amarre bem.
+
+623
+00:37:52,713 --> 00:37:54,113
+- Está pronto?
+- Estou.
+
+624
+00:37:58,148 --> 00:37:59,548
+Isso aí.
+
+625
+00:38:00,160 --> 00:38:01,958
+Aperte mais.
+Tem que apertar mais.
+
+626
+00:38:01,959 --> 00:38:04,007
+Temos que amarrar.
+Está vendo videiras?
+
+627
+00:38:04,008 --> 00:38:05,408
+Tem algo melhor.
+
+628
+00:38:07,275 --> 00:38:09,175
+Aqui.
+É mais forte.
+
+629
+00:38:09,485 --> 00:38:10,967
+Vai funcionar.
+
+630
+00:38:14,874 --> 00:38:17,390
+- Desculpe, Mac.
+- Tranquilo. Vai resolver.
+
+631
+00:38:17,391 --> 00:38:19,059
+- Certo.
+- Agora a parte difícil.
+
+632
+00:38:19,660 --> 00:38:22,444
+Levem-me a um hospital.
+
+633
+00:38:22,445 --> 00:38:23,911
+Pegue as pernas dele.
+Temos que carregá-lo.
+
+634
+00:38:23,912 --> 00:38:25,640
+É muito longe. Nunca conseguiremos
+sair da floresta a tempo.
+
+635
+00:38:25,641 --> 00:38:27,141
+Então o que faremos?
+
+636
+00:38:28,929 --> 00:38:30,424
+Parece que o Mac
+estava construindo um trenó.
+
+637
+00:38:30,425 --> 00:38:32,368
+Vamos terminar
+e usar para levá-lo.
+
+638
+00:38:34,327 --> 00:38:36,706
+Tudo que precisa está aí dentro:
+novos nomes,
+
+639
+00:38:36,707 --> 00:38:39,697
+novos RG e CPF,
+e nova certidão de casamento.
+
+640
+00:38:39,698 --> 00:38:41,887
+Trabalhos.
+Espero que ajude.
+
+641
+00:38:42,188 --> 00:38:43,696
+Se cuide, Ethan.
+
+642
+00:38:44,877 --> 00:38:46,277
+Obrigado, Jack.
+
+643
+00:38:46,731 --> 00:38:49,529
+- Eu realmente agradeço.
+- De nada.
+
+644
+00:38:55,471 --> 00:38:56,957
+Obrigado, Matty.
+
+645
+00:38:56,958 --> 00:38:58,848
+Por salvar minha família
+em Cypress,
+
+646
+00:38:58,849 --> 00:39:00,249
+por nos trazer aqui, por...
+
+647
+00:39:01,328 --> 00:39:02,728
+por tudo.
+
+648
+00:39:03,791 --> 00:39:05,492
+Lamento
+você ter que reviver isso.
+
+649
+00:39:05,493 --> 00:39:08,839
+A verdade é
+que escolhi isso para mim
+
+650
+00:39:08,840 --> 00:39:11,259
+porque pensei que ver você
+se mudar para sua nova casa
+
+651
+00:39:11,260 --> 00:39:14,267
+com sua família
+me esmagaria.
+
+652
+00:39:14,671 --> 00:39:17,763
+E a dor me traria
+o fechamento que eu preciso.
+
+653
+00:39:21,896 --> 00:39:25,215
+- Então foi isso?
+- Não como eu esperava.
+
+654
+00:39:26,296 --> 00:39:29,379
+Porque agora que estou aqui,
+não sinto nenhuma dor.
+
+655
+00:39:29,380 --> 00:39:34,007
+Apenas um forte desejo de você
+e sua família serem felizes.
+
+656
+00:39:37,117 --> 00:39:38,817
+Significa muito para mim.
+
+657
+00:39:40,488 --> 00:39:42,662
+Acho que não teria feito
+nada disso
+
+658
+00:39:42,663 --> 00:39:44,245
+se não ouvisse
+você dizer isso.
+
+659
+00:39:44,246 --> 00:39:46,440
+Sabe, depois disso,
+não pode haver mais contato
+
+660
+00:39:46,441 --> 00:39:47,841
+com sua antiga vida.
+
+661
+00:39:49,050 --> 00:39:51,198
+- Incluindo você.
+- Especialmente eu.
+
+662
+00:39:52,318 --> 00:39:53,904
+Então, adeus, Ethan.
+
+663
+00:39:55,749 --> 00:39:57,149
+Adeus, Matty.
+
+664
+00:40:20,626 --> 00:40:22,326
+Às vezes...
+
+665
+00:40:23,845 --> 00:40:27,195
+a vida não age da forma
+que achamos que age, não é Matty?
+
+666
+00:40:27,196 --> 00:40:29,850
+Não, com certeza não.
+
+667
+00:40:29,851 --> 00:40:32,810
+Ethan e eu tivemos
+anos maravilhosos juntos.
+
+668
+00:40:32,811 --> 00:40:35,253
+Mas é aqui
+onde ele deveria estar.
+
+669
+00:40:36,336 --> 00:40:38,792
+E eu estou
+onde eu deveria estar.
+
+670
+00:40:39,980 --> 00:40:43,571
+Sentada comigo em um SUV
+que cheira a carne seca
+
+671
+00:40:43,572 --> 00:40:45,293
+no interior de Nebraska?
+
+672
+00:40:46,656 --> 00:40:48,056
+É onde você deveria estar?
+
+673
+00:40:49,006 --> 00:40:50,432
+Você sempre teve
+
+674
+00:40:50,433 --> 00:40:53,308
+um jeito muito especial
+com as palavras, Jack.
+
+675
+00:40:53,309 --> 00:40:54,709
+Obrigado.
+
+676
+00:40:54,710 --> 00:40:56,847
+O que me diz de saírmos daqui,
+chefinha?
+
+677
+00:40:56,848 --> 00:40:59,288
+- É um bom plano.
+- Certo. Vamos lá.
+
+678
+00:41:09,030 --> 00:41:10,640
+É o resultado do laboratório?
+
+679
+00:41:13,633 --> 00:41:15,033
+É sim.
+
+680
+00:41:15,034 --> 00:41:17,297
+Eles não identificaram
+quem mandou a foto,
+
+681
+00:41:17,298 --> 00:41:19,301
+mas descobriram
+quem estava nela.
+
+682
+00:41:20,607 --> 00:41:22,755
+- Tiberius Kovacs?
+- Tiberius Kovacs.
+
+683
+00:41:22,756 --> 00:41:24,180
+- Primeiro e único.
+- Você não estava na equipe
+
+684
+00:41:24,181 --> 00:41:25,581
+que derrubou ele
+há 10 anos?
+
+685
+00:41:26,107 --> 00:41:27,507
+Eu puxei o gatilho.
+
+686
+00:41:29,734 --> 00:41:32,329
+Por que alguém te mandaria
+uma foto de uma década
+
+687
+00:41:32,330 --> 00:41:34,890
+- de um terrorista morto?
+- Não sei.
+
+688
+00:41:37,006 --> 00:41:39,235
+Mas tenho um mau pressentimento
+sobre isso.
+
+689
+00:41:48,208 --> 00:41:49,708
+- Fred!
+- Fred!
+
+690
+00:41:49,709 --> 00:41:51,392
+Precisamos do seu celular agora.
+
+691
+00:41:55,163 --> 00:41:56,686
+Vai ficar tudo bem.
+
+692
+00:42:01,957 --> 00:42:03,357
+Obrigado.
+
+693
+00:42:03,658 --> 00:42:05,132
+Matty, é o Bozer.
+
+694
+00:42:05,133 --> 00:42:07,643
+Escute, o Mac precisa
+de evacuação imediata.
+
+695
+00:42:07,644 --> 00:42:09,092
+O que aconteceu?
+
+696
+00:42:09,093 --> 00:42:10,922
+Estamos em um posto há 32 km
+do desfiladeiro Walker
+
+697
+00:42:10,923 --> 00:42:12,893
+Meus amigos... me salvaram.
+
+698
+00:42:13,310 --> 00:42:14,810
+Riley, Bozer,
+
+699
+00:42:16,371 --> 00:42:17,771
+vocês passaram.
+
+700
+00:42:29,678 --> 00:42:32,678
+<font color=#FFFF00>Tradução e Revisão: Khronnusboy</font>
+<font color=#00FFFF>Legendas.TV</font>
+
