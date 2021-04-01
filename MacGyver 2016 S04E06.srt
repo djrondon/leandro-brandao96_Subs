@@ -1,0 +1,3287 @@
+﻿1
+00:00:08,555 --> 00:00:11,084
+O seu nome é Matilda Webber?
+
+2
+00:00:11,086 --> 00:00:14,462
+Você realmente perdeu
+a cabeça dessa vez, Taylor.
+
+3
+00:00:14,464 --> 00:00:17,532
+Seu codinome é
+"Titã", lider da Codex?
+
+4
+00:00:17,534 --> 00:00:19,772
+Você realmente está 
+me perguntando
+
+5
+00:00:19,774 --> 00:00:22,710
+se sou a lider de uma
+organização global terrorista?
+
+6
+00:00:24,474 --> 00:00:27,143
+Essa é você?
+
+7
+00:00:29,266 --> 00:00:31,556
+Russ, por que não voltamos
+para a sala de guerra
+
+8
+00:00:31,558 --> 00:00:32,617
+e conversamos sobre isso juntos?
+
+9
+00:00:32,619 --> 00:00:34,158
+Bem, ela não respondeu
+a pergunta, respondeu?
+
+10
+00:00:34,160 --> 00:00:35,507
+- É a Matty.
+- Você sabe o que, Mac?
+
+11
+00:00:35,509 --> 00:00:36,618
+Acho que você deveria sair.
+
+12
+00:00:36,620 --> 00:00:38,753
+Eu gostaria de falar 
+com o Taylor sozinha.
+
+13
+00:00:38,755 --> 00:00:41,023
+Desligue as comunicações.
+
+14
+00:00:42,025 --> 00:00:44,493
+Sim, senhora.
+
+15
+00:00:47,397 --> 00:00:49,331
+- Você quer a verdade?
+- Sim.
+
+16
+00:00:49,333 --> 00:00:51,032
+
+
+17
+00:00:51,034 --> 00:00:53,266
+- O que isso significa?
+- Eu não sei.
+
+18
+00:00:53,268 --> 00:00:55,220
+Mas por favor diga que você 
+encontrou uma pista com a foto.
+
+19
+00:00:55,222 --> 00:00:57,538
+Eu estou trabalhando sob a
+suposição que seja um deepfake.
+
+20
+00:00:57,540 --> 00:00:59,696
+Mas não consigo nenhuma
+gravação original por que
+
+21
+00:00:59,698 --> 00:01:01,742
+os servidores do estádio 
+foram totalmente limpados..
+
+22
+00:01:01,744 --> 00:01:02,931
+E os caras da DARPA
+
+23
+00:01:02,933 --> 00:01:04,390
+que fizeram a análise facial?
+
+24
+00:01:04,392 --> 00:01:06,382
+Eu tenho feito forense neles
+desde que nos enviaram..
+
+25
+00:01:06,384 --> 00:01:08,417
+E confere. 
+Quer saber?
+
+26
+00:01:08,419 --> 00:01:10,252
+Ninguém fala comigo agora.
+
+27
+00:01:10,254 --> 00:01:11,641
+Por favor.
+
+28
+00:01:11,643 --> 00:01:13,232
+<i>Agora você me escuta,</i>
+
+29
+00:01:13,234 --> 00:01:16,225
+seu manipulador
+psicológico idiota.
+
+30
+00:01:16,227 --> 00:01:19,017
+Eu não vou deixar sua paranóia
+doentia destruir essa equipe.
+
+31
+00:01:19,019 --> 00:01:20,909
+Codex tem conexões 
+em todos os lugares.
+
+32
+00:01:20,911 --> 00:01:23,768
+Eu imagino que a ideologia deles
+é bem persuasiva.
+
+33
+00:01:23,770 --> 00:01:25,293
+Não há nada mais perigoso que
+
+34
+00:01:25,295 --> 00:01:27,952
+pessoas que fazem as coisas
+erradas pelas causas certas.
+
+35
+00:01:27,954 --> 00:01:31,406
+Lucrar com a guerra todos 
+esses anos te ferrou assim?
+
+36
+00:01:31,408 --> 00:01:33,497
+Ou você já era assim,
+
+37
+00:01:33,499 --> 00:01:35,701
+e por isso você começou 
+a lucrar com a guerra?
+
+38
+00:01:37,826 --> 00:01:40,383
+- Talvez nós deveriamos escutar.
+- Por que? Acha que está mentindo?
+
+39
+00:01:40,385 --> 00:01:43,042
+Se a Matty é a lider da Codex,
+nós não temos o direito de saber?
+
+40
+00:01:43,044 --> 00:01:44,633
+Aperte o botão e você estará
+duvidando da lealdade dela,
+
+41
+00:01:44,635 --> 00:01:47,261
+e não há como voltar atrás.
+Acho que já estamos duvidando.
+
+42
+00:01:48,522 --> 00:01:50,198
+Espera um segundo.
+
+43
+00:01:50,200 --> 00:01:52,323
+O que são esses códigos?
+
+44
+00:01:52,325 --> 00:01:53,815
+Eu posso estar cansada,
+
+45
+00:01:53,817 --> 00:01:55,751
+mas isso não parece inglês, né?
+
+46
+00:01:56,900 --> 00:01:59,067
+Acho que são estoniano.
+
+47
+00:01:59,867 --> 00:02:01,590
+É isso!
+
+48
+00:02:01,592 --> 00:02:02,714
+Você é Titã?
+
+49
+00:02:02,716 --> 00:02:04,672
+- Você é a lider da Codex?
+
+50
+00:02:04,674 --> 00:02:06,030
+Riley!
+
+51
+00:02:06,032 --> 00:02:08,756
+O log do servidor da Phoenix
+
+52
+00:02:08,758 --> 00:02:10,287
+Alguém acessou nossos arquivos
+
+53
+00:02:10,289 --> 00:02:11,822
+usando linguagem em estoniano.
+
+54
+00:02:11,824 --> 00:02:13,257
+- O que significa?
+- Nós fomos hackeados..
+
+55
+00:02:13,259 --> 00:02:15,449
+A foto que você enviou para a DARPA
+para análise, era falsa.
+
+56
+00:02:15,451 --> 00:02:17,908
+Foi plantada. 
+Isso? É falso.
+
+57
+00:02:17,910 --> 00:02:20,500
+Alguém pegou a nossa
+gravação antes da gente.
+
+58
+00:02:20,502 --> 00:02:22,470
+Matty está limpa.
+
+59
+00:02:34,080 --> 00:02:35,279
+
+
+60
+00:02:35,281 --> 00:02:36,409
+Matty,
+
+61
+00:02:36,411 --> 00:02:39,550
+- Nós sentimos muito...
+- Não.
+
+62
+00:02:39,552 --> 00:02:42,287
+Codex tentou fazer a gente
+ficar um contra o outro.
+
+63
+00:02:46,192 --> 00:02:48,226
+Digo que conseguiram.
+
+64
+00:02:53,232 --> 00:02:55,255
+
+
+65
+00:02:55,257 --> 00:02:58,257
+Legendado e Revisado por<font color="#00BFFF"> FelipeAllen </font>
+
+66
+00:03:24,964 --> 00:03:26,897
+Desculpe.
+
+67
+00:03:26,899 --> 00:03:28,732
+Não consegue dormir?
+
+68
+00:03:28,734 --> 00:03:31,403
+Não, realmente não. 
+Estou com a cabeça cheia.
+
+69
+00:03:38,677 --> 00:03:41,112
+Você diz, não só
+daquilo com a Matty.
+
+70
+00:03:42,481 --> 00:03:44,748
+Você e a Desi tiveram 
+um beijo bem íntimo
+
+71
+00:03:44,750 --> 00:03:47,217
+no telão em frente de 
+uma multidão no estádio.
+
+72
+00:03:47,219 --> 00:03:50,020
+É justo perguntar.
+Reacenderam a chama?
+
+73
+00:03:50,022 --> 00:03:53,791
+Concordamos em ter uma conversa
+sobre nós e onde estávamos
+
+74
+00:03:53,793 --> 00:03:57,027
+e continuamos achando desculpas
+para não ter essa conversa.
+
+75
+00:03:57,029 --> 00:03:59,296
+- Então você está evitando.
+- Evitando o que?
+
+76
+00:03:59,298 --> 00:04:02,266
+Esses amendoins são ótimos! 
+Zero de gordura trans.
+
+77
+00:04:03,469 --> 00:04:04,903
+
+
+78
+00:04:08,107 --> 00:04:10,374
+Essa mensagem é de
+oito horas atrás.
+
+79
+00:04:10,376 --> 00:04:13,143
+Me lembre de atualizar as comunicações
+quando voltarmos, por favor?
+
+80
+00:04:13,145 --> 00:04:16,815
+- Russ. Russ.
+
+81
+00:04:18,150 --> 00:04:19,450
+Sei que já faz muito tempo,
+
+82
+00:04:19,452 --> 00:04:21,685
+mas eu não tenho muito tempo
+e estou com problemas.
+
+83
+00:04:21,687 --> 00:04:24,688
+Tudo o que aconteceu, por favor
+apenas perdoe e esqueça.
+
+84
+00:04:24,690 --> 00:04:26,423
+Venha o mais rapido que puder,
+eu preciso de sua ajuda.
+
+85
+00:04:26,425 --> 00:04:28,392
+
+
+86
+00:04:28,394 --> 00:04:30,027
+
+
+87
+00:04:30,029 --> 00:04:31,262
+
+
+88
+00:04:34,384 --> 00:04:36,307
+Tem mais algum?
+
+89
+00:04:36,309 --> 00:04:37,876
+Não.
+
+90
+00:04:39,738 --> 00:04:41,138
+Não.
+
+91
+00:04:41,140 --> 00:04:42,339
+Onde você vai?
+
+92
+00:04:42,341 --> 00:04:43,908
+Vou desviar esse avião.
+
+93
+00:04:46,514 --> 00:04:48,436
+Vamos estabilizar.
+Há quanto tempo você
+
+94
+00:04:48,438 --> 00:04:49,736
+está fazendo compressões torácicas?
+- Ele vai ficar bem?
+
+95
+00:04:49,738 --> 00:04:51,548
+Duas horas, e estou ficando com 
+uma puta câimbra nas pernas.
+
+96
+00:04:51,550 --> 00:04:52,639
+Ele vai ficar bem?
+
+97
+00:04:52,641 --> 00:04:54,218
+Assim que estivermos lá,
+eu vou passar ele para você.
+
+98
+00:04:54,220 --> 00:04:55,860
+- Entendido.
+
+99
+00:04:58,991 --> 00:05:01,158
+- É o meu homem lá dentro.
+- Você está usando uma arma.
+
+100
+00:05:01,160 --> 00:05:03,160
+Eu só quero saber,
+ele vai ficar bem?
+
+101
+00:05:03,162 --> 00:05:04,628
+Sem armas na minha clínica.
+
+102
+00:05:04,630 --> 00:05:05,796
+Entregue-a ou vá embora.
+
+103
+00:05:05,798 --> 00:05:08,533
+Ele é minha responsabilidade, 
+ele tem família.
+
+104
+00:05:08,535 --> 00:05:09,790
+Ele perdeu muito sangue.
+
+105
+00:05:09,792 --> 00:05:10,901
+A bala rasgou seu abdômen.
+
+106
+00:05:10,903 --> 00:05:13,121
+Estou tão cansada de armas 
+que eu poderia gritar!
+
+107
+00:05:13,123 --> 00:05:14,428
+Grite com a Ordem Vermelha, 
+não comigo.
+
+108
+00:05:14,430 --> 00:05:15,696
+Sou eu que estou protegendo  
+esse lugar.
+
+109
+00:05:15,698 --> 00:05:17,778
+Correção, sua companhia 
+está sendo paga
+
+110
+00:05:17,780 --> 00:05:19,009
+para proteger a estação
+de bombeamento.
+
+111
+00:05:19,011 --> 00:05:20,267
+Não finja que você 
+é um dos heróis.
+
+112
+00:05:20,269 --> 00:05:21,742
+Spearhead? Rebeldes?
+
+113
+00:05:21,744 --> 00:05:23,251
+- Vocês homens são todos iguais.
+- Retire o que disse.
+
+114
+00:05:23,253 --> 00:05:25,015
+- Retire sua arma.
+- Com certeza.
+
+115
+00:05:25,017 --> 00:05:26,250
+Então eu vou lá fora
+
+116
+00:05:26,252 --> 00:05:27,918
+e canto "Kumbaya" para
+os rebeldes, que tal?
+
+117
+00:05:27,920 --> 00:05:29,653
+Eles irão abaixar as armas,
+deixar a cidade e 
+
+118
+00:05:29,655 --> 00:05:32,189
+todos vivemos felizes
+para sempre! Fácil!
+
+119
+00:05:32,191 --> 00:05:34,258
+É isso o que você pensa de mim?
+
+120
+00:05:34,260 --> 00:05:35,859
+- Fácil?
+- Não.
+
+121
+00:05:35,861 --> 00:05:39,863
+Eu acho você frustrante e ingênua
+
+122
+00:05:39,865 --> 00:05:43,155
+e infelizmente a melhor
+pessoa que eu já conheci.
+
+123
+00:05:43,157 --> 00:05:45,025
+Bem, você é egoísta e rude...
+
+124
+00:05:50,409 --> 00:05:51,942
+Eu vou te dizer uma coisa
+
+125
+00:05:51,944 --> 00:05:54,279
+que eu nunca disse a
+nenhuma mulher na vida.
+
+126
+00:05:56,115 --> 00:05:58,382
+Pode pegar minha arma.
+
+127
+00:05:58,384 --> 00:05:59,384
+
+
+128
+00:06:02,121 --> 00:06:04,122
+
+
+129
+00:06:10,729 --> 00:06:12,062
+<i>Russ.</i>
+
+130
+00:06:12,064 --> 00:06:13,163
+Nós estamos contigo,
+
+131
+00:06:13,165 --> 00:06:14,965
+mas ainda estamos um 
+pouco perdidos aqui.
+
+132
+00:06:14,967 --> 00:06:17,267
+Vocês viram a mensagem.
+O que mais precisam saber?
+
+133
+00:06:17,269 --> 00:06:18,770
+- Quem é essa mulher?
+- Uma amiga.
+
+134
+00:06:20,372 --> 00:06:23,073
+Não nos vemos há um tempo.
+
+135
+00:06:23,075 --> 00:06:25,242
+Até noite passada, quando 
+recebi a mensagem.
+
+136
+00:06:25,244 --> 00:06:26,977
+Onde é que nós estamos?
+
+137
+00:06:26,979 --> 00:06:28,779
+Nos arredores de Revaca.
+
+138
+00:06:28,781 --> 00:06:29,980
+É uma das cidades mais pequena
+
+139
+00:06:29,982 --> 00:06:31,982
+<i>e mais pobre da Moldávia.</i>
+
+140
+00:06:31,984 --> 00:06:34,508
+<i>Não tem oficiais da lei,
+e é por isso que os</i>
+
+141
+00:06:34,510 --> 00:06:36,443
+rebeldes separatistas apoiados 
+pela Rússia costumavam
+
+142
+00:06:36,445 --> 00:06:37,700
+aterrorizar os locais
+
+143
+00:06:37,702 --> 00:06:39,792
+em seus conflitos 
+contínuos com a Ucrânia
+
+144
+00:06:39,794 --> 00:06:41,484
+Costumavam?
+
+145
+00:06:41,486 --> 00:06:43,342
+Minha companhia tinha um contrato
+
+146
+00:06:43,344 --> 00:06:45,629
+para garantir o bombeamento da 
+estação de óleo dos rebeldes.
+
+147
+00:06:45,631 --> 00:06:47,297
+Nós fizemos o nosso trabalho
+
+148
+00:06:47,299 --> 00:06:49,800
+e partimos.
+
+149
+00:06:49,802 --> 00:06:51,803
+E está quieto desde então.
+
+150
+00:06:53,266 --> 00:06:55,267
+
+
+151
+00:07:03,876 --> 00:07:05,209
+Quieto foi um eufemismo.
+
+152
+00:07:05,211 --> 00:07:08,245
+Sei que a clínica está por aqui 
+em algum lugar, fiquem atentos.
+
+153
+00:07:08,247 --> 00:07:10,248
+Só espero que não seja tarde demais.
+
+154
+00:07:12,418 --> 00:07:14,353
+
+155
+00:07:16,389 --> 00:07:19,624
+Aquela fábrica é o único lugar 
+com qualquer sinal de vida.
+
+156
+00:07:20,660 --> 00:07:22,760
+Tão sentindo cheiro de amônia?
+
+157
+00:07:22,762 --> 00:07:24,428
+Eles devem estar fazendo têxteis,
+
+158
+00:07:24,430 --> 00:07:26,530
+mas normalmente uma fábrica
+filtraria o odor.
+
+159
+00:07:26,532 --> 00:07:28,232
+Não deveria ser assim tão forte.
+
+160
+00:07:28,234 --> 00:07:30,262
+Nunca foi Paris, mas 
+Emilia estava comprometida
+
+161
+00:07:30,264 --> 00:07:31,586
+em fazer daqui um lugar melhor,
+
+162
+00:07:31,588 --> 00:07:34,205
+trazendo uma clínica em tempo 
+integral, mais empregos.
+
+163
+00:07:34,207 --> 00:07:36,883
+Desculpe dizer, mas
+parece que ela falhou.
+
+164
+00:07:36,885 --> 00:07:38,045
+Isso não é a cara dela.
+
+165
+00:07:41,080 --> 00:07:42,980
+São queimaduras químicas não tratadas.
+
+166
+00:07:42,982 --> 00:07:45,516
+Ai está.
+
+167
+00:07:45,518 --> 00:07:47,519
+
+
+168
+00:07:55,595 --> 00:07:57,262
+Emilia?
+
+169
+00:08:05,171 --> 00:08:06,938
+Emilia?
+
+170
+00:08:07,974 --> 00:08:09,674
+
+
+171
+00:08:21,331 --> 00:08:23,079
+- Quem é você?
+- Russ Taylor.
+
+172
+00:08:23,081 --> 00:08:25,356
+Emilia me enviou uma mensagem
+na noite passada. Onde ela está?
+
+173
+00:08:25,358 --> 00:08:27,291
+Você disse Taylor?
+
+174
+00:08:27,293 --> 00:08:30,094
+Você tem três segundos antes
+de virar uma mancha na parede.
+
+175
+00:08:30,096 --> 00:08:31,337
+Calma.
+
+176
+00:08:31,339 --> 00:08:34,379
+Dois... um...
+
+177
+00:08:34,381 --> 00:08:36,115
+Emilia foi sequestrada.
+
+178
+00:08:37,570 --> 00:08:40,171
+Sequestrada?
+
+179
+00:08:40,173 --> 00:08:41,572
+Sequestrada por quem?
+
+180
+00:08:41,574 --> 00:08:43,208
+Eu não sei.
+
+181
+00:08:45,978 --> 00:08:47,111
+Quem diabos é você?
+
+182
+00:08:47,113 --> 00:08:49,246
+Sou o marido dela.
+
+183
+00:08:49,248 --> 00:08:52,688
+Desculpe...
+
+184
+00:08:52,690 --> 00:08:54,213
+Emilia e eu...
+
+185
+00:08:54,215 --> 00:08:55,653
+Eu sei quem é você.
+
+186
+00:08:55,655 --> 00:08:57,121
+Você sabe?
+
+187
+00:08:57,123 --> 00:08:59,991
+Você é o homem que 
+destruiu essa cidade.
+
+188
+00:09:10,165 --> 00:09:12,166
+
+
+189
+00:09:15,192 --> 00:09:18,205
+<i>Russ, a Ordem Vermelha
+está intensificando os ataques.</i>
+
+190
+00:09:18,207 --> 00:09:20,442
+<i>Um dia, será você.</i>
+
+191
+00:09:22,797 --> 00:09:24,731
+- Meu Deus.
+- Não é meu.
+
+192
+00:09:24,733 --> 00:09:25,914
+- Não é.
+
+193
+00:09:25,916 --> 00:09:27,208
+- Vamos!
+- Coloque ele em uma maca.
+
+194
+00:09:27,210 --> 00:09:28,482
+O que aconteceu?
+
+195
+00:09:28,484 --> 00:09:30,755
+O britânico desgraçado da 
+Spearhead atirou em mim.
+
+196
+00:09:30,757 --> 00:09:33,387
+Você atirou primeiro. 
+Eu não errei.
+
+197
+00:09:33,389 --> 00:09:34,855
+Ele é da Ordem Vermelha.
+
+198
+00:09:34,857 --> 00:09:36,857
+- Eles atiraram na estação de bombeamento.
+- Seus meninos
+
+199
+00:09:36,859 --> 00:09:38,936
+matam civis com tiro ao alvo?
+
+200
+00:09:38,938 --> 00:09:40,261
+Eu preciso dele vivo.
+
+201
+00:09:40,263 --> 00:09:42,764
+Bem, é meio o que 
+eu faço aqui.
+
+202
+00:09:51,507 --> 00:09:52,841
+
+
+203
+00:09:55,011 --> 00:09:56,510
+O sangramento parou
+
+204
+00:09:56,512 --> 00:09:58,780
+Enchemos ele de antibióticos.
+
+205
+00:10:00,850 --> 00:10:02,583
+Ele vai ficar bem.
+
+206
+00:10:02,585 --> 00:10:04,919
+
+
+207
+00:10:04,921 --> 00:10:07,088
+Você não é tão ruim nisso.
+
+208
+00:10:07,090 --> 00:10:09,925
+Estou praticando muito.
+
+209
+00:10:12,462 --> 00:10:14,129
+
+
+210
+00:10:15,865 --> 00:10:17,498
+Porque está chorando?
+
+211
+00:10:17,500 --> 00:10:19,333
+Cala a boca.
+
+212
+00:10:19,335 --> 00:10:21,669
+Estou aliviando o estresse.
+
+213
+00:10:21,671 --> 00:10:23,671
+
+
+214
+00:10:23,673 --> 00:10:25,473
+
+
+215
+00:10:25,475 --> 00:10:27,908
+Você teve que atirar nele?
+
+216
+00:10:27,910 --> 00:10:30,979
+Por que me pergunta isso?
+
+217
+00:10:34,283 --> 00:10:36,284
+Quero entender.
+
+218
+00:10:38,321 --> 00:10:40,554
+É melhor não.
+
+219
+00:10:40,556 --> 00:10:43,425
+Me diga que irá detê-los.
+
+220
+00:10:51,834 --> 00:10:54,468
+Como os sequestradores
+se parecem?
+
+221
+00:10:54,470 --> 00:10:56,303
+Não estava em casa.
+
+222
+00:10:56,305 --> 00:10:57,505
+Não tenho a menor ideia.
+
+223
+00:10:57,507 --> 00:10:59,206
+Teve um pedido de resgate?
+
+224
+00:10:59,208 --> 00:11:01,308
+Se é dinheiro que eles querem,
+eu posso providenciar.
+
+225
+00:11:01,310 --> 00:11:02,643
+Claro que pode.
+
+226
+00:11:02,645 --> 00:11:05,066
+Não é a sua solução
+para todos os problemas?
+
+227
+00:11:05,068 --> 00:11:06,747
+Sim, quer saber porque?
+
+228
+00:11:06,749 --> 00:11:07,948
+Porque apesar
+
+229
+00:11:07,950 --> 00:11:10,051
+do que os cínicos dizem,
+o dinheiro de fato
+
+230
+00:11:10,053 --> 00:11:13,120
+resolve a maioria dos problemas,
+especialmente sequestro.
+
+231
+00:11:13,122 --> 00:11:15,489
+- Não quero a sua ajuda.
+- Então você está disposto a deixar
+
+232
+00:11:15,491 --> 00:11:17,491
+os sequestradores com sua
+esposa por que, o que?
+
+233
+00:11:17,493 --> 00:11:19,160
+Você não gosta do jeito
+que eu faço négocios.
+
+234
+00:11:19,162 --> 00:11:22,129
+Seu negócio é dinheiro de sangue.
+
+235
+00:11:22,131 --> 00:11:24,598
+E depois do que 
+você fez com Revaca,
+
+236
+00:11:24,600 --> 00:11:26,837
+você é o ultimo homem
+a ajudar alguém.
+
+237
+00:11:26,839 --> 00:11:29,370
+Essa cidade não estaria
+aqui se não fosse por mim.
+
+238
+00:11:29,372 --> 00:11:32,357
+Tem ideia de quantas
+pessoas morreram
+
+239
+00:11:32,359 --> 00:11:33,893
+por sua causa?
+
+240
+00:11:35,511 --> 00:11:36,644
+Já chega.
+
+241
+00:11:36,646 --> 00:11:38,813
+Não sei por que Emilia
+ligou para você,
+
+242
+00:11:38,815 --> 00:11:40,782
+mas você precisa ir embora.
+
+243
+00:11:41,818 --> 00:11:43,351
+Agora!
+
+244
+00:11:51,494 --> 00:11:53,857
+- <i>Russ, pare.</i>
+
+245
+00:11:53,859 --> 00:11:54,862
+O que foi aquilo?
+
+246
+00:11:54,864 --> 00:11:57,064
+O que ele quis dizer com pessoas 
+que morreram por sua causa?
+
+247
+00:11:57,066 --> 00:11:59,233
+Isso não é da conta
+de vocês no momento.
+
+248
+00:11:59,235 --> 00:12:00,835
+Eu diria que é.
+
+249
+00:12:00,837 --> 00:12:02,620
+No que você está
+nos metendo cara?
+
+250
+00:12:02,622 --> 00:12:06,807
+Posso te lembrar que eu
+sou o dono da Phoenix??
+
+251
+00:12:06,809 --> 00:12:08,542
+Eu comprei ela.
+
+252
+00:12:08,544 --> 00:12:11,212
+Portanto, se eu disse que vamos
+resgatar uma mulher sequestrada,
+
+253
+00:12:11,214 --> 00:12:12,613
+nós vamos resgatar
+uma mulher sequestrada.
+
+254
+00:12:12,615 --> 00:12:13,647
+É isso, fim da história.
+
+255
+00:12:13,649 --> 00:12:15,149
+Seu chefe falou.
+
+256
+00:12:15,151 --> 00:12:16,751
+Bem, não é exatamente
+assim que trabalhamos.
+
+257
+00:12:16,753 --> 00:12:19,019
+Não é como vocês trabalham?!
+Não é como vocês trabalham?!
+
+258
+00:12:19,021 --> 00:12:21,489
+Meu deus, que tipo de caixinha
+
+259
+00:12:21,491 --> 00:12:23,924
+dependente que Matty 
+criou todos vocês?
+
+260
+00:12:23,926 --> 00:12:25,726
+O mundo real não é uma
+terra de fantasia
+
+261
+00:12:25,728 --> 00:12:27,094
+de respeito e confiança mútua.
+
+262
+00:12:27,096 --> 00:12:30,564
+O mundo real é um lugar onde 
+as pessoas são complicadas
+
+263
+00:12:30,566 --> 00:12:32,165
+e decepcionantes.
+
+264
+00:12:32,167 --> 00:12:33,356
+E alguns de nós
+
+265
+00:12:33,358 --> 00:12:36,093
+realmente comenteram erros na vida.
+
+266
+00:12:42,394 --> 00:12:44,284
+Algo estranho definitivamente aconteceu
+
+267
+00:12:44,286 --> 00:12:45,546
+cinco anos atrás quando 
+ele esteve aqui.
+
+268
+00:12:45,548 --> 00:12:47,815
+- Você pode procurar sobre a companhia 
+privada dele? - Estou muito à sua frente.
+
+269
+00:12:47,817 --> 00:12:49,183
+Já procurei.
+
+270
+00:12:49,185 --> 00:12:51,786
+Seus contratos são classificados,
+mas fui mais a fundo,
+
+271
+00:12:51,788 --> 00:12:53,655
+e eu consegui acesso aos
+arquivos da Spearhead.
+
+272
+00:12:55,258 --> 00:12:57,059
+Obrigado,
+
+273
+00:12:57,061 --> 00:12:59,124
+Operações Spearhead foi contratada
+pela companhia petrolífera Ucraniana
+
+274
+00:12:59,126 --> 00:13:02,562
+para combater a Ordem Vermelha, 
+e então...
+
+275
+00:13:04,066 --> 00:13:07,067
+E então depois de três meses
+de um combate pesado,
+
+276
+00:13:07,069 --> 00:13:09,603
+os rebeldes subiram e foram
+embora, eles desapareceram.
+
+277
+00:13:09,605 --> 00:13:12,276
+Spearhead ganhou um bônus,
+Taylor seguiu em frente, e é isso.
+
+278
+00:13:12,278 --> 00:13:13,434
+Isso é tudo o que existe.
+
+279
+00:13:13,436 --> 00:13:15,509
+Russ provavelmente escreveu este relatório.
+
+280
+00:13:15,511 --> 00:13:17,612
+
+
+281
+00:13:25,621 --> 00:13:28,656
+Se você quer encontrar Emilia, nós 
+precisamos de informações melhores.
+
+282
+00:13:28,658 --> 00:13:30,791
+Victor é o mais próximo que temos
+
+283
+00:13:30,793 --> 00:13:32,993
+de testemunha ocular, e ele não 
+tá querendo conversa agora.
+
+284
+00:13:32,995 --> 00:13:37,698
+Bem, o Departamento do Estado
+mantém arquivos de sequestros
+
+285
+00:13:37,700 --> 00:13:40,368
+e atividades de resgate,
+talvez tenha alguma pista lá.
+
+286
+00:13:41,237 --> 00:13:44,004
+Beleza, estou nos arquivos 
+da embaixada agora.
+
+287
+00:13:44,006 --> 00:13:46,373
+No entanto, não estou
+achando nada sobre sequestros.
+
+288
+00:13:46,375 --> 00:13:49,510
+Mas eles sinalizaram um alto volume
+de caminhões semirreboque
+
+289
+00:13:49,512 --> 00:13:51,011
+saindo de Revaca 
+duas vezes por semana.
+
+290
+00:13:51,013 --> 00:13:52,132
+Por que seria suspeito?
+
+291
+00:13:52,134 --> 00:13:54,281
+Porque eles cruzaram a fronteira na 
+Ucrânia usando estradas secundárias,
+
+292
+00:13:54,283 --> 00:13:56,636
+ignorando os pontos de
+verificação obrigatórias.
+
+293
+00:13:56,638 --> 00:13:57,785
+Contrabando.
+
+294
+00:13:57,787 --> 00:14:01,220
+Bem, se Emilia deu de cara 
+com alguma operação ilegal,
+
+295
+00:14:01,222 --> 00:14:02,580
+ela definitivamente tomaria 
+uma atitude quanto isso.
+
+296
+00:14:02,582 --> 00:14:03,757
+Isso poderia ser o que 
+fez ela ser sequestrada.
+
+297
+00:14:03,759 --> 00:14:04,825
+De onde os caminhões estão vindo?
+
+298
+00:14:04,827 --> 00:14:07,262
+Da fábrica.
+
+299
+00:14:08,364 --> 00:14:11,298
+É bem provável que 
+ela esteja lá também.
+
+300
+00:14:11,300 --> 00:14:13,467
+
+
+301
+00:14:13,469 --> 00:14:15,202
+
+
+302
+00:14:15,204 --> 00:14:18,273
+
+
+303
+00:14:19,775 --> 00:14:22,343
+Com certeza são muitos guardas 
+para uma fábrica têxtil.
+
+304
+00:14:22,345 --> 00:14:23,844
+Eu não acho que eles estão fazendo
+
+305
+00:14:23,846 --> 00:14:25,247
+camisetas de "Eu amo Revaca" aqui.
+
+306
+00:14:26,813 --> 00:14:30,284
+- Eles são da Ordem Vermelha.
+- Os mesmos rebeldes que você expulsou
+
+307
+00:14:30,286 --> 00:14:31,385
+da cidade cinco anos atrás?
+
+308
+00:14:31,387 --> 00:14:32,620
+Então vocês me verificaram.
+
+309
+00:14:32,622 --> 00:14:35,322
+Isso é bom, é o que eu
+teria feito também.
+
+310
+00:14:35,324 --> 00:14:37,558
+Você não parece surpreso
+deles estarem aqui.
+
+311
+00:14:37,560 --> 00:14:38,993
+Eu tive minhas suspeitas.
+
+312
+00:14:38,995 --> 00:14:42,129
+Beleza, nós deveríamos
+conferir lá atrás.
+
+313
+00:14:42,131 --> 00:14:44,031
+
+
+314
+00:14:44,033 --> 00:14:45,699
+Nós estamos fazendo isso pela Emilia,
+
+315
+00:14:45,701 --> 00:14:47,735
+e então você e eu
+teremos uma conversa.
+
+316
+00:14:47,737 --> 00:14:48,803
+Perfeito.
+
+317
+00:14:52,141 --> 00:14:54,476
+
+
+318
+00:15:04,487 --> 00:15:05,986
+
+
+319
+00:15:05,988 --> 00:15:08,489
+Uma porta de aço trancada
+e duas...
+
+320
+00:15:08,491 --> 00:15:10,391
+janelas de vidro seladas com chumbo.
+
+321
+00:15:10,393 --> 00:15:12,160
+Isso explica por que não 
+há guardas por perto.
+
+322
+00:15:13,429 --> 00:15:15,429
+Parece um depósito.
+
+323
+00:15:15,431 --> 00:15:17,731
+Russ, tem um isqueiro?
+
+324
+00:15:17,733 --> 00:15:20,234
+Tá na mão.
+
+325
+00:15:20,236 --> 00:15:22,517
+Acho que nós vamos
+por aquela janela.
+
+326
+00:15:25,308 --> 00:15:29,076
+<i>Um desentupidor seria melhor,
+mas uma garrafa de vidro vai dar.</i>
+
+327
+00:15:29,078 --> 00:15:31,768
+<i>O fogo dentro da garrafa
+consome o oxigênio</i>
+
+328
+00:15:31,770 --> 00:15:33,660
+<i>e cria uma pressão negativa,</i>
+
+329
+00:15:33,662 --> 00:15:35,254
+<i>também conhecida como sucção.</i>
+
+330
+00:15:35,256 --> 00:15:38,552
+<i>E essa espuma química
+irá agir como um adesivo,</i>
+
+331
+00:15:38,554 --> 00:15:40,788
+<i>para quando quebrarmos o vidro...</i>
+
+332
+00:15:40,790 --> 00:15:42,223
+Silencioso como um rato.
+
+333
+00:15:53,235 --> 00:15:55,236
+
+
+334
+00:16:07,123 --> 00:16:10,310
+Esse cheiro é ANFO...
+Óleo combustível de nitrato de amônia.
+
+335
+00:16:10,312 --> 00:16:13,020
+É simples, mas perigosamente volátil.
+
+336
+00:16:13,022 --> 00:16:14,555
+Isso explica aquelas queimaduras.
+
+337
+00:16:14,557 --> 00:16:16,277
+Eles não sabem como lidar
+com os produtos químicos.
+
+338
+00:16:18,304 --> 00:16:20,172
+Essa é uma fábrica de explosivos.
+
+339
+00:16:24,100 --> 00:16:27,468
+Parece que o marido da Emilia
+decidiu se juntar a festa.
+
+340
+00:16:27,470 --> 00:16:30,304
+O desgraçado está trabalhando para eles.
+
+341
+00:16:30,306 --> 00:16:32,474
+Emilia deve ter descoberto.
+
+342
+00:16:35,511 --> 00:16:37,379
+Olha lá o chefe
+
+343
+00:16:47,740 --> 00:16:49,912
+Me desculpe.
+
+344
+00:16:49,914 --> 00:16:52,736
+Eu vou limpar.
+
+345
+00:16:52,738 --> 00:16:54,738
+Sem problema meu amigo,
+acidentes acontecem.
+
+346
+00:17:02,238 --> 00:17:03,337
+
+
+347
+00:17:03,339 --> 00:17:05,173
+
+
+348
+00:17:06,709 --> 00:17:08,543
+De volta ao trabalho!
+
+349
+00:17:18,287 --> 00:17:19,653
+Esse é o Anton.
+
+350
+00:17:19,655 --> 00:17:20,855
+Você conhece esse cara?
+
+351
+00:17:24,627 --> 00:17:26,827
+<i>Russ Taylor.</i>
+
+352
+00:17:26,829 --> 00:17:28,495
+Voltou pra atirar em mim de novo?
+
+353
+00:17:28,528 --> 00:17:30,963
+- Só quero conversar.
+
+354
+00:17:35,522 --> 00:17:37,489
+Você tem 30 segundos.
+
+355
+00:17:39,141 --> 00:17:41,875
+Eu fui contratado para proteger
+a estação de bombeamento.
+
+356
+00:17:41,877 --> 00:17:43,744
+Entende?
+
+357
+00:17:43,746 --> 00:17:47,514
+E eu desconfio que pelo preço certo,
+
+358
+00:17:47,516 --> 00:17:49,596
+um homem prático como você
+
+359
+00:17:49,598 --> 00:17:51,852
+irá deixar isso pra lá.
+
+360
+00:17:51,877 --> 00:17:54,745
+Você segue o seu caminho, 
+um pouco mais rico...
+
+361
+00:17:55,858 --> 00:17:58,859
+... e eu sigo o meu.
+
+362
+00:17:58,861 --> 00:18:00,862
+Como isso soa para você?
+
+363
+00:18:02,431 --> 00:18:04,365
+
+
+364
+00:18:13,576 --> 00:18:16,177
+Como se falássemos a mesma língua
+
+365
+00:18:21,183 --> 00:18:23,721
+Eu criei ele.
+
+366
+00:18:23,723 --> 00:18:25,357
+Isso é tudo minha culpa.
+
+367
+00:18:32,631 --> 00:18:34,631
+
+
+368
+00:18:37,208 --> 00:18:38,741
+Você estava lá?
+
+369
+00:18:38,743 --> 00:18:40,633
+Você viu o que fez?
+
+370
+00:18:40,635 --> 00:18:42,770
+Diz um participante solícito
+em seu trabalho escravo.
+
+371
+00:18:44,093 --> 00:18:45,594
+Não, está tudo bem.
+
+372
+00:18:46,432 --> 00:18:47,898
+Você acha que eu quero isso?
+
+373
+00:18:47,900 --> 00:18:49,666
+Tem sido um inferno desde 
+que eles voltaram.
+
+374
+00:18:49,668 --> 00:18:51,268
+Estou tentando manter
+todos vivos!
+
+375
+00:18:51,270 --> 00:18:52,590
+Bem, você está fazendo um
+trabalho maravilhoso.
+
+376
+00:18:55,304 --> 00:18:59,009
+Eles pegaram minha esposa, minha Emilia.
+
+377
+00:18:59,011 --> 00:19:01,012
+
+
+378
+00:19:03,173 --> 00:19:05,515
+Sua Emilia.
+
+379
+00:19:05,517 --> 00:19:06,751
+Russ.
+
+380
+00:19:08,020 --> 00:19:09,487
+
+
+381
+00:19:10,522 --> 00:19:12,923
+
+
+382
+00:19:12,925 --> 00:19:15,425
+Bem, se nós vamos
+resgatar ela, então...
+
+383
+00:19:15,427 --> 00:19:18,930
+talvez devêssemos começar
+ajudando um ao outro, certo?
+
+384
+00:19:22,735 --> 00:19:24,568
+Emilia descobriu
+
+
+385
+00:19:24,570 --> 00:19:26,903
+que eles estavam transportando
+as bombas para Ucrânia.
+
+386
+00:19:26,905 --> 00:19:28,605
+Ela queria alertar a ONU.
+
+387
+00:19:28,607 --> 00:19:30,707
+Isso faz sentido,
+a ONU tem autoridade
+
+388
+00:19:30,709 --> 00:19:31,908
+para acabar com a coisa toda.
+
+389
+00:19:31,910 --> 00:19:33,410
+Então por que eles a sequestraram,
+
+390
+00:19:33,412 --> 00:19:35,812
+ao invés de... você.
+
+391
+00:19:35,814 --> 00:19:39,149
+Ela é uma garantia, para terem certeza
+que eu mantenha a fábrica funcionando.
+
+392
+00:19:39,151 --> 00:19:41,785
+Anton está mantendo ela 
+em um complexo fora da cidade
+
+393
+00:19:41,787 --> 00:19:43,153
+É pra onde vamos.
+
+394
+00:19:43,155 --> 00:19:45,789
+Que maravilha, então os quatro
+de nós contra uma milícia armada.
+
+395
+00:19:45,791 --> 00:19:47,090
+É, mais um dia normal.
+
+396
+00:19:47,092 --> 00:19:49,159
+Eu vou te dar o que você quiser.
+
+397
+00:19:49,161 --> 00:19:51,261
+Isso já durou muito tempo.
+
+398
+00:19:51,263 --> 00:19:52,930
+Essa é a nossa casa.
+
+399
+00:19:58,804 --> 00:20:01,071
+<i>Nós temos a descrição que
+o Victor deu do local.</i>
+
+400
+00:20:01,073 --> 00:20:02,629
+E desde que Antom se lembrará que
+
+401
+00:20:02,631 --> 00:20:04,474
+fui eu que lavei a mão dele,
+
+402
+00:20:04,476 --> 00:20:05,976
+isso fará a gente entrar
+pela porta da frente.
+
+403
+00:20:05,978 --> 00:20:08,211
+Parece um bom negócio.
+
+404
+00:20:08,213 --> 00:20:10,663
+Tudo bem, vamos deixar isso
+a céu aberto, vamos?
+
+405
+00:20:10,665 --> 00:20:11,872
+Você pode me julgar como quiser.
+
+406
+00:20:11,874 --> 00:20:13,483
+Foi uma situação complicada,
+
+407
+00:20:13,485 --> 00:20:14,885
+e eu fiz pelos motivos certos.
+
+408
+00:20:17,523 --> 00:20:19,956
+Nós entramos, pegamos a Emilia...
+
+409
+00:20:19,958 --> 00:20:22,793
+E as provas das vendas de armas do Anton.
+
+410
+00:20:22,795 --> 00:20:24,796
+E aí nos mandamos embora.
+
+411
+00:20:26,098 --> 00:20:28,099
+
+
+412
+00:20:32,604 --> 00:20:34,438
+
+
+413
+00:20:36,441 --> 00:20:39,209
+Russ Taylor, Operações Spearhead.
+
+414
+00:20:39,211 --> 00:20:41,813
+Faça o favor e diga a Anton
+que estou aqui, sim?
+
+415
+00:20:44,128 --> 00:20:47,951
+Russ Taylor e três associados
+estão aqui por Anton.
+
+416
+00:20:47,953 --> 00:20:50,020
+
+
+417
+00:20:50,022 --> 00:20:51,756
+
+
+418
+00:21:02,868 --> 00:21:04,000
+
+
+419
+00:21:04,002 --> 00:21:07,338
+Parece que Scarface e um 
+pirata tiveram um bebê.
+
+420
+00:21:15,207 --> 00:21:16,997
+Russ Taylor.
+
+421
+00:21:16,999 --> 00:21:21,357
+Se eu me lembro bem,
+você é um péssimo convidado.
+
+422
+00:21:21,359 --> 00:21:22,715
+Você gosta de atirar nas pessoas.
+
+423
+00:21:22,717 --> 00:21:24,240
+Bem, eu não gosto.
+
+424
+00:21:24,242 --> 00:21:26,150
+
+
+425
+00:21:26,152 --> 00:21:29,326
+Isso está bem longe de
+algumas tendas na floresta.
+
+426
+00:21:29,328 --> 00:21:31,962
+Você fez muito bem.
+
+427
+00:21:31,964 --> 00:21:35,065
+Sou um excelente homem de negócios.
+
+428
+00:21:35,067 --> 00:21:37,335
+- Você é minha inspiração.
+
+
+429
+00:21:40,072 --> 00:21:41,738
+Você tem algo que eu quero.
+
+430
+00:21:41,740 --> 00:21:43,940
+
+
+431
+00:21:43,942 --> 00:21:45,310
+Pelo o que eu soube,
+
+432
+00:21:45,312 --> 00:21:47,936
+você deixou a Spearhead
+e fechou a empresa.
+
+433
+00:21:47,938 --> 00:21:51,315
+Eu tive que mudar de jeito para ficar 
+por baixo do radar do governo americano,
+
+434
+00:21:51,317 --> 00:21:53,416
+mas agora...
+
+435
+00:21:53,418 --> 00:21:54,451
+
+
+436
+00:21:54,453 --> 00:21:55,653
+... Eu preciso de um favor.
+
+437
+00:21:57,986 --> 00:21:59,508
+Um abastecimento de explosivos
+
+438
+00:21:59,510 --> 00:22:01,578
+de uma fonte que sabe
+como manter segredos.
+
+439
+00:22:06,131 --> 00:22:07,797
+Eu não te devo favor nenhum.
+
+440
+00:22:07,799 --> 00:22:09,533
+Eu diria que você me deve tudo.
+
+441
+00:22:12,140 --> 00:22:13,796
+Mas isso não significa que você não pode cobrar
+
+442
+00:22:13,798 --> 00:22:15,572
+um preço justo pelo seu produto.
+
+443
+00:22:15,574 --> 00:22:17,407
+Você não vai achar o preço justo,
+
+444
+00:22:17,409 --> 00:22:19,276
+mas você pagará.
+
+445
+00:22:19,278 --> 00:22:22,512
+Vou pegar pra você os números
+da conta bancária Suíça.
+
+446
+00:22:22,514 --> 00:22:23,880
+Me desculpe.
+
+447
+00:22:23,882 --> 00:22:25,472
+Minha colega aqui está sangrando
+
+448
+00:22:25,474 --> 00:22:26,883
+por toda sua bela casa.
+
+449
+00:22:26,885 --> 00:22:28,551
+O que aconteceu com você?
+
+450
+00:22:28,553 --> 00:22:30,787
+Estávamos sob fogo cruzado
+na fronteira, fui atingida.
+
+451
+00:22:30,789 --> 00:22:32,122
+Ela precisa de um médico.
+
+452
+00:22:32,124 --> 00:22:33,523
+Eles disseram em Revaca que a
+
+453
+00:22:33,525 --> 00:22:34,624
+médica da clínica está aqui com você.
+
+454
+00:22:34,626 --> 00:22:36,513
+- É verdade?
+- E?
+
+455
+00:22:36,515 --> 00:22:38,561
+Bem, ela pode continuar a
+sangrar por todo o chão,
+
+456
+00:22:38,563 --> 00:22:41,465
+ou por 5,000 mil euros, você pode...
+
+457
+00:22:41,467 --> 00:22:43,601
+você pode deixar ela ver uma médica.
+
+458
+00:22:47,979 --> 00:22:49,501
+Leve eles.
+
+459
+00:22:49,503 --> 00:22:51,071
+E então você vai embora.
+
+460
+00:23:05,824 --> 00:23:07,158
+Quem é você?
+
+461
+00:23:10,429 --> 00:23:13,164
+Você está aqui.
+
+462
+00:23:18,870 --> 00:23:20,403
+
+
+463
+00:23:20,405 --> 00:23:23,006
+<i>Alguém está de bom humor.</i>
+
+464
+00:23:23,008 --> 00:23:25,009
+
+
+465
+00:23:31,153 --> 00:23:33,321
+Eu tenho boas notícias para você.
+
+466
+00:23:36,621 --> 00:23:39,656
+O trabalho da Spearhead está feito,
+
+467
+00:23:39,658 --> 00:23:41,993
+e estou indo embora.
+
+468
+00:23:43,495 --> 00:23:45,395
+Como isso é uma boa notícia?
+
+469
+00:23:45,397 --> 00:23:48,898
+É se você vier comigo.
+
+470
+00:23:48,900 --> 00:23:51,401
+Mas o meu trabalho não está concluído.
+
+471
+00:23:51,403 --> 00:23:54,170
+Mas eles podem enviar outra pessoa.
+
+472
+00:23:54,172 --> 00:23:56,239
+Pensei que você queria isso.
+Eu achei que...
+
+473
+00:23:56,241 --> 00:23:59,585
+achei que você estava cansada dos
+soldados e dos ferimentos de balas.
+
+474
+00:23:59,587 --> 00:24:02,012
+Não entendo, o que aconteceu
+com a Ordem Vermelha?
+
+475
+00:24:02,014 --> 00:24:04,381
+- Eu cuidei disso.
+- O que você fez?
+
+476
+00:24:04,383 --> 00:24:06,216
+Botei um fim com a luta.
+
+477
+00:24:06,218 --> 00:24:08,718
+Eu os fiz irem embora.
+
+478
+00:24:08,720 --> 00:24:10,388
+Com um pouco de incentivo financeiro.
+
+479
+00:24:12,157 --> 00:24:13,656
+Você pagou pra
+eles irem embora?
+
+480
+00:24:13,658 --> 00:24:17,060
+Russ, esses homens são 
+terroristas violentos.
+
+481
+00:24:17,062 --> 00:24:18,495
+Isso não é uma solução.
+
+482
+00:24:18,497 --> 00:24:21,264
+É a solução certa por enquanto.
+
+483
+00:24:21,266 --> 00:24:23,066
+Olha, nós podemos deixar 
+esse lugar horrível.
+
+484
+00:24:23,068 --> 00:24:24,524
+Podemos ir e viver a 
+vida que merecemos,
+
+485
+00:24:24,526 --> 00:24:26,102
+a vida que você merece.
+
+486
+00:24:26,104 --> 00:24:30,307
+Como soa Bali...
+
+487
+00:24:33,645 --> 00:24:35,479
+... para a lua de mel?
+
+488
+00:24:38,784 --> 00:24:40,885
+Russ, se levante.
+
+489
+00:24:44,222 --> 00:24:46,056
+Eu fiz isso por você.
+
+490
+00:24:46,058 --> 00:24:48,325
+Levanta.
+
+491
+00:24:52,297 --> 00:24:54,298
+Essa não é quem eu sou.
+
+492
+00:24:56,368 --> 00:24:58,702
+E nem quem eu pensei 
+que você fosse também.
+
+493
+00:25:07,512 --> 00:25:10,146
+<i>Obrigada por ter vindo.</i>
+
+494
+00:25:10,148 --> 00:25:12,287
+Tenho más notícias.
+
+495
+00:25:12,289 --> 00:25:14,717
+Não sou a unica refém que o Anton tem.
+
+496
+00:25:14,719 --> 00:25:16,252
+Tem outros cinco.
+
+497
+00:25:16,254 --> 00:25:18,950
+Eu vim por você, depois que 
+levarmos você com segurança e 
+
+498
+00:25:18,952 --> 00:25:20,419
+lidarmos com Anton, então nós podemos...
+- Não.
+
+499
+00:25:20,421 --> 00:25:21,858
+Eu não vou a menos que eles vão.
+
+500
+00:25:21,860 --> 00:25:23,452
+Isso não é uma negociação.
+
+501
+00:25:23,454 --> 00:25:27,330
+Se você me levar, Anton vai
+matar os outros reféns.
+
+502
+00:25:27,332 --> 00:25:30,800
+Quer que mais pessoas morram?
+
+503
+00:25:30,802 --> 00:25:32,669
+Desi foi tratada.
+
+504
+00:25:32,671 --> 00:25:35,138
+E a Riley hackeou os registros de Anton.
+
+505
+00:25:35,140 --> 00:25:37,507
+Temos todas as evidências
+que precisamos para a ONU.
+
+506
+00:25:37,509 --> 00:25:40,711
+Não vou embora sem os outros.
+
+507
+00:25:42,470 --> 00:25:43,470
+Novo plano.
+
+508
+00:25:57,045 --> 00:25:59,011
+Tem certeza disso?
+
+509
+00:25:59,013 --> 00:26:00,954
+Porque, alerta de spoiler, 
+eu não estou.
+
+510
+00:26:00,956 --> 00:26:02,656
+Tudo bem, o mais importante,
+Emilia disse que
+
+511
+00:26:02,658 --> 00:26:04,658
+ela e os outros reféns 
+estão sendo mantidos
+
+512
+00:26:04,660 --> 00:26:05,958
+em uma barraca atrás do muro.
+
+513
+00:26:05,958 --> 00:26:07,658
+Você deixou de fora a parte
+sobre como vamos chegar
+
+514
+00:26:07,660 --> 00:26:08,692
+a essa barraca.
+
+515
+00:26:08,694 --> 00:26:10,394
+- Eu ia chegar lá.
+- Um ponto.
+
+516
+00:26:10,396 --> 00:26:12,162
+Depois de resgatarmos os reféns,
+
+517
+00:26:12,164 --> 00:26:14,231
+Os guardas de Anton irá nos perseguir.
+
+518
+00:26:14,233 --> 00:26:17,067
+Não tenho certeza se notou, mas,
+o melhor carro alugado de Moldávia
+
+519
+00:26:17,069 --> 00:26:18,741
+é alimentado por hamsters e reza.
+
+520
+00:26:18,743 --> 00:26:20,599
+Eu notei Russ, e estou resolvendo.
+
+521
+00:26:20,601 --> 00:26:22,272
+Desi, quebre um dos faróis e
+
+522
+00:26:22,274 --> 00:26:23,587
+me traga a lâmpada?
+
+523
+00:26:23,589 --> 00:26:26,324
+Riley, arranque o rádio..
+
+524
+00:26:29,304 --> 00:26:30,960
+Essa não é a parte que costuma
+
+525
+00:26:30,962 --> 00:26:32,755
+ser acompanhado de um
+tipo de "Macsplaining"?
+
+526
+00:26:32,757 --> 00:26:34,157
+Apenas aguarde.
+
+527
+00:26:39,728 --> 00:26:42,092
+Beleza, isso é um isqueiro elétrico.
+
+528
+00:26:42,094 --> 00:26:44,228
+Não ligue agora, mas use 
+isso para fritar 
+
+529
+00:26:44,230 --> 00:26:46,230
+os computadores de bordo 
+dos carros do Anton.
+
+530
+00:26:46,232 --> 00:26:49,033
+Isso deve nos dar algum tempo
+antes que comecem a nos perseguir.
+
+531
+00:26:50,269 --> 00:26:52,503
+A parede, nós vamos por baixo?
+
+532
+00:26:52,505 --> 00:26:54,506
+Nós vamos no estilo "Ki-Suco".
+
+533
+00:26:55,941 --> 00:26:57,475
+
+
+534
+00:27:01,881 --> 00:27:03,715
+Riley, conecte na bateria do carro.
+
+535
+00:27:10,623 --> 00:27:13,290
+Certo, o subwoofer age 
+como um oscilador,
+
+536
+00:27:13,292 --> 00:27:14,758
+que deve...
+
+537
+00:27:14,760 --> 00:27:16,093
+
+
+538
+00:27:16,095 --> 00:27:17,929
+
+
+539
+00:27:22,268 --> 00:27:24,269
+
+
+540
+00:27:29,475 --> 00:27:30,875
+... fazer isso acontecer.
+
+541
+00:27:33,866 --> 00:27:35,789
+- Emilia.
+- Vamos.
+
+542
+00:27:35,791 --> 00:27:37,915
+Vamos, vamos logo.
+Vão, vão, anda.
+
+543
+00:27:37,917 --> 00:27:40,251
+Vamos. Rápido.
+
+544
+00:27:45,824 --> 00:27:47,224
+
+
+545
+00:27:47,226 --> 00:27:48,760
+Anda, vamos.
+
+546
+00:27:55,100 --> 00:27:56,868
+
+
+547
+00:27:59,572 --> 00:28:00,971
+
+
+548
+00:28:00,973 --> 00:28:02,640
+
+
+549
+00:28:16,689 --> 00:28:18,622
+
+
+550
+00:28:18,624 --> 00:28:20,925
+
+
+551
+00:28:22,194 --> 00:28:23,493
+Não cabemos todos aí.
+
+552
+00:28:23,495 --> 00:28:24,762
+
+
+553
+00:28:33,191 --> 00:28:34,813
+Todo mundo, entra!
+
+554
+00:28:34,815 --> 00:28:36,940
+- Vamos.
+
+555
+00:28:36,942 --> 00:28:38,275
+- Entrem, entrem.
+- Todo mundo dentro!
+
+556
+00:28:38,277 --> 00:28:39,944
+
+
+557
+00:28:41,547 --> 00:28:42,981
+
+
+558
+00:28:48,988 --> 00:28:50,721
+
+
+559
+00:28:50,723 --> 00:28:52,423
+Mac!
+
+560
+00:28:53,359 --> 00:28:55,026
+
+
+561
+00:28:56,028 --> 00:28:58,195
+Aqui, vamos lá.
+
+562
+00:28:58,197 --> 00:29:00,465
+Vamos! Vamos!
+
+563
+00:29:06,872 --> 00:29:08,805
+
+
+564
+00:29:08,807 --> 00:29:10,641
+Deus.
+
+565
+00:29:10,643 --> 00:29:12,509
+Ela está perdendo muito sangue.
+
+566
+00:29:12,511 --> 00:29:13,644
+Apenas mantenha pressão.
+
+567
+00:29:13,646 --> 00:29:14,911
+
+
+568
+00:29:14,913 --> 00:29:16,880
+Me desculpe, isso dói?
+
+569
+00:29:16,882 --> 00:29:18,215
+Não Russ, é maravilhoso.
+
+570
+00:29:18,217 --> 00:29:19,746
+Senti sua falta.
+
+571
+00:29:19,748 --> 00:29:22,172
+Também senti sua falta.
+
+572
+00:29:22,174 --> 00:29:23,420
+Idiota.
+
+573
+00:29:23,422 --> 00:29:24,622
+
+
+574
+00:29:29,395 --> 00:29:31,395
+<i>Quão longe até o bloqueio?</i>
+
+575
+00:29:31,397 --> 00:29:32,829
+Cerca de cinco quilômetros.
+
+576
+00:29:32,831 --> 00:29:34,164
+Precisamos levar ela até um médico.
+
+577
+00:29:34,166 --> 00:29:35,332
+Mas isso não vai funcionar
+
+578
+00:29:35,334 --> 00:29:36,912
+se não seguirmos o plano juntos.
+
+579
+00:29:36,914 --> 00:29:39,403
+Atenha-se ao plano, 
+vamos acabar com isso.
+
+580
+00:29:39,405 --> 00:29:41,505
+Tudo bem.
+
+581
+00:29:41,507 --> 00:29:42,907
+Vamos seguir o plano.
+
+582
+00:29:44,443 --> 00:29:47,177
+Vamos torcer que o Victor
+manteve o lado dele do acordo.
+
+583
+00:29:47,179 --> 00:29:49,180
+
+
+584
+00:30:05,764 --> 00:30:07,764
+
+
+585
+00:30:07,766 --> 00:30:09,367
+Emilia.
+
+586
+00:30:12,705 --> 00:30:14,672
+
+
+587
+00:30:21,947 --> 00:30:23,780
+Você está ferida.
+
+588
+00:30:23,782 --> 00:30:25,916
+- O que podemos fazer?
+- Apenas ajude eles.
+
+589
+00:30:25,918 --> 00:30:27,224
+- Emilia...
+- Nós não temos muito tempo.
+
+590
+00:30:27,226 --> 00:30:28,860
+Por favor não discuta.
+
+591
+00:30:31,090 --> 00:30:32,790
+Apenas ajude-os.
+
+592
+00:30:39,131 --> 00:30:41,832
+Você trouxe o que pedi?
+
+593
+00:30:41,834 --> 00:30:44,501
+Tem uma dúzia de explosivos
+na traseira do caminhão.
+
+594
+00:30:44,503 --> 00:30:46,570
+Nós conseguimos dominar
+alguns guardas da fábrica
+
+595
+00:30:46,572 --> 00:30:47,678
+e pegamos seus rifles.
+
+596
+00:30:47,680 --> 00:30:49,010
+- Perfeito.
+
+597
+00:30:49,012 --> 00:30:51,332
+Os soldados do Anton estão em movimento.
+Temos talvez oito minutos.
+
+
+598
+00:31:01,453 --> 00:31:02,953
+Não será fácil.
+
+599
+00:31:02,955 --> 00:31:05,255
+Vai ser bem perigoso.
+
+600
+00:31:05,257 --> 00:31:08,158
+Mas se  trabalharmos juntos
+e se trabalharmos rápido,
+
+601
+00:31:08,160 --> 00:31:10,150
+nós podemos fazer isso, 
+nós podemos ganhar.
+
+602
+00:31:10,152 --> 00:31:12,362
+O que o loiro ta dizendo?
+
+603
+00:31:12,364 --> 00:31:14,098
+
+
+604
+00:31:15,634 --> 00:31:18,136
+
+
+605
+00:31:20,472 --> 00:31:21,938
+É a forma de falar, querido.
+
+606
+00:31:21,940 --> 00:31:23,975
+Tudo bem, vamos começar.
+
+607
+00:31:28,781 --> 00:31:30,114
+
+
+608
+00:31:40,125 --> 00:31:42,266
+<i>A pólvora selada
+e aquecida</i>
+
+609
+00:31:42,268 --> 00:31:44,353
+<i>ferve a água, criando um vapor</i>
+
+610
+00:31:44,355 --> 00:31:47,136
+<i>que aumenta a pressão dentro
+da garrafa até o impacto</i>
+
+611
+00:31:47,138 --> 00:31:50,668
+<i>quando explode, então você
+tem uma granada de concussão.</i>
+
+612
+00:31:57,409 --> 00:31:58,643
+Eles estão aqui.
+
+613
+00:32:00,245 --> 00:32:01,345
+
+
+614
+00:32:03,916 --> 00:32:05,950
+
+
+615
+00:32:10,656 --> 00:32:12,190
+
+
+616
+00:32:14,927 --> 00:32:16,561
+
+
+617
+00:32:24,036 --> 00:32:25,335
+Beleza.
+
+618
+Todo mundo, se preparem.
+
+619
+00:32:26,772 --> 00:32:28,773
+Pólvora e fogo é uma
+combinação perigosa.
+
+620
+00:32:30,709 --> 00:32:33,377
+
+
+621
+00:32:34,513 --> 00:32:36,746
+Isso não é bom.
+
+
+622
+00:32:36,748 --> 00:32:39,649
+Russ, agora é uma boa hora
+para outro discurso motivacional.
+
+623
+00:32:39,651 --> 00:32:41,351
+Que tal "Estamos em menor
+número, com menos armas
+
+624
+00:32:41,353 --> 00:32:42,786
+e a momentos de uma chacina"?
+
+625
+00:32:42,788 --> 00:32:44,222
+Esse daí precisa
+de uma melhora.
+
+626
+00:32:51,212 --> 00:32:53,346
+Taylor, sei que está por aí.
+
+627
+00:32:57,759 --> 00:32:58,925
+Mac.
+
+628
+00:32:58,927 --> 00:33:00,493
+Apenas cutucamos um 
+ninho de vespas
+
+629
+00:33:00,495 --> 00:33:01,727
+de rebeldes raivosos 
+e estamos apenas
+
+630
+00:33:01,729 --> 00:33:03,116
+curtindo aqui, esperando 
+para sermos picados.
+
+631
+00:33:03,118 --> 00:33:05,341
+- Você quis dizer tomar um tiro.
+- Quis dizer uma metáfora.
+
+632
+00:33:05,343 --> 00:33:06,703
+Russ, preciso que você ganhe tempo.
+
+633
+00:33:08,722 --> 00:33:11,446
+Quanto poder de fogo nós temos se
+formos direto para um tiroteio?
+
+634
+00:33:11,448 --> 00:33:15,384
+Eu daria uns 45 segundos, no máximo,
+antes de irmos pra casa em caixões.
+
+635
+00:33:17,132 --> 00:33:18,633
+Desi.
+
+636
+00:33:20,882 --> 00:33:22,216
+Anton!
+
+637
+00:33:24,085 --> 00:33:26,153
+Vamos bater um papo, que tal?
+
+638
+00:33:28,156 --> 00:33:30,857
+Seus carros estão presos.
+
+639
+00:33:30,859 --> 00:33:33,546
+Nós estamos em melhor vantagem.
+
+640
+00:33:33,548 --> 00:33:37,473
+Você vai durar o que? 
+45 segundos no máximo.
+
+641
+00:33:37,475 --> 00:33:40,499
+Você me subestima! De novo!
+
+642
+00:33:40,501 --> 00:33:42,836
+Então podemos nos matar,
+mas qual o sentido?
+
+643
+00:33:45,206 --> 00:33:47,207
+
+
+644
+00:33:53,848 --> 00:33:54,981
+<i>Mac,</i>
+
+645
+00:33:54,983 --> 00:33:56,409
+se apresse, antes que 
+ele consiga ser morto.
+
+646
+00:33:56,411 --> 00:33:58,117
+É um lança granadas caseiro.
+
+647
+00:33:58,119 --> 00:33:59,987
+Não é como se eu pudesse
+devolver pra Amazon.
+
+648
+00:34:02,223 --> 00:34:04,857
+Me ajuda a entender, Taylor.
+
+649
+00:34:04,859 --> 00:34:09,729
+Me ajuda a entender sua fraqueza
+por essa cidade de zé ninguém.
+
+650
+00:34:09,731 --> 00:34:12,999
+Nós dois sabemos que Revaca é 
+um banheiro cheio de camponeses.
+
+651
+00:34:13,001 --> 00:34:15,018
+Eu dei a eles um propósito.
+
+652
+00:34:15,020 --> 00:34:16,710
+Infraestrutura.
+
+653
+00:34:16,712 --> 00:34:19,569
+Eles fazem minhas bombas,
+eles podem comer.
+
+654
+00:34:19,571 --> 00:34:22,239
+Você realmente mereceu o título 
+de "Melhor Chefe do Mundo".
+
+655
+00:34:23,711 --> 00:34:26,712
+Nós dois sabemos o 
+verdeiro valor deles.
+
+656
+00:34:26,714 --> 00:34:31,083
+E graças a você, eu consegui
+por um bom preço:
+
+657
+00:34:31,085 --> 00:34:32,752
+Nada.
+
+658
+00:34:32,754 --> 00:34:36,422
+Mas agora você perdeu seus reféns.
+
+659
+00:34:36,424 --> 00:34:38,725
+E deixou esses camponeses
+te emboscarem.
+
+660
+00:34:39,573 --> 00:34:41,262
+Vamos, velho amigo.
+
+661
+00:34:41,264 --> 00:34:42,686
+Vamos embora dessa festa
+
+662
+00:34:42,688 --> 00:34:44,990
+enquanto ainda estamos 
+nos divertindo.
+
+663
+00:34:49,983 --> 00:34:51,672
+Eu não vou embora.
+
+664
+00:34:51,674 --> 00:34:53,976
+E você também não.
+
+665
+00:34:54,970 --> 00:34:56,838
+Então, vamos cabar logo com isso.
+
+666
+00:35:02,577 --> 00:35:05,413
+Espero que tenha se despedido  
+da sua amiga médica.
+
+667
+00:35:06,942 --> 00:35:08,809
+
+
+668
+00:35:20,935 --> 00:35:21,935
+
+
+669
+00:35:25,473 --> 00:35:27,740
+
+
+670
+00:35:27,742 --> 00:35:28,742
+
+
+671
+00:35:32,647 --> 00:35:34,681
+
+
+672
+00:35:42,090 --> 00:35:44,091
+
+
+673
+00:35:45,627 --> 00:35:48,661
+
+
+674
+00:35:48,663 --> 00:35:49,729
+
+
+675
+00:35:49,731 --> 00:35:51,365
+Vai.
+
+676
+00:35:53,134 --> 00:35:54,468
+Atire!
+
+677
+00:35:57,438 --> 00:35:59,505
+Mas você sabe a verdade,
+
+678
+00:35:59,507 --> 00:36:01,807
+não é?
+
+679
+00:36:01,809 --> 00:36:05,646
+Me mate, e vai ter
+mais dez como eu.
+
+680
+00:36:15,590 --> 00:36:17,591
+
+
+681
+00:36:19,327 --> 00:36:20,494
+
+
+682
+00:36:27,035 --> 00:36:29,236
+
+
+683
+00:36:36,539 --> 00:36:38,062
+Então...
+
+684
+00:36:38,064 --> 00:36:41,233
+o que você quer fazer 
+em relação a isso?
+
+685
+00:36:46,054 --> 00:36:48,055
+
+
+686
+00:36:51,359 --> 00:36:53,760
+
+
+687
+00:36:56,130 --> 00:36:59,132
+Seu favorito.
+
+688
+00:37:00,168 --> 00:37:01,734
+Se eu me lembro bem.
+
+689
+00:37:01,736 --> 00:37:03,970
+Sim.
+
+690
+00:37:04,963 --> 00:37:08,053
+Anton e seus homens deixaram a cidade.
+
+691
+00:37:08,055 --> 00:37:10,309
+A fábrica está abandonada.
+
+692
+00:37:10,311 --> 00:37:11,811
+Como você fez isso?
+
+693
+00:37:11,813 --> 00:37:15,147
+Deixei claro que tínhamos evidências
+dos crimes de guerra dele,
+
+694
+00:37:15,149 --> 00:37:19,386
+E que a ONU não pega 
+leva com essas coisas.
+
+695
+00:37:21,389 --> 00:37:23,557
+Você mudou, Russ.
+
+696
+00:37:24,592 --> 00:37:27,093
+Estou orgulhosa de você.
+
+697
+00:37:27,095 --> 00:37:28,427
+Bem,
+
+698
+00:37:28,429 --> 00:37:29,962
+Já vou embora.
+
+699
+00:37:29,964 --> 00:37:32,531
+Eu só queria passar aqui,
+
+700
+00:37:32,533 --> 00:37:34,533
+e dizer adeus.
+
+701
+00:37:34,535 --> 00:37:35,969
+Obrigada.
+
+702
+00:37:37,706 --> 00:37:39,807
+Por tudo.
+
+703
+00:37:42,210 --> 00:37:44,210
+Adeus.
+
+704
+00:37:44,212 --> 00:37:46,046
+Russ.
+
+705
+00:37:58,025 --> 00:38:00,994
+Nós teríamos matado
+um ao outro, você sabe.
+
+706
+00:38:02,897 --> 00:38:05,598
+Mas que maneira de ir.
+
+707
+00:38:05,600 --> 00:38:07,601
+
+
+708
+00:38:25,086 --> 00:38:26,920
+
+
+709
+00:38:29,056 --> 00:38:31,424
+Você fez outro acordo com Anton.
+
+710
+00:38:34,128 --> 00:38:36,462
+Não foi a ONU.
+
+711
+00:38:36,464 --> 00:38:38,597
+Você pagou pra
+ele ir embora.
+
+712
+00:38:38,599 --> 00:38:41,181
+De novo.
+
+713
+00:38:41,183 --> 00:38:43,406
+Se você tivesse atirado,
+
+714
+00:38:43,408 --> 00:38:45,572
+deixaria um lugar vago no poder
+que outra pessoa tomaria,
+
+715
+00:38:45,574 --> 00:38:47,597
+e então estaríamos de volta em dois anos,
+
+716
+00:38:47,599 --> 00:38:50,009
+combatendo um novo
+grupo de insurgentes
+
+717
+00:38:50,011 --> 00:38:54,246
+Pagar o Anton dá a Revaca
+segurança por uma década,
+
+718
+00:38:54,248 --> 00:38:55,748
+mais ou menos.
+
+719
+00:38:55,750 --> 00:38:59,251
+E então quando voltarmos...
+
+720
+00:38:59,253 --> 00:39:01,687
+é o diabo que você conhece.
+
+721
+00:39:01,689 --> 00:39:04,256
+
+
+722
+00:39:04,258 --> 00:39:06,926
+A ONU não seria de nenhuma ajuda.
+
+723
+00:39:06,928 --> 00:39:09,428
+Uma investigação levaria um ano.
+
+724
+00:39:09,430 --> 00:39:12,131
+E mesmo assim, não tem nenhuma garantia.
+
+725
+00:39:12,133 --> 00:39:13,299
+Então,
+
+726
+00:39:13,301 --> 00:39:14,466
+Eu fiz...
+
+727
+00:39:14,468 --> 00:39:16,335
+O que você tinha que fazer.
+
+728
+00:39:16,337 --> 00:39:18,672
+Eu entendo agora.
+
+729
+00:39:20,942 --> 00:39:23,910
+E meio que não gostaria
+de ter entendido.
+
+730
+00:39:24,946 --> 00:39:28,280
+Esse trabalho costumava 
+ser bem menos complicado.
+
+731
+00:39:28,282 --> 00:39:31,116
+Nós vamos para as missões, 
+salvamos vidas, voltamos pra casa.
+
+732
+00:39:31,118 --> 00:39:33,919
+Mas ultimamente...
+
+733
+00:39:33,921 --> 00:39:35,721
+tem sido diferente.
+
+734
+00:39:35,723 --> 00:39:39,525
+Não sei nem como descrever.
+
+735
+00:39:39,527 --> 00:39:43,262
+É como se tivesse uma sombra
+pesada cobrindo tudo.
+
+736
+00:39:43,264 --> 00:39:46,766
+Essa coisa com a Codex, 
+com a Matty...
+
+737
+00:39:49,237 --> 00:39:51,238
+As pessoas que estamos lidando...
+
+738
+00:39:53,241 --> 00:39:55,575
+A escuridão que estamos vendo.
+
+739
+00:39:58,739 --> 00:40:01,574
+O mundo não é preto e branco.
+
+740
+00:40:05,497 --> 00:40:08,032
+As vezes a única coisa
+que você pode fazer...
+
+741
+00:40:08,034 --> 00:40:10,391
+É a coisa errada.
+
+742
+00:40:10,393 --> 00:40:12,728
+Pelo motivo certo.
+
+743
+00:40:24,672 --> 00:40:25,838
+
+
+744
+00:40:25,840 --> 00:40:28,607
+Eles estão no avião.
+
+745
+00:40:28,609 --> 00:40:29,839
+Vou indo embora.
+
+746
+00:40:29,841 --> 00:40:31,842
+Boa noite.	
+
+747
+00:40:44,258 --> 00:40:46,593
+Codificação de voz ativada.
+
+748
+00:40:48,725 --> 00:40:50,914
+Oi, sou eu.
+
+749
+00:40:50,916 --> 00:40:52,272
+Já faz um tempo.
+
+750
+00:40:52,274 --> 00:40:54,767
+Sei que você está lidando
+com muita coisa agora,
+
+751
+00:40:54,769 --> 00:40:57,403
+mas precisamos conversar.
+
+752
+00:40:57,405 --> 00:41:00,406
+Não sei se estou
+ficando paranóica
+
+753
+00:41:00,408 --> 00:41:03,609
+ou se estou vendo 
+fantasmas, mas...
+
+754
+00:41:03,611 --> 00:41:05,511
+Mas acho que ela está de volta.
+
+755
+00:41:05,513 --> 00:41:08,814
+Você precisa vir me encontrar
+o mais rápido possível.
+

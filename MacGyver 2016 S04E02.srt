@@ -1,0 +1,2999 @@
+﻿1
+00:00:38,695 --> 00:00:40,161
+É tudo no pulso, Mac.
+
+2
+00:00:40,163 --> 00:00:42,596
+Na verdade, você se importa?
+
+3
+00:00:42,598 --> 00:00:44,598
+- Não.
+- É tudo matemática.
+
+4
+00:00:47,433 --> 00:00:49,625
+Velocidade e ângulo,
+determinar trajetória
+
+5
+00:00:49,628 --> 00:00:50,705
+e distância
+
+6
+00:00:50,707 --> 00:00:53,375
+ao longo de um arco parabólico.
+
+7
+00:00:55,878 --> 00:00:59,613
+Como eu disse,
+está no pulso.
+
+8
+00:00:59,615 --> 00:01:01,215
+Devo ter calculado errado.
+
+9
+00:01:01,217 --> 00:01:02,416
+De todo jeito
+
+10
+00:01:02,418 --> 00:01:04,452
+a coroa de Skee-Ball é sua.
+
+11
+00:01:04,454 --> 00:01:05,686
+Obrigada.
+
+12
+00:01:05,688 --> 00:01:07,321
+De nada.
+
+13
+00:01:07,323 --> 00:01:09,490
+E agradeço seu convite.
+
+14
+00:01:09,492 --> 00:01:10,658
+Pois é, cara.
+
+15
+00:01:10,660 --> 00:01:12,972
+No último ano e meio
+a Phoenix se foi
+
+16
+00:01:12,975 --> 00:01:15,175
+e nos afastamos assustadoramente rápidos.
+
+17
+00:01:15,178 --> 00:01:17,542
+Eu devia ter me esforçado mais.
+
+18
+00:01:17,545 --> 00:01:19,433
+Todos nós.
+
+19
+00:01:19,435 --> 00:01:23,250
+Estou aqui te checando.
+
+20
+00:01:23,253 --> 00:01:25,191
+Obrigado.
+
+21
+00:01:25,194 --> 00:01:27,007
+Mas não precisava.
+Estou bem.
+
+22
+00:01:27,009 --> 00:01:28,309
+Por que não estaria?
+
+23
+00:01:28,311 --> 00:01:29,744
+Vamos lá, Mac.
+
+24
+00:01:29,746 --> 00:01:31,912
+Você e Desi alfinearam uns ao outro
+
+25
+00:01:31,914 --> 00:01:33,089
+como Bieber e Selena.
+
+26
+00:01:33,092 --> 00:01:34,814
+Não foi tão ruim.
+
+27
+00:01:34,817 --> 00:01:37,252
+Eu estou dizendo que está tudo bem.
+
+28
+00:01:38,286 --> 00:01:41,279
+Então o que aconteceu?
+
+29
+00:01:41,282 --> 00:01:42,953
+Por que terminaram?
+
+30
+00:01:42,956 --> 00:01:45,926
+Uma longa história para outro dia.
+
+31
+00:01:45,928 --> 00:01:47,762
+- Entendi.
+- E você?
+
+32
+00:01:47,764 --> 00:01:49,563
+Está namorando ou saindo com alguém?
+
+33
+00:01:49,565 --> 00:01:51,165
+Não.
+
+34
+00:01:51,167 --> 00:01:53,334
+- Ninguém?
+- Não.
+
+35
+00:01:53,336 --> 00:01:55,669
+Some a confusão que foi eu e Billy
+
+36
+00:01:55,671 --> 00:01:58,293
+depois Bozer ficar sem a Leanna
+por causa de operação secreta,
+
+37
+00:01:58,296 --> 00:01:59,351
+e agora você e Desi.
+
+38
+00:01:59,354 --> 00:02:00,741
+E não vamos esquecer tudo
+
+39
+00:02:00,743 --> 00:02:02,076
+que Matty e Ethan passaram.
+
+40
+00:02:02,078 --> 00:02:06,580
+Uma taxa de rompimentos alta demais.
+
+41
+00:02:08,017 --> 00:02:10,084
+- Maldição da Phoenix.
+
+42
+00:02:10,086 --> 00:02:11,620
+Ficar solteiros.
+
+43
+00:02:33,382 --> 00:02:35,522
+<i>Vá</i>
+
+44
+00:03:07,354 --> 00:03:12,679
+- Por: Red-Queen
+Inst: @sara_lance_oficial -
+
+45
+00:03:19,184 --> 00:03:21,754
+Cubanos. Edição especial.
+
+46
+00:03:21,757 --> 00:03:24,659
+Raul me deu estes no funeral de Fidel em Havana.
+
+47
+00:03:27,597 --> 00:03:29,554
+Major Frost, aceita?
+
+48
+00:03:29,557 --> 00:03:31,765
+Não obrigada, Sr. Taylor.
+
+49
+00:03:31,767 --> 00:03:34,835
+- John?
+- Se aceitar algo raro.
+
+50
+00:03:34,837 --> 00:03:36,871
+- Estarei sendo mimado.
+- Alguém já disse
+
+51
+00:03:36,873 --> 00:03:38,772
+que você é fácil de lidar?
+
+52
+00:03:38,774 --> 00:03:40,641
+Na hora exata.
+
+53
+00:03:40,643 --> 00:03:42,042
+Angus MacGyver, Matty Webber,
+
+54
+00:03:42,044 --> 00:03:46,218
+cnheçam o general John Acosta
+e a Major Anne Frost
+
+55
+00:03:46,221 --> 00:03:48,155
+do Departamento de Defesa.
+
+56
+00:03:48,158 --> 00:03:52,051
+John e eu nos conhecemos na Spearhead Operations.
+
+57
+00:03:52,054 --> 00:03:54,321
+Prometo não usar contra você.
+
+58
+00:03:54,323 --> 00:03:56,123
+O que o traz aqui, General?
+
+59
+00:03:56,125 --> 00:03:58,457
+Já ouviram falar de "Red Cell"?
+
+60
+00:03:58,460 --> 00:03:59,627
+Sim.
+
+61
+00:03:59,629 --> 00:04:00,788
+Uma equipe que encontra
+
+62
+00:04:00,791 --> 00:04:02,718
+vulnerabilidades em sistemas de segurança.
+
+63
+00:04:02,721 --> 00:04:03,763
+Precisamente.
+
+64
+00:04:03,766 --> 00:04:06,246
+E aqui temos nossa própria "Red Cell"
+
+65
+00:04:06,249 --> 00:04:07,262
+como Taylor diz
+
+66
+00:04:07,265 --> 00:04:10,137
+sobre a Phoenix, especialmente você,
+
+67
+00:04:10,139 --> 00:04:13,807
+Sr. MacGyver, seus métodos pouco ortodoxos são
+
+68
+00:04:13,809 --> 00:04:15,210
+exatamente o que precisamos.
+
+69
+00:04:16,579 --> 00:04:18,913
+Eu estou lisonjeado,
+
+70
+00:04:18,915 --> 00:04:20,726
+mas o que exatamente quer de nós?
+
+71
+00:04:20,729 --> 00:04:22,324
+Minha equipe supervisiona a segurança
+
+72
+00:04:22,327 --> 00:04:24,187
+de um laboratório militar no sul da cidade.
+
+73
+00:04:24,190 --> 00:04:26,012
+É nossa instalaçao principal
+
+74
+00:04:26,015 --> 00:04:27,821
+para o desenvolvimento militar
+
+75
+00:04:27,823 --> 00:04:29,290
+de tecnologia de ponta.
+
+76
+00:04:29,292 --> 00:04:30,624
+tecnologia que ficará
+
+77
+00:04:30,626 --> 00:04:31,926
+na mira de agentes externos.
+
+78
+00:04:31,928 --> 00:04:33,494
+E você quer que a gente
+
+79
+00:04:33,496 --> 00:04:35,296
+seja eles, invada o local
+
+80
+00:04:35,298 --> 00:04:37,565
+e teste a segurança antes deles?
+
+81
+00:04:37,567 --> 00:04:39,733
+Preciso de uma nova visão
+
+82
+00:04:39,735 --> 00:04:41,336
+sobre a segurança do laboratório.
+
+83
+00:04:44,340 --> 00:04:47,085
+Preciso de mais detalhes sobre vocês.
+
+84
+00:04:47,088 --> 00:04:49,475
+Nossa segurança é 
+
+85
+00:04:49,478 --> 00:04:51,845
+o teste final de vocês.
+
+86
+00:04:51,847 --> 00:04:55,249
+Estamos animados para começar.
+
+87
+00:04:55,251 --> 00:04:57,624
+Aproveite os charutos.
+
+88
+00:04:57,627 --> 00:05:01,069
+Obrigado pela oportunidade.
+
+89
+00:05:03,291 --> 00:05:05,291
+Que diabos está fazendo?
+
+90
+00:05:05,294 --> 00:05:07,413
+Consegui nosso primeiro contrato com o governo.
+
+91
+00:05:07,416 --> 00:05:09,158
+Ao que parece
+
+92
+00:05:09,161 --> 00:05:10,719
+em troca de nossa segurança no país?
+
+93
+00:05:10,721 --> 00:05:12,422
+E você disse que já tinha resolvido isso.
+
+94
+00:05:12,424 --> 00:05:14,601
+Estamos na infeliz posição
+
+95
+00:05:14,604 --> 00:05:16,754
+de ter que provar nosso valor a eles.
+
+96
+00:05:16,757 --> 00:05:19,306
+As conexões da Matty e meu charme considerável
+
+97
+00:05:19,308 --> 00:05:20,687
+só vai nos ajudar agora.
+
+98
+00:05:20,690 --> 00:05:22,176
+Quando isso desandar,
+
+99
+00:05:22,178 --> 00:05:23,644
+se já não está, nós caímos fora.
+
+100
+00:05:23,646 --> 00:05:26,413
+E com isso estamos acabados.
+
+101
+00:05:28,184 --> 00:05:29,671
+Você podia ter nos dito isso.
+
+102
+00:05:29,674 --> 00:05:30,907
+Acabei de dizer.
+
+103
+00:05:33,989 --> 00:05:37,056
+Vamos lá, Angus
+
+104
+00:05:37,059 --> 00:05:40,495
+é tudo que precisa para de novo
+ser um agente secreto.
+
+105
+00:05:42,531 --> 00:05:44,898
+Nosso objetivo é testar a segurança
+
+106
+00:05:44,900 --> 00:05:47,334
+do laboratório, passar por suas defesas
+
+107
+00:05:47,336 --> 00:05:49,536
+e roubar um projeto conhecido como "Quirk."
+
+108
+00:05:49,539 --> 00:05:51,230
+E o que exatamente é Quirk?
+
+109
+00:05:51,233 --> 00:05:52,483
+Não sabemos.
+
+110
+00:05:52,486 --> 00:05:54,192
+Agora, os guardas militares no laboratório
+
+111
+00:05:54,194 --> 00:05:56,515
+não sabe que o general Acosta nos contratou.
+
+112
+00:05:56,518 --> 00:05:59,012
+O que significa que estamos sob a mira
+
+113
+00:05:59,015 --> 00:06:01,348
+e podemos levar uma bala verdadeira.
+
+114
+00:06:01,350 --> 00:06:03,450
+Nenhum risco, nenhuma recompensa.
+
+115
+00:06:03,452 --> 00:06:07,171
+E para vencer, todos precisamos encarar nossos papéis.
+
+116
+00:06:07,174 --> 00:06:09,056
+Eles têm reconhecimento facial
+
+117
+00:06:09,058 --> 00:06:12,192
+e um scanner de veículo no estacionamento.
+
+118
+00:06:12,194 --> 00:06:13,890
+Crachás eletrônicos,
+
+119
+00:06:13,893 --> 00:06:16,030
+e cientistas trabalhando dia e noite.
+
+120
+00:06:16,032 --> 00:06:17,197
+Além disso, patrulhas armadas,
+
+121
+00:06:17,199 --> 00:06:19,335
+e uma equipe de seis homens na retaguarda.
+
+122
+00:06:19,338 --> 00:06:21,568
+- Qual o plano?
+- Engenharia social.
+
+123
+00:06:21,570 --> 00:06:23,404
+O ponto fraco de qualquer sistema de segurança
+
+124
+00:06:23,406 --> 00:06:25,306
+é sempre o elemento humano.
+
+125
+00:06:26,515 --> 00:06:28,242
+Riley irá convidar todos os 12 cientistas
+
+126
+00:06:28,244 --> 00:06:30,411
+para uma reunião de planejamento
+
+127
+00:06:30,413 --> 00:06:32,210
+organizada pelos seus chefes.
+
+128
+00:06:32,213 --> 00:06:34,248
+Enquanto eles se divertem no bar,
+
+129
+00:06:34,250 --> 00:06:36,062
+nos divertimos no laboratório.
+
+130
+00:06:36,065 --> 00:06:38,429
+E como vamos roubar um crachá deles?
+
+131
+00:06:38,432 --> 00:06:41,054
+Você disse que eles são eletrônicos.
+
+132
+00:06:41,057 --> 00:06:43,608
+Com um leitor de RFID sem fio,
+se eu conseguir
+
+133
+00:06:43,611 --> 00:06:46,747
+ficar perto de um crachá ativo,
+posso cloná-lo.
+
+134
+00:06:48,089 --> 00:06:49,730
+Quanto ao reconhecimento facial,
+
+135
+00:06:49,741 --> 00:06:52,110
+A barba de Taylor mascara metade
+dos pontos centrais.
+
+136
+00:06:52,113 --> 00:06:54,113
+E eu posso mudar os dados existes
+
+137
+00:06:54,116 --> 00:06:57,237
+com esses brinquedinhos.
+
+138
+00:06:57,240 --> 00:06:58,906
+Isso me faz passar pelo portão
+
+139
+00:06:58,909 --> 00:07:00,908
+mas e você, Angus e Desi?
+
+140
+00:07:00,910 --> 00:07:02,309
+Vamos pegar uma carona.
+
+141
+00:07:02,311 --> 00:07:05,245
+Chumbo deve isolar o scanner
+
+142
+00:07:05,247 --> 00:07:08,916
+e eu e Desi vamos no porta-malas.
+
+143
+00:07:08,918 --> 00:07:11,218
+Sério? Bem confortável.
+
+144
+00:07:11,220 --> 00:07:13,388
+Relaxe, é uma viagem curta.
+
+145
+00:07:19,929 --> 00:07:22,062
+Ainda usa aquele desodorante?
+
+146
+00:07:23,199 --> 00:07:24,765
+Pensei que nunca mais iria
+
+147
+00:07:24,767 --> 00:07:26,266
+ter esta conversa novamente.
+
+148
+00:07:26,268 --> 00:07:27,735
+Seu plano de nos prender.
+
+149
+00:07:27,737 --> 00:07:30,132
+E para o registro
+
+150
+00:07:30,135 --> 00:07:31,739
+você disse que gostava de "Mountain Rain"
+
+151
+00:07:31,742 --> 00:07:32,797
+quando começamos a namorar.
+
+152
+00:07:32,800 --> 00:07:34,644
+Eu disse várias coisas que não devia.
+
+153
+00:07:34,647 --> 00:07:38,445
+Como no final, certo?
+
+154
+00:07:38,447 --> 00:07:40,715
+Não podemos discutir isso agora.
+
+155
+00:07:48,861 --> 00:07:51,625
+Minha tensão está explodindo.
+
+156
+00:07:51,627 --> 00:07:52,793
+Eu estou relaxado,
+
+157
+00:07:52,795 --> 00:07:54,968
+calmo e centrado.
+
+158
+00:07:54,971 --> 00:07:57,496
+Eu sinto minhas preocupações e medos
+
+159
+00:07:57,499 --> 00:08:00,046
+irem para o universo.
+
+160
+00:08:00,049 --> 00:08:02,483
+Quando incorporou Tony Robbins?
+
+161
+00:08:02,486 --> 00:08:04,835
+Estou bem.
+
+162
+00:08:07,491 --> 00:08:09,109
+Pronto para ir.
+
+163
+00:08:09,111 --> 00:08:12,679
+É comprovado que afirmações positivas
+
+164
+00:08:12,681 --> 00:08:14,916
+reduzem a ansiedade.
+
+165
+00:08:17,486 --> 00:08:19,019
+Tudo certo,
+
+166
+00:08:19,021 --> 00:08:21,179
+12 minutos até a próxima ronda.
+
+167
+00:08:21,182 --> 00:08:22,856
+Pretendem matar um ao outro?
+
+168
+00:08:22,858 --> 00:08:26,360
+Da próxima vez.
+
+169
+00:08:32,267 --> 00:08:34,187
+Por que não há câmeras dentro?
+
+170
+00:08:34,190 --> 00:08:36,002
+O trabalho é confidencial
+
+171
+00:08:36,005 --> 00:08:38,739
+e o risco de gravar seria muito grande.
+
+172
+00:08:38,741 --> 00:08:41,358
+Vamos encontrar o Quirk.
+
+173
+00:08:45,374 --> 00:08:47,248
+"Me alimente, Seymour."
+
+174
+00:08:48,651 --> 00:08:50,202
+São bio-sensores.
+
+175
+00:08:50,205 --> 00:08:53,673
+São plantas que agem como guardas.
+
+176
+00:08:53,676 --> 00:08:56,076
+Isso é tão legal.
+
+177
+00:08:56,079 --> 00:08:58,647
+Só se quis dizer por aterrorizante.
+
+178
+00:08:58,650 --> 00:09:00,716
+Angus.
+
+179
+00:09:00,719 --> 00:09:04,007
+O que você acha desses trecos?
+
+180
+00:09:06,202 --> 00:09:08,068
+Eu acho que estes são drones.
+
+181
+00:09:08,070 --> 00:09:10,404
+Eles são usados ​​para busca e salvamento,
+
+182
+00:09:10,406 --> 00:09:13,674
+detecção de radiação, esse tipo de coisa.
+
+183
+00:09:13,676 --> 00:09:16,004
+Quem no seu perfeito juízo iria sonhar
+
+184
+00:09:16,007 --> 00:09:18,358
+ter baratas por controle remoto?
+
+185
+00:09:18,361 --> 00:09:19,980
+Veja isso.
+
+186
+00:09:19,982 --> 00:09:21,315
+Metamateriais.
+
+187
+00:09:21,317 --> 00:09:24,219
+Eles transforma objetos em luz.
+
+188
+00:09:30,491 --> 00:09:32,658
+Finalmente.
+
+189
+00:09:32,661 --> 00:09:37,664
+Meu sonho de possuir uma capa de invisibilidade
+
+190
+00:09:37,666 --> 00:09:41,093
+a um passo mais perto da realidade.
+
+191
+00:09:42,738 --> 00:09:45,506
+Podemos continuar?
+
+192
+00:09:56,433 --> 00:09:59,134
+"Quantico - Repetitivo - Chip."
+
+193
+00:09:59,137 --> 00:10:00,704
+QRC. Quir-Quirk!
+
+194
+00:10:01,991 --> 00:10:03,115
+Então o que é?
+
+195
+00:10:03,125 --> 00:10:05,952
+Próxima geração de microprocessadores.
+
+196
+00:10:05,955 --> 00:10:08,007
+Isto é...
+
+197
+00:10:08,010 --> 00:10:10,288
+o santo graal dos supercomputadores.
+
+198
+00:10:11,437 --> 00:10:14,295
+Se computadores fossem carros,
+isso seria a diferença
+
+199
+00:10:14,298 --> 00:10:17,232
+entre um fusca e um carro de Fórmula 1.
+
+200
+00:10:17,235 --> 00:10:19,336
+Certo...
+
+201
+00:10:19,339 --> 00:10:21,275
+o que estamos esperando?
+
+202
+00:10:21,277 --> 00:10:23,465
+Primeiro problema,
+
+203
+00:10:23,468 --> 00:10:25,397
+está bloqueado com um scanner de retina.
+
+204
+00:10:25,400 --> 00:10:29,436
+Tenho certeza que apenas os três
+
+205
+00:10:29,439 --> 00:10:32,084
+cientistas do projeto
+
+206
+00:10:32,087 --> 00:10:33,647
+podem acessá-lo.
+
+207
+00:10:33,650 --> 00:10:35,922
+Podemos ignorar isso. Des?
+
+208
+00:10:35,925 --> 00:10:37,991
+- Sua vez.
+- O que?
+
+209
+00:10:37,993 --> 00:10:39,092
+Faça seu...
+
+210
+00:10:39,094 --> 00:10:40,762
+- Quer que eu...?
+- Sim.
+
+211
+00:10:43,161 --> 00:10:44,788
+Não!
+
+212
+00:10:44,791 --> 00:10:47,225
+Segundo problema.
+
+213
+00:10:47,228 --> 00:10:48,869
+O chip quântico tem que ser armazenado
+
+214
+00:10:48,871 --> 00:10:50,237
+a uma temperatura extremamente fria
+
+215
+00:10:50,239 --> 00:10:52,439
+- 230 graus Kelvin.
+
+216
+00:10:52,441 --> 00:10:54,007
+230?
+Isso soa muito quente.
+
+217
+00:10:54,009 --> 00:10:55,542
+Convertidos em Fahrenheit, isso é...
+
+218
+00:10:55,544 --> 00:10:56,812
+45 graus abaixo de zero.
+
+219
+00:10:56,815 --> 00:10:59,279
+O que acontece se aquecê-lo?
+
+220
+00:10:59,281 --> 00:11:00,973
+Ele se desintegra.
+
+221
+00:11:00,976 --> 00:11:02,282
+Espera.
+
+222
+00:11:02,284 --> 00:11:05,953
+Então nós temos que roubar uma coisa
+
+223
+00:11:05,955 --> 00:11:08,922
+que vai auto-destruir assim que pegarmos?
+
+224
+00:11:08,924 --> 00:11:10,374
+Sim.
+
+225
+00:11:10,377 --> 00:11:12,633
+- Se isso acontecer, nós falhamos.
+- Que significa
+
+226
+00:11:12,636 --> 00:11:14,460
+sem contratos de segurança.
+
+227
+00:11:14,463 --> 00:11:15,862
+E tudo que fazemos
+
+228
+00:11:15,864 --> 00:11:17,679
+na Phoenix.
+
+229
+00:11:22,118 --> 00:11:25,453
+Ei pessoal? Está calmo demais.
+
+230
+00:11:25,455 --> 00:11:27,388
+Oito minutos até a próxima ronda.
+
+231
+00:11:27,390 --> 00:11:28,656
+Que tal
+
+232
+00:11:28,658 --> 00:11:30,825
+você fazer algo, Angus?
+
+233
+00:11:30,827 --> 00:11:33,528
+Ter alguma solução criativa?
+
+234
+00:11:33,530 --> 00:11:35,129
+Preciso pensar.
+
+235
+00:11:35,131 --> 00:11:37,144
+Lembrando
+
+236
+00:11:37,147 --> 00:11:39,214
+que é para isso que foram contrados.
+
+237
+00:11:39,217 --> 00:11:40,718
+É por isso que eu comprei o Phoenix.
+
+238
+00:11:40,721 --> 00:11:42,688
+Resolver problemas que não 
+podem ser resolvidos.
+
+239
+00:11:42,691 --> 00:11:45,092
+Não está ajudando nenhum de nós.
+
+240
+00:11:57,735 --> 00:12:00,636
+Talvez eu possa construir uma 
+unidade de contenção de frio.
+
+241
+00:12:00,639 --> 00:12:02,949
+- Refrigerador portátil. Gostei.
+- Não é tão fácil como parece.
+
+242
+00:12:02,951 --> 00:12:05,244
+- É possível? Vou concluir que sim.
+- Faça.
+
+243
+00:12:06,328 --> 00:12:07,894
+E sobre o scanner de retina?
+
+244
+00:12:07,897 --> 00:12:11,132
+É trabalho do Bozer.
+
+245
+00:12:11,134 --> 00:12:13,534
+Não quer que eu arranque um olho, certo?
+
+246
+00:12:13,536 --> 00:12:15,770
+Só uma imagem de perto.
+
+247
+00:12:15,772 --> 00:12:17,805
+Jogue seu charme para os cientistas
+
+248
+00:12:17,807 --> 00:12:20,257
+- E consiga uma foto do olho.
+- Só isso?
+
+249
+00:12:20,260 --> 00:12:21,558
+Ei pessoal.
+
+250
+00:12:21,561 --> 00:12:24,178
+Olá, estou feliz de ter encontrado vocês.
+
+251
+00:12:24,181 --> 00:12:27,626
+Meu nome é Adam.
+Começo segunda no projeto de núcleos.
+
+252
+00:12:29,919 --> 00:12:31,486
+Posso?
+
+253
+00:12:31,488 --> 00:12:33,420
+Que tal todo mundo?
+
+254
+00:12:33,423 --> 00:12:35,188
+Vamos em frente.
+
+255
+00:12:35,191 --> 00:12:36,224
+Virem-se.
+
+256
+00:12:36,226 --> 00:12:38,359
+Isso aí.
+
+257
+00:12:38,361 --> 00:12:41,105
+Muito bem.
+
+258
+00:12:44,216 --> 00:12:47,522
+Quando se trata de manter algo quente ou frio,
+
+259
+00:12:47,525 --> 00:12:49,558
+o seu pior inimigo é o ar,
+
+260
+00:12:49,561 --> 00:12:50,972
+mudanças de temperatura.
+
+261
+00:12:50,974 --> 00:12:53,841
+Assim, criamos um espaço a vácuo,
+
+262
+00:12:53,843 --> 00:12:57,945
+que nada quente ou frio entrar.
+
+263
+00:12:57,947 --> 00:13:01,749
+E dentro dele a temperatura continuará igual.
+
+264
+00:13:01,751 --> 00:13:04,667
+Bozer, menos de quatro minutos.
+
+265
+00:13:06,456 --> 00:13:08,656
+Olhe isso.
+
+266
+00:13:08,658 --> 00:13:11,859
+Enviando.
+
+267
+00:13:13,463 --> 00:13:15,863
+Você está numa festa a fantasia?
+
+268
+00:13:15,865 --> 00:13:19,033
+- Ah! Oh, isso é loucura. - Sim Sim.
+
+269
+00:13:19,035 --> 00:13:20,368
+É o melhor que eu consigo.
+
+270
+00:13:20,370 --> 00:13:22,036
+Dê um zoom nos olhos.
+
+271
+00:13:22,038 --> 00:13:23,553
+Zoom? Desculpe
+
+272
+00:13:23,556 --> 00:13:25,558
+Blade Runner mas baixa resolução.
+
+273
+00:13:25,561 --> 00:13:27,108
+Preciso que tire mais de perto.
+
+274
+00:13:39,389 --> 00:13:42,223
+Todos acham que essas latas estão cheias de ar,
+
+275
+00:13:42,225 --> 00:13:45,253
+mas na verdade é um líquido chamado HCF-134
+
+276
+00:13:45,256 --> 00:13:47,912
+que repousa em 60 graus abaixo de zero.
+
+277
+00:13:47,915 --> 00:13:50,381
+Vire de ponta cabeça e terá um spray
+
+278
+00:13:50,384 --> 00:13:51,550
+congelante.
+
+279
+00:13:51,553 --> 00:13:52,700
+Pessoal, soldados armados
+
+280
+00:13:52,702 --> 00:13:54,469
+entrarão a qualquer minuto.
+
+281
+00:13:54,471 --> 00:13:56,771
+Um recepiente de congelamento pronto.
+
+282
+00:13:56,773 --> 00:13:59,607
+Riley onde está o scanner do olho?
+
+283
+00:13:59,609 --> 00:14:01,557
+O médico me indicou meu primeiro óculos.
+
+284
+00:14:01,559 --> 00:14:03,726
+Tenho um app que indica armações.
+
+285
+00:14:03,729 --> 00:14:05,342
+O que acha?
+
+286
+00:14:06,348 --> 00:14:08,982
+Isso é muito legal.
+
+287
+00:14:08,985 --> 00:14:11,286
+Pode tirar se não se importar.
+
+288
+00:14:20,163 --> 00:14:21,329
+Deslumbrante.
+
+289
+00:14:21,331 --> 00:14:22,931
+Quer saber você parece...
+
+290
+00:14:29,972 --> 00:14:31,805
+Maravilha.
+
+291
+00:14:34,377 --> 00:14:36,446
+Taylor, você está pronto.
+
+292
+00:14:52,373 --> 00:14:54,206
+Com 60 segundos de sobra.
+
+293
+00:14:56,199 --> 00:14:57,498
+O som é bom?
+
+294
+00:14:57,500 --> 00:14:58,833
+É ruim?
+
+295
+00:14:58,835 --> 00:15:01,035
+Alarme indicando que o chip
+
+296
+00:15:01,037 --> 00:15:02,303
+está em risco.
+
+297
+00:15:02,305 --> 00:15:03,638
+O que nós fazemos?
+
+298
+00:15:03,640 --> 00:15:05,389
+Desligamos.
+
+299
+00:15:11,014 --> 00:15:12,713
+Qual é!
+
+300
+00:15:12,715 --> 00:15:14,089
+- Me disse para fechar.
+- Desligar.
+
+301
+00:15:14,092 --> 00:15:16,737
+Desligar o conjunto de sensores.
+
+302
+00:15:16,740 --> 00:15:18,612
+Você não disse nada disso.
+
+303
+00:15:18,615 --> 00:15:20,588
+Comunicação sempre foi
+nosso problema, não é?
+
+304
+00:15:20,590 --> 00:15:21,756
+Falo seis línguas.
+
+305
+00:15:21,758 --> 00:15:23,257
+A comunicação não era o nosso problema.
+
+306
+00:15:23,259 --> 00:15:25,133
+Desculpa interromper
+
+307
+00:15:25,136 --> 00:15:26,835
+mas vocês soaram o alarme.
+
+308
+00:15:26,838 --> 00:15:29,106
+Tem soldados no corredor
+e a caminho.
+
+309
+00:15:33,770 --> 00:15:35,545
+- O que foi?
+- Meu Deus.
+
+310
+00:15:37,006 --> 00:15:39,407
+O que está acontecendo?
+
+311
+00:15:39,409 --> 00:15:41,020
+Equipe A, para o laboratório.
+
+312
+00:15:41,022 --> 00:15:42,910
+Laboratório 3?
+
+313
+00:15:42,912 --> 00:15:46,440
+Indo agora.
+Equipa B, laboratório A e B seguro.
+
+314
+00:15:46,443 --> 00:15:47,648
+Bloqueando perímetro.
+
+315
+00:15:47,651 --> 00:15:49,792
+Equipe A para o três.
+
+316
+00:15:49,795 --> 00:15:51,760
+Temos que abortar.
+
+317
+00:15:51,763 --> 00:15:54,131
+Chamar Acosta e retirar seus homens.
+
+318
+00:15:54,956 --> 00:15:57,890
+Não viemos até aqui só para desistir agora.
+
+319
+00:15:57,893 --> 00:16:00,927
+Desi, eu amo sua atitude.
+
+320
+00:16:24,320 --> 00:16:27,289
+Há mais dois deles lá. Vão.
+
+321
+00:16:47,911 --> 00:16:49,945
+Seu chip quântico, General.
+
+322
+00:16:51,648 --> 00:16:54,181
+Certeza que estava ansioso para tê-lo de volta.
+
+323
+00:16:54,183 --> 00:16:56,592
+Sim, embora eu obviamente precisa encontrar
+
+324
+00:16:56,595 --> 00:16:58,286
+um lugar mais seguro para mantê-lo.
+
+325
+00:16:59,422 --> 00:17:01,740
+Prometi e entreguei.
+
+326
+00:17:02,691 --> 00:17:05,186
+Sua vez John.
+
+327
+00:17:05,189 --> 00:17:06,961
+Farei algumas ligações
+
+328
+00:17:06,963 --> 00:17:08,597
+e terão suas credenciais.
+
+329
+00:17:09,788 --> 00:17:12,223
+Eu sabia que podia contar com você, Russ.
+
+330
+00:17:18,973 --> 00:17:20,651
+Tudo certo. Há somente
+
+331
+00:17:20,654 --> 00:17:23,276
+apenas mais uma parada
+
+332
+00:17:23,279 --> 00:17:25,547
+antes de encerrarmos.
+
+333
+00:17:26,449 --> 00:17:29,116
+Pelo bom trabalho.
+
+334
+00:17:30,320 --> 00:17:31,852
+Isso é obrigatório?
+
+335
+00:17:31,854 --> 00:17:34,989
+Manter a equipe unida.
+
+336
+00:17:34,991 --> 00:17:36,157
+Olha, nós estamos aqui
+
+337
+00:17:36,159 --> 00:17:39,393
+para comemorar a nova Phoenix.
+
+338
+00:17:39,395 --> 00:17:42,430
+A comunidade de defesa saberá nossos nomes.
+
+339
+00:17:46,536 --> 00:17:48,334
+Não era para ser público, era?
+
+340
+00:17:54,173 --> 00:17:55,889
+Vamos embora.
+
+341
+00:18:00,516 --> 00:18:01,936
+Sim, Matty?
+
+342
+00:18:01,939 --> 00:18:04,983
+Foi emitido um mandato de prisão
+para vocês quatro.
+
+343
+00:18:04,986 --> 00:18:07,781
+Estamos falando do FBI, DHS, até as autoridades locais.
+
+344
+00:18:07,784 --> 00:18:09,769
+Todos vocês são o alvo número um.
+
+345
+00:18:09,772 --> 00:18:11,559
+Isto é um erro. Acosta não deve ter
+
+346
+00:18:11,561 --> 00:18:13,127
+dito a sua equipe sobre nós ainda.
+
+347
+00:18:13,129 --> 00:18:15,011
+Não é nenhum erro, Taylor.
+
+348
+00:18:15,014 --> 00:18:18,399
+O general encomendeu o roubo.
+
+349
+00:18:18,401 --> 00:18:20,401
+Seu velho amigo o traiu.
+
+350
+00:18:20,403 --> 00:18:22,904
+A operação foi um crime federal.
+
+351
+00:18:30,566 --> 00:18:32,222
+O clima vai...
+
+352
+00:18:32,225 --> 00:18:34,859
+Temos Cheerios suficientes
+
+353
+00:18:34,862 --> 00:18:37,088
+aqui para comer enquanto fugimos
+
+354
+00:18:37,090 --> 00:18:38,189
+para qualquer lugar,
+
+355
+00:18:38,191 --> 00:18:39,357
+não poderia ter roubado um veículo
+
+356
+00:18:39,359 --> 00:18:40,758
+um pouco mais rápido?
+
+357
+00:18:40,760 --> 00:18:42,781
+Minivan tamanho família é perfeito,
+
+358
+00:18:42,784 --> 00:18:44,016
+usado por mães levando filhos a jogos
+
+359
+00:18:44,019 --> 00:18:45,853
+e não um psicopata para soar mais alarmes.
+
+360
+00:18:45,855 --> 00:18:47,655
+Continue falando e irá a pé.
+
+361
+00:18:47,658 --> 00:18:50,125
+- Vocês estão sem tempo.
+- Matty. Fale comigo.
+
+362
+00:18:50,128 --> 00:18:51,792
+Seu amigo Acosta
+
+363
+00:18:51,795 --> 00:18:53,442
+os traiu
+
+364
+00:18:53,445 --> 00:18:55,078
+A melhor opção para vocês agora
+
+365
+00:18:55,081 --> 00:18:57,141
+- é se entregarem.
+- E arrumarem os melhores advogados
+
+366
+00:18:57,143 --> 00:18:58,776
+- que o dinheiro possa comprar.
+- Não é uma opção.
+
+367
+00:18:58,779 --> 00:19:01,445
+Éramos o alvo tanto quanto chip
+
+368
+00:19:01,448 --> 00:19:03,081
+embora eu não possa ver a conexão ainda.
+
+369
+00:19:03,084 --> 00:19:06,283
+Mas desistir não resolve nada.
+
+370
+00:19:06,286 --> 00:19:09,120
+E se fizermos, Acosta irá desaparecer
+
+371
+00:19:09,122 --> 00:19:10,488
+sem chance de pegarmos ele e o Quirk
+
+372
+00:19:10,490 --> 00:19:11,990
+- terá desaparecido.
+- Junto com a esperança
+
+373
+00:19:11,992 --> 00:19:13,491
+- de limpar nossos nomes.
+- Todos concordam
+
+374
+00:19:13,493 --> 00:19:14,923
+que ir para a cadeia não é uma opção.
+
+375
+00:19:14,925 --> 00:19:15,969
+Onde está esse cara?
+
+376
+00:19:15,971 --> 00:19:18,406
+Generais de 4 estrelas
+simplesmente não desaparecem.
+
+377
+00:19:18,409 --> 00:19:20,922
+Seu escritório é secreto e apemas
+
+378
+00:19:20,925 --> 00:19:22,323
+seu time sabe aonde fica,
+
+379
+00:19:22,326 --> 00:19:24,094
+e não podemos acessar sem
+
+380
+00:19:24,097 --> 00:19:26,195
+as autorizações de segurança que você garantiu.
+
+381
+00:19:26,198 --> 00:19:29,253
+Precisa esquecer isso até localizarmos Acosta.
+
+382
+00:19:29,256 --> 00:19:31,253
+Ei, pessoal, temos um problema.
+
+383
+00:19:31,256 --> 00:19:34,195
+Estou monitorando o rádio. FBI e policiais locais
+
+384
+00:19:34,198 --> 00:19:35,113
+estão seguindo vocês.
+
+385
+00:19:35,115 --> 00:19:36,551
+- Matty, nós precisamos ir.
+- O dono da minivan
+
+386
+00:19:36,553 --> 00:19:39,017
+deve ter acionado o alarme do carro
+
+387
+00:19:39,019 --> 00:19:41,352
+com um dispositivo LoJack.
+
+388
+00:19:41,354 --> 00:19:42,461
+Desligue-o.
+
+389
+00:19:44,983 --> 00:19:47,000
+Antes vamos enganar os federais
+
+390
+00:19:47,003 --> 00:19:48,898
+com um pouco de desorientação.
+
+391
+00:19:48,901 --> 00:19:50,355
+Riley, você poderia
+
+392
+00:19:50,358 --> 00:19:52,262
+copiar os dados
+
+393
+00:19:52,265 --> 00:19:54,066
+- enviados pela van?
+- Entendido.
+
+394
+00:19:59,856 --> 00:20:01,323
+Acelerando.
+
+395
+00:20:09,282 --> 00:20:11,339
+Estacione. Encoste o carro.
+
+396
+00:20:14,725 --> 00:20:16,401
+Estacionem o carro.
+
+397
+00:20:19,025 --> 00:20:22,909
+Dispositivo anti-roubo é basicamente um rádio
+
+398
+00:20:22,912 --> 00:20:24,529
+hardwired em um carro
+
+399
+00:20:24,531 --> 00:20:27,039
+que está enviando um código específico
+
+400
+00:20:27,042 --> 00:20:28,834
+para uma frequência específica.
+
+401
+00:20:39,478 --> 00:20:41,411
+Isso é
+
+402
+00:20:41,414 --> 00:20:42,547
+um emulador.
+
+403
+00:20:42,549 --> 00:20:44,048
+E uma vez que eu ligá-lo,
+
+404
+00:20:44,050 --> 00:20:46,401
+Eu vou ser capaz de emitir o mesmo código.
+
+405
+00:20:46,404 --> 00:20:48,636
+Colocamos em outro carro e pronto.
+
+406
+00:20:48,638 --> 00:20:49,805
+Isso é brilhante.
+
+407
+00:20:55,428 --> 00:20:57,261
+Primeiro, precisamos sair daqui.
+
+408
+00:21:25,258 --> 00:21:28,092
+- Dirigiu bem, Desi.
+- Estamos livres
+
+409
+00:21:28,094 --> 00:21:30,495
+por 15 segundos mas precisamos sair daqui.
+
+410
+00:21:30,498 --> 00:21:32,248
+Hora de jogar o emulador em outro carro.
+
+411
+00:21:32,249 --> 00:21:33,691
+Minha vez!
+
+412
+00:21:43,843 --> 00:21:44,843
+Sim!
+
+413
+00:21:46,816 --> 00:21:49,312
+Ainda sou bom nisso.
+
+414
+00:22:09,199 --> 00:22:10,532
+Matty, estamos limpo.
+
+415
+00:22:10,535 --> 00:22:12,435
+O que fazemos além de conseguir outro carro?
+
+416
+00:22:12,438 --> 00:22:14,808
+Vendo se meus contatos tem identidades
+
+417
+00:22:14,811 --> 00:22:17,222
+para quem o General irá entregar o chip.
+
+418
+00:22:17,225 --> 00:22:19,509
+Acho que uma caixa de charutos está longe
+
+419
+00:22:19,512 --> 00:22:20,812
+pelo qual estão oferecendo.
+
+420
+00:22:20,814 --> 00:22:23,047
+- Tem algo faltando.
+- O que?
+
+421
+00:22:23,049 --> 00:22:24,515
+O chip. Temos uma lacuna aí.
+
+422
+00:22:24,517 --> 00:22:27,144
+Ele foi isolado de qualquer outro computador.
+
+423
+00:22:27,147 --> 00:22:28,359
+Por que isso é importante?
+
+424
+00:22:28,362 --> 00:22:29,996
+Porque talvez não seja apenas o chip em si,
+
+425
+00:22:29,998 --> 00:22:31,379
+mas o que está nele que é valioso.
+
+426
+00:22:31,382 --> 00:22:34,357
+- Um chip com essa rapidez e capacidade...
+
+427
+00:22:34,360 --> 00:22:35,898
+Com um vírus Stuxnet do tipo
+
+428
+00:22:35,901 --> 00:22:36,965
+pode derrubar qualquer aeronave
+
+429
+00:22:36,967 --> 00:22:40,702
+de nossa nação de um reator nuclear.
+
+430
+00:22:40,705 --> 00:22:42,503
+E seremos culpados disso.
+
+431
+00:22:42,506 --> 00:22:44,506
+Bozer é hora de você entrar em contato
+
+432
+00:22:44,511 --> 00:22:46,070
+- com a moça de ontem.
+- Hannah?
+
+433
+00:22:46,072 --> 00:22:47,472
+Por quê?
+
+434
+00:22:47,475 --> 00:22:49,254
+não sabemos nada sobre o chip quântico
+
+435
+00:22:49,256 --> 00:22:51,448
+e qualquer informação pode ajudar.
+
+436
+00:22:51,451 --> 00:22:53,578
+Rodei um script a procura do general
+
+437
+00:22:53,580 --> 00:22:56,414
+e o nome dele aparece numa lista de vôo.
+
+438
+00:22:56,416 --> 00:22:59,550
+Alguma maneira de chegarmos a tempo?
+
+439
+00:22:59,553 --> 00:23:01,854
+Acho que consigo.
+
+440
+00:23:20,706 --> 00:23:22,469
+É bom ver você, meu velho amigo.
+
+441
+00:23:22,472 --> 00:23:24,275
+Taylor? Como você me achou?
+
+442
+00:23:24,277 --> 00:23:26,034
+Por que você não quer ser encontrado?
+
+443
+00:23:26,037 --> 00:23:27,766
+Já passamos por muito para você
+
+444
+00:23:27,769 --> 00:23:29,146
+puxar nosso tapete, John.
+
+445
+00:23:29,148 --> 00:23:30,515
+O que realmente está acontecendo aqui?
+
+446
+00:23:30,517 --> 00:23:31,683
+Eu sinto muito.
+
+447
+00:23:32,934 --> 00:23:35,683
+Estão com a minha filha e meu neto.
+
+448
+00:23:38,924 --> 00:23:40,987
+Quem são eles?
+
+449
+00:23:40,990 --> 00:23:42,159
+Eu não sei.
+
+450
+00:23:42,161 --> 00:23:44,641
+Mas eles sabiam tudo sobre mim.
+
+451
+00:23:44,644 --> 00:23:47,078
+Sabiam cada movimento meu
+
+452
+00:23:47,081 --> 00:23:48,354
+me tinha nas mãos
+
+453
+00:23:48,357 --> 00:23:50,668
+- no minuto que isso começou.
+- Deixe-nos ajudá-lo.
+
+454
+00:23:50,670 --> 00:23:53,142
+- Vamos recuperar sua família.
+- Tarde demais para isso, MacGyver.
+
+455
+00:23:53,144 --> 00:23:55,506
+Por favor não entregar o chip.
+
+456
+00:23:55,508 --> 00:23:58,976
+Isso não é o que eles estão pedindo de mim.
+
+457
+00:23:58,978 --> 00:24:01,718
+Só espero que, quando isso tudo acabar,
+
+458
+00:24:01,721 --> 00:24:05,217
+você e todo país
+
+459
+00:24:06,686 --> 00:24:08,787
+- possam me perdoar.
+
+460
+00:24:12,025 --> 00:24:13,890
+Vamos aterrissar no horário certo.
+
+461
+00:24:13,893 --> 00:24:15,518
+Qualquer outra coisa que você precisa, senhor?
+
+462
+00:24:15,521 --> 00:24:17,856
+Está tudo perfeito. Obrigado, Major.
+
+463
+00:24:56,424 --> 00:24:58,769
+Sabemos o general não vai vender o chip,
+
+464
+00:24:58,771 --> 00:25:00,271
+a pergunta que temos de responder agora é:
+
+465
+00:25:00,273 --> 00:25:01,706
+como ele poderia usá-lo?
+
+466
+00:25:01,708 --> 00:25:03,407
+Bem, veja só:
+
+467
+00:25:03,409 --> 00:25:05,176
+o avião que Acosta está
+
+468
+00:25:05,178 --> 00:25:07,545
+a caminho da NORAD, a agência nuclear.
+
+469
+00:25:07,547 --> 00:25:09,745
+De nível máximo máximo,
+
+470
+00:25:09,748 --> 00:25:12,081
+"Morreremos em um inverno nuclear" NORAD?
+
+471
+00:25:15,987 --> 00:25:19,323
+- Se encaixa no padrão.
+- Que padrão?
+
+472
+00:25:19,325 --> 00:25:22,426
+Primeiro alguém em L.A com uma arma biológica,
+
+473
+00:25:22,428 --> 00:25:24,962
+agora o sistema de defesa antimísseis do país.
+
+474
+00:25:24,964 --> 00:25:26,831
+Espere.
+
+475
+00:25:26,833 --> 00:25:28,229
+Está dizendo que isso é parte
+
+476
+00:25:28,232 --> 00:25:30,501
+- de sua teoria da conspiração global?
+- Pense nisso.
+
+477
+00:25:30,503 --> 00:25:32,169
+Martin Bishop, ex-DXS,
+
+478
+00:25:32,171 --> 00:25:33,804
+que começou o caos,
+
+479
+00:25:33,806 --> 00:25:35,473
+nos disse que sua organização
+
+480
+00:25:35,475 --> 00:25:38,299
+quer derrubar os pilares da sociedade.
+
+481
+00:25:38,302 --> 00:25:40,710
+Bem, derrubando NORAD seria a faísca
+
+482
+00:25:40,713 --> 00:25:42,147
+para começar esse tipo de caos.
+
+483
+00:25:44,498 --> 00:25:45,998
+Matty, precisamos avisá-los.
+
+484
+00:25:46,001 --> 00:25:48,385
+Sem nenhuma prova meu aviso
+
+485
+00:25:48,388 --> 00:25:50,425
+- vai para o lixo.
+- E não vamos esquecer,
+
+486
+00:25:50,427 --> 00:25:51,549
+quem está por trás disso
+
+487
+00:25:51,552 --> 00:25:53,224
+tem a filha e o neto do general.
+
+488
+00:25:53,226 --> 00:25:54,558
+Então, se alertarmos a base,
+
+489
+00:25:54,560 --> 00:25:56,260
+estamos matando eles.
+
+490
+00:25:56,263 --> 00:25:57,786
+Pessoal estamos sem opções,
+
+491
+00:25:57,788 --> 00:25:59,729
+e correndo contra o tempo. Dois de vocês,
+
+492
+00:25:59,732 --> 00:26:02,635
+vai com o jato da Phoenis parar Acosta
+
+493
+00:26:02,638 --> 00:26:03,895
+e os outros encontre sua família.
+
+494
+00:26:03,896 --> 00:26:06,104
+Com toda policia nos procurando?
+
+495
+00:26:12,823 --> 00:26:14,255
+A Filha do General
+
+496
+00:26:14,257 --> 00:26:16,026
+e neto vivem em um condomínio em Laguna.
+
+497
+00:26:16,029 --> 00:26:17,993
+Vamos lá e esperar que deixaram
+
+498
+00:26:17,995 --> 00:26:19,565
+um rastro que possamos seguir.
+
+499
+00:26:22,832 --> 00:26:25,026
+Onde você conseguiu essa foto?
+
+500
+00:26:25,029 --> 00:26:26,800
+Invadi o laptop do general
+
+501
+00:26:26,803 --> 00:26:27,969
+enquanto Taylor falava com ele,
+
+502
+00:26:27,971 --> 00:26:29,336
+Deveria ter clonado o HD.
+
+503
+00:26:29,339 --> 00:26:30,772
+Riley, é uma foto de prova de vida.
+
+504
+00:26:30,774 --> 00:26:32,107
+Para se certificar que ele
+
+505
+00:26:32,109 --> 00:26:34,029
+conecte o chip quântico na rede NORAD.
+
+506
+00:26:35,471 --> 00:26:37,612
+O telefone usado para enviar a foto
+
+507
+00:26:37,614 --> 00:26:38,948
+tem um GPS.
+
+508
+00:26:40,166 --> 00:26:41,517
+Consegui um endereço.
+
+509
+00:26:42,330 --> 00:26:43,953
+Espere um segundo.
+
+510
+00:26:47,807 --> 00:26:50,191
+Posso ver o reflexo do sequestrador.
+
+511
+00:26:50,193 --> 00:26:52,193
+Ele não está usando uma máscara.
+
+512
+00:26:52,195 --> 00:26:54,929
+Mesmo que Acosta cumpra o combinado
+
+513
+00:26:54,932 --> 00:26:57,333
+eles não serão deixados vivos quando acabar.
+
+514
+00:27:06,376 --> 00:27:09,644
+Menos dois minutos para o bloqueio.
+
+515
+00:27:10,680 --> 00:27:12,915
+Menos dois minutos para o bloqueio.
+
+516
+00:27:21,058 --> 00:27:22,671
+Parece que estamos com sorte
+
+517
+00:27:22,674 --> 00:27:25,085
+A rota da base aérea do Acosta nos fez chegar antes.
+
+518
+00:27:25,088 --> 00:27:26,671
+Eles parecem abelhas operarárias, não parece?
+
+519
+00:27:26,674 --> 00:27:28,596
+Alguma idéia do que eles estão planejando?
+
+520
+00:27:28,599 --> 00:27:31,833
+Simulando um ataque nuclear
+quando começar Cheyenne Mountain
+
+521
+00:27:31,835 --> 00:27:33,168
+entra em isolamento, é nossa chance
+
+522
+00:27:33,170 --> 00:27:34,403
+de parar o general desaparecido.
+
+523
+00:27:34,405 --> 00:27:36,016
+Precisamos entrar em centro de comando
+
+524
+00:27:36,018 --> 00:27:38,424
+antes de ser selado.
+Estes crachá deve funcionar.
+
+525
+00:27:39,596 --> 00:27:41,788
+Boze não é uma boa hora.
+
+526
+00:27:41,791 --> 00:27:43,445
+Você vai querer ouvir isso.
+Não é um vírus
+
+527
+00:27:43,447 --> 00:27:44,879
+no chip quântico.
+
+528
+00:27:44,881 --> 00:27:46,781
+- Então, o que é?
+- Hannah disse
+
+529
+00:27:46,783 --> 00:27:48,017
+é um rootkit.
+
+530
+00:27:49,306 --> 00:27:51,373
+Essa não é uma cara boa.
+
+531
+00:27:51,376 --> 00:27:53,710
+- Tem um rootkit no chip quântico.
+- E?
+
+532
+00:27:53,713 --> 00:27:55,523
+É um software que dá ao usuário
+
+533
+00:27:55,525 --> 00:27:58,359
+controle completo sem ser
+detectado de qualquer rede.
+
+534
+00:27:58,361 --> 00:28:00,628
+As pessoas controlando o general
+
+535
+00:28:00,630 --> 00:28:02,940
+não querem sabotar NORAD, querem controlá-la.
+
+536
+00:28:02,943 --> 00:28:04,265
+Sim. Uma vez que o chip for conectado,
+
+537
+00:28:04,266 --> 00:28:06,399
+todo o sistema de defesa
+de mísseis dos Estados Unidos
+
+538
+00:28:06,401 --> 00:28:09,204
+- estará em suas mãos.
+- Atenção todos os funcionários.
+
+539
+00:28:09,206 --> 00:28:12,240
+Isolamento em um minuto.
+
+540
+00:28:13,521 --> 00:28:15,651
+Odeio nos chamar a atenção
+
+541
+00:28:15,654 --> 00:28:17,987
+mas precisamos nos mexer.
+
+542
+00:28:17,990 --> 00:28:21,283
+Prepare-se para bloqueio.
+
+543
+00:28:34,843 --> 00:28:36,932
+Serviço de quarto!
+
+544
+00:29:35,366 --> 00:29:38,468
+De joelhos!
+
+545
+00:29:43,066 --> 00:29:45,834
+O que estava morto...
+
+546
+00:29:47,237 --> 00:29:49,872
+...volta a vida.
+
+547
+00:30:07,013 --> 00:30:09,097
+Riley já libertou a família do general.
+
+548
+00:30:09,100 --> 00:30:10,362
+Bom trabalho.
+
+549
+00:30:20,096 --> 00:30:21,903
+Sem comemorar, rapazes.
+
+550
+00:30:21,906 --> 00:30:24,109
+Temos autorização do centro de comando.
+
+551
+00:30:24,112 --> 00:30:25,673
+Não durante o bloqueio.
+
+552
+00:30:25,675 --> 00:30:27,742
+Ficaremos a paisana com os outros.
+
+553
+00:30:27,744 --> 00:30:29,010
+você não receberam o e-mail?
+
+554
+00:30:30,020 --> 00:30:33,559
+- Deve ter ido para spam.
+- Mistério resolvido.
+
+555
+00:30:33,562 --> 00:30:35,862
+- Nós precisamos passar.
+- Não, você tem que
+
+556
+00:30:35,865 --> 00:30:37,619
+sair do caminho.
+
+557
+00:30:37,621 --> 00:30:40,855
+Começando o isolamento. Todo o pessoal,
+
+558
+00:30:40,857 --> 00:30:43,692
+nas suas estações imediatamente.
+
+559
+00:30:46,796 --> 00:30:49,063
+Diga o general a segurança de sua família,
+
+560
+00:30:49,065 --> 00:30:50,832
+mas as comunicações foram cortadas.
+
+561
+00:30:50,834 --> 00:30:53,301
+Como passar por aquela porta?
+
+562
+00:30:53,303 --> 00:30:55,303
+Bem, se uma bomba nuclear não pode derrubá-los,
+
+563
+00:30:55,305 --> 00:30:57,406
+Eu não sei como nós vamos.
+
+564
+00:30:59,787 --> 00:31:02,775
+O centro de comando é completamente isolado
+
+565
+00:31:02,778 --> 00:31:04,878
+para a duração durante as simulações.
+
+566
+00:31:04,880 --> 00:31:06,279
+Sem exceções?
+
+567
+00:31:06,281 --> 00:31:08,415
+Não seria exatamente uma simulação nuclear
+
+568
+00:31:08,417 --> 00:31:10,857
+se as linhas telefônicas funcionassem, certo?
+
+569
+00:31:10,860 --> 00:31:12,614
+Mac, qual é o seu próximo passo?
+
+570
+00:31:12,617 --> 00:31:14,778
+Eu digo quando pensar em um.
+
+571
+00:31:14,781 --> 00:31:15,947
+Alguma chance de você abrir
+
+572
+00:31:15,950 --> 00:31:17,577
+caminho através de uma montanha de granito?
+
+573
+00:31:17,579 --> 00:31:19,233
+Nenhuma maneira
+
+574
+00:31:19,235 --> 00:31:20,769
+na quantidade de tempo que eu tenho.
+
+575
+00:31:22,804 --> 00:31:24,604
+Mas, talvez eu não precise.
+
+576
+00:31:24,607 --> 00:31:25,854
+Não estou entendendo.
+
+577
+00:31:25,857 --> 00:31:27,740
+Quando a Phoenix era DXS,
+
+578
+00:31:27,743 --> 00:31:30,269
+seus engenheiros trabalharam no projeto
+
+579
+00:31:30,272 --> 00:31:32,639
+da estação NORAD.
+
+580
+00:31:32,641 --> 00:31:35,408
+O que significa que temos as plantas originais.
+
+581
+00:31:35,410 --> 00:31:36,910
+Estou trabalhando nisso.
+
+582
+00:31:38,947 --> 00:31:42,516
+Parece que houve um desmoronamento durante
+
+583
+00:31:42,518 --> 00:31:43,984
+a fase de construção do centro de comando.
+
+584
+00:31:43,986 --> 00:31:45,218
+Como é que isso ajuda?
+
+585
+00:31:45,220 --> 00:31:47,154
+Cavaram um túnel de resgate
+
+586
+00:31:47,156 --> 00:31:48,522
+para evacuar os trabalhadores presos.
+
+587
+00:31:48,524 --> 00:31:49,856
+Mas nunca o fecharam.
+
+588
+00:31:49,858 --> 00:31:51,925
+Só foi selado em ambas as extremidades.
+
+589
+00:31:51,927 --> 00:31:53,177
+Se eu conseguir acessá-lo
+
+590
+00:31:53,180 --> 00:31:54,995
+posso ser capaz de chegar ao poço de ventilação
+
+591
+00:31:54,997 --> 00:31:56,096
+e entrar.
+
+592
+00:31:56,098 --> 00:31:58,598
+Parece que sou parte da engrenagem.
+
+593
+00:31:58,600 --> 00:32:00,401
+Como posso ajudar?
+
+594
+00:32:03,638 --> 00:32:05,805
+Eu posso construir algo para perfurar e respirar
+
+595
+00:32:05,808 --> 00:32:06,940
+através do túnel.
+
+596
+00:32:06,942 --> 00:32:08,341
+No entanto, eu preciso de tempo
+
+597
+00:32:08,343 --> 00:32:10,644
+com a segurança.
+
+598
+00:32:10,646 --> 00:32:12,652
+Você me deu a parte fácil.
+
+599
+00:32:12,655 --> 00:32:14,455
+O que? Taylor...
+
+600
+00:32:14,458 --> 00:32:17,317
+Talvez se eu tivesse escutado
+
+601
+00:32:17,319 --> 00:32:19,786
+a Matty no início,
+
+602
+00:32:19,788 --> 00:32:22,322
+Eu teria percebido queAcosta
+não era confiável.
+
+603
+00:32:22,324 --> 00:32:23,890
+Talvez.
+
+604
+00:32:23,893 --> 00:32:27,053
+E não estaríamos em NORAD, tentando evitar
+
+605
+00:32:27,056 --> 00:32:28,888
+o colapso do sistema de defesa antimísseis.
+
+606
+00:32:28,891 --> 00:32:30,252
+Você não pode se culpar.
+
+607
+00:32:30,255 --> 00:32:32,971
+Como chefe, eu posso.
+
+608
+00:32:32,974 --> 00:32:35,208
+Boa sorte.
+
+609
+00:32:35,211 --> 00:32:37,803
+Qual é o seu plano?
+
+610
+00:32:37,806 --> 00:32:40,608
+É conhecido como Leeroy Jenkins.
+
+611
+00:32:42,021 --> 00:32:43,682
+Leeroy
+
+612
+00:32:43,685 --> 00:32:46,813
+Jenkins!
+
+613
+00:33:24,253 --> 00:33:26,519
+PACOM e CENTCOM não estão respondendo.
+
+614
+00:33:26,521 --> 00:33:29,022
+Major Frost, vai nos levar até DefCon 1?
+
+615
+00:33:29,024 --> 00:33:31,826
+DefCon 1. Onde os mísseis são armazenados.
+
+616
+00:33:31,829 --> 00:33:33,058
+- Silo 1, vá.
+- Silo 2, vá.
+
+617
+00:33:33,061 --> 00:33:34,628
+- Silo 3, vá.
+- Silo 4, vá.
+
+618
+00:33:34,631 --> 00:33:35,592
+Acionando a energia reserva.
+
+619
+00:33:35,595 --> 00:33:36,897
+DefCon 1 habilitado.
+
+620
+00:33:36,899 --> 00:33:38,198
+Homens em posições,
+
+621
+00:33:40,936 --> 00:33:42,802
+energia de reserva ativada.
+
+622
+00:33:44,469 --> 00:33:45,926
+Estamos prontos.
+
+623
+00:33:52,981 --> 00:33:54,619
+violação centro de comando!
+
+624
+00:33:54,622 --> 00:33:57,919
+- General Acosta, espera.
+- Não se mova, MacGyver.
+
+625
+00:33:57,922 --> 00:33:59,088
+Sua família etá segura.
+
+626
+00:34:00,211 --> 00:34:01,711
+Não conecte o chip.
+
+627
+00:34:06,595 --> 00:34:09,240
+Apenas desfaça o bloqueio.
+
+628
+00:34:09,243 --> 00:34:11,331
+Faça uma ligação.
+Estão seguros, eu prometo.
+
+629
+00:34:11,333 --> 00:34:14,201
+- Não posso arriscar.
+- Quais são as suas ordens, senhor?
+
+630
+00:34:18,190 --> 00:34:20,024
+Você sabe o que está em jogo.
+
+631
+00:34:20,027 --> 00:34:21,827
+Eu também.
+
+632
+00:34:24,087 --> 00:34:25,857
+Por que eu mentiria para você?
+
+633
+00:34:33,435 --> 00:34:35,656
+Eu oro para que você está me dizendo a verdade.
+
+634
+00:35:12,894 --> 00:35:15,195
+Por que você fez isso?
+
+635
+00:35:18,800 --> 00:35:20,232
+Para quem você trabalha?
+
+636
+00:35:22,344 --> 00:35:24,591
+Eu trabalho para todos.
+
+637
+00:35:27,619 --> 00:35:29,553
+Foi o que Martin Bishop disse.
+
+638
+00:35:29,556 --> 00:35:31,060
+O que isso significa?
+
+639
+00:36:07,582 --> 00:36:09,549
+Acosta vai ficar bem.
+
+640
+00:36:09,551 --> 00:36:11,490
+Mas irá se recuperar de seus ferimentos
+
+641
+00:36:11,493 --> 00:36:13,478
+na prisão de Leavenworth.
+
+642
+00:36:13,481 --> 00:36:16,722
+Parece ser um triste fim a uma longa carreira.
+
+643
+00:36:16,725 --> 00:36:18,706
+Ele é muito grato a você, porém,
+
+644
+00:36:18,709 --> 00:36:21,561
+por impedi-lo de comprometer NORAD.
+
+645
+00:36:21,563 --> 00:36:23,897
+E a vocês, Desi e Riley
+
+646
+00:36:23,899 --> 00:36:26,771
+por resgatar sua família.
+
+647
+00:36:26,774 --> 00:36:28,682
+Seu testemunho e confissão
+
+648
+00:36:28,685 --> 00:36:30,070
+limpou todos os seus nomes.
+
+649
+00:36:30,073 --> 00:36:31,702
+E graças aos seus trabalhos nesta op,
+
+650
+00:36:31,705 --> 00:36:34,206
+Uma vez que terminarem de fazer
+
+651
+00:36:34,209 --> 00:36:35,998
+uma nova verificação de antecedentes,
+
+652
+00:36:36,001 --> 00:36:38,703
+terão as autorizações de segurança de volta.
+
+653
+00:36:40,282 --> 00:36:42,256
+Fico feliz por ser legalizado de novo.
+
+654
+00:36:42,259 --> 00:36:44,025
+Isso é ótimo, Boze,
+
+655
+00:36:44,028 --> 00:36:46,185
+mas ainda há perguntas sem resposta.
+
+656
+00:36:46,188 --> 00:36:47,987
+Como identificamos o sequestrador?
+
+657
+00:36:47,989 --> 00:36:49,754
+E o que sabemos sobre a organização sombria
+
+658
+00:36:49,756 --> 00:36:50,790
+por trás de tudo isso?
+
+659
+00:36:50,793 --> 00:36:52,604
+- E o que aconteceu com...?
+- Vá para casa.
+
+660
+00:36:52,607 --> 00:36:54,506
+Descansem.
+
+661
+00:36:54,509 --> 00:36:56,362
+Encontrar as respostas a essas perguntas
+
+662
+00:36:56,364 --> 00:36:59,400
+é o meu fardo para carregar.
+
+663
+00:37:01,303 --> 00:37:02,335
+Continue.
+
+664
+00:37:02,337 --> 00:37:04,205
+Caiam fora. Vão.
+
+665
+00:37:16,487 --> 00:37:18,254
+Colocar a cabeça no lugar?
+
+666
+00:37:18,257 --> 00:37:19,802
+Vou encontrar Hannah.
+
+667
+00:37:19,805 --> 00:37:21,552
+Olhe para você.
+
+668
+00:37:21,555 --> 00:37:24,690
+Eu preciso explicar o motivo do fim.
+
+669
+00:37:24,693 --> 00:37:26,892
+Eu disse a ela o que pude, mas vocês sabem
+
+670
+00:37:26,895 --> 00:37:29,061
+mantemos muitos segredos trabalhando aqui.
+
+671
+00:37:29,063 --> 00:37:31,216
+E eles acabam nos pegando
+
+672
+00:37:31,219 --> 00:37:32,632
+cedo ou tarde.
+
+673
+00:37:32,634 --> 00:37:34,263
+Estou fora.
+
+674
+00:37:34,266 --> 00:37:35,615
+Tudo bem, cara.
+
+675
+00:37:35,618 --> 00:37:37,003
+Eu acho que é só nós.
+
+676
+00:37:37,005 --> 00:37:38,872
+Tenho que checar algo.
+
+677
+00:37:38,874 --> 00:37:40,373
+Matty tem algumas coisas
+
+678
+00:37:40,375 --> 00:37:42,276
+para eu terminar aqui.
+
+679
+00:38:14,634 --> 00:38:15,875
+O que houve com as tortas?
+
+680
+00:38:15,877 --> 00:38:17,016
+Eu pensei que íamos sair hoje à noite.
+
+681
+00:38:17,018 --> 00:38:18,466
+Nós não podemos.
+
+682
+00:38:19,481 --> 00:38:22,348
+Há uma senhora na sala de estar.
+
+683
+00:38:22,350 --> 00:38:24,351
+Eu sinto muito, há o quê?
+
+684
+00:38:27,189 --> 00:38:29,255
+É minha chefe.
+
+685
+00:38:29,257 --> 00:38:32,388
+Devia avisar se nós estamos tendo convidados.
+
+686
+00:38:33,562 --> 00:38:35,943
+Apenas uma gota no oceano
+
+687
+00:38:35,946 --> 00:38:38,430
+mas eu estava no bairro e pensei que talvez
+
+688
+00:38:38,433 --> 00:38:40,800
+você gostaria de discutir essa coisa
+
+689
+00:38:40,802 --> 00:38:42,435
+você tem algo para me dizer.
+
+690
+00:38:42,437 --> 00:38:43,776
+Tenho.
+
+691
+00:38:43,779 --> 00:38:46,206
+Amor, pode trazer algumas
+ bebidas para nós?
+
+692
+00:38:46,208 --> 00:38:47,732
+Claro.
+
+693
+00:38:50,015 --> 00:38:53,506
+Não se preocupe, ele ainda acha que trabalha
+em alguma agência chata.
+
+694
+00:38:53,509 --> 00:38:54,509
+Estou em quantos problemas?
+
+695
+00:38:54,511 --> 00:38:56,224
+Por não divulgar o fato
+
+696
+00:38:56,227 --> 00:38:57,626
+que mora com seu namorado
+
+697
+00:38:57,629 --> 00:38:59,099
+quando você está prestes a ter
+
+698
+00:38:59,101 --> 00:39:00,618
+de volta sua licença de segurança?
+
+699
+00:39:00,622 --> 00:39:03,423
+- Tenho muitos problemas.
+- Verifiquei ele.
+
+700
+00:39:03,425 --> 00:39:06,426
+Aubrey Jones, contador de uma agência corporativa.
+
+701
+00:39:06,428 --> 00:39:09,420
+Sem antecedentes criminais. ficha limpa.
+
+702
+00:39:10,765 --> 00:39:12,966
+Sinto muito, Matty.
+
+703
+00:39:12,968 --> 00:39:16,474
+Verificar a vida de seus funcionários
+
+704
+00:39:16,477 --> 00:39:18,732
+é apenas boa gestão empresarial.
+
+705
+00:39:20,139 --> 00:39:22,274
+Por que nã disse a ninguém?
+
+706
+00:39:22,277 --> 00:39:24,544
+Eu só queria manter ele longe da Phoenix
+
+707
+00:39:24,546 --> 00:39:26,079
+por tanto tempo quanto eu poderia.
+
+708
+00:39:26,081 --> 00:39:28,448
+Quando estou com ele, eu sinto que sou
+
+709
+00:39:28,450 --> 00:39:31,452
+mais do que uma funcionária.
+
+710
+00:39:32,562 --> 00:39:34,528
+Pelo menos é isso que eu continuo dizendo.
+
+711
+00:39:34,531 --> 00:39:36,531
+Isso é o que todos nós dizemos a nós mesmos.
+
+712
+00:39:36,534 --> 00:39:39,069
+O que quer que você faz durante a noite.
+
+713
+00:39:52,474 --> 00:39:54,375
+Você está aqui tarde.
+
+714
+00:39:55,450 --> 00:39:56,682
+Quem quer que vamos enfrentar,
+
+715
+00:39:56,685 --> 00:39:58,307
+eles são certamente formidável.
+
+716
+00:39:58,310 --> 00:40:01,014
+E nós não somos mais sensato para a sua agenda
+
+717
+00:40:01,016 --> 00:40:02,783
+do que fomos ontem.
+
+718
+00:40:06,187 --> 00:40:08,138
+Ao escolher Phoenix como a Red Cell,
+
+719
+00:40:08,141 --> 00:40:10,422
+esperavam matar dois pássaros com uma pedra.
+
+720
+00:40:10,425 --> 00:40:14,027
+Neutralizar nós e assumir NORAD.
+
+721
+00:40:14,029 --> 00:40:17,430
+Adicionar "inteligente" e "perigoso" para a lista de superlativos.
+
+722
+00:40:17,432 --> 00:40:19,732
+Algum progresso em ligar os pontos?
+
+723
+00:40:19,734 --> 00:40:22,136
+É o que você faz, não é?
+
+724
+00:40:23,971 --> 00:40:26,772
+Nas ligações dos sequestradores e Frost,
+
+725
+00:40:26,775 --> 00:40:29,143
+encontramos estas comunicações criptografadas.
+
+726
+00:40:30,945 --> 00:40:32,846
+É como cada mensagem termina.
+
+727
+00:40:35,070 --> 00:40:36,169
+O que isso significa?
+
+728
+00:40:36,172 --> 00:40:38,034
+É um gatilho visual, os lembra
+
+729
+00:40:38,037 --> 00:40:40,420
+que são parte de algo maior,
+
+730
+00:40:40,422 --> 00:40:42,854
+comprometidos com uma causa,
+
+731
+00:40:42,857 --> 00:40:46,593
+mas quem são permanece um mistério.
+
+732
+00:40:50,716 --> 00:40:54,636
+- Por: Red-Queen
+inst @sara_lance_oficial -
+
