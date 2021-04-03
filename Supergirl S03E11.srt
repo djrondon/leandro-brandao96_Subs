@@ -1,0 +1,2919 @@
+1
+00:00:06,290 --> 00:00:09,126
+<i>Os meu pés são feitos de barro.
+Feitos de barro, sabias?</i>
+
+2
+00:00:09,209 --> 00:00:10,961
+<i>Boa noite, pequeno homem!</i>
+
+3
+00:00:11,044 --> 00:00:13,338
+<i>Como caíram os poderosos!</i>
+
+4
+00:00:13,422 --> 00:00:14,423
+Pode entrar!
+
+5
+00:00:14,506 --> 00:00:15,674
+- Olá!
+- Olá.
+
+6
+00:00:15,757 --> 00:00:17,843
+Olha quem eu encontrei.
+
+7
+00:00:17,926 --> 00:00:19,553
+E trazemos hidratos de carbono.
+
+8
+00:00:19,636 --> 00:00:22,973
+Não era preciso,
+mas ainda bem que vieram.
+
+9
+00:00:23,056 --> 00:00:24,767
+Vou guardar isto.
+
+10
+00:00:25,100 --> 00:00:26,268
+- Olá.
+- Olá.
+
+11
+00:00:27,728 --> 00:00:30,814
+- Quem é o Wine?
+- Aqui diz "Winn".
+
+12
+00:00:30,898 --> 00:00:32,566
+- Queres assinar?
+- Claro que quero.
+
+13
+00:00:32,774 --> 00:00:35,027
+- Não acredito!
+- O que se passa?
+
+14
+00:00:35,110 --> 00:00:37,821
+Tenho uma viagem
+e a Sra. Queller cancelou.
+
+15
+00:00:37,905 --> 00:00:39,114
+- É a tua ama?
+- Sim.
+
+16
+00:00:39,198 --> 00:00:41,658
+Desculpem, continuem vocês.
+Vou tentar resolver isto.
+
+17
+00:00:41,742 --> 00:00:46,663
+Bem... Eu não estou ocupada.
+Tomo conta da Ruby com todo o gosto.
+
+18
+00:00:46,747 --> 00:00:49,124
+Não te posso pedir isso.
+Olha para a tua perna.
+
+19
+00:00:49,208 --> 00:00:50,792
+Vá lá, mãe.
+Deixa-me ficar com a Alex.
+
+20
+00:00:50,876 --> 00:00:52,836
+Na festa de Natal,
+ela prometeu ensinar-me
+
+21
+00:00:52,920 --> 00:00:54,938
+a dar um murro sem partir o polegar.
+
+22
+00:00:55,005 --> 00:00:57,216
+Fui descoberta. Não sou uma boa ama.
+
+23
+00:00:57,299 --> 00:01:00,344
+Devias acreditar nela,
+uma vez obrigou-me a ver <i>The Shining</i>
+
+24
+00:01:00,427 --> 00:01:02,221
+e tive pesadelos durante semanas.
+
+25
+00:01:03,013 --> 00:01:04,681
+- Está bem, tinha 15 anos...
+- E depois?
+
+26
+00:01:04,765 --> 00:01:07,384
+Tu é que quiseste ver!
+
+27
+00:01:08,810 --> 00:01:11,980
+- De certeza que não te importas?
+- Sim, de certeza.
+
+28
+00:01:12,064 --> 00:01:14,691
+Estou a enlouquecer um pouco.
+Portanto, sim.
+
+29
+00:01:14,775 --> 00:01:17,528
+E se ela se portar mal,
+eu chamo reforços.
+
+30
+00:01:17,611 --> 00:01:20,239
+Salvaste-me a vida. Obrigada.
+
+31
+00:01:20,572 --> 00:01:23,700
+Estão a chamar-me do trabalho.
+Tenho de ir embora.
+
+32
+00:01:23,784 --> 00:01:26,386
+- Divirtam-se.
+- Obrigada.
+
+33
+00:01:26,703 --> 00:01:29,022
+É claro que vamos ver <i>The Shining.</i>
+
+34
+00:01:33,043 --> 00:01:34,670
+Há notícias sobre a Reign?
+
+35
+00:01:34,753 --> 00:01:38,090
+O Coville disse que conheceu
+uma sacerdotisa que fugiu de Fort Rozz.
+
+36
+00:01:38,173 --> 00:01:39,633
+Ela contou-lhe tudo sobre a Reign.
+
+37
+00:01:39,716 --> 00:01:41,526
+Vasculhámos os manifestos de Fort Rozz
+
+38
+00:01:41,560 --> 00:01:43,887
+e descobrimos que
+tinham duas sacerdotisas.
+
+39
+00:01:43,971 --> 00:01:46,473
+Uma é...
+
+40
+00:01:46,640 --> 00:01:49,351
+Jindah Kol Rozz.
+Fort Rozz tem esse nome por causa dela.
+
+41
+00:01:49,476 --> 00:01:53,480
+Exato, e no manifesto,
+ela tem o mesmo símbolo que a Reign.
+
+42
+00:01:53,564 --> 00:01:55,232
+- Sabemos onde ela está?
+- Acreditamos que no tempo todo
+
+43
+00:01:55,315 --> 00:01:57,734
+que Fort Rozz existiu na Terra,
+ela nunca escapou.
+
+44
+00:01:57,818 --> 00:01:59,236
+Há um pequeno problema.
+
+45
+00:01:59,319 --> 00:02:01,697
+Eu atirei Fort Rozz
+para o espaço, lembram-se?
+
+46
+00:02:01,780 --> 00:02:02,948
+Isso pensávamos nós.
+
+47
+00:02:03,031 --> 00:02:08,328
+Mas encontrámo-lo na órbita
+de uma pequena estrela chamada AZ336XB12.
+
+48
+00:02:08,412 --> 00:02:11,373
+Disseste "AZ336XB12"?
+
+49
+00:02:11,832 --> 00:02:12,916
+Algum problema?
+
+50
+00:02:13,000 --> 00:02:14,126
+É uma estrela azul.
+
+51
+00:02:14,960 --> 00:02:17,170
+Lá não tenho poderes.
+Não há sol amarelo.
+
+52
+00:02:17,254 --> 00:02:19,756
+As estrelas azuis
+emitem radiação ómicron,
+
+53
+00:02:19,840 --> 00:02:23,302
+ou seja, é fatal para qualquer
+forma de vida com cromossoma Y.
+
+54
+00:02:24,303 --> 00:02:26,388
+É fatal para os homens?
+
+55
+00:02:26,471 --> 00:02:27,889
+Parece que tenho de ir sozinha.
+
+56
+00:02:27,973 --> 00:02:29,182
+Nem pensar.
+
+57
+00:02:29,266 --> 00:02:31,184
+Não permitirei que vás sozinha.
+
+58
+00:02:31,268 --> 00:02:32,644
+Não vais sem os teus poderes.
+
+59
+00:02:32,728 --> 00:02:34,146
+Eu também não. Vou contigo.
+
+60
+00:02:34,229 --> 00:02:37,482
+Não posso pedir-te que faças isso.
+
+61
+00:02:37,608 --> 00:02:39,610
+Eu não estou a pedir,
+estou a oferecer-me.
+
+62
+00:02:41,403 --> 00:02:43,614
+Kara, lutámos contra
+alguns fugitivos difíceis na Terra.
+
+63
+00:02:43,697 --> 00:02:46,033
+O que restou naquele forte
+são os piores dos piores.
+
+64
+00:02:46,116 --> 00:02:48,343
+As duas não conseguem
+lidar com isto sozinhas.
+
+65
+00:02:48,702 --> 00:02:51,747
+Talvez tenhas razão.
+
+66
+00:02:51,830 --> 00:02:53,834
+Talvez precisemos de ajuda.
+
+67
+00:03:01,840 --> 00:03:03,425
+Pode aquecer-me isto?
+
+68
+00:03:03,508 --> 00:03:06,011
+A minha torrada está húmida.
+
+69
+00:03:06,094 --> 00:03:07,137
+Já quer pedir?
+
+70
+00:03:07,220 --> 00:03:10,390
+Tenho uma dúvida.
+Têm torradas sem glúten?
+
+71
+00:03:12,809 --> 00:03:14,653
+Chama-se, "vá comer a outro lado".
+
+72
+00:03:14,936 --> 00:03:16,146
+Vou fazer uma pausa.
+
+73
+00:03:16,229 --> 00:03:18,148
+Quando eu voltar
+é melhor pedir alguma coisa
+
+74
+00:03:18,231 --> 00:03:20,775
+que não me dê vontade de o espancar.
+
+75
+00:03:23,987 --> 00:03:26,365
+Andas a beber em serviço, Livewire?
+
+76
+00:03:26,448 --> 00:03:28,466
+Ou deveria chamar-te, "Roseanne"?
+
+77
+00:03:33,513 --> 00:03:34,915
+Como me encontraste?
+
+78
+00:03:35,040 --> 00:03:37,668
+Tenho-te vigiado desde que te deixei ir.
+
+79
+00:03:37,751 --> 00:03:38,960
+Pois, bem...
+
+80
+00:03:39,044 --> 00:03:41,755
+Como podes ver,
+ganho a vida honestamente.
+
+81
+00:03:41,838 --> 00:03:45,692
+Se vieste à procura de lutar,
+volta depois do pequeno-almoço.
+
+82
+00:03:45,926 --> 00:03:48,128
+Não vim para lutar, eu...
+
+83
+00:03:50,722 --> 00:03:52,599
+Estou aqui porque preciso da tua ajuda.
+
+84
+00:03:52,683 --> 00:03:54,568
+Da minha ajuda?
+
+85
+00:03:54,851 --> 00:03:58,189
+- Eu odeio-te!
+- Eu sei porque trabalhas aqui.
+
+86
+00:03:59,272 --> 00:04:00,915
+Por causa da Reign.
+
+87
+00:04:02,526 --> 00:04:06,530
+Como ela anda a matar criminosos,
+tu deixaste essa vida.
+
+88
+00:04:06,863 --> 00:04:09,074
+- Bem pensado.
+- Alguns desses criminosos
+
+89
+00:04:09,157 --> 00:04:11,176
+eram pessoas que eu conhecia.
+
+90
+00:04:11,410 --> 00:04:12,577
+Eram meus amigos.
+
+91
+00:04:12,661 --> 00:04:15,288
+- E não mereciam morrer.
+- Não mereciam.
+
+92
+00:04:15,372 --> 00:04:17,766
+Então, ajuda-me a apanhar a Reign.
+
+93
+00:04:18,041 --> 00:04:22,504
+Eu vi-te, no Natal, a ser arrasada
+por aquele projeto falhado de lutadora.
+
+94
+00:04:22,587 --> 00:04:23,797
+Apareceu nas notícias todas.
+
+95
+00:04:23,880 --> 00:04:27,300
+Achas que quero levar uma tareia
+só porque tu pediste?
+
+96
+00:04:27,384 --> 00:04:29,428
+Querida, não leste bem
+as minhas avaliações psicológicas.
+
+97
+00:04:29,511 --> 00:04:31,263
+Não te peço que lutes com ela.
+
+98
+00:04:31,346 --> 00:04:34,182
+Peço-te que me ajudes a conseguir
+informações sobre ela.
+
+99
+00:04:34,975 --> 00:04:39,521
+Para isso precisamos de ir a um lugar
+onde eu não terei os meus poderes.
+
+100
+00:04:42,733 --> 00:04:45,193
+Preciso de alguém que eu conheça...
+
+101
+00:04:46,653 --> 00:04:48,163
+Para me proteger.
+
+102
+00:04:57,706 --> 00:05:00,759
+- Já terminaste?
+- Céus!
+
+103
+00:05:01,042 --> 00:05:03,295
+Ela vai acabar por vir atrás de ti,
+
+104
+00:05:03,378 --> 00:05:05,321
+vais ajudar-me ou não?
+
+105
+00:05:11,970 --> 00:05:14,973
+Aqui é onde a magia acontece, meu amigo.
+
+106
+00:05:15,056 --> 00:05:17,809
+Daqui, podemos monitorizar e comunicar
+com o Legion Cruiser,
+
+107
+00:05:17,893 --> 00:05:20,646
+a qualquer altura da missão.
+
+108
+00:05:21,730 --> 00:05:23,190
+É incrível.
+
+109
+00:05:23,273 --> 00:05:26,651
+Confiam em tudo isto
+para manter as pessoas seguras?
+
+110
+00:05:26,735 --> 00:05:30,572
+Esta é a tecnologia de apoio da Supergirl
+
+111
+00:05:30,655 --> 00:05:32,491
+quando vai em missão?
+
+112
+00:05:32,574 --> 00:05:34,910
+É...
+
+113
+00:05:34,993 --> 00:05:35,994
+Sim.
+
+114
+00:05:36,077 --> 00:05:39,097
+É muito mais corajosa do que eu pensava.
+
+115
+00:05:39,331 --> 00:05:43,668
+Conheço máquinas de café
+com mais capacidade de processamento.
+
+116
+00:05:45,045 --> 00:05:49,382
+Para tua informação,
+nem todos concordam com a tua vinda.
+
+117
+00:05:49,466 --> 00:05:50,968
+Que se lixem.
+
+118
+00:05:52,135 --> 00:05:55,222
+Cosplay! Lembro-me de ti.
+
+119
+00:05:55,305 --> 00:05:57,724
+- Tentaste salvar-me a vida.
+- Sim, e fui bem-sucedido.
+
+120
+00:05:58,099 --> 00:05:59,559
+Leslie, lembras-te de mim?
+
+121
+00:05:59,643 --> 00:06:01,811
+Eu consertava o teu computador na CatCo.
+
+122
+00:06:03,563 --> 00:06:04,606
+Não.
+
+123
+00:06:04,689 --> 00:06:06,107
+Chegou a prisioneira.
+
+124
+00:06:08,235 --> 00:06:09,486
+Obrigada por te juntares a nós.
+
+125
+00:06:09,569 --> 00:06:12,155
+A Reign vai perseguir
+pessoas iguais a mim.
+
+126
+00:06:12,239 --> 00:06:15,784
+Eu não quero morrer às mãos dessa
+psicopata quando conseguir escapar daqui.
+
+127
+00:06:17,577 --> 00:06:20,622
+- Tens algum problema?
+- Muitos, mas nenhum deles és tu.
+
+128
+00:06:20,747 --> 00:06:22,040
+Supergirl?
+
+129
+00:06:26,002 --> 00:06:28,672
+A Livewire, eu entendo.
+Vocês têm um passado.
+
+130
+00:06:28,755 --> 00:06:30,340
+- Mas a Psi...
+- Eu sei.
+
+131
+00:06:30,423 --> 00:06:31,967
+Mas sabes como ela é poderosa.
+
+132
+00:06:32,050 --> 00:06:35,595
+Ela venceu-te num duelo mental.
+Já me superou mais do que uma vez.
+
+133
+00:06:35,679 --> 00:06:37,013
+É exatamente isso que me preocupa.
+
+134
+00:06:37,097 --> 00:06:39,516
+Eu também estou preocupada,
+para ser sincera.
+
+135
+00:06:39,599 --> 00:06:41,685
+Mas se queremos derrotar esta coisa,
+temos que correr riscos,
+
+136
+00:06:41,768 --> 00:06:43,895
+e este risco vale a pena correr.
+
+137
+00:06:44,062 --> 00:06:47,232
+Está bem.
+Isto deve desativar o escudo psíquico.
+
+138
+00:06:47,774 --> 00:06:49,493
+Muito bem.
+
+139
+00:06:49,776 --> 00:06:51,695
+A nave está pronta.
+
+140
+00:06:51,820 --> 00:06:54,322
+Lembrem-se que a unidade de luz
+pode ficar sensível.
+
+141
+00:06:54,406 --> 00:06:56,116
+- Eu sei.
+- E se surgir uma fenda...
+
+142
+00:06:56,199 --> 00:06:57,200
+Mon-El.
+
+143
+00:06:57,284 --> 00:07:00,662
+- Já dirigi a nave mais vezes do que tu.
+- Cuidem uma da outra.
+
+144
+00:07:00,745 --> 00:07:03,290
+- Com certeza.
+- Boa sorte.
+
+145
+00:07:03,415 --> 00:07:04,457
+Vamos embora.
+
+146
+00:07:33,495 --> 00:07:35,246
+Fazemos a mínima ideia
+do paradeiro dela?
+
+147
+00:07:35,330 --> 00:07:37,791
+Não. Os registos não mostram
+onde é que esteve detida.
+
+148
+00:07:37,874 --> 00:07:39,751
+Vamos ter que procurar.
+
+149
+00:07:39,834 --> 00:07:42,837
+Fort Rozz, foi lá que a tua mãe...
+
+150
+00:07:42,921 --> 00:07:44,422
+Encarcerou criminosos? Sim.
+
+151
+00:07:45,090 --> 00:07:49,302
+Digamos que ninguém
+ficará feliz por me ver.
+
+152
+00:07:49,386 --> 00:07:52,389
+Ainda bem que temos
+a equipa maravilha.
+
+153
+00:07:52,472 --> 00:07:53,640
+Bela tiara.
+
+154
+00:07:53,723 --> 00:07:56,059
+Porque não vens aqui tirar-ma
+e eu mostro-te do que sou capaz.
+
+155
+00:07:56,643 --> 00:07:59,062
+Seria um prazer delicioso
+
+156
+00:07:59,145 --> 00:08:02,232
+colocar-te de joelhos
+e ver-te contorcer de dor.
+
+157
+00:08:03,608 --> 00:08:05,443
+Falas sempre dessa maneira?
+
+158
+00:08:05,527 --> 00:08:07,821
+Pelo menos não pareço
+uma menina ignorante.
+
+159
+00:08:07,904 --> 00:08:09,406
+Muito bem, Regina George.
+
+160
+00:08:09,489 --> 00:08:11,199
+Acalmem-se, está bem?
+
+161
+00:08:11,282 --> 00:08:13,659
+Estamos todas aqui
+pelo mesmo motivo, certo?
+
+162
+00:08:14,494 --> 00:08:15,829
+Vou aceitar isso como um sim.
+
+163
+00:08:15,912 --> 00:08:17,789
+Isto vai demorar muito tempo?
+
+164
+00:08:17,872 --> 00:08:20,383
+Temos de conetar-nos
+a algum tipo de cama espacial,
+
+165
+00:08:20,417 --> 00:08:22,669
+para poder dormir
+até chegar ao destino?
+
+166
+00:08:22,752 --> 00:08:24,963
+Já estamos a aproximar-nos.
+
+167
+00:08:25,130 --> 00:08:26,339
+A sério?
+
+168
+00:08:27,590 --> 00:08:29,009
+É uma nave rápida.
+
+169
+00:08:29,092 --> 00:08:32,053
+Aquela é a tua prisão kriptoniana?
+
+170
+00:08:36,266 --> 00:08:38,961
+Vão tentar pressionar-te, certo?
+Fazem sempre isso.
+
+171
+00:08:38,976 --> 00:08:41,071
+Mas lembra-os que sem a L-Corp,
+o negócio deles é irrelevante.
+
+172
+00:08:41,104 --> 00:08:42,856
+Acredita, eles vão lembrar-se.
+
+173
+00:08:43,481 --> 00:08:46,359
+Obrigada por fazeres isto.
+Deve ser difícil para ti deixares a Ruby.
+
+174
+00:08:46,443 --> 00:08:49,988
+Acho que ela ficará bem
+sem mim desta vez.
+
+175
+00:08:51,406 --> 00:08:53,199
+Vemo-nos quando voltares.
+
+176
+00:09:08,006 --> 00:09:09,424
+Muito bem.
+
+177
+00:09:09,507 --> 00:09:12,302
+"Quando o Paquistão oriental
+se separou do Paquistão ocidental,
+
+178
+00:09:12,385 --> 00:09:13,845
+formou que país?"
+
+179
+00:09:13,928 --> 00:09:15,472
+Bangladesh. Queijo.
+
+180
+00:09:15,555 --> 00:09:17,624
+- Como é que sabias a resposta?
+- Sou superinteligente.
+
+181
+00:09:17,657 --> 00:09:20,477
+Não importa. Estou superesfomeada...
+
+182
+00:09:20,560 --> 00:09:23,229
+Onde estão
+os bolinhos de batata que fizeste?
+
+183
+00:09:23,313 --> 00:09:26,024
+- A tua perna. Eu vou buscar.
+- Não, eu consigo.
+
+184
+00:09:26,107 --> 00:09:27,709
+- Também queres?
+- Sim, por favor.
+
+185
+00:09:27,942 --> 00:09:28,994
+Está bem.
+
+186
+00:09:29,277 --> 00:09:31,446
+És a pessoa mais forte que conheço.
+
+187
+00:09:31,529 --> 00:09:34,824
+Foi a coisa mais simpática
+que já me disseram.
+
+188
+00:09:35,867 --> 00:09:37,243
+Recebeste uma mensagem.
+
+189
+00:09:37,368 --> 00:09:39,079
+- De quem?
+- Da Maggie.
+
+190
+00:09:44,167 --> 00:09:47,212
+- Eu ponho a aquecer.
+- Obrigada.
+
+191
+00:09:50,924 --> 00:09:53,843
+De acordo com as leituras
+deveremos estar seguras.
+
+192
+00:09:53,927 --> 00:09:55,887
+Brainy, podes confirmar?
+
+193
+00:09:55,970 --> 00:09:57,138
+<i>Afirmativo.</i>
+
+194
+00:09:57,222 --> 00:09:58,431
+Vamos?
+
+195
+00:10:14,614 --> 00:10:15,865
+Vamos lá.
+
+196
+00:10:18,034 --> 00:10:20,203
+- Estão todas bem?
+- Ela parece estar enjoada.
+
+197
+00:10:21,079 --> 00:10:22,247
+Brainy, o que foi isto?
+
+198
+00:10:22,330 --> 00:10:23,706
+A acoplação da nave da Legião
+
+199
+00:10:23,790 --> 00:10:28,169
+alterou ligeiramente a órbita
+de Fort Rozz cerca de 0,003 AUs.
+
+200
+00:10:28,670 --> 00:10:31,381
+Não se preocupem,
+é apenas turbulência.
+
+201
+00:10:31,464 --> 00:10:32,632
+"Turbulência."
+
+202
+00:10:33,967 --> 00:10:35,802
+Turbulência é o resultado
+de alterações bruscas...
+
+203
+00:10:35,885 --> 00:10:36,886
+Eu sei o que é turbulência.
+
+204
+00:10:36,970 --> 00:10:40,849
+Rapazes, isso é fascinante,
+mas temos de encontrar uma prisioneira.
+
+205
+00:10:55,446 --> 00:10:56,865
+Início promissor.
+
+206
+00:11:17,552 --> 00:11:18,970
+O espaço é assustador como...
+
+207
+00:11:19,053 --> 00:11:20,431
+Pessoal.
+
+208
+00:11:21,598 --> 00:11:23,409
+Raios.
+
+209
+00:11:26,561 --> 00:11:27,645
+Já vi pior.
+
+210
+00:11:27,729 --> 00:11:29,981
+Deve ter sido envenenado
+pela estrela azul.
+
+211
+00:11:30,106 --> 00:11:32,317
+O sexo fraco.
+
+212
+00:11:34,235 --> 00:11:38,257
+Tenho a certeza que as celas
+não deveriam estar assim.
+
+213
+00:11:38,990 --> 00:11:41,843
+Fort Rozz esteve tanto tempo
+com energia limitada
+
+214
+00:11:41,876 --> 00:11:43,202
+que as celas devem ter aberto.
+
+215
+00:11:43,286 --> 00:11:46,372
+Os radares estão a captar sinais
+de várias formas de vida à solta na nave.
+
+216
+00:11:46,456 --> 00:11:48,291
+Kara, tem cuidado.
+
+217
+00:11:58,343 --> 00:12:02,096
+- Porque te atrasaste?
+- É ela. Sinto-a.
+
+218
+00:12:02,180 --> 00:12:05,383
+- Quem?
+- O meu lado humano.
+
+219
+00:12:05,516 --> 00:12:07,560
+Ela tem uma força que eu não esperava.
+
+220
+00:12:07,685 --> 00:12:11,239
+- Não é desculpa para o fracasso.
+- Tem razão.
+
+221
+00:12:11,522 --> 00:12:13,316
+Vou concentrar-me em encontrar os outros.
+
+222
+00:12:13,399 --> 00:12:17,061
+Tens outra missão primeiro.
+A fortaleza detetou um sinal.
+
+223
+00:12:17,195 --> 00:12:20,156
+A Supergirl e as tuas outras inimigas
+estão a bordo de Fort Rozz.
+
+224
+00:12:20,239 --> 00:12:21,574
+Para quê?
+
+225
+00:12:21,658 --> 00:12:24,110
+Presumo que seja
+para saber mais sobre ti.
+
+226
+00:12:24,602 --> 00:12:29,248
+A Sacerdotisa das Trevas, Jindahl Kol Rozz
+foi presa em Fort Rozz,
+
+227
+00:12:29,324 --> 00:12:32,627
+muito antes da destruição de Krypton.
+
+228
+00:12:33,836 --> 00:12:37,757
+Ela conhece toda a nossa missão.
+
+229
+00:12:37,840 --> 00:12:40,927
+Ela conhece os teus amigos,
+os outros Worldkillers.
+
+230
+00:12:41,427 --> 00:12:44,222
+Se a Supergirl a encontrar
+para obter informação...
+
+231
+00:12:44,305 --> 00:12:46,324
+Irá arruinar os nossos planos.
+
+232
+00:12:46,674 --> 00:12:48,985
+Tens de encontrá-la antes da Supergirl.
+
+233
+00:13:01,531 --> 00:13:04,867
+Este lugar parece um centro comercial.
+
+234
+00:13:04,951 --> 00:13:08,746
+Podemos procurar durante dias
+e não encontrar nada.
+
+235
+00:13:08,871 --> 00:13:10,924
+- Sentem este cheiro?
+- O quê?
+
+236
+00:13:11,007 --> 00:13:14,177
+Talvez seja outro cadáver masculino?
+
+237
+00:13:14,260 --> 00:13:15,461
+Eu sinto o cheiro.
+
+238
+00:13:18,306 --> 00:13:19,557
+Tu!
+
+239
+00:13:20,058 --> 00:13:22,268
+Carregas o símbolo da Casa de El.
+
+240
+00:13:22,811 --> 00:13:25,647
+Como te atreves a aparecer aqui?
+
+241
+00:13:39,494 --> 00:13:40,837
+Magoaste-te?
+
+242
+00:13:45,166 --> 00:13:46,317
+Imra!
+
+243
+00:13:57,470 --> 00:13:58,847
+Imra?
+
+244
+00:13:58,930 --> 00:14:00,206
+Imra.
+
+245
+00:14:00,390 --> 00:14:03,393
+Tu estás bem.
+Vai ficar tudo bem.
+
+246
+00:14:03,726 --> 00:14:05,928
+Porque é que lhe fizeste isso?
+
+247
+00:14:12,360 --> 00:14:14,028
+É a tua vez.
+
+248
+00:14:15,780 --> 00:14:17,073
+Alex?
+
+249
+00:14:18,324 --> 00:14:21,319
+- Estás bem?
+- Sim, estou.
+
+250
+00:14:23,004 --> 00:14:24,205
+É a Maggie?
+
+251
+00:14:24,998 --> 00:14:26,541
+Da mensagem?
+
+252
+00:14:26,875 --> 00:14:28,701
+Ela é tua namorada, não é?
+
+253
+00:14:28,960 --> 00:14:30,670
+Noiva... Ex...
+
+254
+00:14:32,046 --> 00:14:33,506
+Ex-noiva.
+
+255
+00:14:34,591 --> 00:14:35,825
+Eu...
+
+256
+00:14:36,009 --> 00:14:39,053
+Não estava à espera.
+Separámo-nos há algum tempo.
+
+257
+00:14:39,137 --> 00:14:40,671
+Ela quer-te ver?
+
+258
+00:14:42,640 --> 00:14:44,325
+Não.
+
+259
+00:14:44,509 --> 00:14:47,979
+Acha que deixou aqui o passaporte
+
+260
+00:14:48,062 --> 00:14:53,051
+e pediu-me se o podia enviar.
+
+261
+00:14:56,529 --> 00:14:58,615
+Sabes onde está?
+
+262
+00:14:58,698 --> 00:15:03,686
+Sinceramente, acho que
+só pode estar naquela gaveta.
+
+263
+00:15:11,669 --> 00:15:13,146
+Cá está ele.
+
+264
+00:15:15,965 --> 00:15:17,650
+Ela viajou muito.
+
+265
+00:15:19,427 --> 00:15:23,306
+Sim. Tínhamos muitos planos.
+
+266
+00:15:29,103 --> 00:15:30,521
+Sabes...
+
+267
+00:15:31,981 --> 00:15:35,535
+Pensava que iria ultrapassar isto.
+
+268
+00:15:35,818 --> 00:15:38,029
+Mas...
+
+269
+00:15:38,112 --> 00:15:41,824
+Ainda me sinto muito triste.
+
+270
+00:15:47,288 --> 00:15:49,624
+Como...
+
+271
+00:15:49,707 --> 00:15:51,000
+A minha vida agora é esta.
+
+272
+00:15:52,252 --> 00:15:54,630
+E não posso fazer nada para mudar.
+
+273
+00:15:55,605 --> 00:15:57,257
+Percebo o que queres dizer.
+
+274
+00:15:57,340 --> 00:15:59,350
+Percebes?
+
+275
+00:15:59,634 --> 00:16:01,761
+Há uma rapariga na escola.
+
+276
+00:16:01,844 --> 00:16:03,805
+Erika Morrison.
+
+277
+00:16:03,888 --> 00:16:07,475
+Não a deixei copiar os trabalhos de casa,
+
+278
+00:16:07,558 --> 00:16:12,363
+ela ficou chateada, começou a mandar
+mensagens e a postar coisas sobre mim.
+
+279
+00:16:13,940 --> 00:16:16,335
+- Podes mostrar-me?
+- Posso.
+
+280
+00:16:22,115 --> 00:16:24,993
+"Erika Morrison." Ela não sabe nada.
+
+281
+00:16:26,577 --> 00:16:28,621
+Quem é que morreu e fez dela rainha?
+
+282
+00:16:32,041 --> 00:16:33,251
+Não.
+
+283
+00:16:33,501 --> 00:16:34,752
+Vamos.
+
+284
+00:16:34,836 --> 00:16:37,947
+- Onde vamos?
+- Isto podemos resolver.
+
+285
+00:16:40,258 --> 00:16:41,801
+Isso é mesmo necessário?
+
+286
+00:16:41,884 --> 00:16:44,846
+Ou não podemos confiar em ti,
+ou perdeste o controlo dos poderes.
+
+287
+00:16:44,929 --> 00:16:46,973
+Resumindo, não és segura.
+
+288
+00:16:52,812 --> 00:16:56,107
+Arrastaram-me para o espaço para nada.
+
+289
+00:16:56,190 --> 00:16:58,818
+Talvez não devesses ter deixado
+os teus poderes à solta
+
+290
+00:16:58,901 --> 00:17:00,903
+ali com a pobre Matilda.
+
+291
+00:17:06,284 --> 00:17:07,802
+- De certeza que estás bem?
+- Sim.
+
+292
+00:17:08,386 --> 00:17:10,705
+Eu sei o que se sente quando
+ela entra na nossa cabeça.
+
+293
+00:17:10,788 --> 00:17:11,873
+Se precisares de um minuto...
+
+294
+00:17:12,206 --> 00:17:13,791
+Eu estou bem. Obrigada.
+
+295
+00:17:13,875 --> 00:17:16,002
+- Foi um acidente!
+- Não foi isso que pareceu.
+
+296
+00:17:16,085 --> 00:17:19,756
+Queres experimentar,
+para sentires o que é ficar sem poderes?
+
+297
+00:17:19,839 --> 00:17:21,624
+Aproxima isso de mim e eu eletrocuto-te.
+
+298
+00:17:21,724 --> 00:17:24,402
+Ninguém vai ser eletrocutada,
+nem se vai magoar.
+
+299
+00:17:24,677 --> 00:17:26,220
+Temos uma missão para cumprir.
+
+300
+00:17:33,102 --> 00:17:36,439
+Procuramos a Jindah Kol Rozz.
+Ela tem informação para nós.
+
+301
+00:17:36,522 --> 00:17:38,733
+São um bando de idiotas.
+
+302
+00:17:38,816 --> 00:17:40,026
+Ela não está enganada.
+
+303
+00:17:40,109 --> 00:17:41,194
+Xitheria.
+
+304
+00:17:41,277 --> 00:17:42,862
+- Quem é essa?
+- A última pessoa
+
+305
+00:17:42,945 --> 00:17:44,864
+que tentou encontrar a Jindah.
+
+306
+00:17:45,281 --> 00:17:49,369
+Xitheria era uma criminosa cruel,
+mas ela facilitou.
+
+307
+00:17:49,911 --> 00:17:52,431
+Queria que a Jindah se juntasse a nós.
+
+308
+00:17:53,314 --> 00:17:55,408
+Nunca mais a vimos,
+
+309
+00:17:55,492 --> 00:17:58,878
+mas ouvimos os gritos dela.
+
+310
+00:18:00,338 --> 00:18:04,634
+Querem arriscar a vida,
+estejam à vontade.
+
+311
+00:18:04,717 --> 00:18:07,553
+A Jindah está no Corredor Dendara.
+
+312
+00:18:07,637 --> 00:18:10,098
+Além do nevoeiro sombrio.
+
+313
+00:18:10,431 --> 00:18:11,641
+Boa sorte.
+
+314
+00:18:15,478 --> 00:18:18,147
+<i>Imra, tivemos uma pequena emergência.</i>
+
+315
+00:18:18,231 --> 00:18:19,565
+Brainy, estás aí?
+
+316
+00:18:19,649 --> 00:18:21,901
+<i>Um feixe solar atingiu...</i>
+
+317
+00:18:21,984 --> 00:18:23,152
+Perdemos o contacto?
+
+318
+00:18:23,236 --> 00:18:24,362
+Que bom!
+
+319
+00:18:24,445 --> 00:18:27,448
+A comunicação com o DEO
+dependia da nossa órbita.
+
+320
+00:18:27,573 --> 00:18:29,534
+O que é que ele disse
+sobre o feixe solar?
+
+321
+00:18:30,576 --> 00:18:32,370
+Devem estar a brincar!
+
+322
+00:18:32,453 --> 00:18:34,539
+O Fort Rozz foi atingido
+por um feixe solar.
+
+323
+00:18:34,622 --> 00:18:37,024
+Foi desviado de órbita
+e está a puxar-nos com ele.
+
+324
+00:18:37,108 --> 00:18:39,043
+"A puxar-nos?" Para onde?
+
+325
+00:18:39,376 --> 00:18:41,321
+Vamos em direção à estrela.
+
+326
+00:18:50,696 --> 00:18:52,740
+<i>Temperatura a subir...</i>
+
+327
+00:18:52,823 --> 00:18:54,075
+Odeio o espaço.
+
+328
+00:18:54,158 --> 00:18:55,576
+Temos de sair daqui.
+
+329
+00:18:55,660 --> 00:18:57,495
+Liberta-nos desta prisão monstruosa
+
+330
+00:18:57,578 --> 00:18:58,579
+e voltamos para a Terra.
+
+331
+00:18:58,663 --> 00:19:00,122
+A porta de acoplagem está bloqueada.
+
+332
+00:19:00,206 --> 00:19:02,917
+Quanto tempo temos até morrer?
+
+333
+00:19:03,084 --> 00:19:04,293
+Uma hora, talvez duas.
+
+334
+00:19:04,377 --> 00:19:06,003
+Ainda há tempo.
+
+335
+00:19:06,170 --> 00:19:07,755
+Temos uma missão para cumprir.
+
+336
+00:19:07,838 --> 00:19:09,340
+Vamos lá encontrar a Jindah.
+
+337
+00:19:09,423 --> 00:19:12,635
+Imra, ficas aqui a restabelecer
+as comunicações com o DEO.
+
+338
+00:19:12,718 --> 00:19:14,637
+- A Psi fica contigo.
+- O que fico aqui a fazer?
+
+339
+00:19:14,720 --> 00:19:17,765
+Muita coisa pode correr mal
+se te descontrolares,
+
+340
+00:19:17,848 --> 00:19:19,225
+portanto, tenta ser útil.
+
+341
+00:19:19,308 --> 00:19:22,019
+Se alguém atacar a nave, liberta-a.
+
+342
+00:19:22,103 --> 00:19:23,104
+Entendido.
+
+343
+00:19:23,187 --> 00:19:24,564
+Leslie, vamos.
+
+344
+00:19:24,689 --> 00:19:26,274
+Odeio quando me chamas Leslie.
+
+345
+00:19:26,357 --> 00:19:29,527
+- Estamos sem ligação?
+- Têm satélites de impulso?
+
+346
+00:19:29,610 --> 00:19:31,529
+Não. Nenhum que consiga alcançar a nave.
+
+347
+00:19:31,612 --> 00:19:34,073
+Perfeito. Isso é ótimo.
+
+348
+00:19:34,156 --> 00:19:35,908
+Vou ficar conhecido
+como o intelecto de nível 12
+
+349
+00:19:35,992 --> 00:19:38,578
+que deixou a Supergirl
+arder numa estrela azul.
+
+350
+00:19:38,661 --> 00:19:40,079
+Deem-me espaço. Preciso de pensar.
+
+351
+00:19:40,162 --> 00:19:43,399
+- Escuta. E se tentássemos reorientar...
+- Não! Espaço.
+
+352
+00:19:47,437 --> 00:19:52,258
+Quando ele fica assim,
+é melhor deixá-lo em paz.
+
+353
+00:19:53,593 --> 00:19:57,221
+Devemos estar perto do Corredor Dendara,
+de acordo com as instruções.
+
+354
+00:19:57,305 --> 00:19:59,765
+Ainda bem que uma de nós estava atenta.
+
+355
+00:19:59,849 --> 00:20:02,476
+Qual é o problema
+daquela mulher linda?
+
+356
+00:20:02,560 --> 00:20:05,095
+No futuro são todos assim bonitos?
+
+357
+00:20:05,354 --> 00:20:06,355
+Ela...
+
+358
+00:20:07,064 --> 00:20:09,817
+Ela é a mulher do meu ex-namorado.
+
+359
+00:20:12,737 --> 00:20:13,988
+Raios.
+
+360
+00:20:14,071 --> 00:20:16,657
+O Cosplay é o teu ex-namorado?
+
+361
+00:20:16,741 --> 00:20:19,660
+É um verdadeiro drama da vida real.
+
+362
+00:20:19,744 --> 00:20:21,912
+Odeias a mulher profundamente?
+
+363
+00:20:21,996 --> 00:20:24,415
+A culpa não é dela.
+Ninguém tem culpa.
+
+364
+00:20:31,088 --> 00:20:32,089
+De certeza
+
+365
+00:20:32,173 --> 00:20:34,300
+que a rainha do drama vai conseguir...
+
+366
+00:20:34,383 --> 00:20:37,303
+- Concentra-te na missão, está bem?
+- Certo.
+
+367
+00:20:37,428 --> 00:20:39,263
+Esta tal Reign.
+
+368
+00:20:39,347 --> 00:20:42,950
+- Vamos obter informação para matá-la?
+- Não. Claro que não.
+
+369
+00:20:43,225 --> 00:20:46,487
+A sacerdotisa terá informação que eu
+posso usar para tentar convencê-la.
+
+370
+00:20:46,579 --> 00:20:47,864
+O quê?
+
+371
+00:20:48,147 --> 00:20:51,150
+Lá estás tu a fantasiar.
+
+372
+00:20:51,233 --> 00:20:54,445
+- Achas que consegues convencer a Reign?
+- Consegui convencer-te.
+
+373
+00:20:55,112 --> 00:20:58,074
+Deves ter algo de bom
+para eu confiar em ti.
+
+374
+00:20:58,157 --> 00:21:00,743
+Vim contigo porque
+anda uma louca à solta
+
+375
+00:21:00,826 --> 00:21:02,119
+e eu quero eliminá-la.
+
+376
+00:21:02,203 --> 00:21:03,913
+Se achas que não te eletrocutava...
+
+377
+00:21:03,996 --> 00:21:05,498
+Então, vai em frente.
+
+378
+00:21:18,177 --> 00:21:22,223
+Só acho que alguém tão maléfica
+como a Reign merece morrer.
+
+379
+00:21:22,306 --> 00:21:24,684
+E quem pensar o contrário é otário?
+
+380
+00:21:24,767 --> 00:21:26,602
+Agora já estás a perceber.
+
+381
+00:21:30,064 --> 00:21:33,025
+Ali está o nevoeiro.
+Parece que já chegamos.
+
+382
+00:21:45,996 --> 00:21:47,581
+Está a ficar mais frio?
+
+383
+00:22:04,265 --> 00:22:06,100
+Supergirl?
+
+384
+00:22:32,793 --> 00:22:35,337
+Supergirl!
+
+385
+00:22:39,008 --> 00:22:40,426
+Supergirl?
+
+386
+00:22:42,470 --> 00:22:44,138
+<i>Kara Zor-El.</i>
+
+387
+00:22:46,348 --> 00:22:47,850
+<i>Kara Zor-El.</i>
+
+388
+00:22:51,395 --> 00:22:52,596
+Livewire?
+
+389
+00:22:57,860 --> 00:22:59,361
+Leslie?
+
+390
+00:22:59,445 --> 00:23:01,322
+<i>Kara Zor-El. </i>
+
+391
+00:23:07,244 --> 00:23:09,705
+- És a Erika Morrison?
+- Sou.
+
+392
+00:23:10,039 --> 00:23:11,941
+Agente Especial Danvers, FBI.
+
+393
+00:23:12,024 --> 00:23:15,294
+Tens enviado mensagens intimidatórias
+a uma jovem chamada Ruby Arias?
+
+394
+00:23:15,461 --> 00:23:17,046
+Não.
+
+395
+00:23:17,129 --> 00:23:18,631
+Intercetámos esta mensagem.
+
+396
+00:23:18,964 --> 00:23:21,261
+Sabias que o FBI monitoriza
+o <i>bullying</i> cibernético?
+
+397
+00:23:21,511 --> 00:23:24,261
+Tenho aqui registados
+23 casos de assédio.
+
+398
+00:23:24,336 --> 00:23:27,306
+- Mas foi sem querer.
+- Violaste três estatutos criminais.
+
+399
+00:23:27,389 --> 00:23:28,724
+Sabes o que isso significa?
+
+400
+00:23:29,308 --> 00:23:31,727
+- Que podes ser presa.
+- Eu não quero ser presa.
+
+401
+00:23:31,810 --> 00:23:33,062
+Devias ter pensado nisso
+
+402
+00:23:33,145 --> 00:23:35,481
+antes de violar a lei.
+- Não volto a fazer o mesmo.
+
+403
+00:23:35,564 --> 00:23:37,274
+- Prometo.
+- Não sei.
+
+404
+00:23:37,358 --> 00:23:39,527
+Acho melhor falar com os teus pais.
+
+405
+00:23:39,610 --> 00:23:41,737
+Não, por favor, não conte à minha mãe.
+Ela mata-me.
+
+406
+00:23:42,196 --> 00:23:44,240
+Está bem.
+
+407
+00:23:44,323 --> 00:23:46,408
+Vais pedir desculpa à Menina Arias.
+
+408
+00:23:46,700 --> 00:23:49,995
+Se eu descobrir que fazes <i>bullying</i>
+
+409
+00:23:50,079 --> 00:23:52,081
+mais alguma vez,
+
+410
+00:23:52,164 --> 00:23:54,917
+vais ter que lidar com o governo federal.
+
+411
+00:23:55,000 --> 00:23:56,335
+Não volto a fazer. Juro.
+
+412
+00:23:56,544 --> 00:23:59,004
+Tem um bom dia.
+
+413
+00:23:59,129 --> 00:24:01,549
+Vá lá. Fecha a porta.
+
+414
+00:24:03,175 --> 00:24:04,426
+Foste espetacular.
+
+415
+00:24:04,510 --> 00:24:05,928
+Não fui? Passa-me as muletas.
+
+416
+00:24:06,053 --> 00:24:08,180
+Pronto. Há uma rapariga
+que vive três casas abaixo.
+
+417
+00:24:08,264 --> 00:24:11,517
+- Ela empurrou-me no infantário.
+- Não abuses.
+
+418
+00:24:11,684 --> 00:24:14,228
+90 min. até ao horizonte de eventos.
+Temos de resolver a situação.
+
+419
+00:24:14,353 --> 00:24:18,357
+Não conseguimos dobrar o sinal
+para contornar a estrela?
+
+420
+00:24:18,440 --> 00:24:19,942
+Com a força de vontade?
+
+421
+00:24:20,067 --> 00:24:22,361
+Não. Temos de enviar um sinal
+com força suficiente
+
+422
+00:24:22,444 --> 00:24:24,029
+para atravessar a estrela.
+- Sim. Mas...
+
+423
+00:24:24,113 --> 00:24:26,365
+- Têm energia nuclear, certo?
+- Sim, temos.
+
+424
+00:24:26,448 --> 00:24:28,133
+Podemos usar um transcetor
+ótico de fusão a frio
+
+425
+00:24:28,167 --> 00:24:29,660
+para canalizar...
+Porque abanam a cabeça?
+
+426
+00:24:29,743 --> 00:24:31,787
+Não temos fusão a frio.
+
+427
+00:24:32,580 --> 00:24:34,873
+Claro que não.
+Qual seria a utilidade?
+
+428
+00:24:34,957 --> 00:24:38,168
+Temos de pensar
+dentro da tecnologia disponível.
+
+429
+00:24:39,378 --> 00:24:41,380
+Está bem. "A tecnologia disponível."
+
+430
+00:24:41,463 --> 00:24:44,341
+<i>Eureka!</i> Já sei. Uma garrafa vazia.
+
+431
+00:24:44,592 --> 00:24:48,554
+Escrevemos as instruções num papel
+e atiramo-la para o espaço,
+
+432
+00:24:48,637 --> 00:24:53,017
+- Só deve demorar 12.234 anos a chegar lá.
+- Uma mensagem numa garrafa.
+
+433
+00:24:54,143 --> 00:24:55,769
+- O que foi?
+- A Voyager.
+
+434
+00:24:55,853 --> 00:24:58,230
+- Espera, o quê? O que é isso?
+- A Voyager 1 e 2.
+
+435
+00:24:58,314 --> 00:25:00,316
+São sondas espaciais dos anos 70.
+Meu, aprende história.
+
+436
+00:25:00,399 --> 00:25:02,192
+Transportavam uma mensagem de paz
+da população da Terra.
+
+437
+00:25:02,276 --> 00:25:04,361
+- Uma mensagem numa garrafa.
+- Sim.
+
+438
+00:25:04,445 --> 00:25:06,405
+Pronto. Podemos refletir o sinal
+na Voyager 2.
+
+439
+00:25:06,488 --> 00:25:09,241
+Tem uma linha de visão direta
+para a nave da Legião.
+
+440
+00:25:09,366 --> 00:25:10,492
+- E o sinal chega lá?
+- Sim.
+
+441
+00:25:10,576 --> 00:25:13,037
+Faz isso rápido.
+Bom trabalho, Agente Schott.
+
+442
+00:25:13,120 --> 00:25:16,540
+- Winn, obrigado.
+- Não tens de quê.
+
+443
+00:25:19,543 --> 00:25:23,756
+<i>Temperatura a subir.</i>
+<i>Dez graus para o limite crítico.</i>
+
+444
+00:25:23,839 --> 00:25:25,591
+Devias trabalhar mais rápido.
+
+445
+00:25:25,674 --> 00:25:29,638
+Talvez possas ser útil
+e passar-me aquela chave de boca.
+
+446
+00:25:36,352 --> 00:25:39,104
+"Canta uma canção de tostões,
+
+447
+00:25:39,688 --> 00:25:41,565
+um bolso cheio de centeio."
+- Não funciona.
+
+448
+00:25:41,640 --> 00:25:43,651
+Não consigo ter um sinal
+com força suficiente para chegar à Terra.
+
+449
+00:25:43,734 --> 00:25:48,364
+"Quatro e vinte rapazes marotos
+Cozinhados numa tarte."
+
+450
+00:25:48,447 --> 00:25:50,699
+O que estás para aí a dizer?
+
+451
+00:25:50,783 --> 00:25:53,535
+"A criada estava no jardim
+
+452
+00:25:53,619 --> 00:25:55,621
+a estender a roupa,
+
+453
+00:25:58,874 --> 00:26:03,003
+quando chega um pássaro preto
+e bicou-lhe o nariz."
+
+454
+00:26:09,134 --> 00:26:11,720
+É a Reign. Ela está aqui.
+
+455
+00:26:12,888 --> 00:26:14,768
+<i>Kara Zor-El. </i>
+
+456
+00:26:22,056 --> 00:26:23,482
+Filha de Alura.
+
+457
+00:26:23,565 --> 00:26:24,650
+Jindah Kol Rozz?
+
+458
+00:26:24,733 --> 00:26:27,569
+Sabes quem sou.
+No entanto, perguntas.
+
+459
+00:26:27,653 --> 00:26:31,573
+A incerteza será a tua desgraça.
+Não será a pedra verde.
+
+460
+00:26:32,616 --> 00:26:34,284
+- Vim perguntar...
+- Sei porque vieste.
+
+461
+00:26:34,535 --> 00:26:38,080
+A Zona Fantasma bloqueou os meus poderes,
+
+462
+00:26:38,163 --> 00:26:39,708
+não a Visão.
+
+463
+00:26:40,791 --> 00:26:44,453
+A miséria do conceito da tua mãe.
+Mas em breve irás ter com ela.
+
+464
+00:26:44,712 --> 00:26:46,046
+Pode falar-me sobre a Reign?
+
+465
+00:26:46,997 --> 00:26:49,341
+- Ela vai-te destruir.
+- Ouvi dizer o contrário.
+
+466
+00:26:49,425 --> 00:26:52,302
+Desconheces a natureza da destruição.
+
+467
+00:26:52,386 --> 00:26:55,205
+És uma criança a viver na luz.
+
+468
+00:26:55,781 --> 00:26:58,434
+Mas há escuridão em todas as coisas.
+
+469
+00:26:59,143 --> 00:27:01,478
+Em todas as almas que conheces.
+
+470
+00:27:01,603 --> 00:27:03,689
+- Quem irá perecer?
+- Ninguém,
+
+471
+00:27:03,772 --> 00:27:06,066
+se eu tiver uma palavra a dizer.
+
+472
+00:27:08,152 --> 00:27:12,198
+Voas demasiado perto do sol.
+
+473
+00:27:13,323 --> 00:27:16,285
+Estou a definhar em dor
+
+474
+00:27:16,368 --> 00:27:18,996
+há demasiado tempo por vossa causa,
+
+475
+00:27:19,079 --> 00:27:20,956
+os Filhos da luz.
+
+476
+00:27:21,039 --> 00:27:24,460
+Mas a tua linda pele,
+
+477
+00:27:24,543 --> 00:27:28,338
+em breve, escamará no inferno
+
+478
+00:27:28,422 --> 00:27:33,469
+quando os outros despertarem
+e se unirem sob o estandarte da Reign.
+
+479
+00:27:33,552 --> 00:27:35,721
+O que quer dizer com "outros"?
+
+480
+00:27:36,013 --> 00:27:38,056
+Worldkillers.
+
+481
+00:27:38,140 --> 00:27:41,018
+O poder, a praga,
+
+482
+00:27:41,101 --> 00:27:42,603
+a pureza.
+
+483
+00:27:45,981 --> 00:27:47,649
+Sacerdotisa.
+
+484
+00:27:48,901 --> 00:27:51,195
+Minha filha. Vieste.
+
+485
+00:27:52,070 --> 00:27:53,989
+Finalmente, chegou o nosso tempo.
+
+486
+00:27:54,072 --> 00:27:56,116
+Liberta-me desta prisão
+
+487
+00:27:56,200 --> 00:28:00,204
+e lançaremos o pavor
+entre os nossos inimigos.
+
+488
+00:28:09,063 --> 00:28:10,672
+Como é que tens os teus poderes aqui?
+
+489
+00:28:10,756 --> 00:28:14,718
+Os meus poderes não dependem
+de algo tão trivial como o sol.
+
+490
+00:28:18,338 --> 00:28:20,424
+Ficas diferente sem os teus poderes.
+
+491
+00:28:20,507 --> 00:28:23,803
+Como uma criança,
+indefesa e com medo.
+
+492
+00:28:24,836 --> 00:28:26,697
+Eu não tenho medo de ti.
+
+493
+00:28:27,681 --> 00:28:29,842
+Apesar de sermos inimigas,
+há uma coisa que nos une.
+
+494
+00:28:29,934 --> 00:28:33,370
+- Poupa o discurso, Supergirl.
+- Tens de me ouvir.
+
+495
+00:28:33,654 --> 00:28:37,950
+Há algo dentro de ti
+que vê o mal que estás a fazer,
+
+496
+00:28:38,033 --> 00:28:41,078
+que vê a dor que estás a causar
+e sente remorsos.
+
+497
+00:28:41,161 --> 00:28:43,372
+Não tens de ser minha inimiga.
+
+498
+00:28:43,455 --> 00:28:45,541
+Tu queres justiça no mundo,
+eu também quero.
+
+499
+00:28:45,624 --> 00:28:47,876
+Mas não vamos encontrá-la
+se nos atacarmos mutuamente.
+
+500
+00:28:51,505 --> 00:28:54,258
+Aí é que tu te enganas.
+
+501
+00:28:56,627 --> 00:28:58,295
+Cuidado.
+
+502
+00:28:58,554 --> 00:29:00,597
+Vieste salvar a Supergirl?
+
+503
+00:29:00,889 --> 00:29:02,766
+Vim para acabar contigo.
+
+504
+00:29:07,437 --> 00:29:08,981
+Temos de encontrar a Supergirl.
+
+505
+00:29:09,064 --> 00:29:11,567
+Do que estás a falar?
+Temos de sair daqui.
+
+506
+00:29:11,650 --> 00:29:15,028
+<i>Temperatura a subir.</i>
+<i>Cinco graus para o limite crítico.</i>
+
+507
+00:29:15,154 --> 00:29:16,780
+Recuso-me a ser incinerada
+por uma estrela.
+
+508
+00:29:16,864 --> 00:29:18,907
+Já tentei tudo. Não consigo...
+
+509
+00:29:18,991 --> 00:29:21,827
+<i>Imra, restabelecemos a ligação</i>
+<i>com o DEO.</i>
+
+510
+00:29:22,035 --> 00:29:23,745
+<i>- Estão a ouvir?</i>
+- Brainy?
+
+511
+00:29:23,829 --> 00:29:24,913
+<i>Recebido.</i>
+
+512
+00:29:25,180 --> 00:29:26,231
+- Boa!
+- Eu disse-te
+
+513
+00:29:26,315 --> 00:29:28,208
+que descobriríamos uma solução.
+
+514
+00:29:28,292 --> 00:29:29,960
+Consigo interagir com Fort Rozz daqui
+
+515
+00:29:30,043 --> 00:29:32,004
+e redirecionar alguma energia
+para os propulsores.
+
+516
+00:29:32,087 --> 00:29:33,881
+Imra, já encontraram a Sacerdotisa?
+
+517
+00:29:34,006 --> 00:29:36,967
+Estão à procura dela.
+Mas, Winn, a Reign está aqui.
+
+518
+00:29:37,718 --> 00:29:39,086
+O quê?
+
+519
+00:29:39,469 --> 00:29:41,981
+Não. Tens de proteger a Supergirl.
+
+520
+00:29:42,064 --> 00:29:44,057
+Não pode ir.
+Tem de controlar os propulsores
+
+521
+00:29:44,141 --> 00:29:46,185
+e introduzir estas coordenadas manuais
+até as naves estabilizarem
+
+522
+00:29:46,268 --> 00:29:47,936
+<i>e Fort Rozz voltar à órbita original.</i>
+
+523
+00:29:48,020 --> 00:29:50,122
+Quem vai lidar com a Reign?
+
+524
+00:29:52,482 --> 00:29:55,135
+Eu posso ir.
+Tira-me esta coisa.
+
+525
+00:30:15,589 --> 00:30:16,883
+Vês?
+
+526
+00:30:17,416 --> 00:30:19,936
+Não tenhas medo, Matilda.
+
+527
+00:30:36,819 --> 00:30:39,938
+- Só tens isso para dar?
+- És um incómodo.
+
+528
+00:30:49,040 --> 00:30:51,291
+Tira essas mãos de cima dela.
+
+529
+00:30:56,071 --> 00:30:59,883
+Para de atacar os meus amigos.
+
+530
+00:31:18,735 --> 00:31:20,445
+Não. Para!
+
+531
+00:31:20,529 --> 00:31:22,739
+É a mim que tu queres.
+
+532
+00:31:22,823 --> 00:31:26,368
+Eu é que quero deter-te.
+Ela só veio por minha causa.
+
+533
+00:31:26,593 --> 00:31:29,288
+Então, ela pode ver-te a morrer.
+
+534
+00:31:34,543 --> 00:31:36,354
+- Não. Leslie!
+- Deixa-a.
+
+535
+00:31:36,479 --> 00:31:38,047
+Blackbird.
+
+536
+00:31:40,491 --> 00:31:44,787
+Vamos descobrir
+o que esconde essa máscara negra?
+
+537
+00:32:05,265 --> 00:32:09,186
+Mãe, socorro! Ajuda-me!
+
+538
+00:32:09,269 --> 00:32:10,729
+Mãe, socorro!
+
+539
+00:32:10,896 --> 00:32:12,940
+Mãe, não os deixes levar-me.
+
+540
+00:32:23,367 --> 00:32:24,843
+Onde estou?
+
+541
+00:32:26,787 --> 00:32:28,138
+Onde estou?
+
+542
+00:32:29,999 --> 00:32:31,400
+O que está a acontecer?
+
+543
+00:32:33,460 --> 00:32:34,461
+Supergirl.
+
+544
+00:32:34,795 --> 00:32:35,996
+Reign?
+
+545
+00:32:47,558 --> 00:32:49,685
+Leslie?
+
+546
+00:32:50,019 --> 00:32:51,145
+Leslie.
+
+547
+00:32:51,228 --> 00:32:53,647
+Tens de ficar comigo. Fica aqui.
+
+548
+00:32:54,523 --> 00:32:55,941
+Vamos lá.
+
+549
+00:32:57,359 --> 00:32:59,595
+- Afinal, também sou uma otária.
+- Não.
+
+550
+00:33:01,405 --> 00:33:03,490
+Não. Fica comigo.
+
+551
+00:33:03,574 --> 00:33:06,410
+Livewire.
+
+552
+00:33:06,535 --> 00:33:07,871
+Leslie.
+
+553
+00:33:24,186 --> 00:33:26,313
+Bom trabalho.
+
+554
+00:33:27,230 --> 00:33:28,940
+- Estavas preocupado?
+- Quem, eu?
+
+555
+00:33:29,024 --> 00:33:31,318
+Não. Eu sempre soube que ficarias bem.
+
+556
+00:33:31,401 --> 00:33:33,612
+Sim. Claro que sabia.
+
+557
+00:33:33,695 --> 00:33:35,614
+Ela ajudou muito.
+
+558
+00:33:39,659 --> 00:33:41,036
+Então...
+
+559
+00:33:41,453 --> 00:33:43,914
+Salvaste-me. Obrigada.
+
+560
+00:33:45,207 --> 00:33:48,335
+Não fiques emocionada.
+Apenas não queria morrer.
+
+561
+00:33:50,045 --> 00:33:51,763
+Lamento a tua amiga.
+
+562
+00:33:56,718 --> 00:34:00,722
+Podemos arranjar-lhe um quarto melhor,
+por favor?
+
+563
+00:34:01,473 --> 00:34:03,658
+Um que tenha janela.
+
+564
+00:34:11,525 --> 00:34:13,835
+Ela levou isto a sério.
+
+565
+00:34:14,486 --> 00:34:16,489
+Ambas o fizeram.
+
+566
+00:34:21,952 --> 00:34:23,495
+Pronto.
+
+567
+00:34:23,578 --> 00:34:26,582
+Posso levá-lo aos correios se quiseres.
+
+568
+00:34:26,998 --> 00:34:29,876
+Não é preciso.
+Eu faço isso amanhã.
+
+569
+00:34:31,970 --> 00:34:34,005
+Foi divertido passar o dia contigo.
+
+570
+00:34:34,840 --> 00:34:36,784
+Foi, não foi?
+
+571
+00:34:37,217 --> 00:34:40,337
+Não sei como aguentaria
+se não estivesses aqui.
+
+572
+00:34:40,420 --> 00:34:44,891
+Normalmente, apoio-me na minha irmã.
+Mas ela está fora da cidade.
+
+573
+00:34:45,183 --> 00:34:47,244
+Posso substituí-la a qualquer altura.
+
+574
+00:34:47,602 --> 00:34:48,937
+Obrigada.
+
+575
+00:34:49,146 --> 00:34:50,230
+Deve ser a minha mãe.
+
+576
+00:34:50,313 --> 00:34:51,481
+É a Sam.
+
+577
+00:34:51,690 --> 00:34:53,842
+Acertaste. Podes entrar.
+
+578
+00:34:55,026 --> 00:34:57,154
+- Olá.
+- Olá, ela está viva.
+
+579
+00:34:57,237 --> 00:34:58,872
+Olá, querida, tive saudades.
+
+580
+00:34:59,156 --> 00:35:01,032
+Eu também.
+
+581
+00:35:01,992 --> 00:35:04,077
+- Como é que correu?
+- Um desastre total.
+
+582
+00:35:04,161 --> 00:35:06,079
+Criaste uma filha que é um pesadelo.
+
+583
+00:35:06,163 --> 00:35:08,915
+Eu sei. Ela é difícil, não é?
+
+584
+00:35:08,999 --> 00:35:11,376
+Vou ter contigo ao elevador?
+
+585
+00:35:11,460 --> 00:35:13,545
+- Sim. Adeus.
+- Adeus.
+
+586
+00:35:13,670 --> 00:35:16,389
+- Porta-te bem. Nada de <i>Shining.</i>
+- Adeus.
+
+587
+00:35:19,968 --> 00:35:22,929
+Que tal? Como correu a viagem?
+
+588
+00:35:23,472 --> 00:35:25,315
+A tua viagem de trabalho.
+
+589
+00:35:27,434 --> 00:35:30,162
+Deve ter sido muito má
+se já a bloqueaste.
+
+590
+00:35:30,445 --> 00:35:31,980
+Não faz mal.
+
+591
+00:35:33,064 --> 00:35:34,849
+Eu disse que ia viajar em trabalho?
+
+592
+00:35:35,233 --> 00:35:36,693
+Sim.
+
+593
+00:35:39,154 --> 00:35:41,281
+Não, eu fui. Eu sei...
+
+594
+00:35:41,364 --> 00:35:42,824
+Eu sei que fui.
+
+595
+00:35:43,533 --> 00:35:44,701
+Eu sei o que disse.
+
+596
+00:35:44,784 --> 00:35:47,213
+Mas não fui a lado nenhum.
+
+597
+00:35:47,996 --> 00:35:50,916
+Meu Deus. A Lena ligou.
+
+598
+00:35:51,249 --> 00:35:53,034
+Como é que eu não vi?
+
+599
+00:35:54,544 --> 00:35:55,745
+Estás bem?
+
+600
+00:35:56,505 --> 00:35:58,798
+Tinham um carro para mim.
+Eu não cheguei a entrar no carro.
+
+601
+00:35:58,882 --> 00:36:00,567
+Não cheguei a entrar no avião.
+
+602
+00:36:02,385 --> 00:36:03,428
+Como?
+
+603
+00:36:07,807 --> 00:36:09,809
+Meu Deus.
+A Ruby falou nisso.
+
+604
+00:36:09,893 --> 00:36:11,394
+- O que disse a Ruby?
+- Que eu estive fora.
+
+605
+00:36:11,478 --> 00:36:15,608
+Disse-lhe que ia a algum lado,
+mas não fui.
+
+606
+00:36:16,691 --> 00:36:18,109
+Não sei onde fui.
+
+607
+00:36:18,485 --> 00:36:22,614
+Pensei que andava tensa
+ou talvez ela estivesse confusa.
+
+608
+00:36:22,697 --> 00:36:24,783
+Mas está sempre a acontecer-me isto.
+
+609
+00:36:24,950 --> 00:36:27,327
+- Perco a noção do tempo.
+- Sam, respira fundo...
+
+610
+00:36:27,410 --> 00:36:29,979
+Não sei onde estive.
+
+611
+00:36:33,416 --> 00:36:35,643
+Alex, passa-se algo de errado comigo.
+
+612
+00:36:42,926 --> 00:36:45,888
+Soube que tiveste
+momentos difíceis lá em cima.
+
+613
+00:36:47,013 --> 00:36:48,223
+Sim.
+
+614
+00:36:49,933 --> 00:36:52,227
+No que diz respeito a naves fantasmas,
+
+615
+00:36:52,310 --> 00:36:55,105
+não foi a mais assustadora que conheci.
+
+616
+00:36:55,188 --> 00:36:57,566
+Mas não era uma casa assombrada.
+
+617
+00:36:58,400 --> 00:37:00,694
+Sei que o meu regresso
+complicou a tua vida.
+
+618
+00:37:00,777 --> 00:37:03,488
+- Mon-El.
+- É verdade.
+
+619
+00:37:04,990 --> 00:37:07,117
+Mas vejo que estás em dificuldades
+e eu quero ajudar.
+
+620
+00:37:07,200 --> 00:37:11,204
+- Quero descomplicar as coisas.
+- Eu sei que sim.
+
+621
+00:37:16,418 --> 00:37:17,911
+Então, experimenta.
+
+622
+00:37:19,421 --> 00:37:22,375
+- Como assim?
+- Fala comigo.
+
+623
+00:37:23,800 --> 00:37:27,470
+Garanto-te que estou muito mais sábio
+
+624
+00:37:27,554 --> 00:37:30,557
+do que aquele tipo
+que aterrou aqui há um ano.
+
+625
+00:37:31,391 --> 00:37:35,312
+Experimenta.
+Sou um ouvinte muito melhor.
+
+626
+00:37:40,650 --> 00:37:42,886
+Sinto-me mal
+
+627
+00:37:43,220 --> 00:37:45,263
+por não conseguir convencer a Reign.
+
+628
+00:37:46,698 --> 00:37:50,035
+Eu vi humanidade nela.
+Tive um vislumbre
+
+629
+00:37:50,118 --> 00:37:53,663
+e eu deveria ter sido capaz de o agarrar.
+
+630
+00:37:53,747 --> 00:37:58,251
+E se o tivesse agarrado,
+talvez a Leslie estivesse viva.
+
+631
+00:38:02,881 --> 00:38:04,424
+Eu conheço essa sensação.
+
+632
+00:38:07,594 --> 00:38:11,348
+Levar pessoas para a batalha
+e não as trazer de volta.
+
+633
+00:38:12,766 --> 00:38:13,867
+É difícil.
+
+634
+00:38:15,977 --> 00:38:17,078
+Está bem.
+
+635
+00:38:19,147 --> 00:38:22,942
+Se me permites dizê-lo,
+podes não ter convencido a Reign,
+
+636
+00:38:23,026 --> 00:38:25,236
+mas a Livewire, ela...
+
+637
+00:38:25,320 --> 00:38:28,114
+Ela era do pior que há.
+
+638
+00:38:28,198 --> 00:38:29,991
+E tu conseguiste convencê-la.
+
+639
+00:38:31,534 --> 00:38:36,190
+Tu deste-lhe um motivo para lutar,
+para se sacrificar.
+
+640
+00:38:37,415 --> 00:38:41,078
+Mudaste o coração dela para melhor.
+Isso é...
+
+641
+00:38:41,403 --> 00:38:43,046
+Isso é incrível.
+
+642
+00:38:45,507 --> 00:38:47,717
+E fizeste-o sem a ajuda do sol amarelo.
+
+643
+00:38:47,801 --> 00:38:49,636
+O mérito é só teu.
+
+644
+00:38:53,890 --> 00:38:54,891
+O que foi?
+
+645
+00:38:56,017 --> 00:38:58,436
+O teu conselho faz sentido.
+
+646
+00:38:58,520 --> 00:39:00,638
+Acho que o seguiria.
+
+647
+00:39:01,022 --> 00:39:03,233
+- Há uma progressão lógica.
+- Isso parece...
+
+648
+00:39:03,316 --> 00:39:05,985
+Há um objetivo no final.
+
+649
+00:39:08,405 --> 00:39:12,283
+Por falar em copo meio cheio,
+
+650
+00:39:12,367 --> 00:39:14,694
+a Sacerdotisa kritponiana
+deu-te alguma informação
+
+651
+00:39:14,778 --> 00:39:16,588
+sobre os Worldkillers.
+Isso vale alguma coisa.
+
+652
+00:39:16,671 --> 00:39:18,039
+Sim, deu.
+
+653
+00:39:18,123 --> 00:39:21,209
+Chamou-lhes "Pureza e Praga".
+
+654
+00:39:24,295 --> 00:39:27,758
+Agora só temos de encontrá-los
+primeiro que a Reign.
+
+655
+00:39:35,014 --> 00:39:37,100
+Como é que eu digo não?
+
+656
+00:39:37,225 --> 00:39:38,560
+Dizes.
+
+657
+00:39:38,643 --> 00:39:40,979
+"Não. Não vou desperdiçar
+a minha juventude,
+
+658
+00:39:41,104 --> 00:39:45,024
+vida e vitalidade sentada num cubículo."
+
+659
+00:39:45,150 --> 00:39:47,110
+Não vou ficar num cubículo.
+
+660
+00:39:47,193 --> 00:39:49,487
+Vão oferecer-me um escritório com vista.
+
+661
+00:39:49,571 --> 00:39:51,156
+Vista do parque de estacionamento?
+
+662
+00:39:51,239 --> 00:39:54,367
+- Julia, está na hora de crescer.
+- Ou seja, desistir.
+
+663
+00:40:05,170 --> 00:40:07,922
+Julia?
+
+664
+00:40:55,200 --> 00:41:00,200
+Anteriormente e Sincronia: Carlos996
+www.facebook.com/MightySubs
+
+665
+00:41:00,450 --> 00:41:03,450
+Traduzido por: Luís Cunha
