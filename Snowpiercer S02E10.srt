@@ -1,2242 +1,2306 @@
-﻿1
-00:00:55,487 --> 00:00:57,614
-<i>Tinha dez anos
-quando o mundo virou um trem.</i>
+1
+00:00:00,128 --> 00:00:01,163
+Ele tem planos para ti.
 
 2
-00:01:01,869 --> 00:01:04,038
-<i>Wilford disse que seria a minha família,</i>
+00:00:01,828 --> 00:00:03,063
+Queres saber mais?
 
 3
-00:01:05,205 --> 00:01:09,168
-<i>papai Wilford,
-e que eu conduziria o trem com ele.</i>
+00:00:03,428 --> 00:00:04,468
+Vamos ver o que é possível.
 
 4
-00:01:16,508 --> 00:01:18,177
-<i>Líderes eram solitários,</i>
+00:00:05,213 --> 00:00:06,927
+Anteriormente
 
 5
-00:01:19,178 --> 00:01:20,387
-<i>não confiavam em ninguém.</i>
+00:00:07,257 --> 00:00:08,665
+Fui ver os dados do lançamento.
 
 6
-00:01:22,973 --> 00:01:25,309
-<i>Então, eu era a ilha de Alex,</i>
+00:00:09,344 --> 00:00:11,100
+O Ben perdeu o contacto
+com a Melanie há dez dias.
 
 7
-00:01:26,060 --> 00:01:28,187
-<i>e ninguém jamais aportava nela.</i>
+00:00:12,097 --> 00:00:13,097
+Não confie no que ele diz.
 
 8
-00:01:37,154 --> 00:01:39,156
-<i>Até que finalmente chegou Melanie.</i>
+00:00:13,557 --> 00:00:14,557
+Como te atreves?
 
 9
-00:01:41,408 --> 00:01:44,411
-<i>Vi o </i>Snowpiercer <i>e conheci pessoas nele.</i>
+00:00:14,599 --> 00:00:15,599
+Leve-a para a prisão.
 
 10
-00:01:47,581 --> 00:01:49,416
-<i>Aí o Wilford ficou estranho.</i>
+00:00:16,143 --> 00:00:18,151
+Só podemos ter um chefe
+de departamento na hospitalidade.
 
 11
-00:01:54,546 --> 00:01:56,799
-Sabe o que é <i>oubliette?</i>
+00:00:18,687 --> 00:00:19,687
+O lugar é seu, Ruth.
 
 12
-00:01:58,759 --> 00:02:00,219
-É uma masmorra francesa.
+00:00:19,729 --> 00:00:21,737
+Só tem de se dirigir ao comboio,
 
 13
-00:02:01,303 --> 00:02:02,471
-Uma masmorra especial,
+00:00:22,023 --> 00:00:23,023
+e  informar
+que não vamos voltar pela Melanie.
 
 14
-00:02:03,138 --> 00:02:06,350
-subterrânea, com um buraquinho no teto.
+00:00:23,650 --> 00:00:24,650
+Não posso fazer isso.
 
 15
-00:02:06,433 --> 00:02:07,810
-Te jogam lá pra sempre.
+00:00:24,901 --> 00:00:25,901
+Dispa a farda.
 
 16
-00:02:09,019 --> 00:02:10,229
-Significa "esquecer".
+00:00:27,737 --> 00:00:28,737
+Snowpiercer?
 
 17
-00:02:10,854 --> 00:02:13,107
-Melanie, Layton,
+00:00:29,197 --> 00:00:30,281
+Já tenho os dados sobre o clima.
 
 18
-00:02:14,566 --> 00:02:16,527
-esqueça-os, Alex.
+00:00:33,243 --> 00:00:34,243
+É a Melanie.
 
 19
-00:02:19,238 --> 00:02:22,741
-Não quer que eu os esqueça,
-quer que eu os rejeite.
+00:00:36,580 --> 00:00:38,210
+A Melanie contactou.
 
 20
-00:02:25,828 --> 00:02:27,496
-Na frente, quando estiver pronta.
+00:00:39,374 --> 00:00:41,004
+Snowpiercer? Escutam?
 
 21
-00:02:30,249 --> 00:02:35,421
-<i>No começo, achava a minha mãe
-e seu pessoal idiotas e desorganizados.</i>
+00:00:42,127 --> 00:00:43,127
+Snowpiercer?
 
 22
-00:02:36,380 --> 00:02:38,841
-<i>Agora, acho que a liberdade
-tem que ser caótica.</i>
+00:00:55,597 --> 00:00:57,724
+<i>Aos dez anos,
+o mundo tornou-se um comboio.</i>
 
 23
-00:02:45,180 --> 00:02:48,475
-<i>Lá, eu vi Layton liderar
-ouvindo os outros.</i>
+00:01:01,978 --> 00:01:04,147
+<i>O Wilford dizia ser agora a minha família,</i>
 
 24
-00:02:51,562 --> 00:02:53,147
-<i>Vi mulheres com poder.</i>
+00:01:05,315 --> 00:01:09,277
+<i>o papá W,
+e eu lideraria o comboio com ele.</i>
 
 25
-00:02:55,858 --> 00:02:58,360
-<i>E os vi mantendo o sonho
-da minha mãe vivo.</i>
+00:01:16,618 --> 00:01:18,286
+<i>Os líderes eram solitários,</i>
 
 26
-00:03:06,452 --> 00:03:08,495
-Nosso amigo é cuidadoso.
+00:01:19,287 --> 00:01:20,497
+<i>não confiavam em ninguém.</i>
 
 27
-00:03:08,579 --> 00:03:11,206
-Bem, nossa saída é através dele.
+00:01:23,083 --> 00:01:25,418
+<i>Eu era a Ilha de Alex</i>
 
 28
-00:03:12,040 --> 00:03:15,210
-Hoje, se tivermos chance
-de trazer Melanie de volta.
+00:01:26,169 --> 00:01:28,296
+<i>e nunca ninguém vinha a terra.</i>
 
 29
-00:03:15,294 --> 00:03:17,463
-Com as nossas qualidades…
+00:01:37,263 --> 00:01:39,265
+<i>Até que finalmente apanhámos a Melanie.</i>
 
 30
-00:03:18,380 --> 00:03:19,923
-não vamos vencer Wilford.
+00:01:41,518 --> 00:01:44,521
+<i>Vi o Snowpiercer e conheci o pessoal dela.</i>
 
 31
-00:03:20,007 --> 00:03:21,758
-Para superá-lo…
+00:01:47,691 --> 00:01:49,526
+<i>Foi quando o W ficou estranho.</i>
 
 32
-00:03:23,135 --> 00:03:24,636
-precisamos ser cruéis.
+00:01:54,656 --> 00:01:56,908
+<i>Sabes o que é uma oubliette?</i>
 
 33
-00:03:26,180 --> 00:03:28,140
-Ambos fizemos coisas terríveis.
+00:01:58,868 --> 00:02:00,328
+Uma masmorra francesa.
 
 34
-00:03:28,223 --> 00:03:29,683
-Não tão terríveis.
+00:02:01,413 --> 00:02:02,580
+Uma masmorra especial,
 
 35
-00:03:30,642 --> 00:03:35,439
-Bem, tenho um plano sórdido
-e homicida para nos tirar daqui,
+00:02:03,248 --> 00:02:06,459
+subterrânea, com um buraquinho no telhado.
 
 36
-00:03:35,522 --> 00:03:37,065
-se quiser começar com ele.
+00:02:06,543 --> 00:02:07,919
+Metem-te lá para sempre.
 
 37
-00:03:37,691 --> 00:03:38,859
-Sim.
+00:02:09,129 --> 00:02:10,338
+Significa "esquecer".
 
 38
-00:03:39,943 --> 00:03:41,486
-Observei Wilford.
+00:02:10,964 --> 00:02:13,216
+A Melanie, o Layton,
 
 39
-00:03:42,112 --> 00:03:45,365
-Eu já o vi prestes a matar todos nós.
+00:02:14,676 --> 00:02:16,636
+<i>mete todos na oubliette, Alex.</i>
 
 40
-00:03:45,449 --> 00:03:48,911
-A questão não é: "Está disposta
-a descer ao nível dele?"
+00:02:19,347 --> 00:02:22,851
+Não quer que eu os esqueça,
+quer que renuncie a eles.
 
 41
-00:03:51,330 --> 00:03:53,498
-E sim: "Está disposta a arriscar tudo?"
+00:02:25,937 --> 00:02:27,605
+À frente, quando estiveres pronta.
 
 42
-00:03:57,127 --> 00:03:59,796
-Pelo <i>Snowpiercer,</i> pela Melanie…
+00:02:30,358 --> 00:02:35,530
+<i>No início, achei a minha mãe
+e o pessoal dela lerdos e desorganizados.</i>
 
 43
-00:04:02,216 --> 00:04:03,216
-por tudo.
+00:02:36,489 --> 00:02:38,950
+<i>Mas a liberdade
+talvez tenha de ser confusa.</i>
 
 44
-00:04:16,730 --> 00:04:18,524
-<i>Um dia, vou quebrar este ciclo…</i>
+00:02:45,290 --> 00:02:48,585
+<i>Lá, vi o Layton a liderar
+ouvindo os outros.</i>
 
 45
-00:04:20,526 --> 00:04:22,611
-<i>e vamos sair do</i> Snowpiercer<i> juntos,</i>
+00:02:51,671 --> 00:02:53,256
+<i>Vi mulheres com poder.</i>
 
 46
-00:04:23,737 --> 00:04:25,906
-<i>o trem com 1,034 vagões.</i>
+00:02:55,967 --> 00:02:58,470
+<i>E vi-os manter vivo o sonho da minha mãe.</i>
 
 47
-00:05:03,944 --> 00:05:04,944
-Ei!
+00:03:06,561 --> 00:03:08,605
+O nosso amigo é muito cuidadoso.
 
 48
-00:05:14,788 --> 00:05:15,788
-Pode dar mais?
+00:03:08,688 --> 00:03:11,316
+Sim, a nossa saída é através dele.
 
 49
-00:05:17,124 --> 00:05:18,124
-Por favor.
+00:03:12,150 --> 00:03:15,320
+Esta noite,
+se pudermos voltar para a Melanie.
 
 50
-00:05:43,066 --> 00:05:46,028
-Pá é boa na trincheira.
+00:03:15,403 --> 00:03:17,572
+Não é com as qualidades
+que nos puseram aqui
 
 51
-00:05:46,903 --> 00:05:47,904
-Leve-a com você.
+00:03:18,490 --> 00:03:20,033
+que passaremos pelo Wilford.
 
 52
-00:05:50,574 --> 00:05:51,950
-{\an8}Vamos encontrar Javi.
+00:03:20,116 --> 00:03:21,868
+Para vencer tal homem...
 
 53
-00:06:20,771 --> 00:06:22,064
-{\an8}Onde estão todos?
+00:03:23,244 --> 00:03:24,746
+... tem de ser implacável.
 
 54
-00:06:27,652 --> 00:06:28,945
-{\an8}Esta é a locomotiva.
+00:03:26,289 --> 00:03:28,249
+Ambos fizemos coisas terríveis.
 
 55
-00:06:29,029 --> 00:06:30,614
-{\an8}Temos que subir mais um.
+00:03:28,333 --> 00:03:29,793
+Não o suficiente.
 
 56
-00:06:31,740 --> 00:06:32,740
-Ruth?
+00:03:30,752 --> 00:03:35,548
+Tenho um plano abominável
+e mortífero para nos tirar daqui,
 
 57
-00:06:34,743 --> 00:06:36,411
-Ah, meu Deus.
+00:03:35,632 --> 00:03:37,175
+se quiser começar por aí.
 
 58
-00:06:37,704 --> 00:06:40,874
-{\an8}Alex, descobrimos que a sua mãe
+00:03:37,801 --> 00:03:38,968
+Quero.
 
 59
-00:06:41,583 --> 00:06:42,626
-está viva.
+00:03:40,053 --> 00:03:41,596
+Observei o Wilford.
 
 60
-00:06:45,587 --> 00:06:46,671
-Eu sabia.
+00:03:42,222 --> 00:03:45,475
+Vi-o quase à beira de nos matar a todos.
 
 61
-00:06:47,339 --> 00:06:49,841
-Eu sabia. Ela está lá esperando por nós.
+00:03:45,558 --> 00:03:49,020
+A pergunta não é:
+"Dispõe-se a descer ao nível dele?"
 
 62
-00:06:50,759 --> 00:06:52,511
-Tomaremos o <i>Big Alice </i>pra buscá-la.
+00:03:51,439 --> 00:03:53,608
+É: "Dispõe-se a arriscar tudo?"
 
 63
-00:06:53,345 --> 00:06:54,971
-Com uma pá?
+00:03:57,237 --> 00:03:59,906
+<i>Pelo Snowpiercer e pela Melanie...</i>
 
 64
-00:06:55,055 --> 00:06:57,849
-Bem, qualquer ajuda é bem-vinda.
+00:04:02,325 --> 00:04:03,243
+... tudo.
 
 65
-00:06:58,558 --> 00:07:01,853
-{\an8}A locomotiva tem uma entrada secreta
-pro quarto do Wilford.
+00:04:16,840 --> 00:04:18,633
+<i>Um dia, quebrarei o ciclo...</i>
 
 66
-00:07:04,356 --> 00:07:05,857
-{\an8}Certo, ela está conosco.
+00:04:20,635 --> 00:04:22,720
+<i>... e afastar-nos-emos juntos
+do Snowpiercer,</i>
 
 67
-00:07:05,941 --> 00:07:08,068
-{\an8}Hoje passamos pelas Rochosas.
+00:04:23,847 --> 00:04:26,015
+<i>com 1034 carruagens de comprimento.</i>
 
 68
-00:07:08,151 --> 00:07:10,237
-{\an8}Pra virar,
-precisamos das duas locomotivas.
+00:05:14,898 --> 00:05:15,857
+Dá-me mais?
 
 69
-00:07:10,320 --> 00:07:13,365
-{\an8}Vamos precisar do Ben também.
-Mas vamos tirá-la daí.
+00:05:17,233 --> 00:05:18,109
+Por favor.
 
 70
-00:07:13,448 --> 00:07:15,033
-{\an8}Não, eu me viro pra sair.
+00:05:43,176 --> 00:05:46,137
+A pá. É boa nas trincheiras.
 
 71
-00:07:15,117 --> 00:07:16,827
-{\an8}Wilford me quer submissa.
+00:05:47,013 --> 00:05:48,014
+Traga-a consigo.
 
 72
-00:07:16,910 --> 00:07:18,787
-Kevin me levará até ele.
+00:05:50,683 --> 00:05:52,060
+Vamos procurar o Javi.
 
 73
-00:07:18,870 --> 00:07:21,498
-Certo. E a entrada secreta?
+00:06:20,880 --> 00:06:22,173
+Onde estão todos?
 
 74
-00:07:24,960 --> 00:07:25,960
-{\an8}Audrey?
+00:06:27,762 --> 00:06:29,055
+Isto é a Locomotiva.
 
 75
-00:07:28,630 --> 00:07:31,007
-{\an8}Audrey, só eu estou trabalhando hoje?
+00:06:29,138 --> 00:06:30,723
+Não, temos de subir mais um.
 
 76
-00:07:35,512 --> 00:07:37,681
-{\an8}Você acorda cedo, não é mesmo, Bess?
+00:06:31,849 --> 00:06:32,684
+Ruth?
 
 77
-00:07:37,764 --> 00:07:40,183
-{\an8}E ronda à noite.
-Gosto disso numa conselheira.
+00:06:34,852 --> 00:06:36,521
+Meu Deus!
 
 78
-00:07:40,767 --> 00:07:43,145
-{\an8}Não sou sua conselheira
-se não ouve meu conselho.
+00:06:37,814 --> 00:06:40,984
+Alex, acabámos de saber, a sua mãe
 
 79
-00:07:46,231 --> 00:07:47,315
-{\an8}Zarah virá?
+00:06:41,693 --> 00:06:42,735
+está viva.
 
 80
-00:07:47,941 --> 00:07:49,401
-{\an8}Ela recusou o jantar.
+00:06:45,697 --> 00:06:46,781
+Eu sabia.
 
 81
-00:07:50,444 --> 00:07:51,528
-Ameaçou com o garfo.
+00:06:47,448 --> 00:06:49,951
+Eu sabia. Ela está lá, à nossa espera.
 
 82
-00:07:53,613 --> 00:07:55,449
-Se oferecêssemos a Voz do Trem a ela?
+00:06:50,868 --> 00:06:52,620
+<i>Vamos roubar o Big Alice e buscá-la.</i>
 
 83
-00:07:56,450 --> 00:07:58,535
-{\an8}Não vai comprá-la com Layton em seu <i>gulag.</i>
+00:06:53,454 --> 00:06:55,081
+Com uma pá?
 
 84
-00:07:58,618 --> 00:08:00,454
-{\an8}Ela pode ser convencida.
+00:06:55,164 --> 00:06:57,959
+Qualquer ajuda seria apreciada.
 
 85
-00:08:00,996 --> 00:08:02,038
-{\an8}Posso bater nela.
+00:06:58,668 --> 00:07:01,963
+A Locomotiva tem uma entrada secreta
+para o quarto do Wilford.
 
 86
-00:08:08,503 --> 00:08:09,629
-Por que fiz isso?
+00:07:04,465 --> 00:07:05,967
+Pronto, está connosco.
 
 87
-00:08:10,672 --> 00:08:12,424
-Falta de controle?
+00:07:06,050 --> 00:07:08,177
+Hoje atravessamos as Montanhas Rochosas.
 
 88
-00:08:14,301 --> 00:08:17,471
-E por gravidez ter privilégio
-no <i>Snowpiercer.</i>
+00:07:08,261 --> 00:07:10,346
+Mas aquela curva
+requer as duas Locomotivas.
 
 89
-00:08:17,554 --> 00:08:19,848
-Exato. Zarah é privilegiada!
+00:07:10,430 --> 00:07:13,474
+Certo. Precisamos do Ben.
+Mas tiremo-la daqui primeiro.
 
 90
-00:08:19,931 --> 00:08:24,811
-Ela tem a inefável geleia real
-do Layton, Kevin.
+00:07:13,558 --> 00:07:15,143
+Não, consigo sair daqui.
 
 91
-00:08:24,895 --> 00:08:26,062
-Queremos isso.
+00:07:15,226 --> 00:07:16,936
+O Wilford quer-me submissa.
 
 92
-00:08:27,063 --> 00:08:28,774
-{\an8}Geleia real, eu errei, senhor.
+00:07:17,020 --> 00:07:18,896
+O Kevin leva-me até ele.
 
 93
-00:08:28,857 --> 00:08:31,026
-{\an8}O que há de errado agora, Joe?
+00:07:18,980 --> 00:07:21,607
+Está bem. Então, e a entrada secreta?
 
 94
-00:08:31,109 --> 00:08:33,111
-{\an8}Cure a ressaca, Audrey. Hora do parto.
+00:07:25,069 --> 00:07:25,903
+Audrey?
 
 95
-00:08:34,654 --> 00:08:35,654
-Zarah…
+00:07:28,740 --> 00:07:31,117
+Audrey, sou o único que trabalha hoje?
 
 96
-00:08:43,497 --> 00:08:45,457
+00:07:35,621 --> 00:07:37,790
+É madrugadora, não é, Bess?
+
+97
+00:07:37,874 --> 00:07:40,293
+E notívaga. Gosto disso numa conselheira.
+
+98
+00:07:40,877 --> 00:07:43,254
+Não sou sua conselheira
+se não ouve os conselhos.
+
+99
+00:07:46,340 --> 00:07:47,425
+A Zarah virá cá?
+
+100
+00:07:48,051 --> 00:07:49,510
+Rejeitou fisicamente o jantar.
+
+101
+00:07:50,553 --> 00:07:51,637
+Ameaçou-me de garfo.
+
+102
+00:07:53,723 --> 00:07:55,558
+E se lhe déssemos a Voz do Comboio?
+
+103
+00:07:56,559 --> 00:07:58,644
+<i>Não a vai comprar
+com o Layton no seu gulag.</i>
+
+104
+00:07:58,728 --> 00:08:00,563
+Convencêmo-la a fazê-lo.
+
+105
+00:08:01,105 --> 00:08:02,148
+Posso esbofeteá-la.
+
+106
+00:08:08,613 --> 00:08:09,739
+Porque fiz aquilo?
+
+107
+00:08:10,782 --> 00:08:12,533
+Mau controlo de impulsos?
+
+108
+00:08:14,410 --> 00:08:17,580
+<i>E porque a gravidez
+tem privilégios no Snowpiercer.</i>
+
+109
+00:08:17,663 --> 00:08:19,957
+Exato. A Zarah é privilegiada!
+
+110
+00:08:20,041 --> 00:08:24,921
+Tem aquela inefável
+Gelatina Royal Layton, Kevin.
+
+111
+00:08:25,004 --> 00:08:26,172
+Queremos um pouco disso.
+
+112
+00:08:27,173 --> 00:08:28,883
+Gelatina Royal, erro meu. Certo.
+
+113
+00:08:28,966 --> 00:08:31,135
+O que corre mal agora, Joe?
+
+114
+00:08:31,219 --> 00:08:33,221
+Cura a ressaca, Audrey. Toca a ser doula.
+
+115
+00:08:34,764 --> 00:08:35,681
+A Zarah...
+
+116
+00:08:43,606 --> 00:08:45,566
 - Continue.
 - Espere aí.
 
-97
-00:09:20,033 --> 00:09:22,202
-Não confio nessas loucuras.
-
-98
-00:09:24,079 --> 00:09:26,081
-Fique na cabine baixa.
-
-99
-00:09:33,922 --> 00:09:36,716
-É meio azul. Tiraram o verde.
-
-100
-00:10:24,014 --> 00:10:26,808
-Ah, meu Deus.
-
-101
-00:10:27,475 --> 00:10:28,393
-Calma.
-
-102
-00:10:28,476 --> 00:10:29,477
-Ah, meu Deus.
-
-103
-00:10:30,228 --> 00:10:31,104
-Respire fundo.
-
-104
-00:10:31,187 --> 00:10:33,940
-É só a Secretaria… matando um homem.
-
-105
-00:10:34,858 --> 00:10:35,942
-Chamou a gente?
-
-106
-00:10:36,651 --> 00:10:39,154
-Puta merda, deu certo. Receberam o recado?
-
-107
-00:10:40,238 --> 00:10:41,281
-Conseguimos!
-
-108
-00:10:42,115 --> 00:10:43,950
-- Estão fedendo.
-- Nós sabemos.
-
-109
-00:10:44,034 --> 00:10:45,160
-Onde estamos?
-
-110
-00:10:45,243 --> 00:10:47,162
-A duas horas da curva.
-
-111
-00:10:47,245 --> 00:10:48,955
-Temos que fazer o desvio.
-
-112
-00:10:49,539 --> 00:10:50,790
-Alex está conosco.
-
-113
-00:10:50,874 --> 00:10:53,168
-Está ajudando com Wilford lá na frente.
-
-114
-00:10:53,710 --> 00:10:54,710
-Tome.
-
-115
-00:10:56,087 --> 00:10:58,506
-Ben precisa saber que estamos prontos.
-
-116
-00:10:58,590 --> 00:11:00,091
-E como fazemos isso?
-
 117
-00:11:00,175 --> 00:11:01,593
-Me dê um instante.
+00:09:20,685 --> 00:09:22,853
+Não. Não confio naquela maluquice.
 
 118
-00:11:02,385 --> 00:11:03,385
-Por favor.
+00:09:24,730 --> 00:09:26,732
+Fica no camarote de baixo.
 
 119
-00:11:05,138 --> 00:11:06,222
-Vai ser sinistro.
+00:09:34,573 --> 00:09:37,368
+É meio azul. Parecem verdes.
 
 120
-00:11:08,516 --> 00:11:09,684
-Veja só.
+00:10:24,665 --> 00:10:27,460
+Meu Deus!
 
 121
-00:11:12,479 --> 00:11:15,315
-Que bela vida Wilford tem aqui.
+00:10:28,127 --> 00:10:29,045
+Acalme-se.
 
 122
-00:11:16,483 --> 00:11:17,692
-Tem um palácio.
+00:10:29,128 --> 00:10:30,129
+Meu Deus!
 
 123
-00:11:23,615 --> 00:11:25,116
-Jesus amado.
+00:10:30,880 --> 00:10:31,756
+Respire fundo.
 
 124
-00:11:39,464 --> 00:11:40,465
-Você primeiro.
+00:10:31,839 --> 00:10:34,592
+É só a Hospitalidade... a matar um homem.
 
 125
-00:11:47,639 --> 00:11:48,639
-Tudo bem?
+00:10:35,509 --> 00:10:36,594
+Chamou-nos, certo?
 
 126
-00:11:50,475 --> 00:11:51,475
-Sim?
+00:10:37,303 --> 00:10:39,805
+Caraças, funcionou. Receberam o bilhete?
 
 127
-00:11:51,851 --> 00:11:52,851
-Agora mexa.
+00:10:40,890 --> 00:10:41,932
+Conseguimos!
 
 128
-00:11:54,354 --> 00:11:55,563
-Devagar.
+00:10:42,767 --> 00:10:44,602
+- Cheiram mal.
+- Nós sabemos.
 
 129
-00:11:55,647 --> 00:11:56,773
-Está bem.
+00:10:44,685 --> 00:10:45,811
+Onde estamos?
 
 130
-00:12:02,570 --> 00:12:03,947
-Rock and roll.
+00:10:45,895 --> 00:10:47,813
+Estamos a duas horas da curva.
 
 131
-00:12:05,240 --> 00:12:06,950
-- Gire o pulso.
-- Sim.
+00:10:47,897 --> 00:10:49,607
+Temos de fazer aquela curva.
 
 132
-00:12:08,993 --> 00:12:10,995
-Certo, está ficando boa.
+00:10:50,191 --> 00:10:51,442
+A Alex está connosco.
 
 133
-00:12:12,664 --> 00:12:14,082
-Funciona fora?
+00:10:51,525 --> 00:10:53,819
+Trata do Wilford na frente do comboio.
 
 134
-00:12:14,165 --> 00:12:15,165
-É pra isso.
+00:10:54,361 --> 00:10:55,279
+Aqui tem.
 
 135
-00:12:15,667 --> 00:12:17,001
-É a nova Bob do Gelo.
+00:10:56,739 --> 00:10:59,158
+O Ben tem de saber
+que podemos ir buscar a Melanie.
 
 136
-00:12:19,963 --> 00:12:21,715
-Quase morri no frio.
+00:10:59,241 --> 00:11:00,743
+Ótimo. Como fazemos isso?
 
 137
-00:12:22,549 --> 00:12:25,760
-Quando aconteceu,
-senti minha pele rachar e esticar.
+00:11:00,826 --> 00:11:02,244
+Dê-me um momento.
 
 138
-00:12:27,220 --> 00:12:29,013
-Sim, fiquei com muito medo.
+00:11:03,037 --> 00:11:03,996
+Por favor.
 
 139
-00:12:31,975 --> 00:12:32,976
-Mas agora…
+00:11:05,790 --> 00:11:06,874
+Isto vai ser mau.
 
 140
-00:12:35,270 --> 00:12:38,148
-Agora quero ir lá fora.
+00:11:09,168 --> 00:11:10,336
+Vejam isto tudo.
 
 141
-00:12:39,524 --> 00:12:40,859
-Ver o que consigo fazer.
+00:11:13,130 --> 00:11:15,966
+O Sr. Wilford arranjou aqui uma boa vida.
 
 142
-00:12:43,570 --> 00:12:45,321
-A saída da Melanie foi inútil.
+00:11:17,134 --> 00:11:18,344
+O seu próprio palácio.
 
 143
-00:12:46,406 --> 00:12:47,406
-De novo?
+00:11:24,266 --> 00:11:25,768
+Deus do Céu!
 
 144
-00:12:48,283 --> 00:12:49,576
-Ela foi tola por ir.
+00:11:39,282 --> 00:11:40,283
+Faça favor, Ruth.
 
 145
-00:12:50,869 --> 00:12:52,912
-A equipe dela merecia punição,
+00:11:47,456 --> 00:11:48,291
+Certo?
 
 146
-00:12:52,996 --> 00:12:55,206
-e… eu também.
+00:11:50,293 --> 00:11:51,127
+Está bem?
 
 147
-00:12:57,041 --> 00:12:58,543
-Ela parece sincera?
+00:11:51,669 --> 00:11:52,586
+Agora, mova-o.
 
 148
-00:13:00,336 --> 00:13:01,337
-Acho que sim.
+00:11:54,171 --> 00:11:55,381
+Calma.
 
 149
-00:13:01,421 --> 00:13:02,630
-Sinto muito.
-
-150
-00:13:02,714 --> 00:13:03,548
-Joseph.
-
-151
-00:13:03,631 --> 00:13:05,383
-Não devia ter dito aquelas coisas,
-
-152
-00:13:05,467 --> 00:13:08,344
-vou me desculpar
-com a Srta. Audrey também.
-
-153
-00:13:09,637 --> 00:13:10,722
-Você voltou.
-
-154
-00:13:10,805 --> 00:13:12,557
-Sim, voltei, LJ.
-
-155
-00:13:12,640 --> 00:13:14,893
-Esperava que você pudesse me perdoar.
-
-156
-00:13:22,525 --> 00:13:23,525
+00:11:55,464 --> 00:11:56,590
 Está bem.
 
+150
+00:12:02,388 --> 00:12:03,764
+Rock and roll.
+
+151
+00:12:04,390 --> 00:12:06,100
+- Agora, rotação do pulso.
+- Sim.
+
+152
+00:12:08,144 --> 00:12:10,146
+Está a ficar bastante boa.
+
+153
+00:12:11,814 --> 00:12:13,232
+Funcionaria lá fora?
+
+154
+00:12:13,316 --> 00:12:14,233
+Deverá funcionar.
+
+155
+00:12:14,817 --> 00:12:16,152
+É a nova Bob Glacial.
+
+156
+00:12:19,113 --> 00:12:20,865
+Quase me mataram no frio.
+
 157
-00:13:23,985 --> 00:13:26,696
-Trouxe coisas da Terceira
-pro café da manhã.
+00:12:21,699 --> 00:12:24,911
+Quando isso aconteceu,
+senti a pele a rachar e a esticar.
 
 158
-00:13:28,615 --> 00:13:30,950
-Layton está vindo,
-vamos tomar a locomotiva.
+00:12:26,371 --> 00:12:28,164
+Sim, estava muito assustada.
 
 159
-00:13:34,454 --> 00:13:35,955
-Sykes está sempre com ele.
+00:12:31,125 --> 00:12:32,126
+Mas agora...
 
 160
-00:13:36,039 --> 00:13:38,374
-Qual o código de: "Vamos roubar o trem?"
+00:12:34,420 --> 00:12:37,298
+Agora... quero ir lá para fora.
 
 161
-00:13:38,458 --> 00:13:41,753
-Passei oito anos com o cara.
-Ele já devia me conhecer.
+00:12:38,674 --> 00:12:40,009
+Quero ver o que posso fazer.
 
 162
-00:13:43,338 --> 00:13:45,256
-<i>Snowpiercer,</i> aqui é <i>Big Alice.</i>
+00:12:42,720 --> 00:12:44,472
+A Melanie foi em missão condenada.
 
 163
-00:13:45,340 --> 00:13:46,591
-<i>Câmbio,</i> Big Alice.
+00:12:45,556 --> 00:12:46,391
+Outra vez?
 
 164
-00:13:47,383 --> 00:13:48,593
-Dia ocupado, Ben?
+00:12:47,433 --> 00:12:48,726
+Foi tola em partir.
 
 165
-00:13:49,511 --> 00:13:50,637
-- É?
-<i>- Será.</i>
+00:12:50,019 --> 00:12:52,063
+A equipa mereceu o castigo dela
 
 166
-00:13:51,721 --> 00:13:53,097
-<i>Vai sacudir aí.</i>
+00:12:52,146 --> 00:12:54,357
+e... eu também.
 
 167
-00:13:53,181 --> 00:13:55,475
-Lidar mostra obstruções na pista
+00:12:56,192 --> 00:12:57,693
+Ela parece-lhe sincera?
 
 168
-00:13:55,558 --> 00:13:59,521
-ao norte 52 graus,
-58 minutos, 35 segundos,
+00:12:59,487 --> 00:13:00,488
+Creio que sim.
 
 169
-00:13:59,604 --> 00:14:04,359
-<i>oeste 119 graus, 25 minutos, 28 segundos.</i>
+00:13:00,571 --> 00:13:01,781
+Peço desculpa.
 
 170
-00:14:08,279 --> 00:14:11,157
-- Tenho que verificar algo.
-<i>- Sim, verifique.</i>
+00:13:01,864 --> 00:13:02,698
+Joseph.
 
 171
-00:14:27,048 --> 00:14:28,967
-<i>Positivo. Coordenadas anotadas.</i>
+00:13:02,782 --> 00:13:04,534
+Não devia ter dito aquilo ao jantar
 
 172
-00:14:29,050 --> 00:14:30,051
-Ótimo.
+00:13:04,617 --> 00:13:07,495
+e certificar-me-ei
+de também pedir desculpa à Mna. Audrey.
 
 173
-00:14:30,760 --> 00:14:33,721
-Assumimos controle aqui.
+00:13:08,788 --> 00:13:09,872
+Voltaste.
 
 174
-00:14:33,805 --> 00:14:35,181
-<i>Preparar para impacto.</i>
+00:13:09,956 --> 00:13:11,707
+Sim, voltei, LJ.
 
 175
-00:14:36,808 --> 00:14:39,978
-Positivo. Preparar pra impacto.
-Nos falamos na aproximação.
+00:13:11,791 --> 00:13:14,043
+E esperava que também me perdoasses.
 
 176
-00:14:41,020 --> 00:14:43,147
-Ele entendeu. Eu sei que sim.
+00:13:21,676 --> 00:13:22,593
+Está bem.
 
 177
-00:14:43,231 --> 00:14:44,858
-Pronto para a defesa, Javi?
+00:13:23,136 --> 00:13:25,847
+Trouxe doces da Terceira Classe
+para o pequeno-almoço.
 
 178
-00:14:45,441 --> 00:14:46,776
-Seguro a onda.
+00:13:27,765 --> 00:13:30,101
+O Layton vem aí
+e vamos tomar a Locomotiva.
 
 179
-00:14:51,197 --> 00:14:53,199
-É um homem corajoso, Sr. De la Torre.
+00:13:33,604 --> 00:13:35,106
+A Sykes está sempre com ele.
 
 180
-00:14:53,283 --> 00:14:54,951
-Não diga isso, fico nervoso.
+00:13:35,189 --> 00:13:37,525
+Qual é o código
+para "Vamos roubar o comboio"?
 
 181
-00:14:55,034 --> 00:14:57,912
-Nossos amigos na fronteira
-vão levá-los pra frente.
+00:13:37,608 --> 00:13:40,903
+Passei oito anos com o tipo.
+Já me devia entender.
 
 182
-00:14:58,955 --> 00:15:00,707
+00:13:42,488 --> 00:13:44,407
+<i>Snowpiercer, fala o Big Alice.</i>
+
+183
+00:13:44,490 --> 00:13:45,741
+<i>À escuta, Big Alice.</i>
+
+184
+00:13:46,534 --> 00:13:47,743
+Dia atarefado, Ben?
+
+185
+00:13:48,661 --> 00:13:49,787
+<i>- É?
+- Vai ser.</i>
+
+186
+00:13:50,872 --> 00:13:52,248
+<i>Irás aos solavancos.</i>
+
+187
+00:13:52,331 --> 00:13:54,625
+O LIDAR mostra obstruções na via
+
+188
+00:13:54,709 --> 00:13:58,671
+a 52 graus, 58 minutos
+e 35 segundos norte,
+
+189
+00:13:58,754 --> 00:14:03,509
+<i>119 graus, 25 minutos e 28 segundos oeste.</i>
+
+190
+00:14:07,430 --> 00:14:10,308
+<i>- Tenho de verificar algo.
+- Verifica de novo, por favor.</i>
+
+191
+00:14:26,199 --> 00:14:28,117
+<i>Certo, Big Alice. Coordenadas anotadas.</i>
+
+192
+00:14:28,201 --> 00:14:29,202
+Ótimo.
+
+193
+00:14:29,911 --> 00:14:32,872
+Sabe que temos o controlo aqui, está bem?
+
+194
+00:14:32,955 --> 00:14:34,332
+<i>Preparamo-nos para impacto.</i>
+
+195
+00:14:35,958 --> 00:14:39,128
+Afirmativo. Preparem-se.
+Contactarei na aproximação.
+
+196
+00:14:40,171 --> 00:14:42,298
+Ele percebeu. Sei que sim.
+
+197
+00:14:42,381 --> 00:14:44,008
+Pronto para defender, Javi?
+
+198
+00:14:44,592 --> 00:14:45,927
+Faço-o o tempo suficiente.
+
+199
+00:14:50,348 --> 00:14:52,350
+É corajoso, Sr. De la Torre.
+
+200
+00:14:52,433 --> 00:14:54,101
+Não diga isso, põe-me nervoso.
+
+201
+00:14:54,185 --> 00:14:57,063
+Os nossos amigos na fronteira
+têm de vos levar para a frente.
+
+202
+00:14:58,105 --> 00:14:59,857
 - Obrigado.
 - Boa sorte.
 
-183
-00:15:25,815 --> 00:15:26,815
-Tudo a bordo?
-
-184
-00:15:27,317 --> 00:15:28,317
-Aguente firme.
-
-185
-00:15:47,754 --> 00:15:49,047
-Surpresa dupla.
-
-186
-00:15:49,589 --> 00:15:52,008
-Engenheiro Boscovic, que bom vê-lo.
-
-187
-00:15:52,091 --> 00:15:53,091
-Obrigado.
-
-188
-00:15:54,093 --> 00:15:55,345
-Bom ver você, mano.
-
-189
-00:15:55,428 --> 00:15:56,596
-Como está o Fundo?
-
-190
-00:15:56,679 --> 00:15:58,389
-Segurando as pontas.
-
-191
-00:15:58,473 --> 00:16:01,226
-Acredita nisso, eu com o Fundo?
-
-192
-00:16:01,309 --> 00:16:03,269
-Culpa do filho da puta do Wilford.
-
-193
-00:16:03,895 --> 00:16:06,731
-A casa vai cair pro filho da puta.
-
-194
-00:16:06,814 --> 00:16:08,358
-É um parque de diversões?
-
-195
-00:16:09,150 --> 00:16:10,401
-Vamos buscar a Melanie.
-
-196
-00:16:10,985 --> 00:16:13,613
-Peguem a trilha teste
-das Montanhas Rochosas.
-
-197
-00:16:13,696 --> 00:16:16,574
-- Exato.
-- Protege a câmara de saída, o meio?
-
-198
-00:16:19,619 --> 00:16:21,412
-Perfeito, traremos a Melanie,
-
-199
-00:16:21,496 --> 00:16:24,624
-avisamos pelo áudio
-e o trem saberá que ela está viva.
-
-200
-00:16:24,707 --> 00:16:27,293
-Beleza, vamos ao ataque.
-
-201
-00:16:27,961 --> 00:16:30,713
-Vocês ouviram. Ao ataque.
-
-202
-00:16:33,049 --> 00:16:35,635
-Eu ofereceria, mas escutaria pra cacete.
-
 203
-00:16:36,219 --> 00:16:39,180
-Joseph acha que um gole
-transforma o feto num girino.
+00:15:24,966 --> 00:15:25,883
+Todos a bordo?
 
 204
-00:16:41,933 --> 00:16:43,434
-Ele se interessa por você.
+00:15:26,467 --> 00:15:27,426
+Mantenham-se firmes.
 
 205
-00:16:43,518 --> 00:16:45,603
-Deveria ver isso como algo bom.
+00:15:46,904 --> 00:15:48,197
+Veja, uma gema dupla.
 
 206
-00:16:45,687 --> 00:16:47,397
-Nem reconheço você.
+00:15:48,739 --> 00:15:51,158
+Brecheiro Boscovic, que bom vê-lo.
 
 207
-00:16:49,315 --> 00:16:50,483
-Estou tentando ajudar.
-
-208
-00:16:51,025 --> 00:16:53,111
-Acha que tem vantagem, mas não tem.
-
-209
-00:16:53,194 --> 00:16:55,321
-Ele não precisa de você, Zarah,
-
-210
-00:16:55,405 --> 00:16:56,531
-só do seu útero.
-
-211
-00:16:57,156 --> 00:16:59,367
-Os Headwood podem tirar você da jogada.
-
-212
-00:16:59,450 --> 00:17:02,120
-Audrey, não precisa ser marionete dele.
-
-213
-00:17:02,203 --> 00:17:04,956
-Minha nossa, somos as mesmas de sempre.
-
-214
-00:17:05,039 --> 00:17:07,417
-"Sobreviver, sobreviver, sobreviver."
-
-215
-00:17:12,922 --> 00:17:13,965
-O que você quer?
-
-216
-00:17:15,258 --> 00:17:16,342
-Merda!
-
-217
-00:17:16,884 --> 00:17:18,219
-Bess?
-
-218
-00:17:18,761 --> 00:17:20,888
-Layton virá.
-Estamos tomando as locomotivas.
-
-219
-00:17:20,972 --> 00:17:22,682
-- O quê?
-- Me ajude.
-
-220
-00:17:23,516 --> 00:17:24,559
-Vamos lá.
-
-221
-00:17:31,107 --> 00:17:33,234
-TROCA DE PISTA À FRENTE
-
-222
-00:17:43,619 --> 00:17:45,079
-Vamos, preciso de mapas.
-
-223
-00:17:45,163 --> 00:17:46,497
-Preciso de mapas.
-
-224
-00:17:47,040 --> 00:17:48,374
-Use o satélite.
-
-225
-00:17:48,458 --> 00:17:50,335
-Não, o sinal é ruim aqui.
-
-226
-00:17:50,418 --> 00:17:51,961
-Preciso de papéis.
-
-227
-00:17:52,545 --> 00:17:53,546
-Posso pegar o mapa?
-
-228
-00:18:00,178 --> 00:18:02,889
-Não faça nada estúpido.
-Não quero te machucar.
-
-229
-00:18:03,681 --> 00:18:04,849
-Já usou um?
-
-230
-00:18:07,268 --> 00:18:08,268
-É um taco.
-
-231
-00:18:08,311 --> 00:18:09,311
-Eu te mostro.
-
-232
-00:18:41,094 --> 00:18:44,097
-{\an8}AVISO - PROIBIDA A ENTRADA
-FRIO EXTREMO
-
-233
-00:19:29,058 --> 00:19:31,894
-<i>Javi, está feito. Fizemos a curva.</i>
-
-234
-00:19:47,410 --> 00:19:49,036
-Snowpiercer, <i>câmbio.</i>
-
-235
-00:19:49,120 --> 00:19:51,789
-Layton, estamos subindo
-pro local de coleta.
-
-236
-00:19:52,415 --> 00:19:54,917
-Chegaremos à estação de pesquisa
-em dez minutos.
-
-237
-00:19:55,001 --> 00:19:56,836
-<i>Estamos na câmara de saída.</i>
-
-238
-00:19:56,919 --> 00:19:58,045
-Aguardando.
-
-239
-00:19:58,880 --> 00:20:01,466
-Acha que Wilford não vai perceber a curva?
-
-240
-00:20:01,549 --> 00:20:02,884
-Silêncio.
-
-241
-00:20:02,967 --> 00:20:05,219
-É uma pista de teste, é irregular.
-
-242
-00:20:05,803 --> 00:20:07,138
-Ele vai sentir.
-
-243
-00:20:08,473 --> 00:20:11,100
-Javi, estou acelerando pra subir.
-
-244
-00:20:11,184 --> 00:20:12,560
-Devagar e sempre.
-
-245
-00:20:16,522 --> 00:20:17,648
+00:15:51,242 --> 00:15:52,118
 Obrigado.
 
-246
-00:20:22,570 --> 00:20:23,570
-Alex?
-
-247
-00:20:24,030 --> 00:20:25,364
-Vou checar a Locomotiva.
-
-248
-00:20:28,826 --> 00:20:31,454
-Locomotiva. Wilford quer saber seu status.
-
-249
-00:20:32,538 --> 00:20:33,538
-Olá, Alex.
-
-250
-00:20:34,749 --> 00:20:36,709
-<i>- Ele está vendo você?</i>
-- Positivo.
-
-251
-00:20:38,878 --> 00:20:40,046
-Mantenha-o ocupado.
-
-252
-00:20:40,630 --> 00:20:42,006
-Não vamos demorar.
-
-253
-00:20:42,590 --> 00:20:43,841
-Positivo.
-
-254
-00:20:45,927 --> 00:20:48,346
-Avalanche de detritos, não se preocupe.
-
-255
-00:20:51,224 --> 00:20:53,059
-Sabe, vi sua mãe fazer isso.
-
-256
-00:20:56,270 --> 00:20:57,730
-Ligar pra Locomotiva.
-
-257
-00:21:00,149 --> 00:21:01,149
-Uma falcatrua.
-
-258
-00:21:26,467 --> 00:21:29,262
-Mande homens às locomotivas,
-prontos pra arrombar.
-
-259
-00:21:29,971 --> 00:21:31,597
-Mandarei ordens do <i>Big Alice.</i>
-
-260
-00:21:31,681 --> 00:21:32,723
-Traga-a conosco.
-
-261
-00:21:42,900 --> 00:21:44,026
-Ele sabe.
-
-262
-00:21:44,110 --> 00:21:45,110
-É cedo demais.
-
-263
-00:21:48,573 --> 00:21:49,740
-<i>Aí vêm eles, Javi.</i>
-
-264
-00:21:49,824 --> 00:21:51,617
-Agora só temos que contê-los.
-
-265
-00:21:51,701 --> 00:21:54,412
-Falar é fácil. Sua porta é mais grossa.
-
-266
-00:21:55,037 --> 00:21:58,082
-Seja lá o que acontecer,
-você é um ótimo maquinista.
-
-267
-00:22:00,376 --> 00:22:02,253
-Um dos três melhores do mundo.
-
-268
-00:22:06,966 --> 00:22:08,926
-Tire-a da minha frente!
-
-269
-00:22:17,393 --> 00:22:19,312
-Vamos lá.
-
-270
-00:22:24,066 --> 00:22:25,067
-Vamos.
-
-271
-00:22:37,038 --> 00:22:38,080
-Tragam um cortador.
-
-272
-00:22:43,169 --> 00:22:44,337
-Traga minha cadela.
-
-273
-00:22:49,759 --> 00:22:51,552
-Passamos do local de coleta.
-
-274
-00:22:52,553 --> 00:22:54,013
-Nenhum sinal da Melanie.
-
-275
-00:22:54,597 --> 00:22:57,850
-Não está na hora.
-Dê uma chance, ela vai chegar.
-
-276
-00:22:57,933 --> 00:23:00,269
-Diminuí para 25km/h.
-
-277
-00:23:00,853 --> 00:23:03,731
-<i>Diminuo mais
-quando chegar no local de coleta.</i>
-
-278
-00:23:07,568 --> 00:23:08,694
-Fique de olho aberto.
-
-279
-00:23:10,154 --> 00:23:11,155
-Vamos.
-
-280
-00:23:24,710 --> 00:23:25,710
-Boa garota.
-
-281
-00:23:35,930 --> 00:23:37,139
-Vamos, por favor.
-
-282
-00:23:38,557 --> 00:23:41,018
-Vamos, por favor.
-
-283
-00:23:43,437 --> 00:23:45,481
-<i>Snowpiercer, </i>na escuta?
-
-284
-00:23:48,901 --> 00:23:51,737
-Lá está ela!
-Não é tarde demais, eu a vejo!
-
-285
-00:23:51,821 --> 00:23:52,821
-Sim. Está bem.
-
-286
-00:23:54,240 --> 00:23:55,240
-Vamos.
-
-287
-00:24:09,338 --> 00:24:10,423
-Não!
-
-288
-00:24:12,550 --> 00:24:13,592
-Sim.
-
-289
-00:24:25,146 --> 00:24:26,856
-Parem!
-
-290
-00:24:36,157 --> 00:24:38,868
-Não pode me matar. Precisa de maquinistas.
-
-291
-00:24:47,585 --> 00:24:48,627
-Ataque!
-
-292
-00:24:55,217 --> 00:24:56,427
-Pare!
-
-293
-00:25:05,019 --> 00:25:06,395
-Estamos acelerando.
-
-294
-00:25:12,902 --> 00:25:15,905
-Vocês têm que diminuir a velocidade!
-Ouviram?
-
-295
-00:25:17,531 --> 00:25:18,532
-Parem!
-
-296
-00:25:19,492 --> 00:25:21,619
-Javi, diminua, está rápido demais.
-
-297
-00:25:23,787 --> 00:25:24,787
-Javi?
-
-298
-00:25:26,248 --> 00:25:27,541
-Javi, está na escuta?
-
-299
-00:25:28,417 --> 00:25:29,417
-Javi?
-
-300
-00:25:30,419 --> 00:25:32,671
-<i>Não, Bennett, sou eu.</i>
-
-301
-00:25:40,930 --> 00:25:43,015
-<i>Pode frear o quanto quiser, filho.</i>
-
-302
-00:25:43,599 --> 00:25:45,142
-Eu tenho mais torque.
-
-303
-00:25:46,560 --> 00:25:48,062
-E tenho embalo.
-
-304
-00:25:56,195 --> 00:26:00,574
-É só empurrar até o pico
-e a gravidade fará o resto.
-
-305
-00:26:02,576 --> 00:26:03,576
-Pare!
-
-306
-00:26:05,204 --> 00:26:08,457
-Pare! Os freios não aguentam isso.
-Superaquecendo.
-
-307
-00:26:08,541 --> 00:26:09,583
-Vamos, <i>Alice.</i>
-
-308
-00:26:14,964 --> 00:26:15,965
-Não consigo segurar!
-
-309
-00:26:16,674 --> 00:26:18,676
-Ele vai nos empurrar pra descida.
-
-310
-00:26:28,185 --> 00:26:31,522
-Mãe!
-
-311
-00:26:34,984 --> 00:26:35,984
-Até mais.
-
-312
-00:26:51,625 --> 00:26:52,625
-Mãe!
-
-313
-00:26:55,546 --> 00:26:56,546
-Mãe.
-
-314
-00:27:08,350 --> 00:27:10,477
-Por favor, vire o trem.
-
-315
-00:27:10,561 --> 00:27:12,813
-Ela sobreviveu e tem dados científicos.
-
-316
-00:27:12,896 --> 00:27:13,897
-Sim.
-
-317
-00:27:13,981 --> 00:27:16,525
-Vamos fingir que se trata de ciência.
-
-318
-00:27:16,609 --> 00:27:18,485
-Todos merecem saber a descoberta.
-
-319
-00:27:18,569 --> 00:27:19,945
-Bobagem! Uma fantasia!
-
-320
-00:27:22,156 --> 00:27:24,033
-Ela não aceitou a verdade
-
-321
-00:27:24,116 --> 00:27:27,202
-que salvei a vida dela, a sua e de todos!
-
-322
-00:27:27,828 --> 00:27:30,831
-Parte meu coração vê-los caindo
-no jogo dela.
-
-323
-00:27:30,914 --> 00:27:33,917
-Que, depois de tudo,
-é mais parecida com ela do que comigo.
-
-324
-00:27:34,585 --> 00:27:37,004
-Não é verdade. Pareço com os dois.
-
-325
-00:27:37,087 --> 00:27:38,087
-Não.
-
-326
-00:27:38,922 --> 00:27:41,550
-Você é só uma ferramenta
-que peguei no caminho.
-
-327
-00:27:41,634 --> 00:27:43,010
-Não diga isso.
-
-328
-00:27:43,093 --> 00:27:46,263
-Uma alavanca útil
-para afastar sua mãe de vez.
-
-329
-00:27:46,347 --> 00:27:47,973
-E você fez o seu trabalho.
-
-330
-00:27:49,266 --> 00:27:51,435
-Vá ficar com ela lá fora.
-
-331
-00:27:54,396 --> 00:27:56,732
-Você nunca será um líder como ela.
-
-332
-00:28:13,540 --> 00:28:14,541
-Ei!
-
-333
-00:28:17,461 --> 00:28:18,504
-Lá vamos nós.
-
-334
-00:28:18,587 --> 00:28:21,340
-Devagar. Levante-se. Isso mesmo.
-
-335
-00:28:21,423 --> 00:28:23,008
-Temos que desinfetar a ferida.
-
-336
-00:28:23,550 --> 00:28:25,386
-- Certo.
-- Deem um jeito.
-
-337
-00:28:25,469 --> 00:28:26,970
-Vamos dar uma olhada.
-
-338
-00:28:27,054 --> 00:28:29,390
-Vamos dar pontos. Abaixe a mão.
-
-339
-00:28:30,265 --> 00:28:31,265
-Ótimo.
-
-340
-00:28:32,267 --> 00:28:36,063
-Vamos tentar… Tente ficar bem… parado.
-
-341
-00:28:36,146 --> 00:28:37,314
-- Tudo bem.
-- Ótimo.
-
-342
-00:28:40,818 --> 00:28:44,363
-Isso. Pronto.
-
-343
-00:29:12,391 --> 00:29:14,184
-- É você.
-- Você voltou.
-
-344
-00:29:15,018 --> 00:29:17,479
-Vamos achar Ruth e definir o que fazer.
-
-345
-00:29:17,563 --> 00:29:18,981
-Há como salvar Melanie.
-
-346
-00:29:20,607 --> 00:29:21,608
-Diga no caminho.
-
-347
-00:29:27,865 --> 00:29:30,451
-Quer cortar a cabeça do <i>Snowpiercer?</i>
-
-348
-00:29:30,534 --> 00:29:31,410
-Alex?
-
-349
-00:29:31,493 --> 00:29:34,329
-Tomaremos a locomotiva com vagões
-pra Melanie.
-
-350
-00:29:34,413 --> 00:29:36,457
-Será rápido e a traremos para reconectar.
-
-351
-00:29:36,540 --> 00:29:38,042
-Quê? E deixar todos?
-
-352
-00:29:38,125 --> 00:29:40,586
-<i>Big Alice </i>consegue manter
-os sistemas ativos.
-
-353
-00:29:40,669 --> 00:29:41,712
-Wilford ficou preso
-
-354
-00:29:41,795 --> 00:29:43,630
-a um trem lento que podemos passar.
-
-355
-00:29:43,714 --> 00:29:45,924
-Não se desconecta em confinamento.
-
-356
-00:29:47,259 --> 00:29:51,972
-Temos um vagão
-que pode ser desativado manualmente.
-
-357
-00:29:52,056 --> 00:29:53,098
-O Aquário.
-
-358
-00:29:53,182 --> 00:29:55,434
-Um ponto fraco, designado pra descarte
-
-359
-00:29:55,517 --> 00:29:56,852
-mesmo em confinamento.
-
-360
-00:29:57,895 --> 00:29:58,895
-Separando ali,
-
-361
-00:29:59,354 --> 00:30:01,356
-teremos um trem pirata com dez vagões.
-
-362
-00:30:07,279 --> 00:30:10,240
-Está bem. Tudo pronto.
-
-363
-00:30:14,286 --> 00:30:15,496
-Formação na fronteira.
-
-364
-00:30:16,955 --> 00:30:18,791
-- Depressa!
-- Sim, senhor.
-
-365
-00:30:19,374 --> 00:30:21,210
-Vamos vasculhar o trem todo.
-
-366
-00:30:23,921 --> 00:30:24,921
-Gelada!
-
-367
-00:30:26,173 --> 00:30:27,257
-É seu grande dia.
-
-368
-00:30:27,800 --> 00:30:31,053
-Vai retomar a minha locomotiva.
-Quero que vá à frente,
-
-369
-00:30:31,136 --> 00:30:32,679
-entre no vagão
-
-370
-00:30:32,763 --> 00:30:34,973
-e congele as bolas do Ben.
-
-371
-00:30:35,057 --> 00:30:36,683
-Ela não está pronta.
-
-372
-00:30:36,767 --> 00:30:38,560
-Ela não sobreviverá…
-
-373
-00:30:38,644 --> 00:30:40,395
-Então por que a fizemos?
-
-374
-00:30:41,605 --> 00:30:42,731
-Mandem-na pra frente.
-
-375
-00:30:45,442 --> 00:30:46,485
-Postigo trancado.
-
-376
-00:30:47,611 --> 00:30:50,447
-Se quiser voltar, é pela locomotiva.
-
-377
-00:30:52,324 --> 00:30:53,408
-Imediatamente.
-
-378
-00:30:55,244 --> 00:30:57,454
-Se não fizermos nada pelo Novo Éden agora,
-
-379
-00:30:57,538 --> 00:30:59,331
-já era. É o mundo de Wilford.
-
-380
-00:30:59,414 --> 00:31:02,334
-- Deixaríamos todos à mercê dele.
-- Temos proteção.
-
-381
-00:31:02,960 --> 00:31:05,129
-Ótimo, Audrey é a refém?
-
-382
-00:31:05,212 --> 00:31:07,256
-Vamos trazer alguém que queremos?
-
-383
-00:31:07,339 --> 00:31:10,217
-Ben, Alex, Boki.
-Dois maquinistas e um engenheiro.
-
-384
-00:31:10,300 --> 00:31:12,719
-Ruth vai nos encontrar no Aquário agora.
-
-385
-00:31:12,803 --> 00:31:14,138
-Não é conforme os planos.
-
-386
-00:31:14,221 --> 00:31:15,264
-Eu sei.
-
-387
-00:31:16,515 --> 00:31:19,560
-Desculpem,
-mas estou totalmente comprometido.
-
-388
-00:31:23,188 --> 00:31:24,188
-Merda.
-
-389
-00:31:25,399 --> 00:31:26,399
-Eu também.
-
-390
-00:31:28,485 --> 00:31:30,237
-Com o nosso filho, Andre, não vou.
-
-391
-00:31:30,320 --> 00:31:33,532
-- É melhor eu ficar aqui.
-- Zarah, Wilford sabe.
-
-392
-00:31:34,783 --> 00:31:36,869
-Vou preparar a Audrey.
-
-393
-00:31:36,952 --> 00:31:38,412
-Sinto muito, Zarah.
-
-394
-00:31:40,205 --> 00:31:41,748
-Não posso deixá-la aqui.
-
-395
-00:31:41,832 --> 00:31:43,750
-Não assim, por favor. Venha conosco.
-
-396
-00:31:43,834 --> 00:31:46,128
-Wilford me quer num pedestal.
-
-397
-00:31:47,546 --> 00:31:48,714
-Sobrevivo a isso.
-
-398
-00:31:49,548 --> 00:31:50,924
-Vai precisar de mim aqui
-
-399
-00:31:51,675 --> 00:31:53,177
-quando você voltar.
-
-400
-00:32:10,068 --> 00:32:11,653
-Volto para pegá-la, Zarah.
-
-401
-00:32:21,288 --> 00:32:22,956
-Lembre-se da respiração.
-
-402
-00:32:23,040 --> 00:32:24,583
-Calma e mexa-se devagar.
-
-403
-00:32:25,459 --> 00:32:28,754
-Esperem. Por favor.
-Você disse que não estou pronta.
-
-404
-00:32:28,837 --> 00:32:30,088
-Siga as ordens de Wilford.
-
-405
-00:32:30,172 --> 00:32:32,007
-Entre na locomotiva e volte.
-
-406
-00:32:32,090 --> 00:32:33,467
-Estaremos aqui para curá-la.
-
-407
-00:32:34,468 --> 00:32:35,468
-O que é isso?
-
-408
-00:32:35,510 --> 00:32:38,222
-Lança pneumática. A munição vai aqui.
-
-409
-00:32:39,139 --> 00:32:40,432
-Arma assim.
-
-410
-00:32:40,515 --> 00:32:42,267
-Ativa… no impacto.
-
-411
-00:32:42,935 --> 00:32:44,019
-Você ficará bem.
-
-412
-00:32:45,896 --> 00:32:46,897
-Sinto muito.
-
-413
-00:32:55,781 --> 00:32:57,699
-Está nas suas mãos agora.
-
-414
-00:33:19,972 --> 00:33:21,348
-Alguém vai sair.
-
-415
-00:33:22,349 --> 00:33:25,060
-É a Gelada do Wilford.
-Uma fundista em quem trabalhou.
-
-416
-00:33:26,270 --> 00:33:27,646
-Fala da Josie?
-
-417
-00:33:40,492 --> 00:33:42,703
-Ela vai entrar na locomotiva e nos matar.
-
-418
-00:33:46,373 --> 00:33:47,749
-Ela nunca faria isso.
-
-419
-00:33:47,833 --> 00:33:49,543
-LIGADO
-
-420
-00:33:50,877 --> 00:33:51,877
-Josie.
-
-421
-00:33:52,421 --> 00:33:53,588
-<i>Josie, está na escuta?</i>
-
-422
-00:33:55,007 --> 00:33:56,007
-Quem é?
-
-423
-00:33:56,049 --> 00:33:57,801
-<i>Maquinista-chefe do </i>Snowpiercer.
-
-424
-00:33:57,884 --> 00:33:59,428
-Tenho controle da locomotiva.
-
-425
-00:34:02,097 --> 00:34:03,473
-Vamos precisar da sua ajuda.
-
-426
-00:34:24,911 --> 00:34:25,911
-Pare.
-
-427
-00:34:28,165 --> 00:34:29,166
-Está bem.
-
-428
-00:34:30,876 --> 00:34:32,377
-Cadê seu famoso exército?
-
-429
-00:34:34,546 --> 00:34:35,630
-Não vim pra lutar.
-
-430
-00:34:36,214 --> 00:34:37,214
-Não?
-
-431
-00:34:38,175 --> 00:34:40,260
-Esse machado é só pra conversar?
-
-432
-00:34:46,224 --> 00:34:47,601
-LIBERAR ALAVANCA
-
-433
-00:34:50,354 --> 00:34:53,106
-Desconectando o primeiro controle manual.
-
-434
-00:34:56,860 --> 00:34:58,987
-AQUÁRIO - VAGÃO DA PRIMEIRA CLASSE
-
-435
-00:35:00,405 --> 00:35:01,448
-Positivo, Boki.
-
-436
-00:35:02,074 --> 00:35:04,409
-<i>Layton vai enrolá-los o máximo possível.</i>
-
-437
-00:35:06,161 --> 00:35:08,246
-SECRETARIA
-
-438
-00:35:13,877 --> 00:35:15,587
-Senti cheiro de compostagem.
-
-439
-00:35:21,009 --> 00:35:22,719
+208
+00:15:53,244 --> 00:15:54,495
+É bom ver-te, mano.
+
+209
+00:15:54,579 --> 00:15:55,746
+Como está a Cauda?
+
+210
+00:15:55,830 --> 00:15:57,540
+Ainda agarrada ao bairro.
+
+211
+00:15:57,623 --> 00:16:00,376
+Acredita nisto, eu com a Cauda?
+
+212
+00:16:00,459 --> 00:16:02,420
+Devido ao estupor do Wilford.
+
+213
+00:16:03,045 --> 00:16:05,882
+O estupor do Wilford
+vai passar-se dos carretos.
+
+214
+00:16:05,965 --> 00:16:07,508
+Isto é um carnaval?
+
+215
+00:16:08,301 --> 00:16:09,552
 Vamos buscar a Melanie.
 
-440
-00:35:24,679 --> 00:35:26,264
-Perdeu a sua chance, filho.
+216
+00:16:10,136 --> 00:16:12,763
+Querem atravessar as Montanhas Rochosas.
 
-441
-00:35:26,348 --> 00:35:28,100
-Melanie ficou muito pra trás.
+217
+00:16:12,847 --> 00:16:15,725
+- Exatamente.
+- Protege uma câmara fria a meio?
 
-442
-00:35:32,187 --> 00:35:35,232
-- Você não vem.
-- Não?
+218
+00:16:18,769 --> 00:16:20,563
+Perfeito. Trazemos a Melanie para cá,
 
-443
-00:35:46,493 --> 00:35:47,619
-Certo, vão.
+219
+00:16:20,646 --> 00:16:23,774
+pomo-la no Altifalante
+e o comboio todo saberá que está viva.
 
-444
-00:35:48,453 --> 00:35:49,453
-Vão.
+220
+00:16:23,858 --> 00:16:26,444
+Tudo bem, vamos lá fazer um golpe.
 
-445
-00:35:55,085 --> 00:35:56,211
-Me deixe sair?
+221
+00:16:27,111 --> 00:16:29,864
+Ouviram o homem. Vamos lá fazer um golpe.
 
-446
-00:35:56,294 --> 00:35:57,546
-Me dê o uniforme…
+222
+00:16:32,199 --> 00:16:34,785
+Oferecia-lhe uma,
+mas não deixaria de o ouvir.
 
-447
-00:35:58,171 --> 00:35:59,589
-ou pegarei à força.
+223
+00:16:35,369 --> 00:16:38,331
+O Joseph acha que um gole
+transformaria o feto num girino.
 
-448
-00:36:01,925 --> 00:36:04,261
-Está bem. Você venceu.
+224
+00:16:41,083 --> 00:16:42,585
+Ele interessou-se por si.
 
-449
-00:36:28,368 --> 00:36:30,412
-Comporte-se enquanto estivermos fora.
+225
+00:16:42,668 --> 00:16:44,754
+Devia ver isso como uma coisa boa.
 
-450
-00:36:30,954 --> 00:36:34,374
-Sem vingança, nem represália.
-Não encoste nessas pessoas.
+226
+00:16:44,837 --> 00:16:46,547
+Nem sequer a reconheço.
 
-451
-00:36:38,170 --> 00:36:39,170
-Audrey…
+227
+00:16:48,466 --> 00:16:49,634
+Tento ajudá-la.
 
-452
-00:36:42,174 --> 00:36:44,050
-Escolheu o seu destino, Bess Till.
+228
+00:16:50,176 --> 00:16:52,261
+Acha que tem vantagem, mas não tem.
 
-453
-00:36:44,134 --> 00:36:45,635
-Não é a primeira vez.
+229
+00:16:52,345 --> 00:16:54,472
+Ele não precisa de si, Zarah,
 
-454
-00:36:48,555 --> 00:36:49,723
-Ruth não conseguiu.
+230
+00:16:54,555 --> 00:16:55,681
+só do seu ventre.
 
-455
-00:36:52,392 --> 00:36:54,561
-Ela é nossa garantia
-da segurança de Zarah.
+231
+00:16:56,307 --> 00:16:58,517
+Os Headwood podem livrar-se de si.
 
-456
-00:36:55,479 --> 00:36:57,522
-Afastem-se! Todos para trás.
+232
+00:16:58,601 --> 00:17:01,270
+Audrey, não tem de ser o joguete dele.
 
-457
-00:37:05,030 --> 00:37:06,114
-Afastem-se.
+233
+00:17:01,354 --> 00:17:04,106
+Céus, somos iguais ao que sempre fomos.
 
-458
-00:37:15,040 --> 00:37:16,750
-Alex sabia de tudo.
+234
+00:17:04,190 --> 00:17:06,567
+"Sobreviver, sobreviver, sobreviver."
 
-459
-00:37:18,877 --> 00:37:21,046
-Quem está lá embaixo com a chave?
+235
+00:17:12,073 --> 00:17:13,115
+O que quer?
 
-460
-00:37:30,055 --> 00:37:31,223
-<i>Boki, câmbio.</i>
+236
+00:17:14,408 --> 00:17:15,493
+Merda!
 
-461
-00:37:33,141 --> 00:37:34,434
-<i>Boki, está na escuta?</i>
+237
+00:17:16,035 --> 00:17:17,370
+Bess?
 
-462
-00:37:44,319 --> 00:37:45,362
-<i>Boki?</i>
+238
+00:17:17,912 --> 00:17:20,039
+O Layton vem aí.
+Vamos tomar as Locomotivas.
 
-463
-00:37:46,363 --> 00:37:47,364
-Boki, está na escuta?
+239
+00:17:20,122 --> 00:17:21,832
+- O quê?
+- Ajude-me.
 
-464
-00:37:47,447 --> 00:37:49,074
-O que está acontecendo aí?
+240
+00:17:22,667 --> 00:17:23,709
+Vamos.
 
-465
-00:38:00,919 --> 00:38:03,171
-Achou que eu deixaria desconectar?
+241
+00:17:30,257 --> 00:17:32,385
+APROXIMAÇÃO DE BIFURCAÇÃO
 
-466
-00:38:04,256 --> 00:38:06,049
-Volte ou vou matá-la!
+242
+00:17:42,770 --> 00:17:44,230
+Tenho de ir buscar mapas.
 
-467
-00:38:06,132 --> 00:38:06,967
-Então mate-a!
+243
+00:17:44,313 --> 00:17:45,648
+Tenho de ir buscar mapas.
 
-468
-00:38:07,050 --> 00:38:09,761
-- Não!
-- Faça diante de Deus e dos peixes.
+244
+00:17:46,190 --> 00:17:47,525
+Tem? Use o satélite.
 
-469
-00:38:10,595 --> 00:38:12,639
-- Está tudo bem.
-- Por favor, não.
+245
+00:17:47,608 --> 00:17:49,485
+Não, a receção está degradada aqui.
 
-470
-00:38:12,722 --> 00:38:15,642
-Todos sabemos, ele não é assim.
+246
+00:17:49,568 --> 00:17:51,112
+Tenho de ir buscar papel.
 
-471
-00:38:30,907 --> 00:38:32,534
-<i>Está indo bem. Continue.</i>
+247
+00:17:51,696 --> 00:17:52,697
+Posso trazer o mapa?
 
-472
-00:38:33,076 --> 00:38:35,745
-Isso, Josie. Perfure o vagão.
+248
+00:17:59,328 --> 00:18:02,039
+Pare. Não faça nada estúpido.
+Não a quero magoar.
 
-473
-00:39:27,839 --> 00:39:29,341
-Merda.
+249
+00:18:02,832 --> 00:18:04,000
+Já usou um desses?
 
-474
-00:39:58,036 --> 00:40:01,039
-Tudo bem. É só o inverno.
+250
+00:18:06,419 --> 00:18:07,378
+É um taco.
 
-475
-00:40:02,332 --> 00:40:04,000
-Inverno de Chicago.
+251
+00:18:07,461 --> 00:18:08,337
+Eu mostro-lhe.
 
-476
-00:40:05,210 --> 00:40:06,503
-Com montanhas.
+252
+00:18:40,244 --> 00:18:43,247
+AVISO - NÃO ENTRAR
+BRECHA EM SESSÃO - FRIO EXTREMO
 
-477
-00:40:08,463 --> 00:40:09,463
-Obrigado, Alex.
+253
+00:19:28,209 --> 00:19:31,045
+<i>Javi, está feito. Fizemos a curva.</i>
 
-478
-00:40:11,466 --> 00:40:12,842
-É, com montanhas.
+254
+00:19:46,560 --> 00:19:47,767
+<i>Snowpiercer, respondam.</i>
 
-479
-00:40:20,225 --> 00:40:22,602
-<i>Que tal ser voluntário agora, Layton?</i>
+255
+00:19:48,061 --> 00:19:50,731
+Layton, estamos a subir
+até ao local de recolha.
 
-480
-00:40:23,228 --> 00:40:24,813
-Tarde demais para você vir?
+256
+00:19:51,356 --> 00:19:53,859
+Devemos estar na estação
+daqui a dez minutos.
 
-481
-00:40:25,647 --> 00:40:26,647
-Acho que sim.
+257
+00:19:53,942 --> 00:19:55,777
+<i>Estamos em posição na câmara fria.</i>
 
-482
-00:40:26,690 --> 00:40:28,191
-Ele disse: "Acho que sim."
+258
+00:19:55,861 --> 00:19:56,987
+A postos.
 
-483
-00:40:28,274 --> 00:40:31,611
-<i>Estamos no rastro da Melanie.
-Só dando uma volta, Layton.</i>
+259
+00:19:57,821 --> 00:20:00,407
+Acha que o Wilford
+não vai notar que fizeram a curva?
 
-484
-00:40:31,695 --> 00:40:33,530
-<i>Só uma voltinha.</i>
+260
+00:20:00,490 --> 00:20:01,825
+Cale-se.
 
-485
-00:40:34,823 --> 00:40:36,449
-Esquentou aqui?
+261
+00:20:01,909 --> 00:20:04,161
+É uma via de testes, é irregular.
 
-486
-00:40:36,533 --> 00:40:38,743
-Somos uma Ferrari agora. Invencíveis.
+262
+00:20:04,745 --> 00:20:06,079
+Ele vai senti-la.
 
-487
-00:40:40,578 --> 00:40:41,663
+263
+00:20:07,414 --> 00:20:10,042
+Javi, vou acelerar para a subida.
+
+264
+00:20:10,125 --> 00:20:11,501
+Muito devagar.
+
+265
+00:20:15,464 --> 00:20:16,590
+Obrigado.
+
+266
+00:20:21,511 --> 00:20:22,387
+Alex?
+
+267
+00:20:22,971 --> 00:20:24,306
+Vou saber o que se passa.
+
+268
+00:20:27,768 --> 00:20:30,395
+Estou, Locomotiva?
+O Wilford quer saber o estado.
+
+269
+00:20:31,480 --> 00:20:32,397
+Olá, Alex.
+
+270
+00:20:33,690 --> 00:20:35,651
+<i>- Ele está a vê-la?
+- Afirmativo.</i>
+
+271
+00:20:37,819 --> 00:20:38,987
+Mantenha-o ocupado.
+
+272
+00:20:39,571 --> 00:20:40,948
+Não demoraremos muito mais.
+
+273
+00:20:41,531 --> 00:20:42,783
+Entendido.
+
+274
+00:20:44,868 --> 00:20:47,287
+Destroços de avalanche,
+nada com que se preocupar.
+
+275
+00:20:50,165 --> 00:20:52,000
+Vi a tua mãe fazer isso.
+
+276
+00:20:55,212 --> 00:20:56,672
+Ligar para a Locomotiva.
+
+277
+00:20:59,091 --> 00:21:00,050
+Um ardil.
+
+278
+00:21:25,409 --> 00:21:28,203
+Mande homens às duas Locomotivas,
+para entrada forçada.
+
+279
+00:21:28,912 --> 00:21:30,539
+<i>Comandarei do Big Alice.</i>
+
+280
+00:21:30,622 --> 00:21:31,665
+Traga-a connosco.
+
+281
+00:21:41,842 --> 00:21:42,968
+Ele sabe.
+
+282
+00:21:43,051 --> 00:21:44,011
+É cedo de mais.
+
+283
+00:21:47,514 --> 00:21:48,682
+<i>Cá vêm eles, Javi.</i>
+
+284
+00:21:48,765 --> 00:21:50,559
+Agora, só temos de os deter.
+
+285
+00:21:50,642 --> 00:21:53,353
+É fácil falar.
+A tua porta é mais grossa que a minha.
+
+286
+00:21:53,979 --> 00:21:57,024
+Haja o que houver,
+és um grande maquinista, amigo.
+
+287
+00:21:59,317 --> 00:22:01,194
+Os três melhores do mundo, certo?
+
+288
+00:22:05,907 --> 00:22:07,868
+Tirem-na da minha vista!
+
+289
+00:22:16,334 --> 00:22:18,253
+Vamos lá.
+
+290
+00:22:23,008 --> 00:22:24,009
+Vamos lá.
+
+291
+00:22:35,979 --> 00:22:37,022
+Tragam um cortador.
+
+292
+00:22:42,110 --> 00:22:43,278
+E vão buscar o meu cão.
+
+293
+00:22:48,700 --> 00:22:50,494
+Passámos o local da recolha.
+
+294
+00:22:51,495 --> 00:22:52,954
+Não há sinal da Melanie.
+
+295
+00:22:53,538 --> 00:22:56,792
+Não chegámos a horas.
+Dê-lhe uma hipótese, ela estará aqui.
+
+296
+00:22:56,875 --> 00:22:59,211
+Está bem, abrandei para 25 km/hora.
+
+297
+00:22:59,795 --> 00:23:02,672
+<i>Abrando mais
+quando chegar ao local da recolha.</i>
+
+298
+00:23:06,510 --> 00:23:07,636
+De olhos bem abertos.
+
+299
+00:23:09,095 --> 00:23:10,096
+Vá lá.
+
+300
+00:23:23,652 --> 00:23:24,611
+Linda menina.
+
+301
+00:23:34,871 --> 00:23:36,081
+Vá lá, por favor.
+
+302
+00:23:37,499 --> 00:23:39,960
+Vá lá, por favor.
+
+303
+00:23:42,379 --> 00:23:44,422
+<i>Snowpiercer, estão a ouvir-me?</i>
+
+304
+00:23:47,843 --> 00:23:50,679
+Além! Ali está ela!
+Não é tarde de mais, vejo-a!
+
+305
+00:23:50,762 --> 00:23:51,680
+Sim. Está bem.
+
+306
+00:23:53,181 --> 00:23:54,140
+Vá lá.
+
+307
+00:24:08,280 --> 00:24:09,364
+Não!
+
+308
+00:24:11,491 --> 00:24:12,534
+Sim.
+
+309
+00:24:24,087 --> 00:24:25,797
+Parem!
+
+310
+00:24:35,098 --> 00:24:37,809
+Não me pode matar. Precisa de Maquinistas.
+
+311
+00:24:46,526 --> 00:24:47,569
+Atacar!
+
+312
+00:24:54,159 --> 00:24:55,368
+Para!
+
+313
+00:25:03,960 --> 00:25:05,337
+Estamos a acelerar.
+
+314
+00:25:11,843 --> 00:25:14,846
+Têm de abrandar! Ouvem-me?
+
+315
+00:25:16,473 --> 00:25:17,474
+Parem!
+
+316
+00:25:18,058 --> 00:25:20,185
+Javi, abranda, vais rápido de mais.
+
+317
+00:25:22,354 --> 00:25:23,272
+Javi?
+
+318
+00:25:24,815 --> 00:25:26,108
+Javi, estás a ouvir-me?
+
+319
+00:25:26,984 --> 00:25:27,818
+Javi?
+
+320
+00:25:28,986 --> 00:25:31,238
+<i>Não, Bennett, sou eu.</i>
+
+321
+00:25:39,496 --> 00:25:41,582
+<i>Pode travar o que quiser, rapaz.</i>
+
+322
+00:25:42,165 --> 00:25:43,709
+Tenho mais torque.
+
+323
+00:25:45,127 --> 00:25:46,628
+E tenho mais aceleração.
+
+324
+00:25:54,761 --> 00:25:59,141
+Empurro-vos do topo
+e deixo a gravidade fazer o resto.
+
+325
+00:26:01,143 --> 00:26:02,019
+Pare!
+
+326
+00:26:03,770 --> 00:26:07,024
+Pare! Os travões não aguentam isto.
+Estamos a sobreaquecer.
+
+327
+00:26:07,107 --> 00:26:08,150
+<i>Vá, Alice.</i>
+
+328
+00:26:13,530 --> 00:26:14,531
+Não o controlo!
+
+329
+00:26:15,240 --> 00:26:17,242
+Ele vai empurrar-nos do topo.
+
+330
+00:26:26,752 --> 00:26:30,088
+Mãe!
+
+331
+00:26:33,550 --> 00:26:34,426
+Adeus.
+
+332
+00:26:50,192 --> 00:26:51,151
+Mãe!
+
+333
+00:26:54,112 --> 00:26:55,030
+Mãe.
+
+334
+00:27:06,917 --> 00:27:09,044
+Por favor, vire o comboio.
+
+335
+00:27:09,127 --> 00:27:11,380
+Ela sobreviveu e tem a ciência.
+
+336
+00:27:11,463 --> 00:27:12,464
+Sim.
+
+337
+00:27:12,547 --> 00:27:15,092
+Vamos fingir
+que isto é tudo sobre ciência.
+
+338
+00:27:15,175 --> 00:27:17,052
+Eles merecem saber o que ela descobriu.
+
+339
+00:27:17,135 --> 00:27:18,512
+É uma loucura! Uma fantasia!
+
+340
+00:27:20,722 --> 00:27:22,599
+Não aceitava a verdade
+
+341
+00:27:22,683 --> 00:27:25,769
+de que salvei a vida dela,
+a tua e a de todos!
+
+342
+00:27:26,395 --> 00:27:29,398
+Parte-me o coração
+ver-te cair nos jogos dela.
+
+343
+00:27:29,481 --> 00:27:32,484
+Que depois de tudo,
+és muito mais dela do que minha.
+
+344
+00:27:33,151 --> 00:27:35,570
+Isso não é verdade. Sou dos dois.
+
+345
+00:27:35,654 --> 00:27:36,613
+Não.
+
+346
+00:27:37,489 --> 00:27:40,117
+Não. És apenas uma ferramenta
+que recolhi no caminho.
+
+347
+00:27:40,200 --> 00:27:41,576
+Não diga isso.
+
+348
+00:27:41,660 --> 00:27:44,830
+Um instrumento útil
+para arrancar informação à tua mãe.
+
+349
+00:27:44,913 --> 00:27:46,540
+E fizeste o teu trabalho.
+
+350
+00:27:47,833 --> 00:27:50,001
+Agora, podes juntar-te a ela.
+
+351
+00:27:52,963 --> 00:27:55,298
+Nunca poderia ser a líder que ela é.
+
+352
+00:28:12,107 --> 00:28:13,108
+Calma!
+
+353
+00:28:16,027 --> 00:28:17,070
+Eu seguro-o.
+
+354
+00:28:17,154 --> 00:28:19,906
+Calma. Levante-se. Isso mesmo.
+
+355
+00:28:19,990 --> 00:28:21,575
+Temos de desinfetar a ferida.
+
+356
+00:28:22,117 --> 00:28:23,952
+- Certo.
+- Estanquem o sangue.
+
+357
+00:28:24,035 --> 00:28:25,537
+Vamos examinar.
+
+358
+00:28:25,620 --> 00:28:27,956
+Vamos coser isto. Baixe a mão.
+
+359
+00:28:28,832 --> 00:28:29,708
 Ótimo.
 
+360
+00:28:30,834 --> 00:28:34,629
+Vamos tentar...
+Tente ficar muito... quieto.
+
+361
+00:28:34,713 --> 00:28:35,881
+- Está tudo bem.
+- Isso.
+
+362
+00:28:39,384 --> 00:28:42,929
+Sim. Pronto. Já está.
+
+363
+00:29:10,957 --> 00:29:12,751
+- São vocês.
+- Conseguiu voltar.
+
+364
+00:29:13,585 --> 00:29:16,046
+Vamos procurar a Ruth
+e saber o que fazer a seguir.
+
+365
+00:29:16,129 --> 00:29:17,547
+Há como salvar a Melanie.
+
+366
+00:29:19,174 --> 00:29:20,175
+Diga-nos no caminho.
+
+367
+00:29:26,431 --> 00:29:29,017
+<i>Querem cortar a cabeça do Snowpiercer?</i>
+
+368
+00:29:29,101 --> 00:29:29,976
+Alex?
+
+369
+00:29:30,060 --> 00:29:32,896
+Levamos a Locomotiva e umas carruagens.
+
+370
+00:29:32,979 --> 00:29:35,023
+Seríamos rápidos e voltaríamos a ligar.
+
+371
+00:29:35,107 --> 00:29:35,852
+Deixava-se toda a gente?
+
+372
+00:29:36,149 --> 00:29:38,610
+<i>O Big Alice tem energia
+para alimentar os sistemas.</i>
+
+373
+00:29:38,694 --> 00:29:39,736
+O Wilford coxearia,
+
+374
+00:29:39,820 --> 00:29:41,655
+manobramos um comboio grande e lento.
+
+375
+00:29:41,738 --> 00:29:43,949
+Mas não nos podemos separar em bloqueio.
+
+376
+00:29:45,284 --> 00:29:49,997
+Os engates são fixos fechados, mas temos
+uma carruagem com controlo manual.
+
+377
+00:29:50,080 --> 00:29:51,123
+O Aquário.
+
+378
+00:29:51,206 --> 00:29:53,458
+Um ponto fraco,
+projetado para ser libertado,
+
+379
+00:29:53,542 --> 00:29:54,876
+até em bloqueio.
+
+380
+00:29:55,919 --> 00:29:56,837
+Separamos aí,
+
+381
+00:29:57,379 --> 00:29:59,381
+um comboio pirata de dez carruagens.
+
+382
+00:30:05,304 --> 00:30:08,265
+Pronto. Já está.
+
+383
+00:30:12,311 --> 00:30:13,520
+Formem-se na fronteira.
+
+384
+00:30:14,980 --> 00:30:16,815
+- Mexam-se!
+- Sim, senhor.
+
+385
+00:30:17,399 --> 00:30:19,234
+Revistaremos de trás para a frente.
+
+386
+00:30:21,945 --> 00:30:22,863
+Mulher Gélida!
+
+387
+00:30:24,197 --> 00:30:25,282
+É o seu grande dia.
+
+388
+00:30:25,824 --> 00:30:29,077
+Vai recuperar-me a Locomotiva.
+Quero que vá em frente,
+
+389
+00:30:29,161 --> 00:30:30,704
+abra uma brecha na carruagem
+
+390
+00:30:30,787 --> 00:30:32,998
+e congele os tomates do Ben.
+
+391
+00:30:33,081 --> 00:30:34,708
+Não está pronta para isso.
+
+392
+00:30:34,791 --> 00:30:36,585
+Nunca sobreviverá a uma caminhada no...
+
+393
+00:30:36,668 --> 00:30:38,420
+Então, porque a fizemos?
+
+394
+00:30:39,630 --> 00:30:40,756
+Levem-na para a frente.
+
+395
+00:30:43,467 --> 00:30:44,509
+E fechem a escotilha.
+
+396
+00:30:45,636 --> 00:30:48,472
+Se quiser voltar a entrar,
+é através da Locomotiva.
+
+397
+00:30:50,349 --> 00:30:51,433
+É para já.
+
+398
+00:30:53,268 --> 00:30:55,479
+Se não tentarmos obter já o Novo Éden,
+
+399
+00:30:55,562 --> 00:30:57,356
+acaba-se tudo. É o mundo do Wilford.
+
+400
+00:30:57,439 --> 00:31:00,359
+- Deixaríamos todos à mercê dele.
+- Temos seguro.
+
+401
+00:31:00,984 --> 00:31:03,153
+Boa, a Audrey é a refém?
+
+402
+00:31:03,236 --> 00:31:05,280
+Trazemos alguém que realmente queremos?
+
+403
+00:31:05,364 --> 00:31:08,241
+Sim. O Ben, a Alex, o Boki.
+Dois Maquinistas e um Brecheiro.
+
+404
+00:31:08,325 --> 00:31:10,744
+E a Ruth vai ter connosco
+ao Aquário, agora.
+
+405
+00:31:10,827 --> 00:31:12,162
+Estás longe do plano.
+
+406
+00:31:12,245 --> 00:31:13,288
+Sim, estou.
+
+407
+00:31:14,539 --> 00:31:17,584
+Desculpa, estou empenhado, agora.
+
+408
+00:31:21,213 --> 00:31:22,130
+Merda!
+
+409
+00:31:23,423 --> 00:31:24,257
+Também estou.
+
+410
+00:31:26,510 --> 00:31:28,261
+Com o nosso filho, Andre, não estou.
+
+411
+00:31:28,345 --> 00:31:31,556
+- Estou melhor aqui com o diabo conhecido.
+- Zarah, o Wilford sabe.
+
+412
+00:31:32,808 --> 00:31:34,893
+Vou preparar a Audrey.
+
+413
+00:31:34,976 --> 00:31:36,436
+Desculpa, Zarah.
+
+414
+00:31:38,230 --> 00:31:39,773
+Não te posso deixar aqui.
+
+415
+00:31:39,856 --> 00:31:41,775
+Não assim. Por favor. Vem connosco.
+
+416
+00:31:41,858 --> 00:31:44,152
+O Wilford quer-me num pedestal.
+
+417
+00:31:45,570 --> 00:31:46,738
+Posso sobreviver a ele.
+
+418
+00:31:47,572 --> 00:31:48,949
+E vais precisar de mim aqui...
+
+419
+00:31:49,700 --> 00:31:51,201
+... quando voltares.
+
+420
+00:32:08,093 --> 00:32:09,678
+Vou voltar por ti, Zarah.
+
+421
+00:32:19,312 --> 00:32:20,981
+Lembre-se da respiração.
+
+422
+00:32:21,064 --> 00:32:22,607
+Fique calma e avance devagar.
+
+423
+00:32:23,483 --> 00:32:26,778
+Espere. Por favor.
+Disse que eu não estava pronta.
+
+424
+00:32:26,862 --> 00:32:28,113
+Siga as ordens do Wilford.
+
+425
+00:32:28,196 --> 00:32:30,031
+Abra uma brecha na Locomotiva e volte.
+
+426
+00:32:30,115 --> 00:32:31,491
+Cá estaremos para a reparar.
+
+427
+00:32:32,492 --> 00:32:33,452
+O que é isso?
+
+428
+00:32:33,535 --> 00:32:36,246
+Perfurador pneumático. A carga entra aqui.
+
+429
+00:32:37,164 --> 00:32:38,457
+Arma-se assim.
+
+430
+00:32:38,540 --> 00:32:40,292
+Ativa-se... com o impacto.
+
+431
+00:32:40,959 --> 00:32:42,043
+Vai ficar bem.
+
+432
+00:32:43,920 --> 00:32:44,921
+Desculpe.
+
+433
+00:32:53,805 --> 00:32:55,724
+Agora está nas suas mãos, Josie.
+
+434
+00:33:17,996 --> 00:33:19,372
+Alguém vai lá fora.
+
+435
+00:33:19,456 --> 00:33:20,290
+CÂMARA ABERTA
+
+436
+00:33:20,373 --> 00:33:23,084
+É a Mulher Gélida do Wilford.
+Uma Cauda que ele preparou.
+
+437
+00:33:24,294 --> 00:33:25,670
+Refere-se à Josie?
+
+438
+00:33:38,517 --> 00:33:40,727
+Vem abrir brechas na Locomotiva.
+Vai matar-nos.
+
+439
+00:33:44,397 --> 00:33:45,774
+Ela nunca faria isso.
+
+440
+00:33:48,902 --> 00:33:49,736
+Josie.
+
+441
+00:33:50,445 --> 00:33:51,613
+<i>Josie, ouve-me?</i>
+
+442
+00:33:53,031 --> 00:33:53,990
+Quem fala?
+
+443
+00:33:54,074 --> 00:33:55,826
+<i>O Maquinista-chefe do Snowpiercer.</i>
+
+444
+00:33:55,909 --> 00:33:57,452
+Tenho o controlo da Locomotiva.
+
+445
+00:34:00,121 --> 00:34:01,498
+Vamos precisar da sua ajuda.
+
+446
+00:34:22,936 --> 00:34:23,770
+Pare.
+
+447
+00:34:26,189 --> 00:34:27,190
+Está bem.
+
+448
+00:34:28,900 --> 00:34:30,402
+O seu famoso exército?
+
+449
+00:34:32,571 --> 00:34:33,655
+Não vim lutar.
+
+450
+00:34:34,239 --> 00:34:35,198
+Não?
+
+451
+00:34:36,199 --> 00:34:38,285
+É o seu machado de conversa?
+
+452
+00:34:44,249 --> 00:34:45,625
+SOLTAR ALAVANCA - ENGATE
+
+453
+00:34:48,002 --> 00:34:50,755
+Locomotiva, a desbloquear
+o primeiro controlo.
+
+454
+00:34:54,509 --> 00:34:56,636
+ENGATE DESBLOQUEADO
+CARRUAGEM DE 1.ª CLASSE
+
+455
+00:34:58,054 --> 00:34:59,096
+Entendido, Boki.
+
+456
+00:34:59,722 --> 00:35:02,058
+<i>O Layton vai detê-los o máximo que puder.</i>
+
+457
+00:35:03,809 --> 00:35:05,895
+HOSPITALIDADE
+
+458
+00:35:11,526 --> 00:35:13,236
+Pareceu-me cheirar a adubo.
+
+459
+00:35:18,658 --> 00:35:20,368
+Vamos voltar pela Melanie.
+
+460
+00:35:22,328 --> 00:35:23,913
+Perdeu a sua oportunidade, rapaz.
+
+461
+00:35:23,996 --> 00:35:25,748
+A Melanie está muito atrás de nós.
+
+462
+00:35:29,835 --> 00:35:32,880
+- Você não vem.
+- Não vou?
+
+463
+00:35:44,141 --> 00:35:45,268
+Pronto, continuem.
+
+464
+00:35:46,102 --> 00:35:46,936
+Vão.
+
+465
+00:35:52,733 --> 00:35:53,859
+Deixe-me sair.
+
+466
+00:35:53,943 --> 00:35:55,194
+Dê-me a farda...
+
+467
+00:35:55,820 --> 00:35:57,238
+... ou fazemos da pior maneira.
+
+468
+00:35:59,574 --> 00:36:01,909
+Muito bem. Você vence.
+
+469
+00:36:26,017 --> 00:36:28,060
+Vai comportar-se enquanto estivermos fora.
+
+470
+00:36:28,603 --> 00:36:32,023
+Sem vingança nem represálias.
+Não toque nestas pessoas.
+
+471
+00:36:35,818 --> 00:36:36,652
+Audrey...
+
+472
+00:36:39,822 --> 00:36:41,699
+Selou o seu destino, Bess Till.
+
+473
+00:36:41,782 --> 00:36:43,284
+Não é a primeira vez.
+
+474
+00:36:46,203 --> 00:36:47,371
+A Ruth não teve êxito.
+
+475
+00:36:50,041 --> 00:36:52,209
+Ela é a garantia
+de que a Zarah fica segura.
+
+476
+00:36:53,127 --> 00:36:55,171
+Recuem! Todos atrás do engate.
+
+477
+00:37:02,678 --> 00:37:03,763
+Afastem-se. Recuem.
+
+478
+00:37:12,688 --> 00:37:14,398
+A Alex sabia deste engate.
+
+479
+00:37:16,525 --> 00:37:18,694
+Quem está lá em baixo com a chave de roda?
+
+480
+00:37:27,703 --> 00:37:28,871
+<i>Boki, responda.</i>
+
+481
+00:37:30,790 --> 00:37:32,083
+<i>Boki, escuta-me?</i>
+
+482
+00:37:41,967 --> 00:37:43,010
+<i>Boki?</i>
+
+483
+00:37:44,011 --> 00:37:45,012
+Boki, escuta-me?
+
+484
+00:37:45,096 --> 00:37:46,722
+O que se passa aí em baixo?
+
+485
+00:37:58,567 --> 00:38:00,820
+Acha que o deixaria desacoplar
+a Locomotiva?
+
+486
+00:38:01,904 --> 00:38:03,698
+Recue ou mato-a!
+
+487
+00:38:03,781 --> 00:38:04,615
+Então, faça-o!
+
 488
-00:40:52,966 --> 00:40:54,008
-Estamos quase.
+00:38:04,699 --> 00:38:07,410
+- Não!
+- Faça-o perante Deus e todos os peixes.
 
 489
-00:41:03,393 --> 00:41:04,393
-Melanie?
+00:38:08,244 --> 00:38:10,287
+- Está tudo bem, querida.
+- Por favor, não.
 
 490
-00:41:15,947 --> 00:41:17,073
-Mãe?
+00:38:10,371 --> 00:38:13,290
+Já todos sabemos que não é quem ele é.
 
 491
-00:41:19,909 --> 00:41:21,786
-Faz menos 97° aqui.
+00:38:28,556 --> 00:38:30,182
+<i>Está a ir bem. Continue.</i>
 
 492
-00:41:40,805 --> 00:41:41,973
-Mãe?
+00:38:30,725 --> 00:38:33,394
+Isso mesmo, Josie.
+Abra uma brecha na carruagem.
 
 493
-00:41:47,103 --> 00:41:48,354
-Aqui está mais quente.
+00:39:25,488 --> 00:39:26,989
+Merda!
 
 494
-00:41:51,399 --> 00:41:52,400
-Tem eletricidade.
+00:39:54,516 --> 00:39:57,519
+Muito bem. É só inverno.
 
 495
-00:42:19,928 --> 00:42:21,888
-São só os dados dela.
+00:39:58,812 --> 00:40:00,481
+Só um inverno de Chicago.
 
 496
-00:42:25,350 --> 00:42:27,101
-Ela aqueceu os drives.
+00:40:01,690 --> 00:40:02,983
+Com montanhas.
 
 497
-00:42:28,353 --> 00:42:29,813
-Ela se foi.
+00:40:04,943 --> 00:40:05,903
+Obrigado, Alex.
 
 498
-00:42:33,733 --> 00:42:34,733
-Ei…
+00:40:07,946 --> 00:40:09,323
+Sim, com montanhas.
 
 499
-00:42:36,277 --> 00:42:38,822
-Vamos embalar tudo e voltar pro trenó.
+00:40:16,705 --> 00:40:19,083
+<i>O que acha
+de se voluntariar agora, Layton?</i>
 
 500
-00:42:40,281 --> 00:42:41,281
-É a vontade dela.
+00:40:19,708 --> 00:40:21,293
+É tarde para voltar e vão vocês?
 
 501
-00:42:42,283 --> 00:42:44,160
-Ela fez por todos nós, Alex.
+00:40:22,127 --> 00:40:23,087
+Temo que sim.
 
 502
-00:43:04,514 --> 00:43:06,349
-<i>Eu não tinha para o que voltar.</i>
+00:40:23,170 --> 00:40:24,672
+Ele disse: "Temo que sim."
 
 503
-00:43:09,185 --> 00:43:11,062
-<i>Sou apenas humana, então,</i>
+00:40:24,755 --> 00:40:28,092
+<i>Ainda estamos no rasto da Melanie.
+Viemos dar um passeio, Layton.</i>
 
 504
-00:43:11,145 --> 00:43:13,565
-<i>claro que aproveitei meus recursos.</i>
+00:40:28,175 --> 00:40:30,010
+<i>Só dar uma volta.</i>
 
 505
-00:43:18,444 --> 00:43:20,280
-<i>Comi todos os ratos</i>
+00:40:31,303 --> 00:40:32,930
+Podia estar mais quente aqui?
 
 506
-00:43:20,989 --> 00:43:22,532
-<i>e o frio tomou conta.</i>
+00:40:33,013 --> 00:40:35,224
+Agora, somos a Ferrari.
+Vamos ficar quentes.
 
 507
-00:43:24,534 --> 00:43:27,537
-<i>A energia só
-me manterá viva algumas horas.</i>
+00:40:37,059 --> 00:40:38,143
+Ótimo.
 
 508
-00:43:28,079 --> 00:43:29,122
-<i>Em baixa potência,</i>
+00:40:49,446 --> 00:40:50,489
+Estamos quase lá.
 
 509
-00:43:30,123 --> 00:43:32,333
-<i>os drives durarão meses para vocês.</i>
+00:40:59,873 --> 00:41:00,791
+Melanie?
 
 510
-00:43:44,762 --> 00:43:47,849
-<i>Quando o trem passou com tudo,</i>
+00:41:12,428 --> 00:41:13,554
+Mãe?
 
 511
-00:43:48,474 --> 00:43:51,019
-Snowpiercer<i> freando</i>
-<i>e </i>Big Alice<i> acelerando,</i>
+00:41:16,390 --> 00:41:18,267
+Estão -97 ºC aqui.
 
 512
-00:43:52,020 --> 00:43:54,397
-<i>percebi que era sabotagem do Wilford.</i>
+00:41:37,286 --> 00:41:38,454
+Mãe?
 
 513
-00:43:58,359 --> 00:44:00,361
-<i>Mas vi você na janela, Alex.</i>
+00:41:43,584 --> 00:41:44,835
+Está mais quente aqui.
 
 514
-00:44:04,365 --> 00:44:05,617
-<i>E sabia que iria voltar.</i>
+00:41:47,880 --> 00:41:48,881
+Há energia.
 
 515
-00:44:06,618 --> 00:44:08,578
-<i>Sinto você lendo isto enquanto escrevo.</i>
+00:42:16,408 --> 00:42:18,368
+São só os dados dela.
 
 516
-00:44:09,746 --> 00:44:14,125
-<i>Agora, posso pôr meu capacete
-e enfrentar a brancura em paz.</i>
+00:42:21,830 --> 00:42:23,582
+Ela manteve os discos quentes.
 
 517
-00:44:15,501 --> 00:44:18,046
-<i>Você é minha esperança, Alex.</i>
+00:42:24,833 --> 00:42:26,293
+Ela desapareceu.
 
 518
-00:44:24,510 --> 00:44:27,013
-<i>Aprenda a amar as pessoas
-que nos trouxeram até aqui.</i>
+00:42:32,758 --> 00:42:35,302
+Vamos empacotar isto
+e pôr no trenó, está bem?
 
 519
-00:44:27,805 --> 00:44:29,474
-<i>E juntos, um dia,</i>
+00:42:36,762 --> 00:42:37,721
+É o que ela quer.
 
 520
-00:44:30,350 --> 00:44:33,061
-<i>farão um mundo melhor.</i>
+00:42:38,764 --> 00:42:40,641
+Fê-lo por nós, Alex.
 
 521
-00:44:33,895 --> 00:44:36,940
-{\an8}SONDA 5 - SONDA 3 - SONDA 6 - SONDA 9
+00:43:00,994 --> 00:43:02,830
+<i>Eu nada tinha aqui para o qual voltar.</i>
 
 522
-00:44:37,023 --> 00:44:39,943
-SONDA 2 - SONDA 10 - SONDA 12 - SONDA 11
+00:43:05,666 --> 00:43:07,543
+<i>Sou apenas humana, portanto,</i>
 
 523
-00:44:40,026 --> 00:44:41,026
-Ela conseguiu.
+00:43:07,626 --> 00:43:10,045
+<i>claro que usei os meus recursos.</i>
 
 524
-00:44:42,820 --> 00:44:43,905
-Ela conseguiu.
+00:43:14,925 --> 00:43:16,760
+<i>Comi os meus ratos até à extinção</i>
 
 525
-00:44:47,492 --> 00:44:49,160
-São os lugares quentes.
+00:43:17,469 --> 00:43:19,012
+<i>e o frio entrou.</i>
 
 526
-00:44:50,453 --> 00:44:52,205
-Fez isso para sobrevivermos.
+00:43:21,014 --> 00:43:24,017
+<i>Não há energia
+para me manter viva mais de umas horas.</i>
 
 527
-00:45:07,470 --> 00:45:08,638
-Ah, meu Deus.
+00:43:24,560 --> 00:43:25,602
+<i>Mas em carga lenta,</i>
 
 528
-00:45:09,555 --> 00:45:10,974
-É lindo.
+00:43:26,603 --> 00:43:28,814
+<i>os discos podem durar meses para ti.</i>
 
 529
-00:45:11,933 --> 00:45:13,559
-É lindo.
+00:43:41,243 --> 00:43:44,329
+<i>Percebi, quando o comboio
+passou em faíscas e chamas,</i>
 
 530
-00:45:16,354 --> 00:45:18,856
-Atenção, bom tempo à frente.
+00:43:44,955 --> 00:43:47,499
+<i>o Snowpiercer a travar
+e o Big Alice a empurrar,</i>
 
 531
-00:45:27,865 --> 00:45:29,283
-Vamos pegar o trem de volta.
+00:43:48,500 --> 00:43:50,878
+<i>que, de algum modo,
+o Wilford sabotava tudo.</i>
 
 532
-00:46:36,934 --> 00:46:41,939
-Legendas: Carla Alessandra Prado
+00:43:54,840 --> 00:43:56,842
+<i>Mas estavas lá na janela, Alex.</i>
 
 533
-00:46:41,963 --> 00:46:43,963
-<font color="#ffff00">>>>>oakislandtk<<<<<</font>
-<font color="#ffff00">www.opensubtitles.org</font>										
+00:44:00,846 --> 00:44:02,097
+<i>Sabia que voltarias.</i>
 
+534
+00:44:03,098 --> 00:44:05,058
+<i>Sinto-te a ler isto enquanto escrevo.</i>
 
+535
+00:44:06,226 --> 00:44:10,606
+<i>Agora, posso colocar o capacete
+e ir para o branco em paz.</i>
 
-  
+536
+00:44:11,982 --> 00:44:14,526
+<i>És a minha esperança, Alex.</i>
 
-  
+537
+00:44:20,991 --> 00:44:23,493
+<i>Aprende a amar quem nos trouxe até aqui.</i>
 
- 
+538
+00:44:24,286 --> 00:44:25,954
+<i>E juntos, um dia,</i>
 
- 
+539
+00:44:26,830 --> 00:44:29,541
+<i>construirão um mundo melhor.</i>
 
+540
+00:44:30,375 --> 00:44:33,420
+SONDA 5 - SONDA 3 - SONDA 6 - SONDA 9
 
+541
+00:44:33,503 --> 00:44:36,423
+SONDA 2 - SONDA 10 - SONDA 12 - SONDA 11
 
+542
+00:44:36,506 --> 00:44:37,424
+Ela fê-lo.
 
+543
+00:44:39,301 --> 00:44:40,385
+Ela fê-lo.
 
+544
+00:44:43,972 --> 00:44:45,641
+São lugares quentes.
 
+545
+00:44:46,934 --> 00:44:48,685
+Ela fê-lo para podermos sobreviver.
 
+546
+00:45:03,951 --> 00:45:05,118
+Meu Deus!
 
- 
- 
- 
- 										
+547
+00:45:06,036 --> 00:45:07,454
+É lindo.
 
+548
+00:45:08,413 --> 00:45:10,040
+É lindo.
 
+549
+00:45:12,834 --> 00:45:15,337
+Atenção, vem aí mau tempo.
 
- 
+550
+00:45:24,346 --> 00:45:25,764
+Recuperemos o nosso comboio.
 
-    
-
-
-    
-   
+551
+00:46:33,415 --> 00:46:38,420
+Legendas: Ana Paula Moreira
+Sync: MaSousa
