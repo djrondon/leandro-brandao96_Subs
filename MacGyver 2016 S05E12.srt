@@ -1,0 +1,3762 @@
+1
+00:00:05,497 --> 00:00:08,223
+Achei que gostasse
+de <i>chilaquiles</i>. Muita pimenta?
+
+2
+00:00:10,054 --> 00:00:12,119
+Estou sem apetite.
+
+3
+00:00:13,785 --> 00:00:16,621
+Precisamos falar sobre
+o que houve na Cidade do México.
+
+4
+00:00:18,407 --> 00:00:20,576
+Eu vi o anel,
+
+5
+00:00:22,744 --> 00:00:24,732
+você ia mesmo
+me pedir em casamento?
+
+6
+00:00:26,504 --> 00:00:27,904
+Sim.
+
+7
+00:00:28,132 --> 00:00:29,766
+Eu mesmo fiz o anel.
+
+8
+00:00:30,107 --> 00:00:31,507
+Para você.
+
+9
+00:00:32,182 --> 00:00:35,725
+Levei à Cidade do México
+para acharmos algum lugar...
+
+10
+00:00:35,726 --> 00:00:37,410
+Uma praia, ponte ou penhasco.
+
+11
+00:00:37,411 --> 00:00:40,112
+E acabei usando para fazer
+um buraco na janela de vidro
+
+12
+00:00:40,113 --> 00:00:43,264
+para não sermos enterrados vivos
+em escombros. Obrigado, Murdoc.
+
+13
+00:00:43,265 --> 00:00:45,428
+Não era isso que queria contar
+ao filhos...
+
+14
+00:00:45,429 --> 00:00:47,956
+Filhos? Nem sequer falamos
+sobre casamento.
+
+15
+00:00:47,957 --> 00:00:49,404
+Não...
+
+16
+00:00:49,405 --> 00:00:50,805
+Foi isso...
+
+17
+00:00:52,905 --> 00:00:55,404
+Queria que fosse
+uma surpresa.
+
+18
+00:00:55,405 --> 00:00:58,118
+Não se vai de um quase namoro
+a um casamento
+
+19
+00:00:58,119 --> 00:01:01,207
+- sem uma dica de...
+- Quase namoro?
+
+20
+00:01:01,208 --> 00:01:04,560
+- Achei que estávamos bem.
+- Não. Estamos...
+
+21
+00:01:04,561 --> 00:01:06,420
+Estamos muito bem.
+
+22
+00:01:07,311 --> 00:01:10,317
+- Mas sério, casamento?
+- Está bem.
+
+23
+00:01:12,199 --> 00:01:14,892
+Olha, depois do Codex,
+
+24
+00:01:16,161 --> 00:01:17,824
+eu não queria perder
+você também.
+
+25
+00:01:18,270 --> 00:01:19,726
+Chame isso de medo.
+
+26
+00:01:19,727 --> 00:01:23,008
+- Ou tolice.
+- Eu já fui noiva antes.
+
+27
+00:01:27,802 --> 00:01:30,605
+O quê? Com quem?
+
+28
+00:01:32,109 --> 00:01:33,597
+Com alguém da minha unidade.
+
+29
+00:01:34,349 --> 00:01:35,749
+O que aconteceu?
+
+30
+00:01:44,670 --> 00:01:46,918
+- É a Matty. Precisamos ir.
+- Sim.
+
+31
+00:01:46,919 --> 00:01:49,209
+Mas acabou de me dizer
+que já foi noiva antes.
+
+32
+00:01:49,210 --> 00:01:51,760
+Isso faz definitivamente parte
+da conversa, não é?
+
+33
+00:01:53,771 --> 00:01:55,171
+Sim.
+
+34
+00:01:56,405 --> 00:01:58,805
+<b><i>Agentes:
+LeilaC | Stark | Hall</b></i>
+
+35
+00:01:58,806 --> 00:02:01,206
+<b><i>Agentes:
+Lu Colorada² | Broken Soul</b></i>
+
+36
+00:02:01,207 --> 00:02:03,607
+<b><i>Agentes:
+KetchSketch | dreeh</b></i>
+
+37
+00:02:03,608 --> 00:02:06,008
+<b><i>Agentes:
+Vee Vee | rsquint</b></i>
+
+38
+00:02:06,009 --> 00:02:08,409
+<b><i>Agentes:
+LineSta</b></i>
+
+39
+00:02:08,410 --> 00:02:10,810
+<b><i>GeekS
+engenhosamente apresenta...</b></i>
+
+40
+00:02:10,811 --> 00:02:13,155
+<b><i>MacGyver - 5.12</b></i>
+
+41
+00:02:13,156 --> 00:02:16,291
+<b><i>Royalty + Marriage
++ Vivaah Sanskar + Zinc + Henna</b></i>
+
+42
+00:02:17,859 --> 00:02:19,415
+FUNDAÇÃO FÊNIX
+
+43
+00:02:19,416 --> 00:02:21,415
+ALGUM LUGAR DE L.A.
+<i>A imprensa apelidou</i>
+
+44
+00:02:21,416 --> 00:02:23,399
+<i>o casamento
+da Princesa Rani Kumari</i>
+
+45
+00:02:23,400 --> 00:02:26,403
+<i>e Oliver Hughes, filho
+do Primeiro-Ministro Britânico</i>
+
+46
+00:02:26,404 --> 00:02:28,605
+<i>de
+"Casamento RaOliver"</i>
+
+47
+00:02:28,606 --> 00:02:31,029
+<i>Desde que Oliver fez o pedido
+na Tower Bridge,</i>
+
+48
+00:02:31,030 --> 00:02:34,318
+<i>eles se tornaram "o casal"
+das redes sociais.</i>
+
+49
+00:02:34,319 --> 00:02:36,111
+<i>A lista de celebridades
+convidadas</i>
+
+50
+00:02:36,112 --> 00:02:39,211
+<i>ganhou atenção indesejada
+na forma de ameaças.</i>
+
+51
+00:02:39,212 --> 00:02:42,911
+- Que tipo de ameaças?
+- Bomba, refém, ameaça de morte.
+
+52
+00:02:42,912 --> 00:02:47,858
+Mas amigos da Interpol e MI6
+dizem que podem ser verdadeiras.
+
+53
+00:02:47,859 --> 00:02:50,613
+<i>Sendo assim, deveriam aumentar
+a segurança do casamento,</i>
+
+54
+00:02:50,614 --> 00:02:52,618
+<i>mas o Rei de Bikaner insiste</i>
+
+55
+00:02:52,619 --> 00:02:55,736
+<i>que apenas a guarda real dele
+é confiável para a tarefa.</i>
+
+56
+00:02:55,737 --> 00:02:59,915
+Não entendo. Faz todo sentido
+ter segurança extra. Não é?
+
+57
+00:02:59,916 --> 00:03:01,395
+<i>O orgulho dele não permite.</i>
+
+58
+00:03:01,396 --> 00:03:03,508
+<i>Especialmente depois
+que Rani disse "sim",</i>
+
+59
+00:03:03,509 --> 00:03:05,811
+<i>ela se tornou
+a Rainha de Bikaner.</i>
+
+60
+00:03:05,812 --> 00:03:08,305
+<i>O Rei Sunil
+não quer parecer fraco,</i>
+
+61
+00:03:08,306 --> 00:03:09,917
+<i>por não poder proteger
+a filha.</i>
+
+62
+00:03:09,918 --> 00:03:12,299
+Não apenas a chave do reino
+será dada a Rani,
+
+63
+00:03:12,300 --> 00:03:15,011
+mas ela também assumirá
+o lucrativo negócio da família.
+
+64
+00:03:15,012 --> 00:03:16,515
+A extração de minerais.
+
+65
+00:03:16,516 --> 00:03:20,428
+E ao contrário da política
+isolacionista do pai,
+
+66
+00:03:20,759 --> 00:03:22,626
+Rani deixou registrado
+
+67
+00:03:22,627 --> 00:03:27,011
+que abrirá o suprimento de zinco
+para o mercado mundial,
+
+68
+00:03:27,012 --> 00:03:29,611
+criando uma Meca internacional
+de comércio.
+
+69
+00:03:29,612 --> 00:03:32,115
+- "Wakanda Para Sempre".
+- Sim, sim.
+
+70
+00:03:32,116 --> 00:03:34,421
+Rani prefere
+pensar no futuro.
+
+71
+00:03:34,422 --> 00:03:37,008
+Grupos extremistas
+de Bikaner
+
+72
+00:03:37,009 --> 00:03:38,902
+são contrários à abertura
+ao Ocidente
+
+73
+00:03:38,903 --> 00:03:41,314
+temendo um nova forma
+de neocolonialismo.
+
+74
+00:03:41,315 --> 00:03:43,966
+<i>E alguns críticos
+na Grã-Bretanha</i>
+
+75
+00:03:43,967 --> 00:03:46,506
+<i>também examinaram a escolha
+da noiva de Oliver,</i>
+
+76
+00:03:46,507 --> 00:03:50,072
+<i>dizendo que ela
+"não se encaixa nos padrões".</i>
+
+77
+00:03:50,073 --> 00:03:51,529
+A mesma baboseira
+que disseram
+
+78
+00:03:51,530 --> 00:03:53,800
+sobre da Meghan Markle
+com o Príncipe Harry.
+
+79
+00:03:54,307 --> 00:03:56,346
+<i>Com criticismos
+de ambos os lados,</i>
+
+80
+00:03:56,347 --> 00:03:58,677
+<i>Rani, Oliver
+e o Primeiro-Ministro</i>
+
+81
+00:03:58,678 --> 00:04:01,311
+<i>podem estar enfrentando
+um perigo muito sério.</i>
+
+82
+00:04:01,312 --> 00:04:03,342
+<i>Por isso
+que nossos aliados pediram</i>
+
+83
+00:04:03,343 --> 00:04:07,207
+<i>para garantir que essas núpcias
+ocorram sem problemas.</i>
+
+84
+00:04:07,208 --> 00:04:11,023
+O problema é que o casamento
+é apenas para convidados.
+
+85
+00:04:11,024 --> 00:04:13,734
+Dê-me um tempo
+e posso resolver isso.
+
+86
+00:04:13,735 --> 00:04:15,579
+Quem vai para essa missão?
+
+87
+00:04:15,580 --> 00:04:19,196
+<i>Dada a informação,
+deve ser Desi, Russ,</i>
+
+88
+00:04:19,591 --> 00:04:22,025
+<i>- e você, loirinho.</i>
+- Certo.
+
+89
+00:04:27,656 --> 00:04:31,021
+Criação de identidades.
+Controle total sobre elas.
+
+90
+00:04:31,022 --> 00:04:32,457
+Não será necessário.
+
+91
+00:04:32,458 --> 00:04:34,780
+Estarão disfarçados
+de cidadãos ricos.
+
+92
+00:04:34,781 --> 00:04:37,581
+Três convites para o casamento
+do século ajudou.
+
+93
+00:04:37,582 --> 00:04:41,132
+Eu encontrei três convidados
+com a mínima conexão.
+
+94
+00:04:41,133 --> 00:04:44,501
+Todos disseram que não iam,
+mas, com ajuda do meu teclado,
+
+95
+00:04:44,502 --> 00:04:46,079
+eles mudaram de opinião.
+
+96
+00:04:46,080 --> 00:04:49,843
+Desi, você será Tien Ly,
+herdeira do império Ly Hotel.
+
+97
+00:04:49,844 --> 00:04:52,668
+Mac, conheça o Príncipe Willem,
+Conde de Bardi,
+
+98
+00:04:52,669 --> 00:04:55,197
+membro extenso
+da família real holandesa.
+
+99
+00:05:01,072 --> 00:05:02,662
+- Você fala holandês?
+- Falo.
+
+100
+00:05:02,663 --> 00:05:04,100
+Certo. E, Russ,
+
+101
+00:05:04,101 --> 00:05:07,278
+você será
+o Lorde Dougal MacTavish.
+
+102
+00:05:07,279 --> 00:05:09,670
+- Adoro um bom uísque.
+- Sóbrio há 30 anos,
+
+103
+00:05:09,671 --> 00:05:12,982
+é o porta-voz do ignorado
+Movimento de Temperança.
+
+104
+00:05:12,983 --> 00:05:15,529
+Certo. Gostaria de poder vetar
+nesse momento.
+
+105
+00:05:15,530 --> 00:05:17,664
+Não vai rolar. Muito bem.
+
+106
+00:05:17,665 --> 00:05:20,680
+Estou encaminhando os dossiês.
+Estudem.
+
+107
+00:05:20,681 --> 00:05:23,506
+Vocês estarão entre alguns
+membros da elite mundial.
+
+108
+00:05:25,803 --> 00:05:28,780
+<i>Matty,</i> ia dizer que se pudermos
+dividir o reconhecimento,
+
+109
+00:05:28,781 --> 00:05:31,453
+posso te enviar as fotos
+da festa.
+
+110
+00:05:31,454 --> 00:05:34,276
+<i>Envie a Bozer.
+Ele comandará a operação.</i>
+
+111
+00:05:35,030 --> 00:05:37,390
+Espere um pouco, Matty.
+
+112
+00:05:37,391 --> 00:05:39,834
+Por que a mudança repentina
+<i>no plano?</i>
+
+113
+00:05:39,835 --> 00:05:42,977
+Recebi uma pista urgente
+sobre os nano rastreadores.
+
+114
+00:05:43,332 --> 00:05:45,685
+Riley encontrou pesquisas
+de amostras de sangue
+
+115
+00:05:45,686 --> 00:05:48,458
+do protesto
+em toda Banja Luka.
+
+116
+00:05:48,459 --> 00:05:51,310
+Esse número, 48114,
+
+117
+00:05:51,311 --> 00:05:52,876
+é único na região.
+
+118
+00:05:52,877 --> 00:05:55,412
+O Presidente Petrovic
+pediu aos cientistas
+
+119
+00:05:55,413 --> 00:05:57,321
+para desenvolver
+mais nano rastreadores
+
+120
+00:05:57,322 --> 00:05:59,663
+para vender a países
+que monitoram dissidentes?
+
+121
+00:05:59,664 --> 00:06:02,120
+<i>Foi isso o que pensei.
+Até falar com meus contatos</i>
+
+122
+00:06:02,121 --> 00:06:04,087
+<i>no governo
+da República Sérvia.</i>
+
+123
+00:06:04,088 --> 00:06:06,896
+<i>Confirmaram que essa tecnologia
+não foi criada no país</i>
+
+124
+00:06:06,897 --> 00:06:09,103
+<i>e foram dadas
+como um experimento.</i>
+
+125
+00:06:09,104 --> 00:06:11,363
+"Dadas"? Por quem?
+
+126
+00:06:11,364 --> 00:06:13,526
+<i>Bom, essa é a pergunta</i>
+
+127
+00:06:13,527 --> 00:06:16,053
+<i>que apenas os íntimos
+de Petrovic podem responder.</i>
+
+128
+00:06:16,054 --> 00:06:17,476
+Vamos fazer uma visita.
+
+129
+00:06:17,477 --> 00:06:19,333
+<i>Vocês não farão nada.</i>
+
+130
+00:06:19,334 --> 00:06:21,782
+<i>Preciso que se foquem
+no casamento.</i>
+
+131
+00:06:21,783 --> 00:06:23,183
+Certo.
+
+132
+00:06:25,727 --> 00:06:27,403
+<i>Cancelei
+todos seus compromissos.</i>
+
+133
+00:06:27,404 --> 00:06:30,012
+Ótimo.
+Desde que Patrovic renunciou,
+
+134
+00:06:30,013 --> 00:06:31,581
+<i>os ratos estão caindo fora.</i>
+
+135
+00:06:31,582 --> 00:06:33,783
+<i>Precisamos ver qual dos lacaios
+o entregaria,</i>
+
+136
+00:06:33,784 --> 00:06:37,122
+<i>achar o intermediário</i> e tirar
+rastreador do Mac e da Riley.
+
+137
+00:06:37,123 --> 00:06:38,523
+<i>Vamos ao trabalho.</i>
+
+138
+00:06:39,350 --> 00:06:42,234
+Dado ao culto de personalidade,
+<i>não vai ser fácil.</i>
+
+139
+00:06:42,235 --> 00:06:44,736
+Esqueceu de mencionar
+o "Presidente Aperto de Mão".
+
+140
+00:06:44,737 --> 00:06:46,733
+<i>Não faço ideia
+do que está falando.</i>
+
+141
+00:06:46,734 --> 00:06:49,647
+Petrovic. É um apelido
+que ele recebeu <i>há uns anos,</i>
+
+142
+00:06:49,648 --> 00:06:52,188
+<i>pela forma violenta
+que ele aperta a mão de todos.</i>
+
+143
+00:06:52,189 --> 00:06:54,063
+<i>Dê uma olhada
+quando terminarmos isso.</i>
+
+144
+00:06:55,100 --> 00:06:58,213
+Parker, gostaria de ver
+o vídeo agora.
+
+145
+00:06:58,519 --> 00:07:00,093
+Colocarei os técnicos nisso.
+
+146
+00:07:01,726 --> 00:07:03,959
+BIKANER, ÍNDIA
+
+147
+00:07:04,239 --> 00:07:06,502
+CRISTOVÃO, O CAMINHO É ESSE
+
+148
+00:07:09,629 --> 00:07:13,207
+DIA ANTERIOR AO CASAMENTO
+
+149
+00:07:20,421 --> 00:07:24,214
+- Cosmopolitan de manga?
+- É um Bellini de manga.
+
+150
+00:07:24,215 --> 00:07:26,153
+Você é tão fino.
+
+151
+00:07:26,154 --> 00:07:28,714
+<i>Mac,</i> Desi, parece que Russ
+deu azar
+
+152
+00:07:28,715 --> 00:07:30,713
+e está sendo <i>revistado.</i>
+
+153
+00:07:32,370 --> 00:07:34,434
+- Que o disfarce funcione.
+- Russ Taylor
+
+154
+00:07:34,435 --> 00:07:36,728
+consegue sair
+de qualquer situação.
+
+155
+00:07:37,317 --> 00:07:40,513
+Você está deslumbrante,
+a propósito.
+
+156
+00:07:40,514 --> 00:07:41,920
+Obrigada.
+
+157
+00:07:42,126 --> 00:07:44,041
+Não está nada mal,
+Príncipe Willem.
+
+158
+00:07:44,042 --> 00:07:45,442
+Só...
+
+159
+00:07:46,269 --> 00:07:49,449
+Nossos disfarces estão intactos.
+Entramos oficialmente.
+
+160
+00:07:49,450 --> 00:07:50,850
+Perfeito.
+
+161
+00:07:52,453 --> 00:07:53,853
+Russ Taylor?
+
+162
+00:07:57,709 --> 00:07:59,109
+Sofia.
+
+163
+00:08:03,401 --> 00:08:06,213
+Polo com camelos? Quê?
+
+164
+00:08:06,710 --> 00:08:09,878
+E chá com o Primeiro-Ministro,
+com dedinho levantado.
+
+165
+00:08:10,174 --> 00:08:11,734
+E depois um <i>Barrat</i>.
+
+166
+00:08:12,035 --> 00:08:14,136
+- O que é isso?
+- Diz aqui que é um desfile
+
+167
+00:08:14,137 --> 00:08:17,192
+com o noivo
+em um cavalo branco
+
+168
+00:08:17,193 --> 00:08:19,476
+- ou elefante.
+- Duvido que seja o último.
+
+169
+00:08:19,477 --> 00:08:21,798
+- Por quê?
+- A caridade da Princesa Rani
+
+170
+00:08:21,799 --> 00:08:24,394
+angaria fundos para proteger
+elefantes em extinção.
+
+171
+00:08:26,881 --> 00:08:29,488
+Por falar em
+"elefante na sala..."
+
+172
+00:08:29,794 --> 00:08:31,479
+Não quis me intrometer
+com seu ex,
+
+173
+00:08:31,480 --> 00:08:34,276
+mas você ter sido noiva
+é meio que importante.
+
+174
+00:08:34,277 --> 00:08:36,676
+Eu sei.
+Mas é uma longa história, Mac.
+
+175
+00:08:36,677 --> 00:08:39,976
+Temos o final de semana todo.
+Podemos esclarecer as coisas.
+
+176
+00:08:39,977 --> 00:08:42,347
+Só não quero repetir
+os mesmos erros dele.
+
+177
+00:08:42,348 --> 00:08:43,999
+Seja lá o que for
+para terminarem...
+
+178
+00:08:44,000 --> 00:08:45,499
+Ele não fez nada.
+
+179
+00:08:48,138 --> 00:08:49,885
+Ele morreu.
+
+180
+00:08:56,129 --> 00:08:57,788
+Sinto muito, Des. Eu...
+
+181
+00:08:59,379 --> 00:09:02,801
+Agora você sabe.
+Pode dar um tempo agora?
+
+182
+00:09:06,773 --> 00:09:09,625
+Já tem um tempo,
+desde a quarentena.
+
+183
+00:09:09,626 --> 00:09:11,372
+Lorde Dougal MacTavish?
+
+184
+00:09:11,373 --> 00:09:13,624
+O que faz o dono de um grupo
+de especialistas
+
+185
+00:09:13,625 --> 00:09:15,676
+se passar por líder
+do Mov. de Temperança?
+
+186
+00:09:15,677 --> 00:09:19,119
+Se eu contar, terei que matá-la,
+e não quero matar ninguém.
+
+187
+00:09:19,120 --> 00:09:21,416
+Talvez só aquele sujeito.
+Que roupa é aquela?
+
+188
+00:09:21,417 --> 00:09:23,878
+Olha o tamanho do brasão.
+É enorme!
+
+189
+00:09:23,879 --> 00:09:26,280
+- Deve estar compensando.
+- Se não te conhecesse,
+
+190
+00:09:26,281 --> 00:09:27,681
+- diria...
+- É Dougal.
+
+191
+00:09:27,682 --> 00:09:30,774
+Dougal durante todo
+o final de semana, certo?
+
+192
+00:09:30,775 --> 00:09:33,694
+E se eu não cooperar,
+Lorde MacTavish?
+
+193
+00:09:34,181 --> 00:09:36,485
+- Gostei disso.
+- Por isso fugiu?
+
+194
+00:09:36,486 --> 00:09:39,241
+- Me deixou...
+- Querida. Estava te procurando.
+
+195
+00:09:39,472 --> 00:09:43,174
+Estava conversando com um amigo.
+Vou te apresentar.
+
+196
+00:09:43,175 --> 00:09:46,046
+Este é Rudolf Von Stupensen,
+o Vice-Conde da Áustria.
+
+197
+00:09:46,047 --> 00:09:49,684
+E, Rudy, te apresento
+Lorde Dougal MacTavish.
+
+198
+00:09:55,604 --> 00:09:58,537
+<i>Certo. Certo,
+dê-me um segundo.</i>
+
+199
+00:09:58,538 --> 00:10:00,088
+<i>Recebendo
+a transmissão ao vivo.</i>
+
+200
+00:10:02,264 --> 00:10:04,884
+Alguns têm passagens
+por pequenos delitos.
+
+201
+00:10:04,885 --> 00:10:07,843
+- Sem alertas.
+<i>- Entendido.</i>
+
+202
+00:10:10,375 --> 00:10:12,424
+Posso precisar de apoio
+no jardim.
+
+203
+00:10:20,489 --> 00:10:21,889
+Abortar.
+
+204
+00:10:22,791 --> 00:10:24,403
+O que diz sobre mim
+se eu pensar
+
+205
+00:10:24,404 --> 00:10:27,439
+<i>que uma bandeja tem uma arma
+e não um arroz delicioso?</i>
+
+206
+00:10:27,440 --> 00:10:29,074
+Diz que é boa
+no seu trabalho.
+
+207
+00:10:33,380 --> 00:10:35,496
+- Oi.
+- Desculpe. Estou no caminho.
+
+208
+00:10:35,825 --> 00:10:37,737
+É tão bom fresco.
+
+209
+00:10:37,738 --> 00:10:39,289
+A cerimônia de <i>Pithi</i>
+é incrível,
+
+210
+00:10:39,290 --> 00:10:41,243
+mas se eu não colocar
+nada no estômago
+
+211
+00:10:41,244 --> 00:10:44,220
+antes de esfregarem meu rosto
+por uma hora com cúrcuma,
+
+212
+00:10:44,221 --> 00:10:45,622
+posso desmaiar.
+
+213
+00:10:45,623 --> 00:10:48,570
+É seu casamento.
+Acho que pode atrasar uma hora.
+
+214
+00:10:48,571 --> 00:10:50,446
+Não tenho voto no assunto.
+
+215
+00:10:50,447 --> 00:10:53,358
+Assim como não tinha
+na lista de convidados, então...
+
+216
+00:10:54,418 --> 00:10:58,344
+Está aqui para agradar meu pai
+ou o pai do Oliver?
+
+217
+00:10:58,345 --> 00:11:01,215
+Agradar você
+não seria uma má ideia.
+
+218
+00:11:01,476 --> 00:11:03,139
+- Sou Rani.
+- Tien Ly.
+
+219
+00:11:03,474 --> 00:11:04,983
+O Hotel Empire.
+
+220
+00:11:04,984 --> 00:11:06,526
+Posso oferecer uma estadia
+
+221
+00:11:06,527 --> 00:11:09,222
+em nossa suíte real
+para a lua de mel?
+
+222
+00:11:09,223 --> 00:11:11,046
+A segurança já planejou
+para nós.
+
+223
+00:11:11,047 --> 00:11:14,287
+Ran, te procurei
+por toda parte.
+
+224
+00:11:14,288 --> 00:11:15,888
+Não poderei ficar na Pithi.
+
+225
+00:11:15,889 --> 00:11:18,839
+Farei um passeio de helicóptero.
+Divirta-se.
+
+226
+00:11:19,269 --> 00:11:21,208
+Não se preocupe, Elise.
+Divirta-se.
+
+227
+00:11:23,718 --> 00:11:25,462
+A ex namorada do meu noivo.
+
+228
+00:11:26,145 --> 00:11:28,396
+Preciso ir. A máquina
+do casamento nunca para.
+
+229
+00:11:28,397 --> 00:11:30,547
+- Prazer em conhecê-la.
+- Igualmente. Tchau.
+
+230
+00:11:32,272 --> 00:11:34,347
+Estabeleci contato
+com a princesa.
+
+231
+00:11:34,348 --> 00:11:35,850
+Ela é legal, falando nisso.
+
+232
+00:11:37,089 --> 00:11:39,789
+Importa-se de me emprestá-la
+
+233
+00:11:39,790 --> 00:11:41,289
+por um minuto?
+
+234
+00:11:41,861 --> 00:11:43,266
+Encontro você depois.
+
+235
+00:11:46,067 --> 00:11:47,684
+Então, contou a ele
+sobre nós?
+
+236
+00:11:47,685 --> 00:11:49,089
+Não existe "nós".
+
+237
+00:11:49,090 --> 00:11:51,687
+Bem, acho que abril
+do ano passado discorda.
+
+238
+00:11:51,688 --> 00:11:54,239
+Foi uma circunstância especial.
+Culpa da quarentena.
+
+239
+00:11:54,240 --> 00:11:55,640
+É mesmo?
+
+240
+00:11:58,232 --> 00:11:59,665
+Por isso que foi embora
+
+241
+00:11:59,666 --> 00:12:02,477
+sem ao menos dar tchau?
+
+242
+00:12:03,510 --> 00:12:05,361
+<i>Desi, Taylor,
+para a zona de descarga.</i>
+
+243
+00:12:05,362 --> 00:12:07,095
+<i>Estão tentando
+raptar a princesa.</i>
+
+244
+00:12:43,273 --> 00:12:44,976
+É um dos vendedores
+de flores.
+
+245
+00:12:44,977 --> 00:12:46,570
+Mãos para cima.
+
+246
+00:12:46,571 --> 00:12:49,318
+Estão presos por tentar
+raptar a Princesa Rani.
+
+247
+00:12:58,673 --> 00:13:00,086
+Como chefe da guarda real,
+
+248
+00:13:00,087 --> 00:13:02,004
+o governo concorda
+que sua punição
+
+249
+00:13:02,005 --> 00:13:03,406
+será decidida por mim.
+
+250
+00:13:03,407 --> 00:13:05,220
+Fale com Wilt Bozer
+na Fundação Fênix
+
+251
+00:13:05,221 --> 00:13:06,942
+Não tivemos nada a ver
+com o rapto.
+
+252
+00:13:06,943 --> 00:13:08,397
+Não foi o que pareceu.
+
+253
+00:13:08,398 --> 00:13:11,387
+Estariam em uma caçada pública
+à princesa sem nossa ajuda.
+
+254
+00:13:11,388 --> 00:13:12,976
+Que tal um "obrigado"?
+
+255
+00:13:12,977 --> 00:13:16,036
+Nitesh, solte eles.
+Eles me salvaram.
+
+256
+00:13:16,037 --> 00:13:18,380
+Com todo respeito,
+são invasores impostores.
+
+257
+00:13:18,381 --> 00:13:20,614
+Está enganado.
+Esta é Tien Ly.
+
+258
+00:13:21,752 --> 00:13:24,142
+Na verdade,
+meu nome é Desi Nguyen.
+
+259
+00:13:24,143 --> 00:13:26,512
+Este é Russ Taylor
+e Angus MacGyver.
+
+260
+00:13:26,513 --> 00:13:30,616
+- Somos segurança extra.
+- Um favor ao MI6 e Interpol.
+
+261
+00:13:30,842 --> 00:13:32,584
+Caso algo assim
+acontecesse.
+
+262
+00:13:32,585 --> 00:13:35,832
+Desculpe mentir para você,
+mas era um disfarce.
+
+263
+00:13:36,643 --> 00:13:38,043
+Sorte minha, eu acho.
+
+264
+00:13:38,615 --> 00:13:40,692
+Nitesh,
+tire as algemas deles agora.
+
+265
+00:13:43,563 --> 00:13:46,686
+Sou guardiã da Rani
+e a conselheira do Rei.
+
+266
+00:13:46,687 --> 00:13:48,995
+Temos um débito
+de gratidão com vocês.
+
+267
+00:13:48,996 --> 00:13:51,295
+O que precisarem,
+por favor, nos digam.
+
+268
+00:13:51,296 --> 00:13:53,984
+Queremos verificar
+os antecedentes dos vendedores,
+
+269
+00:13:53,985 --> 00:13:55,862
+e precisaremos de uma lista
+para isso.
+
+270
+00:13:55,863 --> 00:13:58,687
+Absolutamente.
+Você os ouviu?
+
+271
+00:14:08,889 --> 00:14:10,806
+Seu parceiro
+nos contou tudo.
+
+272
+00:14:13,983 --> 00:14:16,289
+Confirme o nome e localização
+do seu chefe,
+
+273
+00:14:16,290 --> 00:14:18,798
+e verá a luz do dia de novo
+antes dos 90 anos.
+
+274
+00:14:28,654 --> 00:14:30,176
+Desligue o ar-condicionado.
+
+275
+00:14:31,096 --> 00:14:34,712
+Voltaremos em algumas horas
+bem quentes.
+
+276
+00:14:37,876 --> 00:14:39,284
+Como foi?
+
+277
+00:14:39,285 --> 00:14:41,674
+É do tipo, "morro e não falo".
+Não curto.
+
+278
+00:14:41,675 --> 00:14:43,360
+Algum progresso aqui?
+
+279
+00:14:43,361 --> 00:14:45,739
+O sr. Chefe da Guarda Real,
+Nitesh,
+
+280
+00:14:45,740 --> 00:14:47,275
+é membro do Flecha Azul,
+
+281
+00:14:47,276 --> 00:14:50,478
+um dos grupos de isolacionismo
+mas extremista da região.
+
+282
+00:14:50,479 --> 00:14:53,180
+Que não só dá a ele
+acesso e oportunidade
+
+283
+00:14:53,181 --> 00:14:55,337
+como chefe de segurança,
+mas motivo também.
+
+284
+00:14:55,338 --> 00:14:57,339
+Ele estava ansioso
+para se livrar de nós.
+
+285
+00:14:57,340 --> 00:15:00,164
+Também sinalizamos
+uma ex do Oliver como suspeita,
+
+286
+00:15:00,165 --> 00:15:01,565
+Elise Deveroux.
+
+287
+00:15:01,566 --> 00:15:04,463
+Ela não gosta de Rani.
+Eu mesma vi.
+
+288
+00:15:04,464 --> 00:15:06,383
+<i>Pessoal,
+encontrei uma transferência</i>
+
+289
+00:15:06,384 --> 00:15:09,071
+<i>do palácio uma hora antes
+da tentativa de rapto,</i>
+
+290
+00:15:09,072 --> 00:15:10,640
+<i>e não vão adivinhar
+de quem foi.</i>
+
+291
+00:15:10,894 --> 00:15:12,489
+Do fundo fiduciário
+de Oliver.
+
+292
+00:15:12,922 --> 00:15:15,075
+INR$ 2 milhões
+para uma imobiliária
+
+293
+00:15:15,076 --> 00:15:16,910
+para 3 mil acres.
+
+294
+00:15:17,730 --> 00:15:19,334
+<i>Talvez não seja Oliver.</i>
+
+295
+00:15:19,335 --> 00:15:22,195
+A mãe dele, Bella, tem negócios
+fora com farmacêuticas.
+
+296
+00:15:22,196 --> 00:15:25,687
+<i>E uma terra rica em zinco</i>
+pode dar lucro a essa indústria.
+
+297
+00:15:25,688 --> 00:15:27,584
+Bella está usando
+o casamento do filho
+
+298
+00:15:27,585 --> 00:15:29,718
+para fazer um acordo
+que seria impossível.
+
+299
+00:15:29,719 --> 00:15:32,233
+Espere. Pessoal.
+
+300
+00:15:32,976 --> 00:15:34,401
+Tem alguém ouvindo.
+
+301
+00:15:41,384 --> 00:15:42,785
+Sofia!
+
+302
+00:15:42,786 --> 00:15:45,666
+Quero muito falar com você,
+mas não é uma boa hora.
+
+303
+00:15:45,667 --> 00:15:48,847
+Sério, Russ,
+vejo pés sob a cortina.
+
+304
+00:15:51,963 --> 00:15:54,437
+Devem ser do grupo
+de especialistas do Russel.
+
+305
+00:15:54,438 --> 00:15:56,503
+Isso vai ser bom.
+Riley, olhe.
+
+306
+00:15:56,504 --> 00:15:57,904
+<i>Sou Sofia.</i>
+
+307
+00:15:59,586 --> 00:16:01,423
+<i>Acredito que ele contou
+sobre mim.</i>
+
+308
+00:16:01,743 --> 00:16:03,984
+Taylor e a peguete dele
+de novo.
+
+309
+00:16:03,985 --> 00:16:05,494
+Acho que ele esperava.
+
+310
+00:16:06,124 --> 00:16:08,792
+<i>Vocês devem ter</i>
+muito o que falar, então...
+
+311
+00:16:11,810 --> 00:16:13,861
+Vamos falar com o noivo.
+
+312
+00:16:13,862 --> 00:16:15,262
+Ver o que Oliver sabe.
+
+313
+00:16:19,091 --> 00:16:20,776
+A que devo o prazer?
+
+314
+00:16:20,777 --> 00:16:23,987
+Queria falar com você.
+Em particular.
+
+315
+00:16:23,988 --> 00:16:26,589
+Quero saber o real motivo
+de me deixar na quarentena.
+
+316
+00:16:26,590 --> 00:16:29,240
+- Não ache que não me diverti.
+- Então por que partiu?
+
+317
+00:16:30,895 --> 00:16:33,123
+- Precisava de espaço.
+- Eu te daria.
+
+318
+00:16:33,124 --> 00:16:34,801
+Não precisava me ignorar.
+
+319
+00:16:35,192 --> 00:16:36,883
+E é por isso
+que estou aqui.
+
+320
+00:16:36,884 --> 00:16:39,654
+Tempo e distância
+me fizeram perceber
+
+321
+00:16:40,215 --> 00:16:41,689
+que o que tivemos foi real.
+
+322
+00:16:46,876 --> 00:16:48,276
+Sim...
+
+323
+00:16:50,779 --> 00:16:52,186
+Penso o mesmo.
+
+324
+00:16:53,482 --> 00:16:55,481
+Por que não continuamos
+de onde paramos?
+
+325
+00:16:56,977 --> 00:16:58,704
+Vamos compensar
+o tempo perdido.
+
+326
+00:17:09,213 --> 00:17:11,548
+<i>Tenho os vídeos do Petrovic
+que pediu.</i>
+
+327
+00:17:11,549 --> 00:17:14,301
+<i>Ótimo, vamos começar
+com Vlado Nanic.</i>
+
+328
+00:17:19,825 --> 00:17:22,100
+Corpo virado a 30 graus.
+
+329
+00:17:23,290 --> 00:17:24,978
+Recuou os pés.
+
+330
+00:17:24,979 --> 00:17:26,497
+Submisso.
+
+331
+00:17:27,525 --> 00:17:30,259
+Fraco. Leal.
+Ele nunca o entregará.
+
+332
+00:17:30,575 --> 00:17:32,800
+Mostre-me Esma Jelic.
+
+333
+00:17:35,227 --> 00:17:38,315
+Cabeça um pouco baixa.
+Ombros curvados.
+
+334
+00:17:39,033 --> 00:17:41,693
+Sabe que o aperto
+de mão está vindo,
+
+335
+00:17:42,483 --> 00:17:45,448
+mas ainda foi pega
+desprevenida. Tem medo dele.
+
+336
+00:17:45,449 --> 00:17:47,306
+Nunca vai falar
+o que queremos saber.
+
+337
+00:17:47,307 --> 00:17:49,705
+<i>Mostre-me Adem Divjak.</i>
+
+338
+00:17:53,340 --> 00:17:54,923
+Olhos fixos.
+
+339
+00:17:54,924 --> 00:17:56,493
+Totalmente confiante.
+
+340
+00:17:59,101 --> 00:18:00,501
+Seguro.
+
+341
+00:18:01,790 --> 00:18:05,463
+Desafiador. E mostrando
+na cara do Petrovic.
+
+342
+00:18:05,464 --> 00:18:07,491
+Significa que não tem
+lealdade,
+
+343
+00:18:07,492 --> 00:18:10,231
+confiança, e sem chance
+de não entregá-lo.
+
+344
+00:18:10,232 --> 00:18:12,556
+Esse é nosso cara.
+Nos levará ao intermediário.
+
+345
+00:18:12,557 --> 00:18:14,147
+Mande uma equipe
+para casa dele.
+
+346
+00:18:14,148 --> 00:18:15,548
+Fazendo isso.
+
+347
+00:18:15,870 --> 00:18:17,435
+O que é tudo isso?
+
+348
+00:18:17,436 --> 00:18:19,717
+Temos perguntas
+sobre suas finanças.
+
+349
+00:18:19,718 --> 00:18:21,668
+Seu fundo fiduciário
+tem estado ocupado.
+
+350
+00:18:24,395 --> 00:18:27,295
+Como descobriu?
+Não contou a ela, contou?
+
+351
+00:18:28,276 --> 00:18:29,676
+Foi você e sua mãe?
+
+352
+00:18:30,891 --> 00:18:32,773
+- Como?
+- Sua mãe usou o casamento
+
+353
+00:18:32,774 --> 00:18:36,346
+para fazer um acordo,
+e tentou se livrar da princesa.
+
+354
+00:18:36,347 --> 00:18:39,766
+Isso é absurdo. Só porque
+comprei um presente para Rani,
+
+355
+00:18:39,767 --> 00:18:43,189
+não significa que minha mãe
+os contratou para sequestrá-la.
+
+356
+00:18:44,719 --> 00:18:46,120
+A terra foi presente?
+
+357
+00:18:46,121 --> 00:18:48,678
+Para o santuário de elefantes
+do sonho dela.
+
+358
+00:18:48,679 --> 00:18:51,239
+Ela disse que vocês
+deveriam ser bons no trabalho.
+
+359
+00:18:55,889 --> 00:18:57,893
+Acha que ele está falando
+a verdade?
+
+360
+00:18:57,894 --> 00:19:00,518
+- Claro.
+- Perguntei para eles.
+
+361
+00:19:00,519 --> 00:19:02,612
+Bem, é por isso
+que queríamos Rani aqui.
+
+362
+00:19:02,613 --> 00:19:06,264
+- Ela conhece melhor o Oliver.
+- Mas conhece a família dele?
+
+363
+00:19:07,739 --> 00:19:09,948
+Sugiro adiarmos o casamento
+
+364
+00:19:09,949 --> 00:19:12,318
+até MacGyver e Desi
+investiguem a Bella Hughes.
+
+365
+00:19:12,319 --> 00:19:14,387
+Adiar agora causaria
+um escândalo.
+
+366
+00:19:14,388 --> 00:19:16,390
+Fiz um voto no leito
+de morte da sua mãe
+
+367
+00:19:16,391 --> 00:19:18,348
+de mantê-la segura,
+e vou honrar isso
+
+368
+00:19:18,349 --> 00:19:19,899
+enquanto eu viver.
+
+369
+00:19:20,680 --> 00:19:22,787
+Acho que Desi deveria ser
+minha segurança
+
+370
+00:19:22,788 --> 00:19:24,210
+pelo final de semana.
+
+371
+00:19:24,211 --> 00:19:26,449
+Sim. Seria uma honra.
+
+372
+00:19:29,971 --> 00:19:31,529
+Mac.
+
+373
+00:19:31,530 --> 00:19:33,202
+Como foi com o Oliver?
+
+374
+00:19:33,486 --> 00:19:35,646
+Ele está limpo,
+mas talvez a mãe dele não.
+
+375
+00:19:35,647 --> 00:19:37,057
+Riley está investigando.
+
+376
+00:19:37,058 --> 00:19:38,944
+Vejo que você e Sofia
+se resolveram.
+
+377
+00:19:38,945 --> 00:19:42,807
+Não sei se temos consistência,
+mas veremos.
+
+378
+00:19:42,808 --> 00:19:45,082
+É isso que você quer?
+
+379
+00:19:45,083 --> 00:19:47,861
+Acha que é ela, ou...?
+
+380
+00:19:49,851 --> 00:19:52,581
+Bem...
+Não acredito nessa de única,
+
+381
+00:19:52,582 --> 00:19:54,802
+mas se acreditasse,
+diria que sim.
+
+382
+00:19:55,036 --> 00:19:58,186
+Sim, Sofia está
+bem perto disso.
+
+383
+00:19:59,571 --> 00:20:02,096
+Está pensando
+em alguma coisa, Mac?
+
+384
+00:20:02,411 --> 00:20:04,886
+Geralmente falo com o Bozer
+sobre isso,
+
+385
+00:20:05,284 --> 00:20:06,888
+mas ele está
+ocupado com a missão
+
+386
+00:20:06,889 --> 00:20:09,848
+e não quero distrai-lo.
+E você está aqui. Olha...
+
+387
+00:20:10,881 --> 00:20:13,690
+Desi soltou uma bomba
+em mim mais cedo.
+
+388
+00:20:15,682 --> 00:20:18,781
+Primeiro, ela disse
+que já foi noiva antes.
+
+389
+00:20:19,672 --> 00:20:21,877
+Depois disse
+que ele está morto.
+
+390
+00:20:23,475 --> 00:20:25,776
+Então estamos rodando nisso
+o dia inteiro,
+
+391
+00:20:25,777 --> 00:20:27,700
+fingindo
+que está tudo normal.
+
+392
+00:20:28,318 --> 00:20:32,650
+Por que não conversa
+com ela sobre isso?
+
+393
+00:20:32,651 --> 00:20:34,826
+Esse é o problema,
+Desi não quer conversar.
+
+394
+00:20:34,827 --> 00:20:37,350
+É como se ela soltasse
+pequenas migalhas
+
+395
+00:20:37,351 --> 00:20:40,687
+para eu descobrir
+ou esperar as próximas.
+
+396
+00:20:41,749 --> 00:20:45,489
+Quero dizer que ela deveria
+ter me contado há muito tempo.
+
+397
+00:20:45,490 --> 00:20:47,979
+Diz o cara que escondeu o plano
+de entrar no Codex
+
+398
+00:20:47,980 --> 00:20:50,393
+da chefe, do melhor amigo
+e da namorada.
+
+399
+00:20:52,076 --> 00:20:55,054
+Olha, dê a Desi todo o espaço
+que ela precisa.
+
+400
+00:20:55,976 --> 00:20:58,803
+Se ficar insistindo,
+pode afastá-la de vez.
+
+401
+00:21:04,574 --> 00:21:07,243
+Achei que escolheria
+um elefante.
+
+402
+00:21:07,930 --> 00:21:09,484
+Bem,
+quando minha mãe era viva,
+
+403
+00:21:09,485 --> 00:21:11,676
+tínhamos pavões andando
+no jardim.
+
+404
+00:21:11,677 --> 00:21:15,060
+Depois que ela morreu,
+meu pai não os suportava, então
+
+405
+00:21:16,039 --> 00:21:18,393
+é como ter
+uma pequena parte dela comigo.
+
+406
+00:21:19,280 --> 00:21:21,725
+Tenho certeza que ela está
+olhando você hoje.
+
+407
+00:21:21,726 --> 00:21:23,126
+Orgulhosa.
+
+408
+00:21:23,893 --> 00:21:26,486
+Fala como alguém
+que já perdeu um ente querido.
+
+409
+00:21:26,487 --> 00:21:27,996
+Perdeu os pais também?
+
+410
+00:21:32,468 --> 00:21:33,868
+Meu noivo.
+
+411
+00:21:35,170 --> 00:21:36,670
+Alguns anos atrás.
+
+412
+00:21:37,777 --> 00:21:40,762
+Não consigo imaginar ficar
+no precipício o resto da vida,
+
+413
+00:21:40,763 --> 00:21:42,175
+apenas para ser arrancada.
+
+414
+00:21:42,176 --> 00:21:43,962
+Foi bem trágico.
+
+415
+00:21:45,215 --> 00:21:47,787
+Honestamente, achei
+que tinha superado...
+
+416
+00:21:48,933 --> 00:21:50,881
+Mas hoje sei
+que é a única coisa
+
+417
+00:21:50,882 --> 00:21:53,602
+me impedindo
+de mergulhar de cabeça.
+
+418
+00:21:54,141 --> 00:21:55,541
+Com MacGyver?
+
+419
+00:21:57,109 --> 00:21:58,960
+- Como sabe?
+- O jeito que ele te olha
+
+420
+00:21:58,961 --> 00:22:01,913
+cheio de adoração e amor.
+
+421
+00:22:01,914 --> 00:22:03,909
+É o jeito
+que Oliver te olha.
+
+422
+00:22:07,483 --> 00:22:10,203
+Por que convidou a ex do Oliver
+para o casamento?
+
+423
+00:22:10,204 --> 00:22:13,339
+Os pais deles são próximos.
+Era inegociável.
+
+424
+00:22:13,340 --> 00:22:15,896
+Mesmo que ela seja psicótica
+e tentou me matar.
+
+425
+00:22:16,584 --> 00:22:18,377
+- Quê?
+- Estávamos em Oxford juntas.
+
+426
+00:22:18,378 --> 00:22:20,156
+Várias meninas foram
+fazer compras.
+
+427
+00:22:20,157 --> 00:22:24,072
+Estávamos rindo, quando eu cai
+de cabeça nas escadas.
+
+428
+00:22:24,073 --> 00:22:25,479
+Alguém me empurrou.
+
+429
+00:22:25,480 --> 00:22:27,243
+Ela era a única
+perto o suficiente.
+
+430
+00:22:27,244 --> 00:22:29,101
+Até hoje ela nega, sabe.
+
+431
+00:22:29,712 --> 00:22:31,726
+Você é uma ameaça
+tão grande assim?
+
+432
+00:22:31,727 --> 00:22:33,205
+Não entendo.
+
+433
+00:22:33,206 --> 00:22:36,687
+Elise e Oliver foram noivos.
+
+434
+00:22:36,688 --> 00:22:38,853
+O conheci
+meses depois do término.
+
+435
+00:22:38,854 --> 00:22:41,559
+<i>Mac, Desi, vão
+à sala de interrogatório agora.</i>
+
+436
+00:22:42,663 --> 00:22:44,063
+Com licença.
+
+437
+00:22:48,909 --> 00:22:51,342
+Tarde demais, Mac.
+Eu tentei.
+
+438
+00:22:51,882 --> 00:22:54,005
+O achamos caído na cadeira.
+
+439
+00:22:56,142 --> 00:22:57,795
+Baseado na lesão do pescoço,
+
+440
+00:22:57,796 --> 00:22:59,623
+meu palpite
+é estrangulamento.
+
+441
+00:22:59,624 --> 00:23:01,669
+Não há sinais visíveis
+de luta.
+
+442
+00:23:01,670 --> 00:23:04,587
+- Alguém tinha acesso à sala.
+- Parece trabalho interno.
+
+443
+00:23:04,588 --> 00:23:06,609
+Quem fez isso estava
+no sequestro
+
+444
+00:23:06,610 --> 00:23:08,299
+e queria cobrir os rastros.
+
+445
+00:23:08,889 --> 00:23:10,447
+Se tinham acesso
+e oportunidade,
+
+446
+00:23:10,448 --> 00:23:12,984
+por que não soltaram
+o prisioneiro e o ajudaram?
+
+447
+00:23:12,985 --> 00:23:14,406
+Para nos mandar um sinal.
+
+448
+00:23:14,407 --> 00:23:17,408
+Sabem que estamos atrás deles.
+E isso é um aviso.
+
+449
+00:23:20,708 --> 00:23:23,375
+Talvez devêssemos
+cancelar o casamento.
+
+450
+00:23:23,376 --> 00:23:24,833
+Se cancelarmos agora,
+
+451
+00:23:24,834 --> 00:23:27,135
+podemos perder o assassino
+ou quem ele procura.
+
+452
+00:23:27,136 --> 00:23:29,229
+Não posso passar
+o resto da vida com medo.
+
+453
+00:23:29,230 --> 00:23:31,532
+E quanto ao seu pai?
+Ele também está em risco.
+
+454
+00:23:31,533 --> 00:23:34,326
+Esta não é mais sua decisão.
+Devo alertar o rei.
+
+455
+00:23:34,327 --> 00:23:35,882
+Não mesmo. Eu proíbo.
+
+456
+00:23:35,883 --> 00:23:38,294
+Meu primeiro e único dever
+é mantê-la segura
+
+457
+00:23:38,295 --> 00:23:40,624
+e certificar-me de que suba
+ao trono um dia.
+
+458
+00:23:40,625 --> 00:23:43,040
+Esse dia não é hoje.
+
+459
+00:23:45,523 --> 00:23:48,693
+Mac, o que é isso?
+
+460
+00:23:50,637 --> 00:23:52,499
+É henna, ou seja,
+quem o estrangulou
+
+461
+00:23:52,500 --> 00:23:54,050
+tinha tinta fresca nas mãos.
+
+462
+00:23:54,709 --> 00:23:56,109
+Elise?
+
+463
+00:23:56,685 --> 00:23:58,291
+Ela finalmente apareceu.
+
+464
+00:23:58,939 --> 00:24:00,540
+<i>Sim, mas centenas
+também vieram.</i>
+
+465
+00:24:00,541 --> 00:24:03,257
+- E quanto a Nitesh?
+<i>- Só mulheres fazem henna.</i>
+
+466
+00:24:03,258 --> 00:24:05,327
+Isso diminui
+a lista de suspeitos.
+
+467
+00:24:05,328 --> 00:24:07,515
+Ou um homem
+pode ter plantado
+
+468
+00:24:07,516 --> 00:24:08,928
+para nos distrair.
+
+469
+00:24:09,397 --> 00:24:11,697
+Precisamos manter
+esta investigação em segredo.
+
+470
+00:24:11,698 --> 00:24:14,733
+Concordo. Não queremos
+assustá-lo, ou a ela.
+
+471
+00:24:14,734 --> 00:24:17,288
+Mas como sabemos
+quando todos fizeram a henna
+
+472
+00:24:17,289 --> 00:24:19,088
+se não podemos interrogar
+ninguém?
+
+473
+00:24:19,309 --> 00:24:20,710
+Instagram.
+
+474
+00:24:20,711 --> 00:24:23,226
+Estão postando as tatuagens
+nas redes sociais
+
+475
+00:24:23,227 --> 00:24:26,648
+usando a hashtag
+"Casamento RaOliver".
+
+476
+00:24:27,119 --> 00:24:30,801
+Rani está certa.
+Mas ainda são 250 suspeitas.
+
+477
+00:24:31,283 --> 00:24:33,232
+Podemos usar
+um teste de oxidação.
+
+478
+00:24:33,727 --> 00:24:36,430
+Henna, escurece com o tempo.
+
+479
+00:24:36,923 --> 00:24:38,717
+Podemos cruzar a referência
+da cor
+
+480
+00:24:38,718 --> 00:24:41,773
+com as fotos do <i>Mehndi</i>
+e descobrir quem é o assassino.
+
+481
+00:24:41,774 --> 00:24:43,677
+<i>Testes de oxidação
+devem ser realizados</i>
+
+482
+00:24:43,678 --> 00:24:45,652
+<i>em ambientes
+com temperatura controlada.</i>
+
+483
+00:24:45,653 --> 00:24:48,026
+<i>Infelizmente,
+estou a alguns continentes</i>
+
+484
+00:24:48,027 --> 00:24:49,707
+<i>do meu laboratório
+de escolha.</i>
+
+485
+00:24:49,708 --> 00:24:52,920
+<i>Mas se eu fizer uma caixa
+de oxidação com o frigobar,</i>
+
+486
+00:24:52,921 --> 00:24:55,248
+<i>e usar o ácido ascórbico
+e cítrico do limão</i>
+
+487
+00:24:55,249 --> 00:24:57,449
+<i>para auxiliar no processo
+de desenvolvimento,</i>
+
+488
+00:24:57,450 --> 00:25:00,530
+<i>basta adicionar calor
+e estaremos um passo mais perto</i>
+
+489
+00:25:00,531 --> 00:25:02,140
+<i>de identificar o assassino.</i>
+
+490
+00:25:03,126 --> 00:25:07,329
+Até lá, continuem a festa,
+certo? Para ganharmos tempo.
+
+491
+00:25:07,330 --> 00:25:10,048
+Falarei com a Sumita
+para que ela não cancela nada.
+
+492
+00:25:10,049 --> 00:25:11,932
+Precisarei envolver
+meus pais nisso.
+
+493
+00:25:11,933 --> 00:25:13,611
+Diga para manterem
+as aparências.
+
+494
+00:25:13,612 --> 00:25:16,921
+É importante,
+se assustarmos o assassino,
+
+495
+00:25:17,331 --> 00:25:19,322
+pode custar a vida de vocês.
+
+496
+00:25:22,420 --> 00:25:24,282
+Consiga os dossiês
+das convidadas,
+
+497
+00:25:24,283 --> 00:25:26,345
+exceto Elise,
+o mais rápido possível.
+
+498
+00:25:26,346 --> 00:25:29,626
+Cara, sabe como é difícil
+compilar 250 dossiês?
+
+499
+00:25:29,627 --> 00:25:32,633
+Depende se quem está fazendo
+é Riley Davis ou Artemis37.
+
+500
+00:25:34,575 --> 00:25:36,082
+Eu vi sua tela.
+
+501
+00:25:36,083 --> 00:25:37,638
+Revisitando
+seu antigo usuário?
+
+502
+00:25:40,828 --> 00:25:42,327
+Qual é, Boze.
+
+503
+00:25:42,328 --> 00:25:45,325
+Me conhece há 5 anos e não
+me dá o benefício da dúvida?
+
+504
+00:25:45,326 --> 00:25:47,429
+- Só estou cuidando de você.
+- Agradeço,
+
+505
+00:25:47,430 --> 00:25:49,420
+mas tenho um projeto
+paralelo.
+
+506
+00:25:49,978 --> 00:25:51,750
+Estou orientando garotas
+que são...
+
+507
+00:25:52,715 --> 00:25:54,115
+Como eu era.
+
+508
+00:25:55,537 --> 00:25:57,438
+Quem sabe onde eu estaria
+se Mac e Jack
+
+509
+00:25:57,439 --> 00:25:59,003
+não me trouxessem
+para a Fênix?
+
+510
+00:26:00,239 --> 00:26:02,937
+Só quero dar a elas
+a mesma coisa que recebi.
+
+511
+00:26:03,328 --> 00:26:05,037
+Um uso
+para habilidades delas.
+
+512
+00:26:06,868 --> 00:26:09,087
+Isso é demais.
+Então, como posso ajudar?
+
+513
+00:26:09,534 --> 00:26:11,319
+Deixando-me
+fazer isso sozinha.
+
+514
+00:26:11,320 --> 00:26:13,331
+Nem tudo que faço
+é trabalho em equipe.
+
+515
+00:26:15,178 --> 00:26:17,243
+Logo enviarei os dossiês
+para você.
+
+516
+00:26:18,410 --> 00:26:19,810
+Obrigado.
+
+517
+00:26:34,318 --> 00:26:36,224
+<i>Está tudo quieto por aqui.</i>
+
+518
+00:26:36,225 --> 00:26:37,935
+Vou cobrir
+a saída dos fundos.
+
+519
+00:26:37,936 --> 00:26:40,999
+Se a Desi ficar colada
+na Rani ficará tudo bem.
+
+520
+00:26:41,000 --> 00:26:43,072
+Pode nos considerar
+gêmeas siamesas.
+
+521
+00:26:43,073 --> 00:26:45,918
+<i>- Sairemos em 30 min. ou menos.</i>
+- Estou de olho na Elise.
+
+522
+00:26:46,557 --> 00:26:48,687
+Nada suspeito até agora.
+
+523
+00:26:53,313 --> 00:26:55,344
+Sem ressentimentos sobre
+a Sofia, amigo.
+
+524
+00:26:55,345 --> 00:26:58,899
+Sei que posso estar bêbado,
+mas não sou besta.
+
+525
+00:26:58,900 --> 00:27:00,342
+Ela está tão na sua.
+
+526
+00:27:00,343 --> 00:27:03,317
+Não sei do que está
+falando, amigo.
+
+527
+00:27:03,318 --> 00:27:05,554
+Sinceramente, estaria
+me fazendo um favor.
+
+528
+00:27:05,555 --> 00:27:08,311
+Entendo que ela é preocupada
+com trabalho,
+
+529
+00:27:08,312 --> 00:27:11,641
+mas ela não parava de falar
+sobre um tesouro antigo perdido.
+
+530
+00:27:14,344 --> 00:27:15,782
+Tesouro Inca?
+
+531
+00:27:16,167 --> 00:27:17,567
+Exato.
+
+532
+00:27:20,064 --> 00:27:22,107
+- Boas notícias, sra.
+<i>- Já estou sabendo.</i>
+
+533
+00:27:22,108 --> 00:27:25,270
+<i>A equipe tática pegou Divjak
+em Banja Luka.</i>
+
+534
+00:27:25,271 --> 00:27:28,114
+<i>Ele falou logo sobre
+a nanotecnologia</i>
+
+535
+00:27:28,115 --> 00:27:30,943
+<i>- em troca de imunidade.</i>
+- E como achar o intermediário?
+
+536
+00:27:30,944 --> 00:27:32,344
+Já encontramos ele.
+
+537
+00:27:33,099 --> 00:27:34,669
+<i>Já entramos no laptop dele.</i>
+
+538
+00:27:34,670 --> 00:27:37,041
+<i>Agora vamos esperar
+com quem ele falará.</i>
+
+539
+00:27:42,393 --> 00:27:44,385
+Saindo antes
+do evento principal?
+
+540
+00:27:45,405 --> 00:27:47,185
+Preciso voltar para Mônaco.
+
+541
+00:27:49,698 --> 00:27:51,098
+O que temos aqui?
+
+542
+00:27:51,776 --> 00:27:54,380
+Manchei no meu vestido.
+Qual é o problema?
+
+543
+00:27:54,381 --> 00:27:56,682
+Está de olho em mim
+como se tivesse feito algo.
+
+544
+00:27:56,683 --> 00:27:58,083
+E você fez algo?
+
+545
+00:27:58,820 --> 00:28:01,530
+Só se o fato de eu sair antes
+de ver o homem que eu amo
+
+546
+00:28:01,531 --> 00:28:04,044
+casar com alguém incrível
+for um crime.
+
+547
+00:28:09,509 --> 00:28:12,427
+<i>- Vai deixá-la ir?</i>
+- Não precisamos de treinamento
+
+548
+00:28:12,428 --> 00:28:14,327
+para saber
+o que é coração partido.
+
+549
+00:28:16,259 --> 00:28:17,659
+Ela não é a assassina.
+
+550
+00:28:20,426 --> 00:28:23,339
+Acho que tiramos Rani
+do <i>Sangeet</i> na hora certa.
+
+551
+00:28:24,587 --> 00:28:26,674
+Ela deve estar se sentindo
+segura sabendo
+
+552
+00:28:26,675 --> 00:28:28,465
+que estamos aqui
+a noite toda.
+
+553
+00:28:29,396 --> 00:28:32,790
+Espero que ela consiga dormir
+para aproveitar amanhã.
+
+554
+00:28:33,455 --> 00:28:35,787
+Não acredito
+que direi isso, mas...
+
+555
+00:28:37,459 --> 00:28:39,974
+Estou feliz que estamos
+aqui juntos.
+
+556
+00:28:41,134 --> 00:28:42,751
+Achei que seria
+bem mais difícil.
+
+557
+00:28:46,474 --> 00:28:48,184
+Quer mesmo falar sobre isso?
+
+558
+00:28:48,565 --> 00:28:51,025
+Se precisar de mais tempo
+
+559
+00:28:51,026 --> 00:28:52,784
+para entender o que sente,
+eu...
+
+560
+00:28:53,403 --> 00:28:54,831
+Entendo perfeitamente.
+
+561
+00:28:57,591 --> 00:28:58,991
+Meu
+
+562
+00:28:59,611 --> 00:29:01,011
+ex
+
+563
+00:29:02,456 --> 00:29:03,856
+Evan...
+
+564
+00:29:05,692 --> 00:29:07,741
+Ele foi abatido
+em território inimigo
+
+565
+00:29:07,742 --> 00:29:09,542
+e corpo dele
+nunca foi recuperado.
+
+566
+00:29:11,014 --> 00:29:12,414
+O que aconteceu?
+
+567
+00:29:13,146 --> 00:29:14,546
+Não sei.
+
+568
+00:29:17,321 --> 00:29:21,596
+E acho que nunca vou saber,
+o que é péssimo, porque...
+
+569
+00:29:22,072 --> 00:29:23,833
+Nunca conseguirei
+dizer adeus.
+
+570
+00:29:26,460 --> 00:29:27,861
+Sinto muito, Des.
+
+571
+00:29:27,862 --> 00:29:29,877
+- Eu não sabia.
+- E por que saberia?
+
+572
+00:29:31,264 --> 00:29:34,963
+Nunca quis que você
+ou mais ninguém soubesse.
+
+573
+00:29:34,964 --> 00:29:36,365
+Por quê?
+
+574
+00:29:36,711 --> 00:29:38,583
+Pela forma
+como olhavam para mim.
+
+575
+00:29:38,813 --> 00:29:41,823
+Primeiro com tristeza.
+Depois, pena.
+
+576
+00:29:42,737 --> 00:29:44,587
+E eles não sabiam
+como me desassociar
+
+577
+00:29:44,588 --> 00:29:46,489
+disso que aconteceu comigo.
+
+578
+00:29:48,224 --> 00:29:50,142
+Foi por isso
+que saiu do exército.
+
+579
+00:29:50,507 --> 00:29:51,907
+Sim.
+
+580
+00:29:52,217 --> 00:29:54,933
+Fiquei muito tempo sem sair
+com alguém depois disso.
+
+581
+00:29:57,380 --> 00:29:59,946
+Então conheci você
+e nosso santo bateu.
+
+582
+00:30:04,457 --> 00:30:07,848
+Nunca me perguntei o porquê
+até agora.
+
+583
+00:30:09,748 --> 00:30:12,504
+E sendo bem sincera
+comigo mesma...
+
+584
+00:30:14,804 --> 00:30:16,511
+Você parece muito com ele.
+
+585
+00:30:17,220 --> 00:30:18,892
+- Como assim?
+- Assim como Evan,
+
+586
+00:30:18,893 --> 00:30:20,297
+nós trabalhamos juntos.
+
+587
+00:30:20,298 --> 00:30:24,284
+Adoramos aquela adrenalina
+quando estamos um uma operação.
+
+588
+00:30:24,285 --> 00:30:26,414
+É a mesma dinâmica
+que eu e ele tínhamos.
+
+589
+00:30:26,415 --> 00:30:29,483
+Então ambos amamos
+nossos trabalhos.
+
+590
+00:30:29,484 --> 00:30:32,229
+Só me preocupo que...
+
+591
+00:30:34,511 --> 00:30:38,143
+Talvez você seja um tipo
+de apoio emocional para ele
+
+592
+00:30:38,144 --> 00:30:39,544
+e que,
+
+593
+00:30:39,923 --> 00:30:41,724
+ao invés de superar
+a morte dele,
+
+594
+00:30:41,725 --> 00:30:43,976
+eu o tenha substituído
+por você.
+
+595
+00:30:44,473 --> 00:30:48,108
+Não sei nem ao menos
+ao que dizer sobre isso.
+
+596
+00:30:48,109 --> 00:30:50,435
+Só não quero repetir
+nenhum padrão.
+
+597
+00:30:50,436 --> 00:30:52,516
+Primeiro sou um substituto,
+
+598
+00:30:52,517 --> 00:30:55,306
+- depois, um padrão...
+- Estou me esforçando.
+
+599
+00:30:55,307 --> 00:30:58,537
+E me desculpe, mas não tenho
+todas as respostas, certo?
+
+600
+00:30:58,538 --> 00:31:00,519
+Sim, me desculpa, Des.
+
+601
+00:31:00,520 --> 00:31:01,940
+Por pior que seja
+ouvir isso,
+
+602
+00:31:01,941 --> 00:31:04,210
+deve ser mil vezes pior
+para você.
+
+603
+00:31:04,211 --> 00:31:05,927
+Acho que só quero saber
+
+604
+00:31:05,928 --> 00:31:08,226
+o que isso significa
+para nós?
+
+605
+00:31:13,911 --> 00:31:16,246
+Disse-me para levar
+todo o tempo necessário
+
+606
+00:31:16,247 --> 00:31:17,934
+para descobrir
+o que sinto
+
+607
+00:31:17,935 --> 00:31:20,933
+e agora, obviamente,
+estou sentindo muita coisa.
+
+608
+00:31:23,520 --> 00:31:27,142
+A última coisa que quero
+é fugir de você.
+
+609
+00:31:30,933 --> 00:31:32,423
+Muito bem, então.
+
+610
+00:31:32,424 --> 00:31:35,379
+Vamos trabalhar nisso juntos,
+um passo de cada vez.
+
+611
+00:31:42,923 --> 00:31:44,641
+Procurei por você
+em toda parte.
+
+612
+00:31:44,642 --> 00:31:46,042
+Procurou?
+
+613
+00:31:48,476 --> 00:31:50,645
+Por que teve uma recaída,
+Dougal?
+
+614
+00:31:54,011 --> 00:31:56,625
+Queria vir antes, mas precisei
+esperar Rudy desmaiar.
+
+615
+00:31:56,626 --> 00:31:59,931
+Por quê? Para poder roubar
+mais informações
+
+616
+00:32:00,209 --> 00:32:02,033
+sobre o tesouro
+de Atahualpa?
+
+617
+00:32:03,964 --> 00:32:05,365
+- Não é nada disso.
+- Mesmo?
+
+618
+00:32:05,366 --> 00:32:08,645
+Acho que o motivo pelo qual
+me largou em L.A.
+
+619
+00:32:08,946 --> 00:32:10,800
+foi que conseguiu todas
+as informações
+
+620
+00:32:10,801 --> 00:32:13,431
+que precisava
+para sua caça ao tesouro.
+
+621
+00:32:13,432 --> 00:32:16,831
+E você conseguiu
+para si uma conta
+
+622
+00:32:16,832 --> 00:32:19,441
+para financiar sua expedição
+para encontrá-lo.
+
+623
+00:32:19,442 --> 00:32:22,590
+Muito bem.
+Está tudo claro agora.
+
+624
+00:32:25,791 --> 00:32:28,609
+Só nunca a imaginei
+como alguém que roubaria
+
+625
+00:32:28,610 --> 00:32:31,180
+de um amigo para impulsionar
+a própria carreira.
+
+626
+00:32:31,404 --> 00:32:33,273
+- É pela minha família.
+- Por favor.
+
+627
+00:32:33,274 --> 00:32:36,141
+Sua família tem mais dinheiro
+que a Igreja Católica.
+
+628
+00:32:36,142 --> 00:32:38,531
+Todos exceto meu pai,
+que bebeu o dinheiro todo
+
+629
+00:32:38,532 --> 00:32:40,221
+quando eu tinha dez anos.
+
+630
+00:32:40,222 --> 00:32:41,625
+Foi pela pena do meu tio
+
+631
+00:32:41,626 --> 00:32:43,516
+que bancou minha educação
+em Oxford
+
+632
+00:32:43,517 --> 00:32:46,485
+e uma pequena mesada
+para mantermos as aparências,
+
+633
+00:32:46,486 --> 00:32:49,033
+manter o nome da família
+longe das fofocas.
+
+634
+00:32:52,075 --> 00:32:54,820
+- Somos bem parecidos.
+- Por que não disse a verdade?
+
+635
+00:32:54,821 --> 00:32:57,045
+Sabendo que dinheiro
+não é nada para mim.
+
+636
+00:32:57,046 --> 00:32:59,738
+Diz o homem que tem
+mais dinheiro do que sabe.
+
+637
+00:33:00,716 --> 00:33:03,645
+Esse tesouro
+é a sorte que preciso.
+
+638
+00:33:03,646 --> 00:33:06,047
+Minha família precisa.
+Com certeza, entende isso.
+
+639
+00:33:06,048 --> 00:33:08,801
+Apenas por ter crescido pobre,
+quer que eu a desculpe?
+
+640
+00:33:08,802 --> 00:33:10,733
+É isso?
+Porque seu tio
+
+641
+00:33:10,734 --> 00:33:13,641
+pagou apenas
+uma pequena mesada?
+
+642
+00:33:14,857 --> 00:33:18,096
+Não torna nada melhor,
+não é?
+
+643
+00:33:18,097 --> 00:33:20,723
+E estou chocado que levou
+
+644
+00:33:20,724 --> 00:33:23,528
+tanto tempo
+para me contar a verdade.
+
+645
+00:33:26,205 --> 00:33:28,125
+- Sinto muito, Russ.
+- Eu não!
+
+646
+00:33:28,860 --> 00:33:31,831
+Acho que nosso pequeno
+encontro
+
+647
+00:33:32,516 --> 00:33:35,035
+já chegou ao fim.
+Não acha?
+
+648
+00:33:46,632 --> 00:33:48,512
+DIA DO CASAMENTO
+
+649
+00:33:48,513 --> 00:33:50,615
+NÃO, AINDA NÃO CASARAM
+<i>O teste está pronto.</i>
+
+650
+00:33:52,837 --> 00:33:55,038
+Temos combinação de cores.
+Cada amostra levou
+
+651
+00:33:55,039 --> 00:33:56,955
+3h20 para ficar nesse tom,
+
+652
+00:33:56,956 --> 00:34:01,288
+significando que a henna
+foi feita entre 13h45 e 13h50.
+
+653
+00:34:01,289 --> 00:34:03,212
+Verificando a hora das fotos
+agora.
+
+654
+00:34:06,763 --> 00:34:08,616
+<i>Deve haver algo.</i>
+
+655
+00:34:09,013 --> 00:34:12,251
+Espera. Essa aqui, 13h48.
+
+656
+00:34:15,491 --> 00:34:18,144
+- Sumita.
+- Não é possível, é?
+
+657
+00:34:18,145 --> 00:34:20,533
+<i>Por que alguém que cuidava
+da Rani desde criança</i>
+
+658
+00:34:20,534 --> 00:34:23,375
+<i>- iria machucá-la?</i>
+- Não sei, Desi, fique com Rani.
+
+659
+00:34:23,376 --> 00:34:25,130
+Não deixe Sumita
+chegar perto dela.
+
+660
+00:34:25,131 --> 00:34:26,561
+Ela é a assassina.
+
+661
+00:34:34,406 --> 00:34:36,118
+O BARRAT
+
+662
+00:34:36,499 --> 00:34:39,337
+CERIMÔNIA DE DESFILE DO NOIVO
+
+663
+00:34:45,707 --> 00:34:48,191
+O <i>Barrat</i> está começando.
+
+664
+00:34:49,804 --> 00:34:51,328
+Taylor, estou com a Sumita.
+
+665
+00:34:51,329 --> 00:34:55,083
+Entendido. Ficarei com Oliver
+e o Primeiro-Ministro.
+
+666
+00:34:55,084 --> 00:34:56,743
+Organizou
+o sequestro de Rani
+
+667
+00:34:56,744 --> 00:34:58,435
+e matou o sequestrador
+contratado.
+
+668
+00:34:58,436 --> 00:35:01,806
+Belo trabalho, admito,
+mas deixou uma marca na vítima.
+
+669
+00:35:02,528 --> 00:35:05,259
+Espere um pouco,
+seus dedos estão descoloridos.
+
+670
+00:35:05,260 --> 00:35:06,775
+Henna desbotada.
+
+671
+00:35:06,776 --> 00:35:08,987
+Só acontece
+com produtos químicos.
+
+672
+00:35:10,232 --> 00:35:11,837
+Nitrato de amônia.
+
+673
+00:35:13,299 --> 00:35:16,153
+Onde está? A bomba.
+<i>Onde está?</i>
+
+674
+00:35:18,168 --> 00:35:21,553
+<i>- Onde está a bomba?</i>
+- Esperando em algum lugar.
+
+675
+00:35:23,215 --> 00:35:24,947
+Só temos alguns minutos.
+
+676
+00:35:24,948 --> 00:35:27,174
+<i>Taylor, disperse a multidão.
+Eu acho a bomba.</i>
+
+677
+00:35:27,175 --> 00:35:30,959
+Certo, pessoal,
+fiquem parados! Parem!
+
+678
+00:35:31,618 --> 00:35:34,303
+<i>Pegue Rani. Use força se...</i>
+
+679
+00:35:35,436 --> 00:35:38,008
+Desi, leve Rani
+<i>para um local seguro.</i>
+
+680
+00:35:38,009 --> 00:35:40,762
+- Presumindo que tenha um.
+<i>- Peguem elas.</i>
+
+681
+00:35:54,413 --> 00:35:56,474
+<i>Se aprende muito
+sendo técnico de bombas,</i>
+
+682
+00:35:56,475 --> 00:35:59,046
+<i>mas eu aprendi
+a procurar nitrato de amônia</i>
+
+683
+00:35:59,047 --> 00:36:01,749
+<i>quando Bozer e eu pegamos
+um aquário na escola.</i>
+
+684
+00:36:02,117 --> 00:36:04,558
+<i>Nitrato é um subproduto
+das fezes do peixe,</i>
+
+685
+00:36:04,559 --> 00:36:08,315
+<i>e em altas concentrações,
+pode causar a morte deles.</i>
+
+686
+00:36:08,829 --> 00:36:11,071
+<i>Eu sei.
+Procurar cocô de peixe</i>
+
+687
+00:36:11,072 --> 00:36:12,995
+<i>e diferente de uma bomba.</i>
+
+688
+00:36:12,996 --> 00:36:16,227
+<i>Mas, desarmar bombas no exército
+me ajudou a reconhecer</i>
+
+689
+00:36:16,228 --> 00:36:18,835
+<i>onde colocariam a bomba
+para causar mais estragos.</i>
+
+690
+00:36:18,836 --> 00:36:21,528
+Se puderem parar!
+Não me ouvem.
+
+691
+00:36:21,529 --> 00:36:23,172
+<i>Eles não me ouvem.</i>
+
+692
+00:36:23,173 --> 00:36:25,747
+E os tambores...
+
+693
+00:36:25,748 --> 00:36:27,841
+Estão horríveis,
+estão desafinados.
+
+694
+00:36:27,842 --> 00:36:29,338
+Acha que fizeram...
+
+695
+00:36:31,169 --> 00:36:34,097
+A bomba está nos tambores.
+<i>A bomba está nos tambores!</i>
+
+696
+00:36:37,479 --> 00:36:38,879
+Mac, achei.
+
+697
+00:36:40,127 --> 00:36:41,527
+Está aqui.
+
+698
+00:36:48,918 --> 00:36:50,340
+Onde deveria ficar?
+
+699
+00:36:50,341 --> 00:36:51,932
+Não sei o que está falando.
+
+700
+00:36:51,933 --> 00:36:53,916
+São 100g de explosivos.
+
+701
+00:36:53,917 --> 00:36:56,015
+Não passaria do altar.
+
+702
+00:36:56,016 --> 00:36:57,764
+Ela só queria
+a família real.
+
+703
+00:36:57,765 --> 00:37:00,155
+Certo, é melhor você fazer
+o que sabe melhor.
+
+704
+00:37:00,887 --> 00:37:02,308
+Não consigo.
+
+705
+00:37:02,309 --> 00:37:04,143
+Se não vai desarmar,
+o que fará?
+
+706
+00:37:06,914 --> 00:37:09,597
+- Vou deixar explodir.
+- O quê?
+
+707
+00:37:13,124 --> 00:37:14,928
+<i>Bombas são muito letais.</i>
+
+708
+00:37:14,929 --> 00:37:17,683
+<i>Elas têm estilhaços
+e produzem ondas de pressão.</i>
+
+709
+00:37:17,684 --> 00:37:20,952
+<i>Mas se eu conter a explosão,
+consigo impedir os dois.</i>
+
+710
+00:37:28,411 --> 00:37:30,848
+Cedo demais
+para fogos de artifício?
+
+711
+00:37:36,928 --> 00:37:38,951
+Eu nunca quis machucá-la.
+
+712
+00:37:38,952 --> 00:37:41,120
+Tentou me matar
+e a minha família.
+
+713
+00:37:41,121 --> 00:37:45,119
+O sequestro era para dar tempo
+de fazê-la mudar de ideia,
+
+714
+00:37:45,460 --> 00:37:47,903
+mas percebi
+que nunca aprenderia.
+
+715
+00:37:48,225 --> 00:37:49,742
+Tinha decido já
+
+716
+00:37:49,743 --> 00:37:52,537
+abrir mão de 300 anos
+de tradições.
+
+717
+00:37:52,538 --> 00:37:55,917
+Que bom que sua mãe não está
+viva para ver a traição.
+
+718
+00:37:55,918 --> 00:37:58,389
+Iria me matar
+por dar a minha cidade
+
+719
+00:37:58,390 --> 00:38:00,229
+a próspera economia
+que ela merece?
+
+720
+00:38:00,230 --> 00:38:02,057
+Criança inocente.
+
+721
+00:38:03,307 --> 00:38:05,635
+Não sabe nada
+sobre estrangeiros.
+
+722
+00:38:08,950 --> 00:38:12,429
+Perguntou se eu conhecia
+a família em que estou entrando,
+
+723
+00:38:13,316 --> 00:38:15,438
+mas não conhecia
+a minha própria guardiã.
+
+724
+00:38:19,141 --> 00:38:20,891
+Deixarei ela com você,
+Nitesh.
+
+725
+00:38:33,510 --> 00:38:34,910
+Obrigada.
+
+726
+00:38:35,417 --> 00:38:36,850
+Por tudo. Eu nunca...
+
+727
+00:38:38,731 --> 00:38:40,543
+Nunca poderei retribuí-los.
+
+728
+00:38:42,232 --> 00:38:45,173
+Na verdade, talvez haja
+uma maneira.
+
+729
+00:38:45,174 --> 00:38:48,843
+Pode ser difícil, considerando
+as circunstâncias, mas...
+
+730
+00:38:49,243 --> 00:38:52,235
+Vá lá fora e tenha o casamento
+que você sempre sonhou.
+
+731
+00:38:53,269 --> 00:38:54,669
+Está bem?
+
+732
+00:39:05,334 --> 00:39:07,586
+DEPOIS DA CERIMÔNIA
+
+733
+00:39:13,504 --> 00:39:16,076
+Sei que este
+fim de semana...
+
+734
+00:39:18,164 --> 00:39:20,229
+Desenterrou muita coisa
+para você.
+
+735
+00:39:21,079 --> 00:39:25,276
+Pensar no meu ex
+e no que aconteceu, apenas...
+
+736
+00:39:26,054 --> 00:39:28,385
+Me fez sentir
+muito culpada sobre nós.
+
+737
+00:39:31,294 --> 00:39:32,967
+Isso é muita culpa
+para carregar.
+
+738
+00:39:34,161 --> 00:39:35,600
+Preciso superar.
+
+739
+00:39:36,539 --> 00:39:38,239
+Para que eu possa
+seguir em frente.
+
+740
+00:39:41,090 --> 00:39:42,490
+Com você.
+
+741
+00:39:43,421 --> 00:39:44,846
+Eu gosto de como isso soa.
+
+742
+00:39:52,143 --> 00:39:55,134
+Estive pensando muito
+sobre o que disse ontem,
+
+743
+00:39:55,135 --> 00:39:57,661
+sobre eu ser
+um substituto do seu ex.
+
+744
+00:39:57,662 --> 00:40:00,102
+Bem, talvez você seja
+ou não.
+
+745
+00:40:00,103 --> 00:40:01,503
+Quem sabe?
+
+746
+00:40:01,890 --> 00:40:03,290
+Eu gostaria de saber.
+
+747
+00:40:03,830 --> 00:40:07,053
+E o único jeito de fazer isso
+é viver uma vida normal.
+
+748
+00:40:07,054 --> 00:40:08,705
+Nossas vidas
+não são nada normais.
+
+749
+00:40:08,706 --> 00:40:11,444
+Quando estamos
+em uma missão, sim, mas...
+
+750
+00:40:12,456 --> 00:40:15,794
+São as outras coisas,
+como fazer o jantar,
+
+751
+00:40:15,795 --> 00:40:18,546
+escovar os dentes,
+assistir TV.
+
+752
+00:40:19,189 --> 00:40:21,960
+São esses momentos
+que agregam partes
+
+753
+00:40:21,961 --> 00:40:23,814
+de uma vida
+que quero dividir contigo.
+
+754
+00:40:24,701 --> 00:40:26,602
+Mac, nós conversamos
+sobre isso.
+
+755
+00:40:26,603 --> 00:40:28,055
+Não é isso
+que está pensando.
+
+756
+00:40:28,056 --> 00:40:30,621
+Acredite, recebi a mensagem
+em alto e bom som.
+
+757
+00:40:30,622 --> 00:40:33,711
+Mas estou falando sobre
+o próximo passo lógico
+
+758
+00:40:33,712 --> 00:40:35,112
+em nosso relacionamento.
+
+759
+00:40:37,198 --> 00:40:41,011
+- Que é?
+- A gente morar junto?
+
+760
+00:40:50,296 --> 00:40:51,976
+Presumo que,
+como Rani e Oliver
+
+761
+00:40:51,977 --> 00:40:54,876
+se casaram sem incidentes,
+sua missão foi um sucesso?
+
+762
+00:40:54,877 --> 00:40:56,348
+O que você quer, Sofia?
+
+763
+00:40:57,883 --> 00:40:59,418
+Dizer a verdade.
+
+764
+00:41:00,701 --> 00:41:03,037
+Tenho vivido uma mentira
+a vida toda.
+
+765
+00:41:04,204 --> 00:41:06,510
+E esse tesouro,
+o seu tesouro,
+
+766
+00:41:06,511 --> 00:41:08,710
+aquele que você
+e seu o avô sonharam,
+
+767
+00:41:08,711 --> 00:41:10,399
+não é um conto de fadas
+distante.
+
+768
+00:41:10,400 --> 00:41:11,800
+Sim, eu sei.
+
+769
+00:41:12,424 --> 00:41:15,470
+Estive procurando
+por ele desde os 16 anos.
+
+770
+00:41:15,471 --> 00:41:17,378
+Procurando
+em todos os lugares errados.
+
+771
+00:41:17,379 --> 00:41:19,531
+É por isso que Rudolf
+é meu acompanhante.
+
+772
+00:41:19,971 --> 00:41:22,846
+Os Von Stupensens
+tinham laços com os nazistas.
+
+773
+00:41:24,841 --> 00:41:26,748
+E na Segunda Guerra,
+houve rumores
+
+774
+00:41:26,749 --> 00:41:30,390
+de que os nazistas encontraram
+o tesouro de Atahualpa.
+
+775
+00:41:33,607 --> 00:41:35,689
+Então está trabalhando
+para o velho Rudy
+
+776
+00:41:35,690 --> 00:41:37,501
+e suas conexões familiares
+
+777
+00:41:37,816 --> 00:41:40,560
+para obter informações
+sobre o tesouro?
+
+778
+00:41:42,757 --> 00:41:44,157
+Sim.
+
+779
+00:41:45,170 --> 00:41:46,796
+E quando obter
+mais informações,
+
+780
+00:41:46,797 --> 00:41:49,028
+acho que deveríamos
+encontrá-lo juntos.
+
+781
+00:41:58,686 --> 00:42:00,616
+<i>Estou supondo
+que está dançando</i>
+
+782
+00:42:00,617 --> 00:42:02,495
+<i>porque deu tudo certo
+em Bikaner.</i>
+
+783
+00:42:04,082 --> 00:42:05,482
+Sim, deu certo.
+
+784
+00:42:05,483 --> 00:42:07,587
+Inesperadamente,
+o assassino acabou sendo
+
+785
+00:42:07,588 --> 00:42:09,781
+a Sumita, conselheira
+de confiança de Rani.
+
+786
+00:42:10,210 --> 00:42:12,755
+<i>Bem, às vezes,
+as pessoas mais próximas</i>
+
+787
+00:42:12,756 --> 00:42:14,555
+<i>não são quem parecem ser.</i>
+
+788
+00:42:16,506 --> 00:42:17,906
+<i>Onde está Riley?</i>
+
+789
+00:42:25,893 --> 00:42:27,399
+Desculpe, estou atrasada.
+
+790
+00:42:34,811 --> 00:42:36,399
+Bem-vindos à Orla.
+
+791
+00:42:37,688 --> 00:42:39,313
+Sou Artemis37.
+
+792
+00:42:40,671 --> 00:42:42,071
+Vamos ao trabalho.
+
+793
+00:42:42,322 --> 00:42:44,291
+<b>GeekSubs
+Mais que legenders!										
+
+
+
+  
+
+  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 										
+
+
+
+ 
+
+    
+
+
+    
+   
