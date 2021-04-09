@@ -1,3971 +1,2877 @@
 1
-00:00:17,320 --> 00:00:20,932
-Eu quero cada pessoa 
-que tiramos daquele maldito Gulch.
+00:00:00,250 --> 00:00:02,126
+Eu quero cada pessoa
+
+2
+00:00:02,127 --> 00:00:04,337
+que pegamos
+daquele maldito Gulch.
 
 3
-00:00:23,979 --> 00:00:25,502
-Eu encontrei isso 
-na mão do Cameron.
+00:00:04,338 --> 00:00:06,757
+ANTERIORMENTE
 
 4
-00:00:25,546 --> 00:00:26,982
-do padrão, eu acho que
-é do punho
+00:00:07,216 --> 00:00:08,925
+Achei isto
+na mão do Cameron.
 
 5
-00:00:27,025 --> 00:00:28,853
-do cabo da faca.
+00:00:08,926 --> 00:00:11,470
+Parece ser
+de um cabo de faca.
 
 6
-00:00:28,897 --> 00:00:31,334
-Tudo o que fiz, 
-fiz para que todos pudéssemos
+00:00:12,221 --> 00:00:15,681
+Tudo o que fiz
+foi para nos reunir de novo,
 
 7
-00:00:31,377 --> 00:00:34,859
-estar de volta juntos, e não 
-funciona se não formos todos nós.
+00:00:15,682 --> 00:00:18,184
+mas se não for todos nós,
+não dá certo.
 
 8
-00:00:34,903 --> 00:00:36,731
+00:00:18,185 --> 00:00:19,685
 Dakota é bem-vinda.
 
 9
-00:00:36,774 --> 00:00:41,039
-Eu não posso ficar aqui. Se eu fizer isso, 
-não vou durar muito.
+00:00:19,686 --> 00:00:21,395
+<i>Não posso ficar aqui.</i>
 
 10
-00:00:41,083 --> 00:00:42,475
-Você não pode simplesmente sair.
+00:00:21,396 --> 00:00:24,065
+Se ficar,
+não vou durar muito tempo.
 
 11
-00:00:42,519 --> 00:00:45,957
-Eu não quero sair. 
-Eu não quero mais correr.
+00:00:24,066 --> 00:00:26,734
+Não pode partir assim.
+Não quero partir.
 
 12
-00:00:48,220 --> 00:00:52,050
-DB: <i>Eu não faria isso se fosse você, John.</i>
+00:00:26,735 --> 00:00:29,071
+Não quero mais fugir.
 
 13
-00:00:52,094 --> 00:00:53,922
-<i>Não te vai fazer bem.</i>
+00:00:31,615 --> 00:00:33,909
+<i>Eu não faria isso
+se fosse você, John.</i>
 
 14
-00:00:53,965 --> 00:00:56,359
-<i>O prefeito tem policiais lá embaixo</i>
+00:00:35,118 --> 00:00:36,912
+<i>Não vai ser bom para você.</i>
 
 15
-00:00:56,402 --> 00:00:58,143
-<i>com instruções 
-para remover</i>
+00:00:37,621 --> 00:00:39,580
+<i>O prefeito colocou policiais
+lá embaixo,</i>
 
 16
-00:00:58,187 --> 00:01:01,364
-<i>todas as marcas de identificação que você possa ter consigo.</i>
+00:00:39,581 --> 00:00:41,499
+<i>eles têm ordens de remover</i>
 
 17
-00:01:01,407 --> 00:01:04,628
-<i>Você será enterrado 
-no Campo de Potter,</i>
+00:00:41,500 --> 00:00:44,419
+<i>qualquer marca de identificação
+que você tiver.</i>
 
 18
-00:01:04,672 --> 00:01:06,717
-<i>e você não terá realizado nada.</i>
+00:00:46,505 --> 00:00:48,256
+<i>Você será enterrado
+em vala comum,</i>
+
+19
+00:00:48,257 --> 00:00:49,841
+<i>e não terá realizado nada.</i>
 
 20
-00:01:08,501 --> 00:01:10,808
-<i>Eu já cuidei 
-disso.</i>
+00:00:52,386 --> 00:00:54,304
+<i>Eu já cuidei disso.</i>
 
 21
-00:01:10,852 --> 00:01:13,855
-<i>Eu já enviei 
-uma cópia desta carta</i>
+00:00:55,639 --> 00:00:58,976
+<i>Já mandei uma cópia desta carta
+para o Sr. Connell.</i>
 
 22
-00:01:13,898 --> 00:01:14,986
-<i>para o Sr. Connell.</i>
+00:01:02,312 --> 00:01:04,272
+<i>John, por que não esquece
+essa besteira?</i>
+
+23
+00:01:04,273 --> 00:01:06,274
+<i>Parado aí mesmo, Sr. Norton.</i>
 
 24
-00:01:17,685 --> 00:01:21,036
-<i>John, por que você não esquece essa tolice?</i>
+00:01:06,275 --> 00:01:08,526
+<i>Não vai querer
+forçar a barra comigo.</i>
 
 25
-00:01:21,079 --> 00:01:23,081
-<i>Pare exatamente onde você está, 
-Sr. Norton,</i>
+00:01:08,527 --> 00:01:10,904
+<i>Estou feliz que esteja aqui.</i>
 
 26
-00:01:23,125 --> 00:01:25,475
-<i>se você não quer 
-exagerar comigo.</i>
+00:01:12,864 --> 00:01:14,908
+<i>Você acabou com o movimento
+João Ninguém,</i>
 
 27
-00:01:25,518 --> 00:01:28,826
-<i>Estou feliz que 
-vocês estejam aqui.</i>
+00:01:15,450 --> 00:01:18,996
+<i>mas vai vê-lo
+nascer de novo.</i>
 
 28
-00:01:28,870 --> 00:01:31,655
-<i>Você matou o movimento John Doe, certo,</i>
+00:01:20,330 --> 00:01:23,584
+<i>John! John!</i>
 
 29
-00:01:31,699 --> 00:01:35,877
-<i>mas você vai ver tudo nascer de 
-novo.</i>
-
-30
-00:01:35,920 --> 00:01:40,446
-<i>
-John! João!</i>
-
-35
-00:01:49,847 --> 00:01:52,458
-<i>Vamos começar tudo de novo, 
+00:01:32,843 --> 00:01:35,636
+<i>Vamos recomeçar tudo,
 só você e eu.</i>
 
-36
-00:01:52,502 --> 00:01:53,851
-<i>Ainda não é tarde.</i>
+30
+00:01:35,637 --> 00:01:37,013
+<i>Não é tarde demais.</i>
 
-37
-00:01:53,895 --> 00:01:56,158
-<i>O movimento John Doe 
+31
+00:01:37,014 --> 00:01:39,348
+<i>O movimento João Ninguém
 ainda não morreu.</i>
 
-38
-00:01:56,201 --> 00:01:57,681
-<i>Veja, John!</i>
-
-39
-00:01:57,725 --> 00:01:59,204
-<i>Não está morto, 
+32
+00:01:39,349 --> 00:01:42,059
+<i>Ainda não morreu, John,
 ou eles não estariam aqui!</i>
 
+33
+00:01:42,060 --> 00:01:43,686
+<i>Está vivo dentro deles.</i>
+
+34
+00:01:43,687 --> 00:01:45,980
+<i>Eles o mantiveram vivo
+por terem medo dele.</i>
+
+35
+00:01:45,981 --> 00:01:48,399
+<i>É por isso que vieram aqui.</i>
+
+36
+00:01:48,400 --> 00:01:50,026
+<i>Querido.</i>
+
+37
+00:01:50,027 --> 00:01:52,695
+<i>Claro que deveria ter morrido,
+pois era corrupto.</i>
+
+38
+00:01:52,696 --> 00:01:54,697
+<i>Mas podemos
+fazer certo agora.</i>
+
+39
+00:01:54,698 --> 00:01:56,824
+<i>Só você e eu.
+Vai crescer de novo.</i>
+
 40
-00:01:59,248 --> 00:02:00,858
-<i>Está vivo neles.</i>
+00:01:56,825 --> 00:01:58,284
+<i>Vai ficar enorme.</i>
 
 41
-00:02:00,902 --> 00:02:02,860
-<i>Eles o mantiveram vivo 
-por medo dele.</i>
+00:01:58,285 --> 00:02:01,246
+<i>E será forte
+por não ser corrupto.</i>
 
 42
-00:02:02,904 --> 00:02:04,862
-<i>É por 
-isso que eles vieram aqui.</i>
+00:02:01,580 --> 00:02:04,498
+<i>Querido,
+se vale a pena morrer por isso,</i>
 
 43
-00:02:04,906 --> 00:02:06,342
-<i>Oh querida.</i>
+00:02:04,499 --> 00:02:06,584
+<i>então,
+também vale a pena viver.</i>
 
 44
-00:02:06,385 --> 00:02:08,083
-<i>Claro, ele deveria ter sido 
-morto antes.</i>
+00:02:06,585 --> 00:02:08,795
+<i>Por favor, John!</i>
 
 45
-00:02:08,126 --> 00:02:09,345
-<i>Foi desonesto.</i>
+00:02:12,382 --> 00:02:16,428
+<i>Por favor, Deus, me ajude.</i>
 
 46
-00:02:09,388 --> 00:02:11,086
-<i>Mas podemos 
-começar do zero agora.</i>
+00:02:39,743 --> 00:02:41,161
+Lamento.
 
 47
-00:02:11,129 --> 00:02:13,697
-<i>Só você e eu. 
-Ele vai crescer de novo, John.</i>
+00:03:22,119 --> 00:03:24,620
+<b>UNITED
+apresenta</b>
 
 48
-00:02:13,741 --> 00:02:15,220
-<i>Vai crescer muito.</i>
+00:03:24,621 --> 00:03:27,123
+<b>Legenda
+AlexandreMT 
+ Darrow</b>
 
 49
-00:02:15,264 --> 00:02:17,483
-<i>E será forte 
-porque será honesto.</i>
+00:03:27,124 --> 00:03:29,625
+<b>Legenda
+Coutter 
+ dsergio</b>
 
 50
-00:02:17,527 --> 00:02:21,792
-<i>Oh, querida, 
-se vale a pena morrer por,</i>
+00:03:29,626 --> 00:03:32,129
+<b>Revisão
+AlexandreMT</b>
 
 51
-00:02:21,836 --> 00:02:23,533
-<i>vale a pena viver.</i>
+00:03:32,587 --> 00:03:37,008
+<b>S06E08
+The Door</b>
 
 52
-00:02:23,576 --> 00:02:24,882
-<i>Oh, por favor, John!</i>
+00:04:52,501 --> 00:04:53,919
+Chegou de fininho.
+
+53
+00:05:13,647 --> 00:05:15,732
+Não quero problemas.
+
+54
+00:05:17,192 --> 00:05:19,276
+Mas, se você quer,
 
 55
-00:02:28,581 --> 00:02:31,715
-<i>Oh, por favor, Deus, me ajude.</i>
+00:05:19,277 --> 00:05:21,154
+você vai ter.
+
+56
+00:05:51,226 --> 00:05:53,478
+- John.
+- Dakota?
+
+57
+00:05:53,937 --> 00:05:55,897
+Que merda
+está fazendo aqui?
+
+58
+00:05:57,649 --> 00:06:01,235
+Estou fugindo da minha irmã.
+E você?
+
+59
+00:06:01,236 --> 00:06:02,612
+Bem...
 
 60
-00:02:56,044 --> 00:02:58,742
-Eu sinto Muito.
+00:06:03,029 --> 00:06:05,072
+Acho que posso
+dizer o mesmo.
+
+61
+00:06:05,073 --> 00:06:07,950
+Você quem cercou
+os finados na ponte?
+
+62
+00:06:07,951 --> 00:06:09,251
+Não...
+
+63
+00:06:11,830 --> 00:06:13,164
+Foi ele.
+
+64
+00:06:19,546 --> 00:06:21,172
+John.
+
+65
+00:06:23,925 --> 00:06:25,467
+Que porra é essa?!
+
+66
+00:06:25,468 --> 00:06:27,219
+- Como nos achou?
+- Não achei.
+
+67
+00:06:27,220 --> 00:06:30,639
+Os finados da ponte
+iam parar na minha cabana.
+
+68
+00:06:30,640 --> 00:06:34,059
+E parece que esse rio
+sabe reviver pessoas.
+
+69
+00:06:34,060 --> 00:06:35,394
+Preciso dizer,
+
+70
+00:06:35,395 --> 00:06:37,105
+você já esteve melhor.
+
+71
+00:06:38,148 --> 00:06:40,066
+Atravessar a ponte,
+
+72
+00:06:40,817 --> 00:06:42,985
+fazer barricada,
+prender os mortos...
 
 73
-00:04:55,424 --> 00:04:57,774
-Ei!
+00:06:42,986 --> 00:06:44,528
+A ferida dele abriu.
 
-78
-00:05:09,481 --> 00:05:12,223
-Aproximou-se de mim.
+74
+00:06:44,529 --> 00:06:46,280
+Mas costurei
+da forma que pude.
 
-80
-00:05:30,502 --> 00:05:33,114
-Ei, eu não quero problemas.
-
-81
-00:05:34,376 --> 00:05:37,858
-Mas se é problema que <i>você</i> quer, 
-tenho algo para você.
-
-83
-00:06:07,191 --> 00:06:08,236
-Dorie: Ohh!
-
-84
-00:06:08,279 --> 00:06:09,628
-João. 
-Dakota?
-
-86
-00:06:10,978 --> 00:06:12,893
-O que - o que diabos 
-você está fazendo aqui?
-
-87
-00:06:12,936 --> 00:06:16,940
-Uh, estou - estou fugindo 
-da minha irmã.
-
-88
-00:06:16,984 --> 00:06:18,289
-Vocês?
-
-89
-00:06:18,333 --> 00:06:21,292
-Bem, acho que você poderia dizer 
-a mesma coisa.
-
-90
-00:06:21,336 --> 00:06:25,122
-Foi você quem encurralou aqueles que passaram na ponte?
-
-91
-00:06:25,166 --> 00:06:27,342
-No, uh...
-
-92
-00:06:27,385 --> 00:06:29,300
-Ele fez.
-
-94
-00:06:32,521 --> 00:06:34,436
-Ah.
-
-96
-00:06:36,612 --> 00:06:38,179
-Ei, John.
-
-97
-00:06:40,137 --> 00:06:42,618
-Bem, 
-eu serei amaldiçoado.
-
-98
-00:06:42,661 --> 00:06:44,359
-Como você nos encontrou? 
-Eu não fiz.
-
-99
-00:06:44,402 --> 00:06:45,577
-O passado 
-na ponte,
-
-100
-00:06:45,621 --> 00:06:46,796
-eles continuaram lavando perto da minha cabana,
-
-101
-00:06:46,839 --> 00:06:48,754
-e, bem, este rio tem um caminho
-
-102
-00:06:48,798 --> 00:06:50,974
-de trazer as pessoas de 
-volta à vida.
-
-103
-00:06:51,018 --> 00:06:53,585
-Mas devo dizer, amigo, você parece melhor.
-
-104
-00:06:53,629 --> 00:06:55,109
-Mm-hmm.
-
-105
-00:06:55,152 --> 00:06:58,764
-Atravessar a ponte, 
-colocar a barricada,
-
-106
-00:06:58,808 --> 00:07:00,984
-prendendo os mortos, 
-sua ferida havia se aberto.
-
-107
-00:07:01,028 --> 00:07:03,247
-Mas eu remendei o 
-melhor que pude.
-
-108
-00:07:03,291 --> 00:07:05,206
+75
+00:06:46,281 --> 00:06:47,741
 Bom trabalho.
 
-110
-00:07:07,034 --> 00:07:09,210
-Ouvimos o tiro no Gulch 
-naquela noite.
+76
+00:06:50,285 --> 00:06:52,244
+Ouvimos o tiro no Gulch
+aquele dia.
 
-111
-00:07:09,253 --> 00:07:10,689
-Não achamos que 
-você conseguiu, cara.
+77
+00:06:52,245 --> 00:06:55,414
+- Pensamos que tinha morrido.
+- Eu também.
 
-112
-00:07:10,733 --> 00:07:12,343
-Nem eu.
+78
+00:06:55,415 --> 00:06:56,999
+Como sobreviveu?
 
-113
-00:07:12,387 --> 00:07:13,997
-Como você sobreviveu?
+79
+00:06:57,000 --> 00:06:59,376
+- Tive ajuda.
+- De quem?
 
-114
-00:07:14,041 --> 00:07:16,434
-Teve alguma ajuda. 
-De quem?
+80
+00:06:59,377 --> 00:07:01,379
+Naquela noite? Não sei.
 
-115
-00:07:16,478 --> 00:07:18,436
-Aquela noite? 
-Não sei.
+81
+00:07:01,963 --> 00:07:05,717
+Já acordei costurado,
+e eles já tinham partido.
 
-116
-00:07:18,480 --> 00:07:21,178
-Eu vim, 
-eu já estava remendado,
-
-117
-00:07:21,222 --> 00:07:22,832
-mas eles seguiram em frente.
-
-118
-00:07:22,875 --> 00:07:26,227
-Alguém me ajudou 
+82
+00:07:07,010 --> 00:07:10,096
+Tive mais ajuda
 um pouco depois.
 
-119
-00:07:26,270 --> 00:07:31,014
-Mas agora vou ter que 
-adicioná-la à lista.
+83
+00:07:11,431 --> 00:07:13,934
+Mas ela também me ajudou.
 
-120
-00:07:31,058 --> 00:07:32,363
+84
+00:07:14,392 --> 00:07:15,768
 Não foi difícil.
 
-121
-00:07:32,407 --> 00:07:34,017
-Alguém estocou 
-as prateleiras
+85
+00:07:15,769 --> 00:07:18,980
+As prateleiras tinham tudo
+que eu precisava.
 
-122
-00:07:34,061 --> 00:07:35,540
-com tudo que 
-eu precisava, então ...
+86
+00:07:21,775 --> 00:07:23,193
+É bom vê-lo, John.
 
-123
-00:07:35,584 --> 00:07:36,846
-Sim.
+87
+00:07:24,194 --> 00:07:26,028
+Parece que estou vendo
+um fantasma.
 
-124
-00:07:36,889 --> 00:07:40,197
-É bom ver você, 
-John.
+88
+00:07:26,029 --> 00:07:27,780
+E está.
 
-125
-00:07:40,241 --> 00:07:43,113
-Eu sinto 
-que estou olhando para um fantasma.
+89
+00:07:27,781 --> 00:07:30,240
+E aquela horda na sua cola?
 
-126
-00:07:43,157 --> 00:07:44,897
-Oh, você é. 
+90
+00:07:30,241 --> 00:07:33,452
+Virginia mandou
+os patrulheiros atrás de nós.
 
-127
-00:07:44,941 --> 00:07:47,335
-Como você acabou 
-com aquele grande rebanho no seu encalço?
-
-128
-00:07:47,378 --> 00:07:50,207
-Virginia colocou seus guardas 
-sobre nós.
-
-129
-00:07:50,251 --> 00:07:53,036
-Estávamos tentando ultrapassá-los 
+91
+00:07:33,453 --> 00:07:36,997
+Tentamos escapar deles
 com Alicia e Charlie,
 
-130
-00:07:53,080 --> 00:07:55,169
-mas nós batemos no rebanho, nos 
-separamos.
+92
+00:07:36,998 --> 00:07:40,084
+- mas a horda nos separou.
+- Vamos procurar por elas.
 
-131
-00:07:55,212 --> 00:07:57,084
-Devemos 
-começar a procurá-los.
+93
+00:07:40,085 --> 00:07:42,378
+Verdade.
+Vamos voltar à estrada.
 
-132
-00:07:57,127 --> 00:07:59,347
-Ela está certa. Devíamos 
-voltar à estrada e 
-chegar lá.
+94
+00:07:42,379 --> 00:07:45,673
+Espera. Você não vai sair.
+Assim não.
 
-133
-00:07:59,390 --> 00:08:00,783
-Apenas espere, 
-espere.
+95
+00:07:45,674 --> 00:07:47,549
+Aonde querem ir?
 
-134
-00:08:00,826 --> 00:08:02,611
-Você não vai a lugar nenhum, 
-pelo menos não assim.
+96
+00:07:47,550 --> 00:07:51,346
+Ele está construindo um lugar.
+Um lugar seguro.
 
-135
-00:08:02,654 --> 00:08:04,439
-Para onde você está 
-tentando ir?
-
-136
-00:08:04,482 --> 00:08:06,441
-Ele tem um lugar 
-que está construindo.
-
-137
-00:08:06,484 --> 00:08:08,312
-Um que seja seguro. 
-Shh.
-
-139
-00:08:09,922 --> 00:08:11,837
-Esconda essas coisas. 
+97
+00:07:52,806 --> 00:07:54,765
+Esconda aquilo.
 Limpe.
 
-140
-00:08:11,881 --> 00:08:13,404
+98
+00:07:54,766 --> 00:07:56,393
 Vamos, Morgan.
 
-142
-00:08:20,281 --> 00:08:22,587
+99
+00:08:05,068 --> 00:08:07,737
 Dakota!
-
-143
-00:08:22,631 --> 00:08:24,850
 Dakota.
 
-148
-00:08:38,299 --> 00:08:39,648
+100
+00:08:21,251 --> 00:08:22,585
 Alguém em casa?
 
-155
-00:09:38,968 --> 00:09:40,274
-Hill, você copia?
+101
+00:09:21,853 --> 00:09:23,313
+Hill, na escuta?
 
-157
-00:09:43,364 --> 00:09:45,322
-Você não 
-vai acreditar nisso.
+102
+00:09:26,149 --> 00:09:28,067
+Não vai acreditar.
 
-158
-00:09:45,366 --> 00:09:46,541
-Faça isso.
+103
+00:09:28,068 --> 00:09:29,402
+Atire.
 
-159
-00:09:46,584 --> 00:09:48,456
-Ei, Hill.
+104
+00:09:29,778 --> 00:09:31,403
+Hill.
 
-160
-00:09:48,499 --> 00:09:51,285
-Ranger Dorie? 
-Acho que ele esteve aqui.
+105
+00:09:31,404 --> 00:09:34,073
+Acho que o patrulheiro Dorie
+esteve por aqui.
 
-161
-00:09:51,328 --> 00:09:52,547
+106
+00:09:34,074 --> 00:09:35,407
 Agora.
 
-162
-00:09:52,590 --> 00:09:54,984
-Hill: Marcus. 
-Esta ouvindo?
+107
+00:09:35,408 --> 00:09:37,910
+<i>Marcus. Na escuta?</i>
 
-163
-00:09:55,027 --> 00:09:56,899
-Eu não entendi isso.
+108
+00:09:37,911 --> 00:09:39,788
+<i>Não entendi.</i>
 
-165
-00:09:59,119 --> 00:10:01,121
-Droga, walkie.
+109
+00:09:41,956 --> 00:09:43,958
+Rádio de merda.
 
-167
-00:10:02,513 --> 00:10:04,950
-Espera. 
-Estou indo para um terreno mais alto.
+110
+00:09:45,251 --> 00:09:47,879
+Vou para um lugar mais alto.
 
-171
-00:10:22,403 --> 00:10:27,364
-Ele se foi.
+111
+00:10:05,605 --> 00:10:06,940
+Ele já foi.
 
-173
-00:10:29,671 --> 00:10:32,021
-Você deveria ter 
-atirado nele.
+112
+00:10:07,982 --> 00:10:09,282
+Ele já foi.
 
-174
-00:10:32,064 --> 00:10:33,588
-Eu não precisei.
+113
+00:10:13,613 --> 00:10:14,988
+Devia ter atirado.
 
-175
-00:10:33,631 --> 00:10:36,286
-Agora, 
-John.
+114
+00:10:14,989 --> 00:10:16,658
+Não precisei.
 
-177
-00:10:39,028 --> 00:10:43,163
-Eles nos tornam homens 
-que tentamos tanto não ser.
+115
+00:10:18,243 --> 00:10:20,203
+Tempos comos esses, John...
 
-178
-00:10:43,206 --> 00:10:44,773
+116
+00:10:21,955 --> 00:10:24,958
+Transformam-nos em homens
+que não gostaríamos de ser.
+
+117
+00:10:26,084 --> 00:10:28,377
 Vamos sair daqui.
 
-179
-00:10:44,816 --> 00:10:47,210
-Estaremos mais seguros 
-em minha cabana.
+118
+00:10:28,378 --> 00:10:30,630
+É mais seguro
+na minha cabana.
 
-181
-00:10:55,653 --> 00:10:58,221
-Como você aprendeu 
+119
+00:10:40,306 --> 00:10:42,015
+Como aprendeu
 a cozinhar assim?
 
-182
-00:10:58,265 --> 00:11:00,789
-Bem, eu passei todo verão 
-aqui quando era criança.
+120
+00:10:42,016 --> 00:10:44,686
+Passei todos os verões aqui
+quando era criança.
 
-183
-00:11:00,832 --> 00:11:02,791
-Quando em Roma.
+121
+00:10:45,103 --> 00:10:46,895
+Tive que me virar.
 
-184
-00:11:02,834 --> 00:11:05,576
-Bem, 
-isso não é bom.
+122
+00:10:46,896 --> 00:10:48,773
+Isso não está bom.
 
-185
-00:11:07,491 --> 00:11:11,582
-O lugar para onde vamos 
-foi construído no leito de um rio seco.
+123
+00:10:51,484 --> 00:10:54,654
+O lugar aonde estamos indo
+foi construído em um leito seco.
 
-186
-00:11:11,626 --> 00:11:14,237
-Água por perto, 
+124
+00:10:55,446 --> 00:10:58,157
+Tem água por perto,
 muitos peixes.
 
-187
-00:11:14,281 --> 00:11:15,804
-Seja bom 
-ter alguém lá fora
+125
+00:10:58,158 --> 00:11:01,578
+Seria bom ter alguém lá
+que saiba como cozinhá-los.
 
-188
-00:11:15,847 --> 00:11:18,415
-quem sabe 
-como cozinhá-los.
+126
+00:11:02,287 --> 00:11:03,704
+Qual é.
 
-189
-00:11:18,459 --> 00:11:19,764
-Vamos.
-
-190
-00:11:19,808 --> 00:11:22,419
-June pode cozinhá-los 
+127
+00:11:03,705 --> 00:11:06,290
+June pode cozinhá-los
 tão bem quanto eu.
 
-191
-00:11:22,463 --> 00:11:25,422
-Melhor, talvez.
+128
+00:11:06,291 --> 00:11:08,001
+Talvez até melhor.
 
-193
-00:11:28,382 --> 00:11:30,427
-Há quanto tempo 
-você está aqui?
+129
+00:11:12,255 --> 00:11:14,047
+Há quanto tempo está aqui?
 
-194
-00:11:30,471 --> 00:11:32,429
-Algumas semanas.
+130
+00:11:14,048 --> 00:11:15,800
+Há algumas semanas.
 
-195
-00:11:32,473 --> 00:11:34,605
-E onde está junho?
+131
+00:11:16,718 --> 00:11:18,343
+E onde está June?
 
-196
-00:11:34,649 --> 00:11:36,172
-Por que ela 
-não está com você?
+132
+00:11:18,344 --> 00:11:20,054
+Por que não está com você?
 
-197
-00:11:37,826 --> 00:11:40,220
-Não 
-vale a pena falar sobre isso.
+133
+00:11:22,390 --> 00:11:24,016
+Não vale a pena
+falar disso.
 
-198
-00:11:40,263 --> 00:11:41,786
-Oh, não é?
+134
+00:11:24,017 --> 00:11:25,601
+Não vale a pena?
 
-199
-00:11:41,830 --> 00:11:43,832
-Onde é esse lugar que 
-você está se estabelecendo?
+135
+00:11:25,602 --> 00:11:27,687
+Onde é esse lugar
+em que vão ficar?
 
-201
-00:11:45,921 --> 00:11:47,836
+136
+00:11:29,898 --> 00:11:31,316
 Tudo bem.
 
-202
-00:11:47,879 --> 00:11:50,621
-40 milhas ao norte.
+137
+00:11:32,567 --> 00:11:34,485
+64 km ao norte.
 
-203
-00:11:51,883 --> 00:11:54,625
-Essa é uma maneira de ir 
-a pé.
+138
+00:11:36,613 --> 00:11:38,364
+É longe demais
+para ir a pé.
 
-204
-00:11:55,713 --> 00:11:58,803
-Provavelmente tem gasolina suficiente 
-no caminhão para chegar lá.
+139
+00:11:39,532 --> 00:11:42,701
+O veículo deve ter combustível
+para levá-los lá.
 
-205
-00:11:58,847 --> 00:12:00,892
-Eu estava esperando que 
-você viesse.
+140
+00:11:42,702 --> 00:11:44,829
+Esperava
+que viesse com a gente.
 
-206
-00:12:00,936 --> 00:12:02,285
-O que estamos fazendo,
+141
+00:11:45,205 --> 00:11:48,165
+Alguém com as suas habilidades
+seria bem-vindo.
 
-207
-00:12:02,329 --> 00:12:04,287
-poderíamos usar alguém 
-com suas habilidades.
+142
+00:11:48,166 --> 00:11:50,584
+Minhas habilidades?
+Quais seriam elas?
 
-208
-00:12:04,331 --> 00:12:06,724
-Minhas habilidades? 
-O que podem ser?
+143
+00:11:50,585 --> 00:11:53,128
+Não poderemos fazer
+uma troca justa,
 
-209
-00:12:06,768 --> 00:12:09,292
-O plano está mudando porque 
-não podemos fazer um comércio limpo,
+144
+00:11:53,129 --> 00:11:55,429
+mas Virginia ainda vai aceitar
+a irmã de volta.
 
-210
-00:12:09,336 --> 00:12:11,599
-mas Virginia ainda vai querer 
-sua irmã de volta.
+145
+00:11:57,217 --> 00:11:59,551
+O quê?
+Quer me usar como isca?
 
-211
-00:12:13,209 --> 00:12:15,864
-O que, então você - 
-Você quer me usar como isca?
+146
+00:11:59,552 --> 00:12:01,219
+Sim.
 
-212
-00:12:15,907 --> 00:12:17,909
-Sim. 
-Mas você não se preocupe.
+147
+00:12:01,220 --> 00:12:03,890
+Mas não se preocupe,
+não vou deixar ela te pegar.
 
-213
-00:12:17,953 --> 00:12:20,521
-Eu não vou deixar ela 
-chegar até você.
+148
+00:12:12,190 --> 00:12:14,107
+Fazer assim
+significa que haverá luta.
 
-214
-00:12:21,522 --> 00:12:23,001
-Ei.
+149
+00:12:14,108 --> 00:12:15,525
+Por isso precisa de mim.
 
-215
-00:12:27,963 --> 00:12:30,313
-Faça assim, 
-significa uma luta.
+150
+00:12:15,526 --> 00:12:17,444
+Mas as coisas
+serão diferentes.
 
-216
-00:12:30,357 --> 00:12:31,532
-É por isso que você precisa de mim.
+151
+00:12:17,445 --> 00:12:20,197
+Estaremos prontos para vencer.
+Será nosso território
 
-217
-00:12:31,575 --> 00:12:33,664
-Bem, as coisas serão 
-diferentes, no entanto.
+152
+00:12:20,198 --> 00:12:21,991
+e nos nossos termos.
 
-218
-00:12:33,708 --> 00:12:34,970
-Estaremos preparados 
-para vencer.
+153
+00:12:23,826 --> 00:12:26,245
+Meu Deus, John,
+é pela nossa família.
 
-219
-00:12:35,013 --> 00:12:36,493
-Estaremos lutando 
-em nosso próprio território
+154
+00:12:26,246 --> 00:12:27,580
+O que é isto?
 
-220
-00:12:36,537 --> 00:12:38,060
-e em nossos próprios termos.
-
-221
-00:12:40,149 --> 00:12:42,020
-Deus, John, 
-é para nossa família.
-
-222
-00:12:42,064 --> 00:12:43,761
-Dakota: 
-O que é isso?
-
-223
-00:12:45,763 --> 00:12:48,113
+155
+00:12:30,166 --> 00:12:31,876
 Nada.
 
-224
-00:12:49,332 --> 00:12:51,160
+156
+00:12:33,628 --> 00:12:35,088
 Parece sangue.
 
-225
-00:12:51,203 --> 00:12:53,728
-Está fora do cabo de 
-uma faca.
+157
+00:12:35,546 --> 00:12:37,632
+É do cabo de uma faca.
 
-226
-00:12:53,771 --> 00:12:56,121
-Que faca?
+158
+00:12:38,591 --> 00:12:40,009
+Qual faca?
 
-227
-00:12:56,165 --> 00:12:59,037
-Aquele 
-que matou Cameron.
+159
+00:12:41,052 --> 00:12:42,845
+A que matou Cameron.
 
-228
-00:12:59,081 --> 00:13:00,952
-O ranger?
+160
+00:12:43,346 --> 00:12:44,680
+O patrulheiro?
 
-229
-00:13:00,996 --> 00:13:02,737
-Aquele com 
-quem Janis estava?
+161
+00:12:44,681 --> 00:12:46,515
+Aquele que estava com Janis?
 
-230
-00:13:02,780 --> 00:13:04,913
-Eu pensei que 
-se pudesse encontrar o resto,
+162
+00:12:46,516 --> 00:12:48,725
+Pensei que se conseguisse
+achar o resto,
 
-231
-00:13:04,956 --> 00:13:07,307
-isso me levaria 
-a quem o matou.
+163
+00:12:48,726 --> 00:12:50,812
+iria me levar
+até quem o matou.
 
-232
-00:13:07,350 --> 00:13:08,960
-Eu não pude.
+164
+00:12:51,312 --> 00:12:52,730
+Não consegui.
 
-233
-00:13:09,004 --> 00:13:11,136
-Por que você 
-ainda tem isso, então?
+165
+00:12:53,356 --> 00:12:54,899
+Por que continua com isso?
 
-234
-00:13:13,922 --> 00:13:15,489
-Você está fazendo isso de novo.
+166
+00:12:58,152 --> 00:13:00,070
+- Está fazendo aquilo de novo.
+- O quê?
 
-235
-00:13:15,532 --> 00:13:17,099
-O que?
+167
+00:13:00,071 --> 00:13:02,323
+O que me contou
+de quando era policial.
 
-236
-00:13:17,142 --> 00:13:18,448
-O que você me contou antes, 
-quando você era um policial,
+168
+00:13:03,199 --> 00:13:05,743
+Como se escondeu
+do mundo aqui.
 
-237
-00:13:18,492 --> 00:13:21,973
-como você se escondeu 
-do mundo aqui em cima.
+169
+00:13:06,286 --> 00:13:07,703
+É diferente desta vez.
 
-238
-00:13:22,017 --> 00:13:23,845
-Bem, 
-é diferente desta vez.
+170
+00:13:07,704 --> 00:13:10,664
+- Por que é diferente?
+<i>- Morgan? Está aí?</i>
 
-239
-00:13:23,888 --> 00:13:25,194
-Por que isso?
+171
+00:13:10,665 --> 00:13:12,624
+<i>Precisamos falar sobre algo.</i>
 
-240
-00:13:25,237 --> 00:13:26,804
-Virginia: 
-Morgan? Você aí?
+172
+00:13:12,625 --> 00:13:15,127
+Não responda.
+Os patrulheiros estão por perto.
 
-241
-00:13:26,848 --> 00:13:28,980
-Temos algo 
-que precisamos discutir.
-
-242
-00:13:29,024 --> 00:13:31,374
-Não. Não. 
-Rangers estão por perto.
-
-243
-00:13:31,418 --> 00:13:32,941
-Eles podem descobrir 
+173
+00:13:15,128 --> 00:13:16,753
+Podem descobrir
 onde estamos.
 
-244
-00:13:32,984 --> 00:13:34,464
-John está certo. 
-Não.
+174
+00:13:16,754 --> 00:13:19,673
+John tem razão, não responda.
+Ela só quer te assustar.
 
-245
-00:13:34,508 --> 00:13:35,987
-Ela só está 
-tentando assustar você.
+175
+00:13:19,674 --> 00:13:22,634
+<i>- Morgan? Sou eu.</i>
+- Que inferno.
 
-246
-00:13:36,031 --> 00:13:37,554
-Grace: 
-Morgan? Wsou eu.
+176
+00:13:22,635 --> 00:13:25,221
+- Desculpe, eu preciso.
+- Morgan!
 
-247
-00:13:37,598 --> 00:13:38,729
-Ah, que diabo.
+177
+00:13:28,975 --> 00:13:30,642
+Sim, estou aqui.
 
-248
-00:13:38,773 --> 00:13:39,948
-Desculpe, eu tenho que fazer.
+178
+00:13:30,643 --> 00:13:32,979
+<i>Imaginei
+que isso iria resolver.</i>
 
-249
-00:13:39,991 --> 00:13:42,429
-Dakota: Morgan!
-
-251
-00:13:44,779 --> 00:13:46,389
-Sim estou aqui.
-
-252
-00:13:46,433 --> 00:13:50,306
-Virginia: Achei 
-que isso resolveria o problema.
-
-253
-00:13:50,350 --> 00:13:52,003
-Grace, 
-você está bem?
-
-254
-00:13:52,047 --> 00:13:53,396
+179
+00:13:34,605 --> 00:13:37,899
+Grace, você está bem?
 O bebê está bem?
 
-255
-00:13:53,440 --> 00:13:55,572
-Grace: 
-Estou bem, Morgan.
+180
+00:13:37,900 --> 00:13:39,359
+<i>Estou bem, Morgan.</i>
 
-256
-00:13:55,616 --> 00:13:57,618
+181
+00:13:39,360 --> 00:13:41,237
 O bebê também.
 
-257
-00:13:57,661 --> 00:14:00,490
-Acho que este pequenino tem 
-cerca de sete meses agora.
+182
+00:13:41,946 --> 00:13:44,324
+Acho que este pequenino
+tem uns sete meses.
 
-258
-00:14:00,534 --> 00:14:03,711
-Achei que 
-você estivesse morto, Morgan.
+183
+00:13:45,491 --> 00:13:47,410
+<i>Pensei que estivesse morto,
+Morgan.</i>
 
-259
-00:14:03,754 --> 00:14:06,235
-Todos nós gostamos.
+184
+00:13:48,369 --> 00:13:49,996
+Todos nós pensamos.
 
-260
-00:14:06,278 --> 00:14:07,584
-Ei.
+185
+00:13:52,665 --> 00:13:55,167
+Ouviu, Morgan?
+Grace está ótima.
 
-261
-00:14:07,628 --> 00:14:09,630
-Você ouviu isso, 
-Morgan?
+186
+00:13:55,168 --> 00:13:57,711
+Mas isso vai mudar
+se houver algo com a minha irmã.
 
-262
-00:14:09,673 --> 00:14:12,197
-Grace está bem, 
-mas isso vai mudar bem rápido
+187
+00:13:57,712 --> 00:13:59,422
+Mande os patrulheiros
+recuarem.
 
-263
-00:14:12,241 --> 00:14:13,764
-se alguma coisa acontecer 
-com minha irmã.
+188
+00:13:59,964 --> 00:14:02,383
+Vão acabar matando a todos,
+inclusive a sua irmã.
 
-264
-00:14:13,808 --> 00:14:15,375
-Chame os guardas-florestais.
+189
+00:14:04,302 --> 00:14:06,679
+Meus patrulheiros
+vão encontrar vocês.
 
-265
-00:14:15,418 --> 00:14:17,246
-Eles vao fazer com que 
-todos morram,
+190
+00:14:07,472 --> 00:14:09,849
+Enquanto isso,
+vai proteger minha irmã.
 
-266
-00:14:17,289 --> 00:14:18,465
-incluindo sua irmã.
+191
+00:14:10,433 --> 00:14:12,225
+<i>Porque,
+se algo acontecer com ela,</i>
 
-268
-00:14:20,249 --> 00:14:22,425
-Oh, meus rangers 
-irão encontrar você.
+192
+00:14:12,226 --> 00:14:15,188
+<i>não vai morrer só a Grace
+e o pintinho dela,</i>
 
-269
-00:14:22,469 --> 00:14:26,081
-Nesse ínterim, eu sei 
-que você manterá minha irmã segura
+193
+00:14:16,272 --> 00:14:18,524
+vai morrer
+o galinheiro inteiro.
 
-270
-00:14:26,124 --> 00:14:27,648
-porque se alguma coisa 
-acontecer com ela,
+194
+00:14:23,404 --> 00:14:25,281
+Conversamos em breve.
 
-271
-00:14:27,691 --> 00:14:31,260
-não são apenas Grace e 
-seu filhinho que estão mortos.
+195
+00:14:30,286 --> 00:14:32,371
+Temos que sair daqui agora.
 
-272
-00:14:31,303 --> 00:14:34,568
-É toda a 
-maldita gaiola.
+196
+00:14:32,372 --> 00:14:35,792
+Precisamos atrair Virginia
+antes que faça algo com eles.
 
-274
-00:14:39,050 --> 00:14:41,575
-Nos falamos em breve.
+197
+00:14:37,126 --> 00:14:38,835
+Da última vez
+que se isolou aqui,
 
-276
-00:14:45,666 --> 00:14:47,668
-Precisamos 
-sair daqui agora.
+198
+00:14:38,836 --> 00:14:41,213
+June se deu mal.
+Hoje, fomos nós.
 
-277
-00:14:47,711 --> 00:14:50,061
-Precisamos 
-atrair a Virgínia para nós
+199
+00:14:41,214 --> 00:14:43,465
+Se não é o universo
+te dizendo para voltar,
 
-278
-00:14:50,105 --> 00:14:52,760
-antes que ela faça algo 
-com eles.
+200
+00:14:43,466 --> 00:14:44,801
+não sei o que é.
 
-279
-00:14:52,803 --> 00:14:54,979
-Da última vez que você se trancou 
-aqui,
-
-280
-00:14:55,023 --> 00:14:56,241
-Junho acabou.
-
-281
-00:14:56,285 --> 00:14:57,678
-Hoje, 
-éramos nós.
-
-282
-00:14:57,721 --> 00:14:59,593
-Se esse não é o universo 
-dizendo para você voltar,
-
-283
-00:14:59,636 --> 00:15:00,985
-Eu não sei o 
-que é.
-
-284
-00:15:01,029 --> 00:15:02,378
-Sim.
-
-285
-00:15:02,422 --> 00:15:05,076
+201
+00:14:46,344 --> 00:14:48,096
 Eu só...
 
-286
-00:15:05,120 --> 00:15:08,297
-Eu não me importo 
-em matar ninguém.
+202
+00:14:49,806 --> 00:14:52,224
+Não quero
+ter que matar alguém.
 
-287
-00:15:08,340 --> 00:15:11,648
-Sim, você me chamou de fantasma, 
+203
+00:14:52,225 --> 00:14:55,019
+Você me chamou de fantasma,
 e eu sou.
 
-288
-00:15:11,692 --> 00:15:15,304
-Porque tudo que estou aqui 
-é para libertar nosso povo,
+204
+00:14:55,812 --> 00:14:58,898
+Porque só estou aqui
+para libertar o nosso povo.
 
-289
-00:15:15,347 --> 00:15:18,655
-dê a esse bebê uma chance de 
-um outro mundo,
+205
+00:14:59,399 --> 00:15:02,818
+Dar uma chance àquele bebê
+em um outro mundo.
 
-290
-00:15:18,699 --> 00:15:20,831
-um onde, 
-eu não sei,
+206
+00:15:02,819 --> 00:15:04,444
+Um mundo em que, não sei,
 
-291
-00:15:20,875 --> 00:15:23,051
-toda a vida pode 
-ser realmente preciosa.
+207
+00:15:04,445 --> 00:15:07,198
+toda a vida possa
+realmente ser preciosa.
 
-292
-00:15:23,094 --> 00:15:24,922
-Acho que podemos fazer 
-isso, John.
+208
+00:15:07,657 --> 00:15:09,574
+Acho que podemos fazer isso,
+John.
 
-293
-00:15:24,966 --> 00:15:28,099
-Acho que não vai ser 
+209
+00:15:09,575 --> 00:15:11,910
+Não vai ser
 do jeito que queremos,
 
-294
-00:15:28,143 --> 00:15:29,492
-mas podemos acabar com isso.
+210
+00:15:11,911 --> 00:15:13,261
+mas podemos
+acabar com isso.
 
-295
-00:15:29,536 --> 00:15:32,016
+211
+00:15:14,372 --> 00:15:16,082
 Tudo bem.
 
-297
-00:15:34,105 --> 00:15:36,673
-Eu não estou certo.
+212
+00:15:18,459 --> 00:15:20,461
+Não estou bem.
 
-298
-00:15:36,717 --> 00:15:39,415
-Eu simplesmente não sou.
+213
+00:15:21,087 --> 00:15:22,672
+Não mesmo.
 
-299
-00:15:39,459 --> 00:15:40,851
-Eu sinto Muito.
+214
+00:15:23,881 --> 00:15:26,050
+Sinto muito, não consigo.
 
-300
-00:15:40,895 --> 00:15:42,810
-Eu não consigo fazer isso.
+215
+00:15:28,386 --> 00:15:30,721
+Mas vou ajudá-los
+a atravessar a ponte.
 
-302
-00:15:44,551 --> 00:15:47,902
-Mas vou ajudá-lo a 
-cruzar essa ponte.
+216
+00:15:31,514 --> 00:15:33,558
+É o único caminho
+para o norte.
 
-303
-00:15:47,945 --> 00:15:50,339
-É o único 
-caminho para o norte.
-
-304
-00:15:50,382 --> 00:15:51,993
+217
+00:15:34,350 --> 00:15:35,810
 Temos que fazer as malas.
 
-306
-00:16:01,916 --> 00:16:03,526
-Isso é tudo que eu tenho.
+218
+00:15:46,404 --> 00:15:47,946
+Isto é tudo que tenho.
 
-307
-00:16:03,570 --> 00:16:06,268
-Isso vai ser o suficiente 
-para matar todos os chompers?
+219
+00:15:47,947 --> 00:15:50,365
+Será o bastante para matar
+todos os mastigadores?
 
-308
-00:16:06,311 --> 00:16:08,313
-Seu palpite 
-é tão bom quanto o meu.
+220
+00:15:50,366 --> 00:15:52,284
+Sei tanto quanto você.
 
-309
-00:16:08,357 --> 00:16:10,881
-Mas só há uma maneira 
-de descobrir.
+221
+00:15:52,285 --> 00:15:54,495
+Só há um jeito de descobrir.
 
-311
-00:16:13,580 --> 00:16:15,538
-Baixa!
+222
+00:15:58,082 --> 00:15:59,382
+Abaixem-se.
 
-316
-00:16:22,893 --> 00:16:25,026
-Morgan! 
-Vou puxá-lo para baixo!
+223
+00:16:06,632 --> 00:16:09,469
+- Morgan!
+- Vou derrubar ele.
 
-320
-00:16:30,161 --> 00:16:32,903
-Dakota! 
+224
+00:16:13,890 --> 00:16:16,683
+Dakota!
 Você sabe dirigir?
 
-321
-00:16:32,947 --> 00:16:35,471
-Vire essa coisa.
+225
+00:16:16,684 --> 00:16:18,436
+Dê meia volta no carro.
 
-323
-00:16:37,125 --> 00:16:40,041
-Ah!
-
-326
-00:16:42,739 --> 00:16:44,175
-Dakota: Algo está errado 
+226
+00:16:26,611 --> 00:16:27,986
+Tem algo errado
 com o carro.
 
-327
-00:16:44,219 --> 00:16:45,960
-Acho que a bala 
-pode ter atingido o motor.
+227
+00:16:27,987 --> 00:16:29,613
+A bala
+deve ter acertado o motor.
 
-334
-00:17:08,199 --> 00:17:11,289
+228
+00:16:29,614 --> 00:16:31,324
+Tente novamente.
+
+229
+00:16:52,803 --> 00:16:54,138
 Morgan?
 
-335
-00:17:11,333 --> 00:17:13,378
-Nossa.
+230
+00:16:55,097 --> 00:16:56,974
+Meu Deus...
 
-336
-00:17:13,422 --> 00:17:14,684
+231
+00:16:57,767 --> 00:17:00,435
 Morgan?
+Você está bem?
 
-337
-00:17:14,728 --> 00:17:16,599
-Você está certo?
-
-338
-00:17:16,643 --> 00:17:18,862
+232
+00:17:00,436 --> 00:17:01,771
 Sim.
 
-342
-00:17:51,634 --> 00:17:53,723
-Desculpe, John.
+233
+00:17:42,103 --> 00:17:44,813
+- Desculpe, John.
+- Desculpa?
 
-343
-00:17:53,767 --> 00:17:55,029
-Desculpa?
+234
+00:17:44,814 --> 00:17:46,566
+Pelo o quê?
 
-344
-00:17:55,072 --> 00:17:56,944
-Por que você tem 
-que se desculpar?
+235
+00:17:47,108 --> 00:17:49,317
+Você que foi arrastado
+pelo pescoço.
 
-345
-00:17:56,987 --> 00:17:59,860
-Você foi arrastado 
-pela floresta pelo pescoço.
+236
+00:17:49,318 --> 00:17:52,988
+Tenho acumulado
+alguns quilômetros ultimamente.
 
-346
-00:17:59,903 --> 00:18:03,385
-Sim, tenho acumulado 
-muitos quilômetros ultimamente.
+237
+00:17:52,989 --> 00:17:56,658
+- Você quase morreu.
+- Mas não morri, você o impediu.
 
-347
-00:18:03,428 --> 00:18:04,778
-Você quase foi morto.
+238
+00:17:56,659 --> 00:17:58,368
+Não deveria
+ter chegado a isso.
 
-348
-00:18:04,821 --> 00:18:06,431
-Eu não fiz, entretanto, 
-porque você o impediu.
+239
+00:17:58,369 --> 00:18:00,537
+Eu devia ter acabado com isso
+lá na loja.
 
-349
-00:18:06,475 --> 00:18:08,390
-Bem, não deveria ter 
-chegado a esse ponto.
+240
+00:18:00,538 --> 00:18:03,082
+Mas não o fez
+porque não precisou.
 
-350
-00:18:08,433 --> 00:18:11,001
-Eu deveria ter dado minha chance 
-quando eu a peguei de volta na casa de Bill.
+241
+00:18:04,333 --> 00:18:06,209
+É por isso
+que preciso de você.
 
-351
-00:18:11,045 --> 00:18:13,438
-Você não pegou 
-porque não precisava.
+242
+00:18:06,210 --> 00:18:09,087
+Para que não sejamos
+como a Ginny.
 
-352
-00:18:14,526 --> 00:18:16,659
-Você sabe 
-que é por isso que preciso de você, certo?
+243
+00:18:09,088 --> 00:18:11,048
+Essa não é a única razão.
 
-353
-00:18:16,703 --> 00:18:18,269
-Ajude a evitar que nos 
-tornemos como Ginny.
+244
+00:18:12,842 --> 00:18:14,594
+Tirei toda a gasolina.
 
-354
-00:18:18,313 --> 00:18:19,488
-Você sabe disso, 
-certo?
+245
+00:18:15,469 --> 00:18:17,805
+É o que tem de bom
+por agora.
 
-355
-00:18:19,531 --> 00:18:21,533
-Essa não é 
-a única razão.
+246
+00:18:18,681 --> 00:18:20,640
+Precisamos de outro carro.
 
-356
-00:18:22,709 --> 00:18:25,973
-Tirou todo o gás.
+247
+00:18:20,641 --> 00:18:23,977
+Poderíamos voltar de canoa,
+rio acima,
 
-357
-00:18:26,016 --> 00:18:29,193
-Isso é 
-tudo que é bom por agora.
+248
+00:18:23,978 --> 00:18:25,729
+achar outro veículo
+perto da loja.
 
-358
-00:18:29,237 --> 00:18:31,065
-Vamos precisar de 
-outro carro.
+249
+00:18:25,730 --> 00:18:27,856
+Não posso arriscar.
+Não com os patrulheiros
 
-359
-00:18:31,108 --> 00:18:33,850
-Poderíamos voltar em uma canoa, subir o 
-rio,
+250
+00:18:27,857 --> 00:18:29,190
+nos procurando.
 
-360
-00:18:33,894 --> 00:18:36,026
-encontre outro veículo 
-perto do Bill.
+251
+00:18:29,191 --> 00:18:32,570
+E pode haver mais
+quando ele não responder.
 
-361
-00:18:36,070 --> 00:18:37,898
-Eu não posso arriscar,
+252
+00:18:33,195 --> 00:18:34,947
+Certo.
 
-362
-00:18:37,941 --> 00:18:39,900
-não com todos aqueles guardas 
-à nossa procura.
+253
+00:18:39,869 --> 00:18:41,287
+E aquele ali?
 
-363
-00:18:39,943 --> 00:18:42,990
-E pode haver mais 
-uma vez que ele não faça o check-in.
-
-364
-00:18:43,033 --> 00:18:45,470
-Direito.
-
-365
-00:18:49,953 --> 00:18:51,651
-Que tal aquele?
-
-366
-00:18:52,913 --> 00:18:54,262
-Aquele?
-
-367
-00:18:54,305 --> 00:18:56,525
-Isso só coleciona ferrugem 
+254
+00:18:42,538 --> 00:18:46,167
+Esse aí pega ferrugem
 desde que eu era criança.
 
-371
-00:19:07,101 --> 00:19:09,146
-De onde veio isso?
+255
+00:18:57,222 --> 00:18:58,640
+De onde isso veio?
 
-372
-00:19:09,190 --> 00:19:11,061
-Bem, 
-pertencia ao meu pai.
+256
+00:18:59,597 --> 00:19:02,223
+Era do meu pai.
+Iríamos consertar juntos.
 
-373
-00:19:11,105 --> 00:19:14,412
-Íamos consertar isso juntos de 
-vez em quando.
+257
+00:19:02,224 --> 00:19:03,893
+Há muito tempo...
 
-374
-00:19:14,456 --> 00:19:15,849
-Hmm.
+258
+00:19:04,852 --> 00:19:08,897
+Já passei muito tempo
+em várias garagens
 
-375
-00:19:15,892 --> 00:19:17,502
-Você sabe, eu gastei 
-mais do que o meu quinhão de tempo
+259
+00:19:08,898 --> 00:19:11,900
+consertando carros piores
+que este.
 
-376
-00:19:17,546 --> 00:19:19,287
-em uma garagem 
-ou outra
+260
+00:19:11,901 --> 00:19:16,571
+Precisaremos de uma bateria
+e uma tampa do distribuidor.
 
-377
-00:19:19,330 --> 00:19:22,377
-fazendo carros em muito pior estado do 
-que esta corrida novamente.
+261
+00:19:16,572 --> 00:19:18,491
+Acho que vai funcionar.
 
-378
-00:19:22,420 --> 00:19:26,163
-Vamos precisar de uma bateria 
-e uma tampa de distribuidor,
+262
+00:19:19,575 --> 00:19:21,202
+Não é tarde demais.
 
-379
-00:19:26,207 --> 00:19:29,036
-mas acho 
-que posso fazer isso funcionar.
+263
+00:19:21,911 --> 00:19:23,536
+O quê?
 
-381
-00:19:30,167 --> 00:19:32,126
-Não é tão tarde.
+264
+00:19:23,537 --> 00:19:26,123
+Algo que meu pai
+costumava dizer,
 
-382
-00:19:32,169 --> 00:19:33,562
-O que é isso?
+265
+00:19:26,999 --> 00:19:30,503
+Não é tarde demais
+para aprender algo,
 
-383
-00:19:33,605 --> 00:19:37,740
-Ah, apenas algo que 
-meu pai costumava dizer.
+266
+00:19:32,713 --> 00:19:34,631
+para fazer a coisa certa,
 
-384
-00:19:37,784 --> 00:19:42,745
-Não é tarde 
-para aprender alguma coisa,
-
-385
-00:19:42,789 --> 00:19:46,270
-fazer a coisa certa, 
+267
+00:19:34,632 --> 00:19:36,384
 consertar um erro,
 
-386
-00:19:46,314 --> 00:19:49,709
-e, aparentemente, colocar um velho 
-caminhão Chevy em funcionamento novamente.
+268
+00:19:36,759 --> 00:19:39,136
+e, talvez, fazer um velho Chevy
+andar novamente.
 
-387
-00:19:50,797 --> 00:19:54,757
-Bem, há alguns carros destruídos em 
-uma cabana.
+269
+00:19:40,596 --> 00:19:41,896
+Bem...
 
-388
-00:19:54,801 --> 00:19:58,108
-Muito menos provável de encontrar 
-rangers ali.
+270
+00:19:42,390 --> 00:19:44,808
+Tem carros destruídos
+uma cabana à frente.
 
-389
-00:19:58,152 --> 00:19:59,370
-Você deveria ir 
-com John.
+271
+00:19:44,809 --> 00:19:47,560
+Menos chance
+de encontrar patrulheiros lá.
 
-390
-00:19:59,414 --> 00:20:00,937
-Não, 
-eu posso lidar com isso.
+272
+00:19:47,561 --> 00:19:50,063
+- Você deveria ir com o John.
+- Não, eu consigo.
 
-391
-00:20:00,981 --> 00:20:03,418
-Quaisquer outros rangers aparecerem, 
-não tenho certeza se posso.
+273
+00:19:50,064 --> 00:19:52,899
+Se outro patrulheiro aparecer,
+não sei se eu aguento.
 
-392
-00:20:03,461 --> 00:20:04,898
-Eles pegam 
-Dakota,
+274
+00:19:52,900 --> 00:19:54,609
+Se pegarem a Dakota,
 
-393
-00:20:04,941 --> 00:20:07,422
-todo mundo vai ter 
-problemas reais.
+275
+00:19:54,610 --> 00:19:56,861
+todo mundo estará
+em sérios problemas.
 
-394
-00:20:07,465 --> 00:20:11,905
-Tudo bem, 
-vamos.
+276
+00:19:56,862 --> 00:20:00,116
+Está bem. Vamos lá.
 
-395
-00:20:15,125 --> 00:20:17,867
-Você recebeu essas armas 
+277
+00:20:05,204 --> 00:20:07,415
+Conseguiu essas armas
 quando era policial?
 
-396
-00:20:17,911 --> 00:20:20,740
-Não, eles pertenciam 
-ao meu pai.
+278
+00:20:07,915 --> 00:20:10,376
+Não.
+Eram do meu pai.
 
-397
-00:20:22,829 --> 00:20:25,745
-E ele te deu 
-as armas?
+279
+00:20:13,170 --> 00:20:15,131
+E ele te deu as armas?
 
-398
-00:20:25,788 --> 00:20:30,358
-Bem, ele os enviou para mim 
-naquele mesmo verão
+280
+00:20:16,674 --> 00:20:18,883
+Ele as enviou para mim
 
-399
-00:20:30,401 --> 00:20:35,929
-deveríamos 
+281
+00:20:18,884 --> 00:20:21,262
+no mesmo verão
+em que iríamos
+
+282
+00:20:23,055 --> 00:20:24,974
 consertar o Chevy.
 
-400
-00:20:37,582 --> 00:20:39,802
-Por que ele não os 
-trouxe para você? 
-
-401
-00:20:39,846 --> 00:20:44,111
-Bem, 
-ele nunca apareceu.
-
-402
-00:20:44,154 --> 00:20:49,812
-Mudou-se para uma cabana por conta própria 
-no norte,
-
-403
-00:20:49,856 --> 00:20:52,946
-longe de todos.
-
-404
-00:20:52,989 --> 00:20:56,732
-Incluindo eu e minha mãe.
-
-405
-00:20:58,865 --> 00:21:02,956
-Eu recebia um 
-cartão de aniversário ou de Natal ocasional .
-
-406
-00:21:04,696 --> 00:21:06,916
-Um telefonema de 
-vez em quando na lua azul.
-
-407
-00:21:06,960 --> 00:21:10,267
-Mas nunca mais o 
-vi.
-
-408
-00:21:13,357 --> 00:21:14,576
-Ah.
-
-409
-00:21:14,619 --> 00:21:16,578
-Aqui, segure isso.
-
-410
-00:21:16,621 --> 00:21:18,319
-Sim.
-
-411
-00:21:18,362 --> 00:21:21,278
-Obrigada.
-
-412
-00:21:21,322 --> 00:21:23,715
-Por que ele saiu?
-
-413
-00:21:23,759 --> 00:21:27,023
-Ele matou alguém, 
-assim como você?
-
-414
-00:21:27,067 --> 00:21:29,243
-No.
-
-415
-00:21:29,286 --> 00:21:31,593
-O que foi 
-então?
-
-416
-00:21:32,681 --> 00:21:35,597
-Bem, 
-ele fez a coisa errada,
-
-417
-00:21:35,640 --> 00:21:37,991
-mas pelas 
-razões certas.
-
-418
-00:21:39,514 --> 00:21:42,125
-Se isso faz sentido. 
-
-420
-00:21:43,779 --> 00:21:47,478
-Parece que 
-ele estava se punindo.
-
-421
-00:21:47,522 --> 00:21:50,830
-Sim talvez. 
-
-422
-00:21:50,873 --> 00:21:53,006
-Assim como você.
-
-423
-00:21:53,049 --> 00:21:56,444
-Morgan estava certo, 
-não é?
-
-424
-00:21:56,487 --> 00:21:58,881
-É por isso que você está aqui.
-
-425
-00:22:00,100 --> 00:22:01,492
-Vamos.
-
-426
-00:22:01,536 --> 00:22:03,190
-Há mais uma coisa que 
-precisamos resolver enquanto estamos aqui.
-
-427
-00:22:03,233 --> 00:22:06,802
-Sabe tudo.
-
-428
-00:22:08,108 --> 00:22:10,110
-Ei, você sabe o que aconteceu 
-com Janis?
-
-429
-00:22:10,153 --> 00:22:12,503
-Você não precisa se sentir mal 
-com esse tipo de coisa.
-
-430
-00:22:12,547 --> 00:22:14,723
-É - é assim 
-que a vida é agora.
-
-431
-00:22:14,766 --> 00:22:17,334
-Pessoas - Pessoas matam, 
-pessoas morrem.
-
-432
-00:22:17,378 --> 00:22:19,859
-Ainda 
-deve significar algo.
-
-433
-00:22:19,902 --> 00:22:21,773
-Por quê?
-
-434
-00:22:22,862 --> 00:22:25,081
-Bem, se isso não significa nada 
-quando você morrer,
-
-435
-00:22:25,125 --> 00:22:27,692
-então, também não deve ter significado muito 
-quando você estava vivo.
-
-436
-00:22:27,736 --> 00:22:28,911
-Então?
-
-437
-00:22:28,955 --> 00:22:32,697
-Rapaz, estou feliz que 
-Morgan está levando você
-
-438
-00:22:32,741 --> 00:22:35,091
-para aquele lugar que 
-ele está construindo. 
-Por que isso?
-
-439
-00:22:35,135 --> 00:22:37,311
-Porque você está começando a parecer 
-muito com sua irmã.
-
-440
-00:22:37,354 --> 00:22:38,616
-Agora fique para trás.
-
-441
-00:22:38,660 --> 00:22:39,879
-Ei!
-
-443
-00:22:41,445 --> 00:22:44,709
-Alguém em casa?
-
-445
-00:22:51,586 --> 00:22:53,327
-Tudo bem.
-
-446
-00:22:54,415 --> 00:22:56,721
-Não há nada lá de 
-que precisemos para o caminhão.
-
-447
-00:22:57,809 --> 00:22:59,072
-Quem disse que estamos aqui 
-pelo caminhão?
-
-449
-00:23:00,812 --> 00:23:03,511
-Para que você precisa de uma porta 
-se vier conosco?
-
-450
-00:23:03,554 --> 00:23:05,948
-Morgan: Porque ele não 
-vem conosco.
-
-451
-00:23:05,992 --> 00:23:09,778
--Está, John? 
--O que você está fazendo aqui?
-
-452
-00:23:10,997 --> 00:23:13,521
-Eu encontrei isso.
-
-453
-00:23:16,132 --> 00:23:18,961
-Existem tantas palavras que 
-você pode soletrar com isso.
-
-454
-00:23:19,005 --> 00:23:22,486
-Isso não foi feito para você. 
-Eu sei para 
-quem eles são feitos.
-
-456
-00:23:24,619 --> 00:23:28,057
-Olha, 
-eu ia te dizer
-
-457
-00:23:28,101 --> 00:23:29,754
-depois de limparmos 
-a ponte.
-
-458
-00:23:29,798 --> 00:23:31,974
-Vou manter minha palavra. 
-Eu vou te mostrar.
-
-459
-00:23:32,018 --> 00:23:33,889
-Mas então 
-voltarei aqui depois.
-
-460
-00:23:33,933 --> 00:23:35,978
-Por causa do que você teve que fazer 
-com Marcus?
-
-461
-00:23:36,022 --> 00:23:38,633
-Não, não porque 
-eu tive que matá-lo.
-
-462
-00:23:38,676 --> 00:23:41,505
-É porque 
-eu não o matei antes.
-
-463
-00:23:41,549 --> 00:23:43,507 
-Droga!
-
-465
-00:23:45,509 --> 00:23:48,773
-Não sei porque ...
-
-466
-00:23:48,817 --> 00:23:52,516
-Não fui feito 
-para viver neste mundo.
-
-467
-00:23:52,560 --> 00:23:54,823
-Se eu tivesse 
-mantido meu nariz fora disso
-
-468
-00:23:54,866 --> 00:23:56,303
-quando Cameron foi morto,
-
-469
-00:23:56,346 --> 00:23:58,000
-Janis ainda 
-estaria viva.
-
-470
-00:23:58,044 --> 00:24:00,785
-Se eu tivesse atirado em Marcus 
-quando tive a chance,
-
-471
-00:24:00,829 --> 00:24:02,222
-você não teria 
-quase morrido.
-
-472
-00:24:02,265 --> 00:24:04,006
-Esconder-se naquela cabana 
-não é a resposta.
-
-473
-00:24:04,050 --> 00:24:06,182
-O melhor em 
-que consigo pensar.
-
-475
-00:24:07,357 --> 00:24:08,793
-Você foi 
-procurando por uma porta
-
-476
-00:24:08,837 --> 00:24:10,012
-para se isolar 
-do mundo,
-
-477
-00:24:10,056 --> 00:24:11,187
-e você nos encontrou.
-
-478
-00:24:11,231 --> 00:24:13,407
-Isso não 
-te diz nada?
-
-479
-00:24:13,450 --> 00:24:14,756
-Você é como aquele cara
-
-480
-00:24:14,799 --> 00:24:16,105
-que atravessou 
-metade do país
-
-481
-00:24:16,149 --> 00:24:18,020
-para ficar longe das 
-pessoas que ele mais gosta
-
-482
-00:24:18,064 --> 00:24:20,631
-e se viu sentado em frente 
-à sua fogueira.
-
-483
-00:24:20,675 --> 00:24:23,156
-E porque 
-te encontrei,
-
-484
-00:24:23,199 --> 00:24:26,986
-Eu encontrei todo mundo 
-que considero uma família agora.
-
-485
-00:24:27,029 --> 00:24:28,204
-Eu encontrei Grace.
-
-486
-00:24:28,248 --> 00:24:29,640
-E isso 
-não teria acontecido
-
-487
-00:24:29,684 --> 00:24:31,207
-se você não tivesse insistido
-
-488
-00:24:31,251 --> 00:24:32,948
-que eu durmo na 
-carroceria do seu caminhão naquela noite.
-
-489
-00:24:32,992 --> 00:24:34,819
-Você me deu 
-aquela família, cara.
-
-490
-00:24:34,863 --> 00:24:38,040
-Você tem que me ajudar a 
-recuperá-los.
-
-492
-00:24:39,476 --> 00:24:42,827
-A melhor maneira que posso pensar de 
-fazer isso
-
-493
-00:24:42,871 --> 00:24:45,352
-é fazer você 
-atravessar aquela ponte
-
-494
-00:24:45,395 --> 00:24:47,919
-e, em seguida, 
-fique fora do seu caminho.
-
-495
-00:24:47,963 --> 00:24:49,878
-Essa porta 
-não vai nos manter longe.
-
-496
-00:24:49,921 --> 00:24:51,836
-Nem eu, nem junho.
-
-497
-00:24:51,880 --> 00:24:54,187
-Esta porta 
-não é para manter as pessoas fora.
-
-498
-00:24:54,230 --> 00:24:56,145
-Para que diabos é isso, 
-então?
-
-499
-00:24:56,189 --> 00:24:58,800
-É para evitar que o passado 
-me atinja
-
-500
-00:24:58,843 --> 00:25:00,845
-depois de fazer 
-o que preciso fazer.
-
-502
-00:25:03,109 --> 00:25:06,025
-Eu só quero que isso acabe, 
-Morgan.
-
-505
-00:25:34,053 --> 00:25:35,793
-Colocou o caminhão em funcionamento.
-
-506
-00:25:35,837 --> 00:25:37,447
-Isso é bom.
-
-507
-00:25:47,153 --> 00:25:49,285
-Não foi há muito tempo, 
-eu estava em algo como
-
-508
-00:25:49,329 --> 00:25:50,852
-o lugar 
-que você está agora, John.
-
-509
-00:25:56,162 --> 00:25:59,339
-Uh, toda vez que 
-eu me esforço para isso,
-
-510
-00:25:59,382 --> 00:26:01,689
-uma das passadas 
-lava,
-
-511
-00:26:01,732 --> 00:26:03,125
-rouba minha coragem.
-
-512
-00:26:03,169 --> 00:26:06,128
-Isso é porque 
-não é sua hora.
-
-513
-00:26:06,172 --> 00:26:09,262
-Não é 
-assim que você deve sair.
-
-514
-00:26:09,305 --> 00:26:11,438
-Aqui.
-
-515
-00:26:13,092 --> 00:26:15,572
-Noite no Gulch ...
-
-516
-00:26:18,009 --> 00:26:21,143
-... quem me salvou, 
-eles me deixaram isso.
-
-517
-00:26:21,187 --> 00:26:23,754
-Me fez perceber pelo 
-que eu tinha que lutar.
-
-518
-00:26:23,798 --> 00:26:24,929
-Esse lugar que 
-você está construindo?
-
-519
-00:26:24,973 --> 00:26:27,323
-Sim, e 
-isso não significaria nada
-
-520
-00:26:27,367 --> 00:26:28,890
-se não fosse 
-todos nós.
-
-521
-00:26:28,933 --> 00:26:31,066
-Mas se eu fosse 
-levar todos lá,
-
-522
-00:26:31,110 --> 00:26:34,069
-Eu precisei...
-
-523
-00:26:37,333 --> 00:26:40,554
-Eu tive que 
-fazer uma mudança.
-
-524
-00:26:40,597 --> 00:26:45,036
-Ou eu perderia, 
-bem, todos vocês.
-
-525
-00:26:46,168 --> 00:26:48,170
-Você sabe 
-que não é seu pai, certo?
-
-526
-00:26:48,214 --> 00:26:49,998
-Eu sei disso. 
-E que 
-você não precisa
-
-527
-00:26:50,041 --> 00:26:51,913
-cometer os mesmos erros 
-que ele cometeu,
-
-528
-00:26:51,956 --> 00:26:55,525
-que você pode 
-vir conosco.
-
-529
-00:26:55,569 --> 00:26:57,962
-Eu encontrei minha maneira 
-de continuar.
-
-530
-00:26:58,006 --> 00:27:00,791
-Acho que 
-talvez você possa encontrar o seu.
-
-531
-00:27:00,835 --> 00:27:02,358
-Nós vamos...
-
-533
-00:27:04,143 --> 00:27:06,188
-Não contaria com isso.
-
-535
-00:27:07,755 --> 00:27:10,192
-É melhor subirmos lá.
-
-536
-00:27:10,236 --> 00:27:12,499
-O passado deve estar se acumulando 
-na ponte.
-
-537
-00:27:16,851 --> 00:27:19,854
-Você sabe, podemos precisar 
-dessas portas, afinal.
-
-539
-00:27:32,258 --> 00:27:33,389
-Tudo bem.
-
-540
-00:27:33,433 --> 00:27:35,043
-Vamos limpar a passagem 
-lá de cima.
-
-541
-00:27:35,086 --> 00:27:37,393
-Evite que eles se enrosquem 
-nas rodas.
-
-542
-00:27:37,437 --> 00:27:39,395
-Desde que você possa 
-nos ajudar.
-
-544
-00:27:40,918 --> 00:27:42,529
-Uh, meu pai costumava me deixar 
-dirigir suas seis velocidades
-
-545
-00:27:42,572 --> 00:27:45,401
-no estacionamento da igreja 
-nas tardes de domingo, então eu ...
-
-546
-00:27:45,445 --> 00:27:48,056
-Normalmente não ficava 
-tão lotado.
-
-547
-00:27:48,099 --> 00:27:50,667
-OK. 
-Bem, eu vou te falar sobre isso.
-
-548
-00:27:50,711 --> 00:27:53,017
-Aqui. 
-No caso de as coisas ficarem turbulentas.
-
-556
-00:28:17,303 --> 00:28:19,566
-Preparar?
-
-557
-00:28:19,609 --> 00:28:22,221
-Preparar.
-
-561
-00:28:28,662 --> 00:28:30,272
-Dorie: Suba.
-
-563
-00:28:34,885 --> 00:28:36,844
-Agora!
-
-567
-00:28:45,809 --> 00:28:47,333
-É isso.
-
-569
-00:28:50,945 --> 00:28:52,555
-Firme, firme, firme.
-
-571
-00:29:01,521 --> 00:29:04,393
-Lá vem eles!
-
-575
-00:29:17,188 --> 00:29:19,016
-Continue!
-
-577
-00:29:33,727 --> 00:29:35,729
-Segunda marcha!
-
-579
-00:29:36,860 --> 00:29:38,558
-Tudo bem. Eu sinto Muito.
-
-580
-00:29:38,601 --> 00:29:42,301
-Finja que é um daqueles 
-passeios de domingo, certo?
-
-581
-00:29:42,344 --> 00:29:44,738
-Você entendeu.
-
-584
-00:29:48,698 --> 00:29:50,700
-Você está bem? 
-Sim.
-
-585
-00:29:50,744 --> 00:29:53,312
-Sim eu estou bem.
-
-587
-00:29:59,448 --> 00:30:01,755
-Ei.
-
-588
-00:30:01,798 --> 00:30:03,757
-Ei, pessoal, o que está acontecendo?
-
-590
-00:30:10,590 --> 00:30:12,940
-Tudo bem. 
-Coloque primeiro.
-
-591
-00:30:12,983 --> 00:30:14,724
-Então dê o gás.
-
-592
-00:30:14,768 --> 00:30:17,074
-Você vai limpar isso.
-
-599
-00:30:41,751 --> 00:30:43,187
-Soque.
-
-602
-00:30:55,243 --> 00:30:58,028
-Algo está errado 
-com o motor!
-
-603
-00:30:58,072 --> 00:31:00,422
-Morgan: 
-O alternador.
-
-604
-00:31:00,466 --> 00:31:01,641
-Eu irei.
-
-605
-00:31:01,684 --> 00:31:03,730
-Não, 
-você não está em forma.
-
-606
-00:31:03,773 --> 00:31:05,209
-Você não está em forma.
-
-608
-00:31:18,484 --> 00:31:20,442
-Eu vou te dizer quando.
-
-611
-00:31:35,805 --> 00:31:37,459
-Não! Sai fora!
-
-614
-00:31:41,855 --> 00:31:43,465
-João!
-
-615
-00:31:43,509 --> 00:31:44,988
-Encoste-se!
-
-619
-00:31:52,082 --> 00:31:53,736
-Boa tentativa!
-
-621
-00:31:58,872 --> 00:32:02,266
-OK.
-
-622
-00:32:02,310 --> 00:32:03,833
-Tente agora.
-
-629
-00:32:21,329 --> 00:32:22,765
-Abaixe-se!
-
-632
-00:32:29,119 --> 00:32:31,034
-John, espere!
-
-641
-00:33:04,764 --> 00:33:07,157
-Deus, John.
-
-642
-00:33:07,201 --> 00:33:09,986
-Isso é 
-uma mostarda feia.
-
-643
-00:33:10,030 --> 00:33:11,901
-Ha!
-
-644
-00:33:11,945 --> 00:33:15,557
-Sim, ele é.
-
-647
-00:33:29,353 --> 00:33:32,400
-Eu encontrei algo 
-quando estava trabalhando no caminhão.
-
-648
-00:33:32,443 --> 00:33:33,706
-Achei que você poderia 
-querer.
-
-649
-00:33:35,795 --> 00:33:37,884
-É você, 
-não é?
-
-650
-00:33:37,927 --> 00:33:39,276
-E seu pai?
-
-651
-00:33:39,320 --> 00:33:41,714
-Você sabe...
-
-652
-00:33:45,935 --> 00:33:50,592
-Passei mais da minha vida do 
-que gostaria de admitir
-
-653
-00:33:50,636 --> 00:33:55,423
-me perguntando por que ele nunca apareceu 
-naquele verão.
-
-654
-00:33:55,466 --> 00:33:59,253
-Agora acho 
-que estou começando a entender.
-
-655
-00:34:01,472 --> 00:34:03,736
-Não 
-vou com você, Morgan.
-
-656
-00:34:03,779 --> 00:34:05,389
-Você sabe que está preso.
-
-657
-00:34:05,433 --> 00:34:07,609
-Cometer os mesmos erros que 
-você cometeu antes,
-
-658
-00:34:07,653 --> 00:34:09,437
-e são os mesmos erros 
-que ele cometeu.
-
-659
-00:34:09,480 --> 00:34:13,006
-Cara, é como - 
-é como um loop.
-
-662
-00:34:15,617 --> 00:34:17,271
-O que você está fazendo?
-
-663
-00:34:17,314 --> 00:34:20,491
-Virginia, 
-você pode me ouvir?
-
-664
-00:34:20,535 --> 00:34:22,363
-Repito, Virginia, 
-você pode me ouvir?
-
-665
-00:34:22,406 --> 00:34:23,625
-Qual é o seu plano, 
-Morgan?
-
-666
-00:34:23,669 --> 00:34:25,235
-Virginia: 
-Certo, Morgan.
-
-667
-00:34:25,279 --> 00:34:26,628
-Você finalmente está pronto 
-para conversar?
-
-668
-00:34:26,672 --> 00:34:28,804
-Sim, sim, estou, 
-mas não assim.
-
-669
-00:34:28,848 --> 00:34:30,501
-Eu quero 
-me encontrar pessoalmente.
-
-670
-00:34:34,070 --> 00:34:38,074
-Então, há um armazém fora da 
-velha rota 185. 
--Não! Não! Morgan!
-
-671
-00:34:38,118 --> 00:34:39,336
-Chama-se Bill's. 
-Pare!
-
-672
-00:34:39,380 --> 00:34:40,642
-E algumas milhas 
-rio abaixo -
-
-673
-00:34:40,686 --> 00:34:43,427
-Saia de cima de mim - 
-há uma cabana.
-
-674
-00:34:43,471 --> 00:34:45,604
-Deixe-me adivinhar. 
-Ranger Dorie's?
-
-675
-00:34:45,647 --> 00:34:48,432
-Sim, Marcus nos contou sobre 
-seu péssimo gosto para filmes.
-
-677
-00:34:49,999 --> 00:34:53,002
-Eu estarei esperando 
-por você.
-
-678
-00:34:53,046 --> 00:34:55,614
-Nos vemos em breve, 
-Morgan.
-
-680
-00:34:58,529 --> 00:35:00,967
-Agora você não pode voltar.
-
-681
-00:35:01,010 --> 00:35:03,447
-Morgan, 
-você não tinha o direito!
-
-682
-00:35:03,491 --> 00:35:05,667
-Essa não foi 
-sua escolha!
-
-683
-00:35:05,711 --> 00:35:07,277
-Assim como 
-não era seu
-
-684
-00:35:07,321 --> 00:35:08,975
-para me perseguir naquela estrada 
-quando eu tive minha perna estourada,
-
-685
-00:35:09,018 --> 00:35:11,673
-mas você fez isso 
-do mesmo jeito .
-
-686
-00:35:11,717 --> 00:35:14,720
-E estou vivo agora 
-porque você fez.
-
-688
-00:35:17,723 --> 00:35:20,029
-Merda, John, 
-me odeie se quiser,
-
-689
-00:35:20,073 --> 00:35:22,684
-mas eu serei amaldiçoado 
-se eu vou ficar parado
-
-690
-00:35:22,728 --> 00:35:25,948
-e deixe meu melhor amigo tentar 
-se matar.
-
-693
-00:35:44,358 --> 00:35:47,317
-Vou tentar 
-conseguir um sinal,
-
-694
-00:35:47,361 --> 00:35:49,842
-ouça onde 
-está a Virgínia.
-
-695
-00:35:51,365 --> 00:35:55,064
-Não quero cruzar com ela 
-no caminho para fora daqui.
-
-696
-00:35:58,938 --> 00:36:02,637
-Você vai ter que 
-falar com ele eventualmente.
-
-697
-00:36:04,378 --> 00:36:05,727
-Bem, 
-parece que o clipe
-
-698
-00:36:05,771 --> 00:36:07,903
-que estava segurando 
-o fio no lugar caiu.
-
-699
-00:36:07,947 --> 00:36:09,339
-Provavelmente por que 
-ela parou.
-
-700
-00:36:09,383 --> 00:36:11,341
-Teremos que ter certeza que 
-ela está consertada
-
-701
-00:36:11,385 --> 00:36:13,082
-antes que vocês dois 
-caiam na estrada.
-
-702
-00:36:13,126 --> 00:36:14,605
-É um pequeno clipe vermelho.
-
-703
-00:36:14,649 --> 00:36:17,870
-Eu vou ficar deste lado. 
-Você fica desse lado.
-
-704
-00:36:29,055 --> 00:36:31,318
-Ei.
-
-705
-00:36:31,361 --> 00:36:33,146
+283
+00:20:27,226 --> 00:20:29,437
+Por que ele não as trouxe
+para você?
+
+284
+00:20:33,023 --> 00:20:34,692
+Bem, ele nunca apareceu.
+
+285
+00:20:36,360 --> 00:20:39,155
+Foi sozinho para uma cabana
+ao norte.
+
+286
+00:20:39,989 --> 00:20:41,824
+Longe de todos.
+
+287
+00:20:42,450 --> 00:20:44,702
+Incluindo minha mãe e eu.
+
+288
+00:20:48,497 --> 00:20:52,543
+Eu recebia um cartão
+aniversário ou Natal.
+
+289
+00:20:54,253 --> 00:20:57,006
+E, raramente, uma ligação.
+
+290
+00:20:57,840 --> 00:20:59,800
+Mas nunca o vi novamente.
+
+291
+00:21:05,097 --> 00:21:07,224
+- Aqui, segure isto.
+- Sim.
+
+292
+00:21:08,684 --> 00:21:10,186
 Obrigado.
 
-706
-00:36:33,189 --> 00:36:34,321
-Nah, 
-obrigado.
-
-707
-00:36:34,364 --> 00:36:36,279
-Por que você está 
-me agradecendo?
-
-708
-00:36:36,323 --> 00:36:39,282
-Bem, 
-me deixando dirigir.
-
-709
-00:36:39,326 --> 00:36:41,937
-Confiando em mim com isso.
-
-710
-00:36:41,981 --> 00:36:43,765
-Não me fazendo 
-sentir como
-
-711
-00:36:43,809 --> 00:36:47,900
-Eu tinha que ficar trancado atrás 
-das paredes de Lawton o tempo todo.
-
-712
-00:36:50,206 --> 00:36:52,556
-Você deveria vir 
-conosco.
-
-713
-00:36:52,600 --> 00:36:55,429
-Não, isso não seria 
-uma boa ideia.
-
-714
-00:36:55,472 --> 00:36:57,779
-Acho 
-que <i>seria</i> uma boa ideia.
-
-715
-00:36:57,823 --> 00:37:00,564
-Eu realmente gosto de 
-estar perto de você.
-
-716
-00:37:00,608 --> 00:37:02,392
-Nós vamos...
-
-717
-00:37:02,436 --> 00:37:04,481
-Você não pode voltar 
-para sua cabana.
-
-718
-00:37:04,525 --> 00:37:05,700
-Claro que eu posso.
-
-719
-00:37:05,744 --> 00:37:08,398
-Bem, minha irmã 
-vai chegar logo.
-
-720
-00:37:08,442 --> 00:37:12,533
-Se Morgan a levar a qualquer 
-lugar que ele esteja construindo,
-
-721
-00:37:12,576 --> 00:37:15,797
-isso vai ficar bem confuso bem 
-rápido.
-
-723
-00:37:17,059 --> 00:37:19,627
-Pessoas de quem gostamos 
-podem acabar mortas.
-
-724
-00:37:19,670 --> 00:37:22,804
-Se estou esperando por ela, 
-posso acabar com isso.
-
-725
-00:37:22,848 --> 00:37:24,545
-Você não pode 
-fazer isso sozinho.
-
-726
-00:37:24,588 --> 00:37:26,199
-Ela não 
-estará me esperando.
-
-727
-00:37:26,242 --> 00:37:28,201
-Bem, 
-ela faria.
-
-728
-00:37:28,244 --> 00:37:29,593
-Ela é.
-
-729
-00:37:29,637 --> 00:37:32,379
-Quero dizer, ela vai ter rangers 
-com ela.
-
-730
-00:37:32,422 --> 00:37:34,990
-E daí, 
-mesmo que você a pegue,
-
-731
-00:37:35,034 --> 00:37:36,818
-então eles 
-vão te matar.
-
-732
-00:37:36,862 --> 00:37:39,821
-Bem, então minha morte 
-significará algo.
-
-734
-00:37:41,170 --> 00:37:43,607
-Como deveria.
-
-735
-00:37:46,785 --> 00:37:48,003
-Ei, John.
-
-736
-00:37:48,047 --> 00:37:49,788
-Eu encontrei.
-
-738
-00:37:52,225 --> 00:37:54,618
-Dakota!
-
-740
-00:37:58,187 --> 00:37:59,449
-Tudo bem.
-
-741
-00:37:59,493 --> 00:38:00,842
-Eu entendi.
-
-742
-00:38:02,365 --> 00:38:04,846
-O que é? 
-Eu entendi.
-
-743
-00:38:04,890 --> 00:38:06,892
-O que você está escondendo?
-
-745
-00:38:12,811 --> 00:38:14,900
-Onde você conseguiu isso?
-
-747
-00:38:17,076 --> 00:38:18,468
--Onde você conseguiu isso ?! 
--Não é o que parece, 
-ok?
-
-748
-00:38:18,512 --> 00:38:19,861
-Eu só - eu 
-encontrei.
-
-749
-00:38:19,905 --> 00:38:21,820
-Não minta para mim!
-
-751
-00:38:25,867 --> 00:38:28,217
-Oh meu Deus.
-
-752
-00:38:28,261 --> 00:38:30,872
-Você matou Cameron, 
-não foi?
-
-753
-00:38:30,916 --> 00:38:34,615
-Virginia estava te dando cobertura.
-
-755
-00:38:36,269 --> 00:38:37,661 
-Eu não sabia
-
-756
-00:38:37,705 --> 00:38:39,185
-que ela 
-ia matar Janis.
-
-758
-00:38:41,709 --> 00:38:43,842
-Por que você me pressionou 
-para investigar?
-
-759
-00:38:43,885 --> 00:38:46,670
-Eu sabia que Ginny 
-não iria deixar isso voltar para mim.
-
-760
-00:38:46,714 --> 00:38:48,672
-E eu pensei 
-que se parecia -
-
-761
-00:38:48,716 --> 00:38:50,457
-se parecia que 
-ela estava escondendo algo
-
-762
-00:38:50,500 --> 00:38:51,893
-ou tentando 
-proteger alguém,
-
-763
-00:38:51,937 --> 00:38:54,853
-que, você sabe, as 
-pessoas começariam a duvidar dela.
-
-764
-00:38:54,896 --> 00:38:56,680
-Por que você o 
-matou?
-
-766
-00:38:58,552 --> 00:39:00,423
-Por que você o 
-matou ?! 
--Ele descobriu
-
-767
-00:39:00,467 --> 00:39:03,078
-a maneira como eu estava entrando 
-e saindo de Lawton,
-
-768
-00:39:03,122 --> 00:39:04,427
-e ele disse a Ginny.
-
-769
-00:39:04,471 --> 00:39:07,213
-Ele tirou 
-a única maneira que eu tinha
-
-770
-00:39:07,256 --> 00:39:08,910
-para sair de Lawton.
-
-771
-00:39:08,954 --> 00:39:11,521
-E você achou que ele merecia 
-morrer por isso?
-
-772
-00:39:11,565 --> 00:39:13,045
-Isso é o que você pensou?
-
-774
-00:39:14,568 --> 00:39:16,048
-Não é diferente.
-
-775
-00:39:16,091 --> 00:39:19,051
-Não é diferente 
-do que todo mundo está fazendo
-
-776
-00:39:19,094 --> 00:39:20,835
-para conseguir 
-o que querem!
-
-777
-00:39:20,879 --> 00:39:22,924
-É o que 
-minha irmã faz.
-
-778
-00:39:22,968 --> 00:39:25,318
-É o que 
-todos os seus rangers fazem.
-
-779
-00:39:25,361 --> 00:39:27,320
-Você não entende.
-
-780
-00:39:27,363 --> 00:39:29,365
-<font style="vertical-align: inherit;"></font>
-Não . Não, eu não.
-
-781
-00:39:29,409 --> 00:39:32,151
-Você não entende. 
-É assim que as coisas estão agora.
-
-782
-00:39:32,194 --> 00:39:37,721
-Eu não posso.
-
-783
-00:39:37,765 --> 00:39:40,289
-Não posso deixar você 
-estragar isso para mim.
-
-784
-00:39:40,333 --> 00:39:41,943
-Tudo bem. 
-Escute-me.
-
-785
-00:39:41,987 --> 00:39:44,163
--Não posso deixar você contando às pessoas. 
--Ouça-me, Dakota.
-
-786
-00:39:44,206 --> 00:39:46,078
-Eu estou - eu não 
-vou contar a ninguém.
-
-787
-00:39:46,121 --> 00:39:47,601
-Tudo bem, olhe.
-
-788
-00:39:47,644 --> 00:39:49,951
-Olhe - olhe aqui. 
-Tudo bem?
-
-789
-00:39:49,995 --> 00:39:52,693
-Eu não 
-vou te machucar.
-
-790
-00:39:52,736 --> 00:39:54,956
-Olhar.
-
-791
-00:39:55,000 --> 00:39:56,262
-OK?
-
-793
-00:39:57,916 --> 00:39:59,091
-Você está mentindo.
-
-795
-00:40:00,570 --> 00:40:03,138
-Eu sei que 
-você já passou por muita coisa.
-
-796
-00:40:03,182 --> 00:40:06,533
-Eu entendo porque 
-você não acreditaria em mim.
-
-797
-00:40:06,576 --> 00:40:09,710
-Apenas me dê uma chance 
-de mostrar a você.
-
-798
-00:40:09,753 --> 00:40:11,059
+293
+00:21:11,562 --> 00:21:13,147
+Por que ele foi embora?
+
+294
+00:21:13,814 --> 00:21:16,484
+Ele matou alguém,
+assim como você?
+
+295
+00:21:16,859 --> 00:21:18,159
+Não.
+
+296
+00:21:18,944 --> 00:21:20,780
+O que foi então?
+
+297
+00:21:22,406 --> 00:21:24,533
+Ele fez a coisa errada,
+
+298
+00:21:25,075 --> 00:21:26,994
+mas pelas razões certas.
+
+299
+00:21:28,913 --> 00:21:30,790
+Se é que faz sentido...
+
+300
+00:21:33,083 --> 00:21:36,920
+Parece
+que ele estava se punindo.
+
+301
+00:21:36,921 --> 00:21:38,672
+Sim, talvez.
+
+302
+00:21:40,341 --> 00:21:41,759
+Assim como você.
+
+303
+00:21:43,052 --> 00:21:44,969
+Morgan estava certo,
+
+304
+00:21:44,970 --> 00:21:46,555
+não é?
+
+305
+00:21:47,014 --> 00:21:48,516
+É por isso que você está aqui.
+
+306
+00:21:49,600 --> 00:21:52,603
+Vamos.
+Ainda falta uma coisa.
+
+307
+00:21:53,062 --> 00:21:54,522
+Sabichona.
+
+308
+00:21:57,691 --> 00:22:00,151
+Sabe o que houve
+com a Janis?
+
+309
+00:22:00,152 --> 00:22:02,904
+Não precisa se sentir mal
+por esse tipo de coisa.
+
+310
+00:22:02,905 --> 00:22:05,532
+É como a vida é agora...
+
+311
+00:22:05,533 --> 00:22:07,200
+Pessoas morrem e matam.
+
+312
+00:22:07,201 --> 00:22:09,452
+Mas ainda deveria
+significar algo.
+
+313
+00:22:09,453 --> 00:22:10,753
 Por quê?
 
-799
-00:40:11,103 --> 00:40:12,539
-Porque podemos 
-superar isso.
-
-800
-00:40:12,582 --> 00:40:13,888
-Posso te ajudar.
-
-801
-00:40:13,932 --> 00:40:17,283
-Morgan disse que preciso de 
-um motivo para viver.
-
-802
-00:40:17,326 --> 00:40:18,371
-Para continuar.
-
-803
-00:40:18,414 --> 00:40:20,068
-Talvez seja você.
-
-804
-00:40:20,112 --> 00:40:21,678
-Isso teria significado. 
-Direito?
-
-805
-00:40:21,722 --> 00:40:23,942
-Portanto, 
-abaixe a arma.
-
-806
-00:40:23,985 --> 00:40:26,553
-Você não quer atirar em 
-mim. Você não quer 
-fazer isso consigo mesmo.
-
-807
-00:40:26,596 --> 00:40:28,163
-Você - você não quer viver 
-com isso.
-
-808
-00:40:28,207 --> 00:40:29,338
-Não é isso que eu quero.
-
-813
-00:40:44,223 --> 00:40:46,355
-Eu sinto Muito.
-
-816
-00:40:51,056 --> 00:40:53,972
-Nem sempre precisa 
-significar alguma coisa, John.
-
-823
-00:41:52,204 --> 00:41:57,774
-♪ Diga quando quebrar tudo
-
-824
-00:41:57,818 --> 00:42:00,429
-♪ Uivando
-
-825
-00:42:00,473 --> 00:42:03,911
-♪ A mesma menina
-
-826
-00:42:03,954 --> 00:42:11,353
-♪ Você caiu, você caiu, você caiu
-
-828
-00:42:15,705 --> 00:42:20,928
-♪ E quando tudo estiver alinhado
-
-829
-00:42:20,971 --> 00:42:27,195
-♪ Observadores silenciosos estão na frente
-
-830
-00:42:27,239 --> 00:42:31,895
-♪ E quando nossos mundos colidem
-
-831
-00:42:31,939 --> 00:42:38,511
-♪ Os olhos lembram de cada luz
-
-832
-00:42:38,554 --> 00:42:43,037
-♪ Você é capaz?
-
-833
-00:42:43,081 --> 00:42:47,650
-♪ Encontre seu terreno
-
-834
-00:42:47,694 --> 00:42:52,090
-♪ Outras pessoas
-
-835
-00:42:52,133 --> 00:42:56,746
-♪ caindo
-
-836
-00:42:56,790 --> 00:42:59,706
-♪ Eu posso ser seu alguém
-
-837
-00:42:59,749 --> 00:43:03,753
-♪ Você acredita em
-
-838
-00:43:03,797 --> 00:43:10,543
-♪ Alguém em quem você pode acreditar
-
-839
-00:43:10,586 --> 00:43:13,894
-Não é tão tarde.
-
-841
-00:43:24,426 --> 00:43:26,689
-Morgan: Dakota?
-
-842
-00:43:26,733 --> 00:43:28,300
-Ei.
-
-844
-00:43:29,997 --> 00:43:32,521
-O que você fez?
-
-846
-00:43:34,610 --> 00:43:38,658
-Eu não queria fazer isso.
-
-847
-00:43:38,701 --> 00:43:41,182
-Mas eu tive que fazer isso.
-
-848
-00:43:41,226 --> 00:43:43,358
-João. 
-Onde ele está?
-
-850
-00:43:45,317 --> 00:43:47,319
-Onde ele está?
-
-852
-00:43:50,017 --> 00:43:51,801
-Flutuando rio abaixo,
-
-853
-00:43:51,845 --> 00:43:54,935
-com uma bala 
-no peito.
-
-855
-00:44:03,857 --> 00:44:06,381
-Foi a sua faca.
-
-856
-00:44:06,425 --> 00:44:09,210
-Você matou 
-aquele ranger.
-
-859
-00:44:19,002 --> 00:44:21,396
-Você vai me levar 
-para o lugar que você está construindo.
-
-860
-00:44:21,440 --> 00:44:26,271
-Você vai me deixar fazer parte 
-disso como você fazia antes.
-
-863
-00:44:32,102 --> 00:44:34,801
-Você não 
-vai me machucar.
-
-864
-00:44:34,844 --> 00:44:36,324
-Eu não teria 
-tanta certeza.
-
-865
-00:44:36,368 --> 00:44:38,848
-Eu sou a razão de 
-você estar vivo!
-
-866
-00:44:38,892 --> 00:44:41,851
-Eu salvei você 
-no Gulch.
-
-867
-00:44:41,895 --> 00:44:44,158
-Não foi isso 
-que aconteceu. 
-Isto é.
-
-868
-00:44:44,202 --> 00:44:47,248
-Ginny - 
-ela deixou você morrer.
-
-869
-00:44:47,292 --> 00:44:50,947
-Arrastou-se 
-até a igreja.
-
-870
-00:44:50,991 --> 00:44:53,559
-Os mortos 
-seguiram você.
-
-871
-00:44:53,602 --> 00:44:57,215
-Eles estavam em cima de você, 
-prestes a comê-lo.
-
-872
-00:44:57,258 --> 00:44:59,173
-Mas eu estava lá.
-
-873
-00:44:59,217 --> 00:45:00,827
-Eu os matei.
-
-874
-00:45:00,870 --> 00:45:02,394
-Isso não é possível.
-
-875
-00:45:02,437 --> 00:45:04,047
-Isto é.
-
-876
-00:45:04,091 --> 00:45:09,096
-Eu segui Ginny 
-e os guardas até o desfiladeiro
-
-877
-00:45:09,139 --> 00:45:12,273
-porque eu queria vê-la 
-cair.
-
-878
-00:45:12,317 --> 00:45:13,492
-E, quero dizer, mesmo que 
-isso não tenha acontecido,
-
-879
-00:45:13,535 --> 00:45:15,842
-Quer dizer, 
-é uma coisa boa, certo?
-
-880
-00:45:15,885 --> 00:45:19,062
-Porque eu costurei você, 
-impedi você de sangrar.
-
-881
-00:45:19,106 --> 00:45:20,673
-Eu te dei antibióticos.
-
-882
-00:45:20,716 --> 00:45:22,065
-Eu te dei analgésicos.
-
-883
-00:45:22,109 --> 00:45:24,111
-Deixei 
-comida e suprimentos para você.
-
-884
-00:45:24,154 --> 00:45:26,069
-Ok, pare. 
-Sem mais mentiras.
-
-885
-00:45:26,113 --> 00:45:27,941
-Não, 
-você não me conhece!
-
-886
-00:45:27,984 --> 00:45:30,726
-Mas eu ouvi 
-sua mensagem.
-
-887
-00:45:30,770 --> 00:45:33,076
-Você precisa 
-fazer o mesmo.
-
-888
-00:45:33,120 --> 00:45:36,036
-"Você ainda tem coisas 
-para fazer."
-
-890
-00:45:38,560 --> 00:45:39,692
-Eu escrevi.
-
-891
-00:45:39,735 --> 00:45:41,650
-Eu escrevi essa nota.
-
-892
-00:45:41,694 --> 00:45:43,739
-Eu deixei para você.
-
-893
-00:45:43,783 --> 00:45:45,393
-E eu estava certo em
-
-894
-00:45:45,437 --> 00:45:49,136
-porque aquela coisa 
-que você tem que fazer,
-
-895
-00:45:49,179 --> 00:45:51,660
-você vai 
-ter que fazer isso agora.
-
-896
-00:45:51,704 --> 00:45:53,619
-E o que é isso?
-
-898
-00:45:58,711 --> 00:46:01,279
-Mate minha irmã.
-
-900
-00:46:03,585 --> 00:46:06,936
-Você não está respirando 
-porque você tem
-
-901
-00:46:06,980 --> 00:46:10,549
-algum pequeno paraíso bobo 
-que você tem que construir.
-
-902
-00:46:10,592 --> 00:46:12,159
-Voce esta respirando
-
-903
-00:46:12,202 --> 00:46:16,729
-porque você é a única 
-pessoa que resta que pode acabar com ela!
-
-904
-00:46:16,772 --> 00:46:18,208
-Ei.
-
-905
-00:46:18,252 --> 00:46:20,472
-Não 
-é disso que se trata.
-
-906
-00:46:20,515 --> 00:46:23,866
-Isto é.
-
-907
-00:46:23,910 --> 00:46:30,743
-E é a única razão pela 
-qual você ainda está aqui!
-
-910
-00:46:46,019 --> 00:46:48,978
-Alguém limpou 
-o lugar.
-
-911
-00:46:49,022 --> 00:46:52,025
-Onde diabos 
-eles estão?
-
-912
-00:46:53,592 --> 00:46:55,028
-Junho, 
-onde eles estão?
-
-913
-00:46:55,071 --> 00:46:56,464
-Não sei. 
-Não sei!
-
-914
-00:46:56,508 --> 00:46:57,987
-Você tem certeza disso?
-
-915
-00:46:58,031 --> 00:47:00,729
-Estou farto 
-de sua merda - Morgan: Virginia?
-
-916
-00:47:02,035 --> 00:47:03,558
-Morgan, 
-você está atrasado.
-
-917
-00:47:03,602 --> 00:47:04,907
-É o John.
-
-918
-00:47:04,951 --> 00:47:06,344
-Ele foi ferido. 
-Você precisa ajudá-lo.
-
-919
-00:47:06,387 --> 00:47:07,997
-Foi sua irmã. 
-Ela fez isso com ele.
-
-920
-00:47:08,041 --> 00:47:09,390
-Morgan, 
-onde ele está?
-
-921
-00:47:10,609 --> 00:47:11,914
-Cadê minha irmã
-
-922
-00:47:11,958 --> 00:47:14,003
-Ele está vindo em sua direção.
-
-923
-00:47:14,047 --> 00:47:15,091
-Ele está descendo o rio.
-
-924
-00:47:15,135 --> 00:47:16,397
-Estou tentando chegar até ele,
-
-925
-00:47:16,441 --> 00:47:19,095
-mas se eu não conseguir encontrá-lo primeiro, 
-por favor , ajude-o.
-
-926
-00:47:19,139 --> 00:47:20,358
-Então nós falamos.
-
-927
-00:47:20,401 --> 00:47:23,056
-Você ouviu Morgan. 
-Vá encontrar Ranger Dorie.
-
-929
-00:47:31,630 --> 00:47:32,718
-Nós vamos...
-
-930
-00:47:32,761 --> 00:47:34,763
-É isso.
-
-931
-00:47:34,807 --> 00:47:37,244
-Sim, é o que reconstruímos 
-até agora,
-
-932
-00:47:37,287 --> 00:47:40,378
-mas é um começo.
-
-933
-00:47:40,421 --> 00:47:42,597
-Onde está Morgan?
-
-934
-00:47:42,641 --> 00:47:44,251
-Nós nos separamos.
-
-935
-00:47:44,294 --> 00:47:46,645
-Morgan: 
-Al? Dwight? Esta ouvindo?
-
-936
-00:47:48,864 --> 00:47:50,039
-Vá para Dwight.
-
-937
-00:47:50,083 --> 00:47:52,085
-Comece a preparar 
-a parede da barragem.
-
-938
-00:47:52,128 --> 00:47:54,348
-Podemos acabar trazendo 
-essa luta com a Virgínia
-
-939
-00:47:54,392 --> 00:47:56,089
-à nossa porta.
-
-940
-00:47:56,959 --> 00:47:58,439
-Certo, Morgan.
-
-941
-00:47:58,483 --> 00:48:00,833
-E, Dwight, 
-talvez estenda a mão para Sherry.
-
-942
-00:48:00,876 --> 00:48:04,750
-Porque vamos precisar de 
-todo o poder de fogo que pudermos obter.
-
-943
-00:48:10,320 --> 00:48:12,801
-Você precisa enviar mais rangers 
-para procurá-lo.
-
-944
-00:48:12,845 --> 00:48:14,455
-Eu já tenho.
-
-945
-00:48:14,499 --> 00:48:15,978
-Radio Morgan.
-
-946
-00:48:16,022 --> 00:48:17,676
-Preciso saber o que aconteceu 
-se vou ajudar.
-
-947
-00:48:17,719 --> 00:48:18,981
+314
+00:22:13,040 --> 00:22:14,916
+Se sua morte
+não significa nada,
+
+315
+00:22:14,917 --> 00:22:17,210
+sua vida deve valer
+menos ainda.
+
+316
+00:22:17,211 --> 00:22:18,629
+E?
+
+317
+00:22:19,088 --> 00:22:20,797
+Cara...
+
+318
+00:22:20,798 --> 00:22:23,967
+Que bom que Morgan vai levá-la
+ao lugar que está construindo.
+
+319
+00:22:23,968 --> 00:22:25,885
+- Por quê?
+- Você está começando
+
+320
+00:22:25,886 --> 00:22:28,097
+a soar como sua irmã.
+Afaste-se.
+
+321
+00:22:30,891 --> 00:22:32,351
+Alguém em casa?
+
+322
+00:22:41,277 --> 00:22:42,903
+Certo.
+
+323
+00:22:44,071 --> 00:22:46,198
+Nada aí dentro
+ajudará com o veículo.
+
+324
+00:22:47,199 --> 00:22:49,201
+Não viemos aqui
+por esse motivo.
+
+325
+00:22:50,286 --> 00:22:52,996
+Por que precisa de uma porta
+se virá conosco?
+
+326
+00:22:52,997 --> 00:22:55,583
+Porque ele não virá
+com a gente.
+
+327
+00:22:56,458 --> 00:22:58,209
+Não é mesmo, John?
+
+328
+00:22:58,210 --> 00:22:59,510
+O que está fazendo aqui?
+
+329
+00:23:02,172 --> 00:23:03,841
+Achei isto.
+
+330
+00:23:06,093 --> 00:23:08,428
+Dá para escrever
+poucas palavras com isso.
+
+331
+00:23:08,429 --> 00:23:11,473
+- Não são para você.
+- Sei para quem são.
+
+332
+00:23:14,351 --> 00:23:15,651
+Olha...
+
+333
+00:23:16,604 --> 00:23:19,801
+Eu ia te contar.
+Após limparmos a ponte.
+
+334
+00:23:19,802 --> 00:23:21,649
+Irei ajudar vocês
+a atravessar,
+
+335
+00:23:21,650 --> 00:23:23,484
+mas depois voltarei para cá.
+
+336
+00:23:23,485 --> 00:23:25,612
+Por causa do que teve
+que fazer ao Marcus?
+
+337
+00:23:25,613 --> 00:23:28,406
+Não foi por ter precisado
+matá-lo.
+
+338
+00:23:28,407 --> 00:23:30,910
+Mas porque
+não o matei antes.
+
+339
+00:23:31,535 --> 00:23:33,037
 Droga!
 
-948
-00:48:23,290 --> 00:48:24,770
-Hill, o que está acontecendo 
-lá?
+340
+00:23:35,122 --> 00:23:36,874
+Não sei o motivo...
 
-951
-00:48:30,863 --> 00:48:34,475
-João!
+341
+00:23:39,960 --> 00:23:42,004
+Mas não fui feito
+para viver nesse mundo.
 
-958
-00:50:46,041 --> 00:50:48,609
-Para que você precisa de uma porta 
-se vier conosco?
+342
+00:23:42,838 --> 00:23:46,049
+Se eu tivesse ficado de fora
+quando Cameron foi morto,
 
-959
-00:50:48,653 --> 00:50:51,917
-Morgan: Porque ele <i>não 
-vem conosco.</i>
-
-960
-00:50:51,960 --> 00:50:53,266
-E você, John?
-
-961
-00:50:53,309 --> 00:50:54,789
-Goldberg: Esse episódio 
-se chama "The Door".
-
-962
-00:50:54,833 --> 00:50:57,400
-O título tem alguns 
-significados diferentes,
-
-963
-00:50:57,444 --> 00:50:59,620
-como vemos à 
-medida que o episódio continua.
-
-964
-00:50:59,664 --> 00:51:01,361
-Vemos que a própria porta
-
-965
-00:51:01,404 --> 00:51:04,799
-é algo que está faltando 
-na cabana de John,
-
-966
-00:51:04,843 --> 00:51:07,019
-e é o 
-que ele está tentando encontrar
-
-967
-00:51:07,062 --> 00:51:10,239
-para se isolar 
-do mundo e das pessoas,
-
-968
-00:51:10,283 --> 00:51:13,982
-mas também porque está planejando 
-acabar com a própria vida.
-
-970
-00:51:15,897 --> 00:51:17,464
-O outro significado de "A Porta"
-
-971
-00:51:17,507 --> 00:51:19,727
-é que, você sabe, 
-meio que ironicamente,
-
-972
-00:51:19,771 --> 00:51:22,251
-ele encontra propósito 
-e conexão renovados
-
-973
-00:51:22,295 --> 00:51:24,776
-e se abre para as pessoas 
-com a pessoa
-
-974
-00:51:24,819 --> 00:51:27,474
-quem talvez ele seja mais próximo 
-no mundo,
-
-975
-00:51:27,517 --> 00:51:29,215
-quem é Morgan Jones.
-
-976
-00:51:29,258 --> 00:51:30,651
-Acho 
-que podemos fazer isso, John.
-
-977
-00:51:30,695 --> 00:51:33,219
-Acho que não vai ser 
-do jeito que queremos,
-
-978
-00:51:33,262 --> 00:51:35,177
-mas podemos acabar com isso.
-
-979
-00:51:35,221 --> 00:51:38,006
-Eu - eu não estou certo.
-
-980
-00:51:38,050 --> 00:51:39,486
-Eu simplesmente não sou.
-
-981
-00:51:39,529 --> 00:51:42,663
-Este é o lugar mais escuro 
-que já vimos John Dorie,
-
-982
-00:51:42,707 --> 00:51:46,188
-e John está realmente em um lugar 
-onde ele está se punindo,
-
-983
-00:51:46,232 --> 00:51:48,408
-onde ele se sente indigno 
-de estar vivo.
-
-986
-00:51:52,194 --> 00:51:53,413
-Eu sinto Muito.
-
-987
-00:51:53,456 --> 00:51:55,241
-Goldberg: 
-O que vemos nesta cena
-
-988
-00:51:55,284 --> 00:51:58,374
-é que toda vez que ele cria 
-coragem para puxar o gatilho,
-
-989
-00:51:58,418 --> 00:52:00,855
-caminhantes continuam interrompendo-o.
-
-990
-00:52:00,899 --> 00:52:04,859
-John não quer que os caminhantes 
-o destruam.
-
-992
-00:52:06,121 --> 00:52:08,471
-E então ele vai à procura 
-de uma porta
-
-993
-00:52:08,515 --> 00:52:10,430
-para que ele possa essencialmente 
-se matar
-
-994
-00:52:10,473 --> 00:52:12,345
-e que seja o fim de tudo.
-
-995
-00:52:12,388 --> 00:52:14,695
-É bom 
-ver você, John.
-
-996
-00:52:14,739 --> 00:52:16,479
-Eu sinto 
-que estou olhando para um fantasma.
-
-997
-00:52:16,523 --> 00:52:18,046
-Oh, você é!
-
-998
-00:52:18,090 --> 00:52:20,135
-Goldberg: Acho que há 
-alguns significados nisso.
-
-999
-00:52:20,179 --> 00:52:24,096
-Esse é o significado literal de, 
-ele não tinha ideia de que Morgan estava vivo
-
-1000
-00:52:24,139 --> 00:52:27,055
-depois do que aconteceu no final 
-da quinta temporada no Gulch.
-
-1001
-00:52:27,099 --> 00:52:28,927
-Mas então há 
-outro aspecto,
-
-1002
-00:52:28,970 --> 00:52:31,843
-onde Morgan é 
-uma pessoa completamente mudada.
-
-1003
-00:52:31,886 --> 00:52:33,322
-Ele se reinventou.
-
-1004
-00:52:33,366 --> 00:52:36,108
-Não fui feito para viver 
-neste mundo.
-
-1005
-00:52:36,151 --> 00:52:37,849
-Se eu tivesse mantido 
-meu nariz fora disso
-
-1006
-00:52:37,892 --> 00:52:40,895
-quando Cameron foi morto, 
+343
+00:23:46,050 --> 00:23:47,593
 Janis ainda estaria viva.
 
-1007
-00:52:40,939 --> 00:52:44,507
-Goldberg: Porque John Dorie 
-tem essa humanidade nele,
+344
+00:23:48,093 --> 00:23:50,386
+Se eu tivesse atirado no Marcus
+quando pude,
 
-1008
-00:52:44,551 --> 00:52:47,510
-ele vê isso como uma fraqueza 
-porque sente que
+345
+00:23:50,387 --> 00:23:53,640
+- você não teria quase morrido.
+- Esconder-se não é a resposta.
 
-1009
-00:52:47,554 --> 00:52:49,599
-mesmo quando ele está tentando 
-ajudar as pessoas,
+346
+00:23:53,641 --> 00:23:55,601
+É a melhor
+que consigo pensar.
 
-1010
-00:52:49,643 --> 00:52:51,558
-eles se machucam, o 
-que é a mesma coisa
+347
+00:23:56,936 --> 00:23:59,604
+Você foi procurar uma porta
+para se isolar do mundo
 
-1011
-00:52:51,601 --> 00:52:54,517
-que ele sentia sobre o 
-que aconteceu com Janis.
+348
+00:23:59,605 --> 00:24:02,857
+e nos encontrou.
+Isso não te indica nada?
 
-1012
-00:52:54,561 --> 00:52:56,258
-Esta loja não é para 
-manter as pessoas afastadas.
+349
+00:24:02,858 --> 00:24:05,193
+Parece aquele cara
+que andou metade do país
 
-1013
-00:52:56,302 --> 00:52:58,652
-O que diabos é isso, então?
+350
+00:24:05,194 --> 00:24:07,403
+para fugir das pessoas
+que mais se importa,
 
-1014
-00:52:58,696 --> 00:53:01,307
-É para evitar que o passado 
-me atinja
+351
+00:24:07,404 --> 00:24:10,115
+e acabou sentado
+frente à sua fogueira.
 
-1015
-00:53:01,350 --> 00:53:03,135
-depois de fazer 
-o que preciso fazer.
+352
+00:24:11,283 --> 00:24:12,992
+E por ter encontrado você,
 
-1016
-00:53:03,178 --> 00:53:05,746
-Eu só quero que isso acabe, 
+353
+00:24:12,993 --> 00:24:16,080
+encontrei as pessoas
+que considero família agora.
+
+354
+00:24:16,580 --> 00:24:19,248
+Encontrei a Grace.
+E isso não teria acontecido
+
+355
+00:24:19,249 --> 00:24:22,502
+se não insistisse para eu dormir
+no seu carro aquela noite.
+
+356
+00:24:22,503 --> 00:24:24,545
+Você me deu essa família,
+cara.
+
+357
+00:24:24,546 --> 00:24:26,423
+Precisa me ajudar
+a recuperá-los.
+
+358
+00:24:29,385 --> 00:24:32,096
+A melhor forma que vejo
+de fazer isso...
+
+359
+00:24:32,596 --> 00:24:34,807
+É fazendo vocês
+atravessarem a ponte
+
+360
+00:24:35,891 --> 00:24:37,350
+e eu saindo do seu caminho.
+
+361
+00:24:37,351 --> 00:24:39,352
+Essa porta
+não vai nos afastar.
+
+362
+00:24:39,353 --> 00:24:41,271
+Nem eu, nem a June.
+
+363
+00:24:41,855 --> 00:24:43,690
+A porta não é
+para afastar pessoas.
+
+364
+00:24:43,691 --> 00:24:45,317
+Para que é, então?
+
+365
+00:24:46,110 --> 00:24:48,569
+É para impedir
+que os finados me alcancem
+
+366
+00:24:48,570 --> 00:24:50,364
+depois que eu fizer
+o que preciso.
+
+367
+00:24:53,617 --> 00:24:55,744
+Só quero que isso acabe,
 Morgan.
 
-1017
-00:53:05,790 --> 00:53:09,924
-John começa em um lugar onde 
-ele não vê uma razão para viver,
-
-1018
-00:53:09,968 --> 00:53:12,971
-e Morgan diz a ele: "Você 
-vai descobrir esse motivo."
-
-1019
-00:53:13,014 --> 00:53:15,756
-E ele acaba encontrando 
-em último lugar
-
-1020
-00:53:15,800 --> 00:53:19,151
-e a última pessoa que ele esperava, 
-e é com Dakota.
-
-1023
-00:53:23,198 --> 00:53:25,157
-Tudo bem. Eu entendi.
-
-1024
-00:53:25,200 --> 00:53:27,507
-Claro, é um grande choque 
-e um soco no estômago para ele
-
-1025
-00:53:27,550 --> 00:53:29,596
-quando ele percebe: "Oh, meu Deus.
-
-1026
-00:53:29,639 --> 00:53:31,206
-Você é 
-quem matou Cameron. "
-
-1027
-00:53:31,250 --> 00:53:34,340
-Mas, por outro lado, ele vê 
-isso como uma oportunidade real.
-
-1028
-00:53:34,383 --> 00:53:37,386
-Aqui está alguém que precisa de ajuda, 
-que ele acredita que pode ajudar.
-
-1029
-00:53:37,430 --> 00:53:39,301
-Nós o vimos estabelecer 
-uma conexão com ela
-
-1030
-00:53:39,345 --> 00:53:41,129
-ao longo do episódio,
-
-1031
-00:53:41,173 --> 00:53:43,523
-e ele finalmente encontrou 
-essa razão para viver,
-
-1032
-00:53:43,566 --> 00:53:45,743
-esse motivo para abrir a porta ...
-
-1033
-00:53:45,786 --> 00:53:47,396
-Não posso deixar você 
-estragar isso para mim.
-
-1034
-00:53:47,440 --> 00:53:49,355
-Tudo bem. Escute-me.
-
-1035
-00:53:49,398 --> 00:53:50,748
-Eu não posso deixar você 
-contar às pessoas.
-
-1036
-00:53:50,791 --> 00:53:52,967
-... que assim que 
-ele abriu a porta,
-
-1037
-00:53:53,011 --> 00:53:55,100
-Dakota não está pronto 
-para passar por isso com ele.
-
-1038
-00:53:55,143 --> 00:53:56,797
-Por causa de quem ela é
-
-1039
-00:53:56,841 --> 00:53:59,147
-e por causa de quais 
-são as circunstâncias,
-
-1040
-00:53:59,191 --> 00:54:00,583
-John paga por isso com sua vida.
-
-1041
-00:54:00,627 --> 00:54:01,889
-Você não quer atirar em mim.
-
-1042
-00:54:01,933 --> 00:54:04,022
-Você não quer fazer isso consigo 
-mesmo.
-
-1043
-00:54:04,065 --> 00:54:06,807
-V-você não quer viver com 
-isso. Não é isso que <i>eu</i> quero.
-
-1045
-00:54:08,853 --> 00:54:10,898
-Foi emocionalmente devastador 
-para nós
-
-1046
-00:54:10,942 --> 00:54:13,248
-em todas as fases do processo.
-
-1047
-00:54:13,292 --> 00:54:15,250
-Amamos muito esse personagem.
-
-1048
-00:54:15,294 --> 00:54:18,427
-Amamos como Garret o trouxe 
-à vida, você sabe,
-
-1049
-00:54:18,471 --> 00:54:20,560
-apenas também tematicamente 
-e emocionalmente.
-
-1050
-00:54:20,603 --> 00:54:23,128
-Alguém que realmente 
-se colocou lá fora
-
-1051
-00:54:23,171 --> 00:54:24,825
-e poderia ter ajudado Dakota,
-
-1052
-00:54:24,869 --> 00:54:26,871
-e simplesmente não deu certo.
-
-1054
-00:54:30,178 --> 00:54:32,833
-Um dos outros aspectos 
-deste episódio
-
-1055
-00:54:32,877 --> 00:54:34,835
-isso é tão importante 
-para entender John
-
-1056
-00:54:34,879 --> 00:54:37,011
-é seu relacionamento 
-com seu pai.
-
-1057
-00:54:37,055 --> 00:54:39,318
-Não é tão tarde.
-
-1058
-00:54:39,361 --> 00:54:40,754
-O que é isso?
-
-1059
-00:54:40,798 --> 00:54:44,366
-Ah, apenas algo que 
-meu pai costumava dizer.
-
-1060
-00:54:44,410 --> 00:54:47,369
-Ainda não é tarde 
-para aprender alguma coisa ...
-
-1062
-00:54:50,242 --> 00:54:53,245
-... para fazer a coisa certa, 
-consertar um erro.
-
-1063
-00:54:53,288 --> 00:54:55,856
-Queríamos que essa cena 
-na água tratasse,
-
-1064
-00:54:55,900 --> 00:54:58,032
-ele olha aquela foto 
-do pai dele
-
-1065
-00:54:58,076 --> 00:54:59,947
-e ele está se lembrando 
-dessas palavras.
-
-1066
-00:54:59,991 --> 00:55:01,383
-"Não é tão tarde."
-
-1067
-00:55:01,427 --> 00:55:03,211
-Ele realmente quer viver.
-
-1068
-00:55:03,255 --> 00:55:06,432
-É o oposto do homem 
-que estava sentado à mesa
-
-1069
-00:55:06,475 --> 00:55:08,869
-carregando a arma para se matar 
-no começo.
-
-1070
-00:55:08,913 --> 00:55:11,872
-Agora ele está lutando 
-por cada respiração que tem.
-
-1071
-00:55:11,916 --> 00:55:13,787
-João!
-
-1074
-00:55:19,706 --> 00:55:23,188
-Sempre pensamos que era 
-tragicamente poético naquele mês de junho,
-
-1075
-00:55:23,231 --> 00:55:26,974
-que apareceu na costa do 
-lado de fora da cabana de John
-
-1076
-00:55:27,018 --> 00:55:28,715
-e o trouxe de volta para as pessoas,
-
-1077
-00:55:28,758 --> 00:55:31,544
-está agora na posição 
-em que vê John sendo derrotado
-
-1078
-00:55:31,587 --> 00:55:34,025
-na mesma praia 
-onde ele a resgatou ...
-
-1079
-00:55:34,068 --> 00:55:36,897
-e ele morreu 
-e se tornou um caminhante.
-
-1080
-00:55:36,941 --> 00:55:41,293
-Parecia a 
-circularidade certa para essa história.
-
-1082
-00:55:44,905 --> 00:55:47,038
-À medida que avançamos 
-na sexta temporada,
-
-1083
-00:55:47,081 --> 00:55:49,997
-veremos que isso 
-tem implicações profundas
-
-1084
-00:55:50,041 --> 00:55:51,607
-para junho como personagem.
-
-1085
-00:55:51,651 --> 00:55:53,261
-É muito importante em termos
-
-1086
-00:55:53,305 --> 00:55:55,481
-de onde iremos 
-pelo resto da temporada.
-
-1087
-00:55:55,524 --> 00:55:58,005
-Isso é obviamente 
-uma virada de jogo para junho.
-
-00:56:00,000 --> 00:56:05,000
-Tradução: [SubtitleTools.com]
-Correcção e Sincronização: leandro-brandao96
-
-00:56:06,000 --> 00:56:11,000
-Lista IPTV:
-leandro-brandao96_Playlist_Public
-
-00:56:12,000 --> 00:56:17,000
-https://github.com/leandro-brandao96/leandro-brandao96_Playlist/blob/main/leandro-brandao96_Playlist_Public.m3u
+368
+00:25:24,481 --> 00:25:27,484
+- Consegui ligar a caminhonete.
+- Que bom.
+
+369
+00:25:37,786 --> 00:25:39,704
+Não faz muito tempo
+em que estive
+
+370
+00:25:39,705 --> 00:25:42,082
+na mesma posição
+em que você está, John.
+
+371
+00:25:46,920 --> 00:25:49,465
+Toda vez
+que estou criando coragem,
+
+372
+00:25:50,799 --> 00:25:53,426
+um finado aparece
+e a rouba de mim.
+
+373
+00:25:53,427 --> 00:25:55,637
+Porque não é sua hora.
+
+374
+00:25:56,430 --> 00:25:59,433
+Seu final
+não deve ser assim.
+
+375
+00:26:00,309 --> 00:26:01,727
+Aqui.
+
+376
+00:26:04,229 --> 00:26:05,856
+Da noite no Gulch...
+
+377
+00:26:08,442 --> 00:26:11,402
+Quem me salvou
+deixou isso para mim.
+
+378
+00:26:11,403 --> 00:26:14,530
+VOCÊ AINDA TEM COISAS A FAZER
+- Fez-me enxergar minha luta.
+
+379
+00:26:14,531 --> 00:26:16,532
+- O lugar que está construindo?
+- Sim.
+
+380
+00:26:16,533 --> 00:26:19,368
+E não teria significado
+se não fosse todos nós.
+
+381
+00:26:19,369 --> 00:26:22,581
+Mas se eu fosse
+levar todos para lá...
+
+382
+00:26:27,544 --> 00:26:29,463
+Eu tinha que mudar algo.
+
+383
+00:26:31,006 --> 00:26:33,050
+Ou eu perderia...
+
+384
+00:26:34,551 --> 00:26:36,178
+Bem, todos vocês.
+
+385
+00:26:36,887 --> 00:26:39,514
+- Sabe que não é igual seu pai?
+- Sei disso.
+
+386
+00:26:39,515 --> 00:26:42,225
+E não precisa cometer
+os mesmos erros dele.
+
+387
+00:26:42,226 --> 00:26:44,186
+Pode vir com a gente.
+
+388
+00:26:45,896 --> 00:26:48,232
+Encontrei minha forma
+de seguir em frente.
+
+389
+00:26:49,149 --> 00:26:51,151
+Creio que pode
+encontrar a sua também.
+
+390
+00:26:54,863 --> 00:26:56,448
+Eu não contaria com isso.
+
+391
+00:26:59,199 --> 00:27:00,618
+Melhor irmos lá.
+
+392
+00:27:00,619 --> 00:27:02,788
+Os finados devem estar
+todos na ponte.
+
+393
+00:27:07,626 --> 00:27:09,962
+Aliás,
+talvez precisemos das portas.
+
+394
+00:27:22,933 --> 00:27:24,517
+Tudo bem.
+
+395
+00:27:24,518 --> 00:27:26,561
+Vamos limpar os finados
+lá de cima.
+
+396
+00:27:26,562 --> 00:27:28,437
+Não deixe que fiquem presos
+nas rodas.
+
+397
+00:27:28,438 --> 00:27:30,315
+Você vai nos atravessar.
+
+398
+00:27:30,816 --> 00:27:33,234
+Meu pai me deixava dirigir
+o carro dele
+
+399
+00:27:33,235 --> 00:27:35,696
+no estacionamento da igreja
+aos domingos à tarde.
+
+400
+00:27:37,030 --> 00:27:41,033
+- Não tinha essa plateia.
+- Tudo bem. Vou te ajudar.
+
+401
+00:27:41,034 --> 00:27:43,245
+Pegue.
+No caso das coisas ficarem feia.
+
+402
+00:28:09,146 --> 00:28:10,606
+Pronto?
+
+403
+00:28:11,940 --> 00:28:13,275
+Pronto.
+
+404
+00:28:18,780 --> 00:28:20,080
+Suba.
+
+405
+00:28:25,746 --> 00:28:27,164
+Agora!
+
+406
+00:28:36,131 --> 00:28:37,716
+Muito bem.
+
+407
+00:28:41,094 --> 00:28:42,888
+Devagar, devagar.
+
+408
+00:28:51,772 --> 00:28:53,072
+Lá vem eles.
+
+409
+00:29:08,705 --> 00:29:10,457
+Continue!
+
+410
+00:29:24,179 --> 00:29:25,973
+Passe à segunda!
+
+411
+00:29:27,224 --> 00:29:29,225
+Olha, desculpe.
+
+412
+00:29:29,226 --> 00:29:32,187
+Finja que está
+domingo na igreja.
+
+413
+00:29:32,521 --> 00:29:33,855
+Você consegue.
+
+414
+00:29:38,860 --> 00:29:41,112
+- Você está bem?
+- Estou.
+
+415
+00:29:41,113 --> 00:29:42,572
+Sim, estou bem.
+
+416
+00:29:51,957 --> 00:29:53,917
+Pessoal,
+o que está acontecendo?
+
+417
+00:30:00,841 --> 00:30:03,467
+Tudo bem.
+Coloque na primeira.
+
+418
+00:30:03,468 --> 00:30:04,885
+Depois acelere fundo.
+
+419
+00:30:04,886 --> 00:30:06,471
+Vai fazê-lo sair.
+
+420
+00:30:31,872 --> 00:30:33,415
+Pise fundo.
+
+421
+00:30:46,219 --> 00:30:48,555
+Tem algo de errado
+com o motor!
+
+422
+00:30:48,930 --> 00:30:50,598
+O alternador.
+
+423
+00:30:50,599 --> 00:30:53,393
+- Eu vou lá.
+- Não no seu estado.
+
+424
+00:30:53,935 --> 00:30:55,437
+Não está num bom estado.
+
+425
+00:31:09,701 --> 00:31:11,787
+Eu aviso quando for a hora.
+
+426
+00:31:26,134 --> 00:31:27,719
+Cai fora!
+
+427
+00:31:32,891 --> 00:31:35,268
+John! Vá para trás!
+
+428
+00:31:43,402 --> 00:31:44,820
+Belo tiro.
+
+429
+00:31:49,157 --> 00:31:50,457
+Beleza.
+
+430
+00:31:53,370 --> 00:31:55,080
+Tente agora.
+
+431
+00:32:11,513 --> 00:32:13,098
+Abaixe-se!
+
+432
+00:32:19,896 --> 00:32:21,898
+John, segure firme!
+
+433
+00:32:55,140 --> 00:32:56,766
+Pelo amor de Deus, John.
+
+434
+00:32:58,727 --> 00:33:00,228
+Isso foi terrível.
+
+435
+00:33:03,899 --> 00:33:05,525
+Foi mesmo.
+
+436
+00:33:19,748 --> 00:33:22,708
+Encontrei algo
+enquanto arrumava o carro.
+
+437
+00:33:22,709 --> 00:33:24,085
+Você pode querer.
+
+438
+00:33:26,630 --> 00:33:29,548
+É você, não é?
+E o seu pai?
+
+439
+00:33:29,549 --> 00:33:30,884
+Sabe...
+
+440
+00:33:36,348 --> 00:33:37,849
+Eu passei...
+
+441
+00:33:38,433 --> 00:33:40,809
+Muito tempo da minha vida,
+mais do que gostaria,
+
+442
+00:33:40,810 --> 00:33:44,689
+perguntando-me o motivo
+de ele não ir naquele verão.
+
+443
+00:33:45,941 --> 00:33:48,151
+Agora acho que estou começando
+a entender.
+
+444
+00:33:51,696 --> 00:33:53,823
+Não vou com você, Morgan.
+
+445
+00:33:54,699 --> 00:33:57,743
+Sabe que está preso.
+Repetindo erros de antes,
+
+446
+00:33:57,744 --> 00:33:59,621
+os mesmos erros
+que ele cometeu.
+
+447
+00:34:00,163 --> 00:34:02,999
+É como se fosse um ciclo.
+
+448
+00:34:06,211 --> 00:34:07,670
+O que está fazendo?
+
+449
+00:34:07,671 --> 00:34:10,673
+Virginia, pode me ouvir?
+
+450
+00:34:10,674 --> 00:34:12,675
+Repito, Virginia,
+pode me ouvir?
+
+451
+00:34:12,676 --> 00:34:14,385
+Qual seu plano, Morgan?
+
+452
+00:34:14,386 --> 00:34:16,720
+<i>Ouvi, Morgan.
+Pronto para conversar?</i>
+
+453
+00:34:16,721 --> 00:34:20,684
+Sim, estou, não dessa forma.
+Quero um encontro pessoalmente.
+
+454
+00:34:24,813 --> 00:34:28,315
+- Tem uma loja na rota 185.
+- Não! Morgan!
+
+455
+00:34:28,316 --> 00:34:30,192
+Chamada Bill's.
+Um pouco rio abaixo...
+
+456
+00:34:30,193 --> 00:34:31,861
+Solte-me.
+
+457
+00:34:32,445 --> 00:34:34,154
+Tem uma cabana.
+
+458
+00:34:34,155 --> 00:34:36,365
+<i>Deixe-me adivinhar.
+É do patrulheiro Dorie?</i>
+
+459
+00:34:36,366 --> 00:34:39,452
+<i>Marcus me falou do péssimo
+gosto dele para filmes.</i>
+
+460
+00:34:40,912 --> 00:34:43,247
+Estarei te esperando lá.
+
+461
+00:34:43,248 --> 00:34:45,292
+<i>Veremos-nos em breve,
+Morgan.</i>
+
+462
+00:34:49,379 --> 00:34:51,213
+Agora não pode voltar.
+
+463
+00:34:51,214 --> 00:34:54,340
+Morgan, não tinha o direito!
+
+464
+00:34:54,341 --> 00:34:56,677
+- Não era sua decisão!
+- Assim como não era sua
+
+465
+00:34:56,678 --> 00:34:59,221
+seguir-me naquela estrada
+quando eu estava ferido
+
+466
+00:34:59,222 --> 00:35:01,182
+mas você o fez mesmo assim.
+
+467
+00:35:02,142 --> 00:35:05,103
+E estou vivo agora
+por causa do que você fez.
+
+468
+00:35:08,565 --> 00:35:10,983
+Droga, John, pode me odiar,
+
+469
+00:35:10,984 --> 00:35:12,985
+mas não vou ficar
+de braços cruzados
+
+470
+00:35:12,986 --> 00:35:16,197
+e deixar meu melhor amigo
+se matar.
+
+471
+00:35:35,425 --> 00:35:37,719
+Vou tentar
+conseguir um sinal.
+
+472
+00:35:38,303 --> 00:35:40,305
+Descobrir onde Virginia está.
+
+473
+00:35:42,474 --> 00:35:46,186
+Não quero cruzar com ela
+saindo daqui.
+
+474
+00:35:50,398 --> 00:35:52,651
+Uma hora vai ter
+que falar com ele.
+
+475
+00:35:55,362 --> 00:35:58,822
+Parece que caiu
+o grampo que segurava o fio.
+
+476
+00:35:58,823 --> 00:36:00,742
+Deve ser por isso que parou.
+
+477
+00:36:01,201 --> 00:36:04,161
+Vamos ter que consertar
+antes de partirem.
+
+478
+00:36:04,162 --> 00:36:08,083
+É um grampinho vermelho.
+Vá por ali. Eu vou por aqui.
+
+479
+00:36:23,848 --> 00:36:26,517
+- Obrigada.
+- Eu que agradeço.
+
+480
+00:36:26,518 --> 00:36:28,185
+Pelo que está agradecendo?
+
+481
+00:36:28,186 --> 00:36:30,146
+Por me deixar dirigir.
+
+482
+00:36:31,606 --> 00:36:33,066
+Por me confiar isso.
+
+483
+00:36:33,692 --> 00:36:35,526
+Por não me fazer parecer
+
+484
+00:36:35,527 --> 00:36:38,279
+que eu precisava ficar
+dentro de Lawton o tempo todo.
+
+485
+00:36:41,366 --> 00:36:43,076
+Deveria vir conosco.
+
+486
+00:36:44,035 --> 00:36:46,496
+Não seria uma boa ideia.
+
+487
+00:36:47,247 --> 00:36:48,915
+Eu acho que seria.
+
+488
+00:36:49,749 --> 00:36:51,626
+Gosto muito
+de ficar perto de você.
+
+489
+00:36:52,836 --> 00:36:55,672
+- Pois bem...
+- Não pode voltar à cabana.
+
+490
+00:36:56,047 --> 00:36:57,549
+Claro que posso.
+
+491
+00:36:58,133 --> 00:36:59,633
+Minha irmã logo chegará lá.
+
+492
+00:36:59,634 --> 00:37:03,096
+Se o Morgan a levar
+aonde ele está construindo,
+
+493
+00:37:03,972 --> 00:37:06,599
+a coisa vai ficar feia
+bem rápido.
+
+494
+00:37:08,393 --> 00:37:10,687
+Pessoas que gostamos
+podem acabar morrendo.
+
+495
+00:37:11,020 --> 00:37:13,981
+Se eu esperar por ela,
+posso acabar com isso.
+
+496
+00:37:13,982 --> 00:37:15,399
+Não consegue isso sozinho.
+
+497
+00:37:15,400 --> 00:37:18,695
+- Ela não estará me esperando.
+- Ela estará, sim.
+
+498
+00:37:19,404 --> 00:37:20,905
+Ela já está.
+
+499
+00:37:21,239 --> 00:37:23,450
+Ela vai estar
+com patrulheiros.
+
+500
+00:37:23,950 --> 00:37:27,536
+Mesmo que você pegue ela,
+eles vão matar você.
+
+501
+00:37:27,537 --> 00:37:30,915
+Então minha morte
+terá algum valor.
+
+502
+00:37:33,251 --> 00:37:34,627
+Assim como deve ser.
+
+503
+00:37:38,798 --> 00:37:40,842
+John, encontrei.
+
+504
+00:37:43,803 --> 00:37:45,103
+Dakota!
+
+505
+00:37:49,768 --> 00:37:52,061
+Tudo bem.
+Eu matei.
+
+506
+00:37:53,521 --> 00:37:55,606
+- O que é isso?
+- Deixa comigo.
+
+507
+00:37:55,607 --> 00:37:57,317
+O que está escondendo?
+
+508
+00:38:04,699 --> 00:38:06,117
+Onde conseguiu isso?
+
+509
+00:38:08,119 --> 00:38:11,079
+- Onde conseguiu isso?
+- Não é o que parece. Eu achei.
+
+510
+00:38:11,080 --> 00:38:13,082
+Não minta para mim.
+
+511
+00:38:17,545 --> 00:38:19,463
+Meu Deus.
+
+512
+00:38:19,464 --> 00:38:22,007
+Você matou Cameron, não foi?
+
+513
+00:38:22,008 --> 00:38:24,093
+Virginia estava
+encobrindo você.
+
+514
+00:38:27,639 --> 00:38:30,350
+Eu não sabia
+que ela ia matar Janis.
+
+515
+00:38:33,311 --> 00:38:35,479
+Por que me pressionou
+para investigar?
+
+516
+00:38:35,480 --> 00:38:38,274
+Eu sabia que Ginny não deixaria
+que me descobrissem.
+
+517
+00:38:38,608 --> 00:38:40,901
+E pensei que se parecesse
+
+518
+00:38:40,902 --> 00:38:43,987
+que ela estava escondendo algo,
+ou tentando proteger alguém,
+
+519
+00:38:43,988 --> 00:38:45,988
+que as pessoas
+começariam a duvidar dela.
+
+520
+00:38:46,324 --> 00:38:47,742
+Para que o matou?
+
+521
+00:38:49,619 --> 00:38:51,578
+- Para que o matou?
+- Ele descobriu
+
+522
+00:38:51,579 --> 00:38:54,081
+como eu saía
+e entrava em Lawton,
+
+523
+00:38:54,082 --> 00:38:55,458
+e contou à Ginny.
+
+524
+00:38:56,417 --> 00:38:58,585
+Ele tirou
+a única forma que eu tinha
+
+525
+00:38:58,586 --> 00:38:59,920
+de sair da cidade.
+
+526
+00:38:59,921 --> 00:39:02,881
+E achou que ele merecia
+morrer por isso?
+
+527
+00:39:02,882 --> 00:39:04,259
+Foi o que pensou?
+
+528
+00:39:06,094 --> 00:39:07,554
+Não é diferente.
+
+529
+00:39:07,887 --> 00:39:10,138
+Não é diferente
+do que todos fazem
+
+530
+00:39:10,139 --> 00:39:11,850
+para conseguir o que querem!
+
+531
+00:39:12,350 --> 00:39:14,643
+É o que minha irmã faz.
+
+532
+00:39:14,644 --> 00:39:16,563
+É o que os patrulheiros
+fazem.
+
+533
+00:39:17,689 --> 00:39:20,524
+- Você não entende.
+- Não entendo mesmo.
+
+534
+00:39:20,525 --> 00:39:23,236
+Você não entende.
+É só como as coisas são.
+
+535
+00:39:25,488 --> 00:39:27,073
+Não posso.
+
+536
+00:39:27,699 --> 00:39:29,033
+Não posso.
+
+537
+00:39:29,701 --> 00:39:33,036
+- Não vou deixar que me ferre.
+- Tudo bem. Ouça-me.
+
+538
+00:39:33,037 --> 00:39:35,372
+- Não vou deixar que conte.
+- Ouça, Dakota.
+
+539
+00:39:35,373 --> 00:39:38,709
+Não vou contar a ninguém.
+Calma.
+
+540
+00:39:38,710 --> 00:39:41,087
+Veja só.
+Tudo bem?
+
+541
+00:39:42,130 --> 00:39:45,008
+Não vou te machucar.
+Veja só.
+
+542
+00:39:46,801 --> 00:39:48,101
+Tudo bem?
+
+543
+00:39:48,887 --> 00:39:50,305
+Está mentindo.
+
+544
+00:39:51,973 --> 00:39:53,850
+Sei que passou
+por muita coisa.
+
+545
+00:39:54,434 --> 00:39:56,728
+Entendo você
+não acreditar em mim.
+
+546
+00:39:58,396 --> 00:40:00,773
+Dê-me uma chance de mostrar.
+
+547
+00:40:01,858 --> 00:40:03,692
+- Por quê?
+- Podemos resolver isso.
+
+548
+00:40:03,693 --> 00:40:05,278
+Posso te ajudar.
+
+549
+00:40:05,862 --> 00:40:08,281
+Morgan disse que preciso
+de um motivo para viver.
+
+550
+00:40:09,032 --> 00:40:11,199
+Para continuar.
+Talvez seja você.
+
+551
+00:40:11,200 --> 00:40:15,037
+Isso teria significado, não é?
+Então abaixe a arma.
+
+552
+00:40:15,038 --> 00:40:17,623
+Não quer atirar em mim,
+fazer isso a si mesma.
+
+553
+00:40:17,624 --> 00:40:21,419
+Não vai querer viver com isso.
+Não é o que quero.
+
+554
+00:40:36,100 --> 00:40:37,560
+Sinto muito.
+
+555
+00:40:42,899 --> 00:40:45,902
+Nem sempre precisa
+significar algo, John.
+
+556
+00:43:02,497 --> 00:43:04,165
+Não é tarde demais.
+
+557
+00:43:17,011 --> 00:43:18,387
+Dakota?
+
+558
+00:43:22,308 --> 00:43:23,851
+O que você fez?
+
+559
+00:43:26,604 --> 00:43:28,689
+Eu não queria fazer isso.
+
+560
+00:43:30,817 --> 00:43:32,860
+Mas precisei fazer.
+
+561
+00:43:33,778 --> 00:43:35,238
+Onde está o John?
+
+562
+00:43:36,906 --> 00:43:39,117
+Onde ele está?
+
+563
+00:43:42,245 --> 00:43:43,995
+Descendo o rio,
+
+564
+00:43:43,996 --> 00:43:46,582
+com o peito baleado.
+
+565
+00:43:56,259 --> 00:43:58,051
+A faca era sua.
+
+566
+00:43:58,052 --> 00:43:59,846
+Você matou
+aquele patrulheiro.
+
+567
+00:44:11,065 --> 00:44:14,025
+Vai me levar ao lugar
+que está construindo.
+
+568
+00:44:14,026 --> 00:44:18,072
+Vai me deixar fazer parte disso
+como você era antes.
+
+569
+00:44:24,871 --> 00:44:26,371
+Não vai me machucar.
+
+570
+00:44:26,372 --> 00:44:27,914
+Eu não teria tanta certeza.
+
+571
+00:44:27,915 --> 00:44:30,668
+Você só está vivo
+por minha causa!
+
+572
+00:44:31,586 --> 00:44:33,504
+Eu te salvei no Gulch.
+
+573
+00:44:34,005 --> 00:44:35,882
+- Não foi o que aconteceu.
+- É, sim.
+
+574
+00:44:36,883 --> 00:44:39,719
+Ginny te deixou para morrer.
+
+575
+00:44:40,553 --> 00:44:42,971
+Arrastou você até a igreja.
+
+576
+00:44:42,972 --> 00:44:44,849
+Os mortos te seguiram.
+
+577
+00:44:45,683 --> 00:44:48,685
+Estavam em cima,
+quase te comendo.
+
+578
+00:44:48,686 --> 00:44:50,438
+Mas eu estava lá.
+
+579
+00:44:51,647 --> 00:44:54,399
+- Eu os matei.
+- Não é possível.
+
+580
+00:44:54,400 --> 00:44:58,695
+É, sim.
+Segui Ginny e os patrulheiros
+
+581
+00:44:58,696 --> 00:45:00,281
+até o Gulch,
+
+582
+00:45:00,740 --> 00:45:03,117
+porque eu queria ver
+o fim dela.
+
+583
+00:45:03,951 --> 00:45:07,621
+Mesmo não tendo rolado isso,
+foi bom eu ir, não?
+
+584
+00:45:07,622 --> 00:45:09,164
+Eu te costurei,
+
+585
+00:45:09,165 --> 00:45:10,624
+parei seu sangramento.
+
+586
+00:45:10,625 --> 00:45:14,751
+Eu te dei antibióticos,
+analgésicos.
+
+587
+00:45:14,752 --> 00:45:17,505
+- Deixei comida e suprimentos.
+- Pare. Chega de mentira.
+
+588
+00:45:17,506 --> 00:45:19,549
+Não, você não me conhece!
+
+589
+00:45:19,550 --> 00:45:21,761
+Mas ouvi sua mensagem.
+
+590
+00:45:22,678 --> 00:45:24,805
+Precisa fazer o mesmo.
+
+591
+00:45:25,514 --> 00:45:27,683
+"Você ainda tem coisas
+a fazer."
+
+592
+00:45:30,144 --> 00:45:31,520
+Eu escrevi.
+
+593
+00:45:32,480 --> 00:45:35,399
+Escrevi aquele bilhete.
+Deixei para você.
+
+594
+00:45:35,942 --> 00:45:37,859
+E eu estava certa,
+
+595
+00:45:37,860 --> 00:45:40,154
+porque aquilo
+que você tem que fazer...
+
+596
+00:45:42,156 --> 00:45:44,825
+- Terá que fazer agora.
+- E o que seria isso?
+
+597
+00:45:51,624 --> 00:45:53,084
+Matar minha irmã.
+
+598
+00:45:55,419 --> 00:45:57,837
+Você não está vivo
+
+599
+00:45:57,838 --> 00:46:00,882
+porque tem
+um paraíso idiota
+
+600
+00:46:00,883 --> 00:46:02,259
+para construir.
+
+601
+00:46:02,260 --> 00:46:04,219
+Você está vivo
+
+602
+00:46:04,220 --> 00:46:08,474
+porque é o único
+que ainda pode acabar com ela!
+
+603
+00:46:09,517 --> 00:46:12,061
+- Não se trata disso.
+- É, sim.
+
+604
+00:46:13,187 --> 00:46:14,522
+É.
+
+605
+00:46:15,940 --> 00:46:20,236
+E é o único motivo
+
+606
+00:46:20,569 --> 00:46:22,989
+de você ainda estar aqui!
+
+607
+00:46:37,503 --> 00:46:39,755
+Alguém limpou o lugar.
+
+608
+00:46:40,840 --> 00:46:42,633
+Onde diabos estão?
+
+609
+00:46:45,678 --> 00:46:48,722
+- June, onde estão?
+- Eu não sei. Não sei!
+
+610
+00:46:48,723 --> 00:46:50,432
+- Tem certeza?
+- Cansei de você.
+
+611
+00:46:50,433 --> 00:46:51,809
+<i>Virginia?</i>
+
+612
+00:46:53,811 --> 00:46:55,478
+Morgan, está atrasado.
+
+613
+00:46:55,479 --> 00:46:58,273
+<i>É o John. Ele foi ferido.
+Precisa ajudá-lo.</i>
+
+614
+00:46:58,274 --> 00:47:01,193
+<i>- Sua irmã fez isso com ele.</i>
+- Morgan, onde ele está?
+
+615
+00:47:02,945 --> 00:47:04,779
+Onde está minha irmã?
+
+616
+00:47:04,780 --> 00:47:06,948
+<i>Ele está indo para aí.
+Descendo o rio.</i>
+
+617
+00:47:06,949 --> 00:47:09,701
+<i>Estou tentando pegá-lo,
+mas se eu não encontrá-lo,</i>
+
+618
+00:47:09,702 --> 00:47:12,121
+<i>ajude-o, por favor.
+Depois conversamos.</i>
+
+619
+00:47:12,747 --> 00:47:15,374
+Escutou o Morgan.
+Encontre o patrulheiro Dorie.
+
+620
+00:47:23,883 --> 00:47:27,011
+- Pois bem.
+- É isso aí.
+
+621
+00:47:27,428 --> 00:47:30,556
+É o que já reconstruímos,
+mas é um começo.
+
+622
+00:47:33,350 --> 00:47:36,144
+- Cadê o Morgan?
+- Fomos separados.
+
+623
+00:47:36,145 --> 00:47:38,397
+<i>Al? Dwight?
+Na escuta?</i>
+
+624
+00:47:40,691 --> 00:47:43,985
+- Dwight falando.
+<i>- Preparem o muro.</i>
+
+625
+00:47:43,986 --> 00:47:47,907
+<i>Talvez levaremos a luta
+para nosso lar.</i>
+
+626
+00:47:48,908 --> 00:47:50,325
+Entendido, Morgan.
+
+627
+00:47:50,326 --> 00:47:52,827
+<i>E, Dwight,
+entre em contato com a Sherry.</i>
+
+628
+00:47:52,828 --> 00:47:55,873
+<i>Porque vamos precisar
+de todo poder de fogo possível.</i>
+
+629
+00:48:02,421 --> 00:48:04,589
+Precisa enviar
+mais patrulheiros procurá-lo.
+
+630
+00:48:04,590 --> 00:48:07,675
+- Já fiz isso.
+- Fale com Morgan.
+
+631
+00:48:07,676 --> 00:48:10,638
+Se vou ajudar,
+preciso saber o que houve.
+
+632
+00:48:15,017 --> 00:48:18,020
+Hill, o que está acontecendo aí?
+Qual a situação?
+
+633
+00:48:23,943 --> 00:48:26,278
+John!
+
+634
+00:50:27,525 --> 00:50:30,528
+<b>UNITED
+Quality is Everything!</b>
