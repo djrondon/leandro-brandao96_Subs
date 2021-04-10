@@ -1,0 +1,2593 @@
+1
+00:00:01,012 --> 00:00:03,907
+- Fred, pare!
+<i>- Anteriormente...</i>
+
+2
+00:00:03,908 --> 00:00:05,899
+<i>Você deixou
+fazerem aquilo com Serena.</i>
+
+3
+00:00:05,900 --> 00:00:10,033
+Temos papéis para desempenhar.
+Serena precisava lembrar o dela.
+
+4
+00:00:10,034 --> 00:00:11,626
+Você tentou me encontrar?
+
+5
+00:00:11,627 --> 00:00:13,065
+Eu tentei muito.
+
+6
+00:00:13,066 --> 00:00:14,635
+Por que não se esforçou mais?
+
+7
+00:00:15,095 --> 00:00:16,407
+O que você fez?
+
+8
+00:00:16,408 --> 00:00:19,818
+Eu fiz o que era melhor
+para minha filha.
+
+9
+00:00:19,819 --> 00:00:21,238
+Você está saindo de Gilead.
+
+10
+00:00:21,239 --> 00:00:23,503
+Tenha uma ótima vida!
+Não seja pega!
+
+11
+00:00:23,504 --> 00:00:25,368
+Entregou a uma assassina!
+
+12
+00:00:28,962 --> 00:00:31,797
+Eu a mandei embora, Fred.
+Foi escolha minha.
+
+13
+00:00:31,798 --> 00:00:33,392
+Eu te levei ao desespero.
+
+14
+00:00:36,062 --> 00:00:37,362
+É a Aia.
+
+15
+00:00:37,975 --> 00:00:39,305
+Você gosta dela, não é?
+
+16
+00:00:39,306 --> 00:00:41,085
+É perigoso, meu amigo.
+
+17
+00:00:41,086 --> 00:00:42,943
+- Vai ajudá-la a escapar?
+- Sim.
+
+18
+00:00:42,944 --> 00:00:44,672
+Ela precisa de um lugar seguro.
+
+19
+00:00:44,673 --> 00:00:46,781
+- É o seu funeral.
+- Vamos!
+
+20
+00:00:46,782 --> 00:00:49,251
+<i>Mulheres como você
+são como crianças.</i>
+
+21
+00:00:49,252 --> 00:00:52,181
+Pedem muita coisa,
+pegam o que bem entendem.
+
+22
+00:00:52,182 --> 00:00:53,808
+<i>E dane-se as consequências.</i>
+
+23
+00:00:53,809 --> 00:00:55,902
+- Quem está no porão?
+- Beth.
+
+24
+00:00:55,903 --> 00:00:57,235
+Nós vimos um rato.
+
+25
+00:00:57,236 --> 00:00:58,922
+<i>- Ela gritou.</i>
+- Mentira.
+
+26
+00:00:58,923 --> 00:01:01,901
+Sabia que era um erro
+aceitar você.
+
+27
+00:01:03,899 --> 00:01:05,214
+<i>Limpe tudo.</i>
+
+28
+00:01:11,960 --> 00:01:13,960
+<b>Legenda:
+lucasvsribeiro | Frank | Monk</b>
+
+29
+00:01:13,961 --> 00:01:15,961
+<b>Pazolline
+LikaPoetisa | MissG</b>
+
+30
+00:01:15,962 --> 00:01:17,962
+<b>Revisão:
+Yuca</b>
+
+31
+00:01:18,284 --> 00:01:21,308
+<b>[3ª TEMPORADA - E03]
+"Useful"</b>
+
+32
+00:01:26,019 --> 00:01:27,319
+<i>Heresia.</i>
+
+33
+00:01:27,832 --> 00:01:29,240
+<i>Por isso foram enforcadas.</i>
+
+34
+00:01:30,810 --> 00:01:34,233
+<i>Não por serem da Resistência,
+pois, oficialmente,</i>
+
+35
+00:01:34,234 --> 00:01:35,596
+<i>não há resistência.</i>
+
+36
+00:01:36,657 --> 00:01:40,017
+<i>Não por ajudar as pessoas
+a escapar, pois, oficialmente,</i>
+
+37
+00:01:40,018 --> 00:01:41,689
+<i>não há escapatória.</i>
+
+38
+00:01:43,447 --> 00:01:45,042
+<i>Elas são hereges,</i>
+
+39
+00:01:45,437 --> 00:01:46,737
+<i>não mártires.</i>
+
+40
+00:01:47,578 --> 00:01:48,990
+<i>Mártires inspiram.</i>
+
+41
+00:01:50,065 --> 00:01:51,862
+<i>Hereges são apenas burros.</i>
+
+42
+00:01:53,451 --> 00:01:54,859
+<i>Eu estava sendo burra?</i>
+
+43
+00:02:04,960 --> 00:02:06,779
+<i>Não acho que Cora
+esteja lá em cima.</i>
+
+44
+00:02:07,667 --> 00:02:09,594
+<i>Acho que Lawrence
+não faria isso.</i>
+
+45
+00:02:12,672 --> 00:02:14,180
+Reconhece alguém?
+
+46
+00:02:15,068 --> 00:02:16,485
+É impossível dizer.
+
+47
+00:02:18,177 --> 00:02:19,717
+Estão começando a feder.
+
+48
+00:02:20,448 --> 00:02:22,626
+Parece o mesmo lote de ontem.
+
+49
+00:02:22,627 --> 00:02:23,927
+E do dia anterior.
+
+50
+00:02:25,231 --> 00:02:26,531
+Talvez tenham parado.
+
+51
+00:02:27,017 --> 00:02:28,317
+Com Marthas.
+
+52
+00:02:29,221 --> 00:02:30,563
+Quem é o próximo?
+
+53
+00:02:30,564 --> 00:02:31,864
+Sem conversa!
+
+54
+00:02:32,252 --> 00:02:33,854
+E você,
+procure a sua parceira.
+
+55
+00:02:33,855 --> 00:02:35,247
+Tudo bem.
+
+56
+00:02:36,364 --> 00:02:38,083
+<i>Se vou sobreviver a isso,</i>
+
+57
+00:02:38,084 --> 00:02:39,514
+<i>precisarei de aliados.</i>
+
+58
+00:02:41,371 --> 00:02:42,676
+<i>Aliados com poder.</i>
+
+59
+00:03:04,482 --> 00:03:06,660
+<i>Ser um homem
+cuidado por mulheres,</i>
+
+60
+00:03:07,740 --> 00:03:09,653
+<i>deve ser totalmente estranho.</i>
+
+61
+00:03:11,431 --> 00:03:13,489
+<i>Tê-las observando-o
+o tempo todo.</i>
+
+62
+00:03:15,664 --> 00:03:17,672
+<i>Recuar quando ele se move.</i>
+
+63
+00:03:18,979 --> 00:03:20,674
+<i>Ficar se perguntando:</i>
+
+64
+00:03:20,675 --> 00:03:22,253
+<i>"O que ele vai fazer
+a seguir?</i>
+
+65
+00:03:24,071 --> 00:03:25,371
+<i>"Ele gosta de mim?"</i>
+
+66
+00:03:26,686 --> 00:03:28,086
+<i>"Ele vai me manter aqui?"</i>
+
+67
+00:03:28,782 --> 00:03:30,082
+<i>"Estou segura aqui?"</i>
+
+68
+00:03:36,094 --> 00:03:37,394
+<i>Cora não estava.</i>
+
+69
+00:03:37,705 --> 00:03:39,005
+Bendito seja o fruto.
+
+70
+00:03:41,114 --> 00:03:42,414
+Que possa o Senhor abrir.
+
+71
+00:03:44,906 --> 00:03:46,600
+As compras.
+Mais alguma coisa?
+
+72
+00:03:46,601 --> 00:03:47,901
+Deixe comigo.
+
+73
+00:03:50,866 --> 00:03:53,028
+Pode pôr o lanche na bandeja,
+por favor?
+
+74
+00:03:53,029 --> 00:03:54,329
+Sem problemas.
+
+75
+00:03:55,669 --> 00:03:57,036
+Por que eles estão vindo?
+
+76
+00:03:57,037 --> 00:03:58,337
+Eu não sei.
+
+77
+00:03:58,638 --> 00:04:01,690
+Meu antigo Comandante disse
+que Lawrence não vai a reuniões.
+
+78
+00:04:01,691 --> 00:04:03,911
+Se quiserem falar com ele,
+que venham aqui.
+
+79
+00:04:04,596 --> 00:04:06,096
+É o quanto ele é poderoso.
+
+80
+00:04:06,680 --> 00:04:08,096
+Obrigada pela informação.
+
+81
+00:04:11,634 --> 00:04:12,934
+Sienna!
+
+82
+00:04:15,344 --> 00:04:16,644
+Sienna!
+
+83
+00:04:19,242 --> 00:04:20,542
+Vá.
+
+84
+00:04:29,279 --> 00:04:32,154
+Eu fui para a praça.
+Não acho que Cora esteja lá.
+
+85
+00:04:33,714 --> 00:04:35,536
+Então ela foi para as Colônias?
+
+86
+00:04:38,316 --> 00:04:40,845
+Você recebeu
+alguma mensagem?
+
+87
+00:04:42,726 --> 00:04:46,714
+Qualquer um que saiba de algo
+provavelmente está na forca.
+
+88
+00:04:48,143 --> 00:04:50,867
+<i>- Beth, preciso de mais.</i>
+- Estou indo.
+
+89
+00:04:52,479 --> 00:04:54,251
+Ele está nos testando.
+
+90
+00:04:55,002 --> 00:04:56,955
+Somos todas descartáveis.
+
+91
+00:05:11,927 --> 00:05:14,746
+Marthas deveriam ser limpas?
+
+92
+00:05:18,376 --> 00:05:22,291
+Considera isso um critério
+básico para o trabalho?
+
+93
+00:05:40,646 --> 00:05:43,549
+Posso atender à porta
+para você, senhor?
+
+94
+00:05:43,550 --> 00:05:45,590
+Não sei. Você é...
+
+95
+00:05:46,617 --> 00:05:49,101
+capaz de resolver problemas?
+
+96
+00:05:49,681 --> 00:05:52,293
+De tomar decisões?
+
+97
+00:05:54,737 --> 00:05:56,796
+Sabe qual é a penalidade?
+
+98
+00:05:59,100 --> 00:06:02,880
+Para Aias
+que abrem as portas?
+
+99
+00:06:05,205 --> 00:06:08,887
+Estou perguntando mesmo,
+eu não sei.
+
+100
+00:06:11,092 --> 00:06:14,087
+Qual acha que deveria ser
+a penalidade?
+
+101
+00:06:15,663 --> 00:06:17,503
+O que seria justo?
+
+102
+00:06:25,652 --> 00:06:28,247
+Esqueça, esqueça...
+
+103
+00:06:31,955 --> 00:06:34,935
+Acho que você não é capaz.
+
+104
+00:06:43,628 --> 00:06:47,167
+A carga de mulheres
+de Chicago chegou ontem.
+
+105
+00:06:47,168 --> 00:06:49,714
+Temos necessidades
+nas Colônias agrícolas.
+
+106
+00:06:49,715 --> 00:06:52,183
+Elas não são dignas
+das Colônias.
+
+107
+00:06:52,184 --> 00:06:54,056
+Estou pensando em...
+
+108
+00:06:54,057 --> 00:06:56,231
+Estruturação
+de maximização de utilidade
+
+109
+00:06:56,232 --> 00:06:58,512
+com uma oferta de trabalho
+deteriorante.
+
+110
+00:06:58,513 --> 00:07:00,119
+Preciso de trabalhadoras.
+
+111
+00:07:07,403 --> 00:07:09,127
+Bendito seja o fruto.
+
+112
+00:07:11,499 --> 00:07:13,360
+Que possa o Senhor abrir.
+
+113
+00:07:13,684 --> 00:07:16,241
+Espero que você
+e a Sra. Waterford estejam bem.
+
+114
+00:07:18,396 --> 00:07:19,796
+É mesmo?
+
+115
+00:07:22,347 --> 00:07:23,839
+A Serena está bem?
+
+116
+00:07:23,840 --> 00:07:26,666
+Bem, depois do que você
+nos fez passar...
+
+117
+00:07:26,667 --> 00:07:29,768
+- Não sei ao certo.
+- Ela é forte.
+
+118
+00:07:30,931 --> 00:07:32,479
+Ela ficará bem.
+
+119
+00:07:38,096 --> 00:07:39,512
+Então...
+
+120
+00:07:39,513 --> 00:07:43,242
+Como a sua nova casa
+está te tratando?
+
+121
+00:07:43,243 --> 00:07:44,791
+Rezo para que...
+
+122
+00:07:45,836 --> 00:07:48,488
+Que Deus me faça digna
+do meu novo Comandante.
+
+123
+00:07:48,489 --> 00:07:52,024
+Eu tenho certeza
+que você irá se provar digna.
+
+124
+00:07:52,579 --> 00:07:54,447
+O que sabe sobre ele?
+
+125
+00:07:55,659 --> 00:07:59,015
+Ele é um homem interessante.
+
+126
+00:08:00,163 --> 00:08:03,175
+Instrumental
+na criação de Gilead,
+
+127
+00:08:03,176 --> 00:08:05,056
+nosso visionário.
+
+128
+00:08:07,387 --> 00:08:08,824
+O que mais?
+
+129
+00:08:12,523 --> 00:08:15,327
+Sempre o achamos
+um pouco difícil de entender.
+
+130
+00:08:17,035 --> 00:08:20,152
+Se você não consegue lê-lo,
+não sei quem mais consegue.
+
+131
+00:08:22,443 --> 00:08:26,537
+- Lawrence é um sobrevivente.
+- Não somos todos, senhor?
+
+132
+00:08:26,538 --> 00:08:30,247
+Ele, particularmente,
+combina a definição.
+
+133
+00:08:32,115 --> 00:08:35,160
+Ele não é sentimental,
+não como eu.
+
+134
+00:08:36,499 --> 00:08:38,560
+Eu nunca te achei...
+
+135
+00:08:39,491 --> 00:08:42,655
+muito sentimental, senhor.
+
+136
+00:08:46,410 --> 00:08:48,287
+Você foi misericordioso.
+
+137
+00:08:50,635 --> 00:08:52,791
+Depois de tudo...
+
+138
+00:08:53,491 --> 00:08:55,703
+ainda estou viva.
+
+139
+00:08:59,884 --> 00:09:03,240
+Eu sempre serei grata
+a você por isso.
+
+140
+00:09:05,335 --> 00:09:07,960
+Mas eu não estou
+mais na sua casa.
+
+141
+00:09:10,107 --> 00:09:14,072
+Preciso que me diga
+tudo sobre o Lawrence
+
+142
+00:09:14,073 --> 00:09:16,000
+que você acha
+que poderia me ajudar.
+
+143
+00:09:20,221 --> 00:09:22,840
+Ele não gosta
+de ficar entediado.
+
+144
+00:09:25,739 --> 00:09:29,039
+Mas acho que isso
+você já sabia.
+
+145
+00:09:31,284 --> 00:09:33,255
+Dia abençoado,
+Comandante Lawrence.
+
+146
+00:09:33,256 --> 00:09:35,527
+É um privilégio
+estar em sua casa novamente.
+
+147
+00:09:36,172 --> 00:09:39,160
+Sempre odiei sair de casa.
+
+148
+00:09:41,251 --> 00:09:43,335
+Vocês dois se conhecem.
+
+149
+00:09:45,303 --> 00:09:46,743
+Sim.
+
+150
+00:09:46,744 --> 00:09:49,087
+Você costumava ser Of...
+
+151
+00:09:49,619 --> 00:09:51,144
+Fred.
+
+152
+00:09:51,836 --> 00:09:53,368
+Sente falta?
+
+153
+00:09:54,732 --> 00:09:58,056
+Bem...
+Ela é Ofjoseph agora.
+
+154
+00:09:58,859 --> 00:10:00,551
+Devo deixá-la ir.
+
+155
+00:10:01,010 --> 00:10:03,679
+- Sob o Olho Dele.
+- É claro.
+
+156
+00:10:07,867 --> 00:10:09,455
+Está trabalhando duro?
+
+157
+00:10:16,368 --> 00:10:17,801
+Estou.
+
+158
+00:10:18,683 --> 00:10:20,143
+No quê?
+
+159
+00:10:24,971 --> 00:10:26,735
+Não precisa responder isso.
+
+160
+00:10:54,765 --> 00:10:57,977
+- Não estou com frio, mãe.
+- É claro que está.
+
+161
+00:11:04,118 --> 00:11:07,137
+Nosso círculo de oração
+irá lá em casa hoje.
+
+162
+00:11:08,998 --> 00:11:10,889
+Tentarei ficar
+fora do seu caminho.
+
+163
+00:11:10,890 --> 00:11:14,370
+Não, não,
+todas elas querem te ver.
+
+164
+00:11:15,470 --> 00:11:16,903
+Será uma honra.
+
+165
+00:11:18,450 --> 00:11:20,439
+Não quero sair
+com suas amigas, mãe.
+
+166
+00:11:20,440 --> 00:11:22,603
+Você é uma ótima comunicadora.
+
+167
+00:11:23,645 --> 00:11:26,867
+Não será uma visita
+se não sair comigo.
+
+168
+00:11:28,738 --> 00:11:30,468
+Não tenho nenhuma roupa.
+
+169
+00:11:33,456 --> 00:11:36,122
+A Sra. Manning deu um vestido
+que não servia mais.
+
+170
+00:11:38,660 --> 00:11:39,960
+Acho que cabe em você.
+
+171
+00:11:52,317 --> 00:11:53,635
+Não será tão ruim.
+
+172
+00:11:55,061 --> 00:11:56,555
+Vou levantar um pouco.
+
+173
+00:11:57,997 --> 00:11:59,297
+Ajustar a gola.
+
+174
+00:12:03,875 --> 00:12:05,175
+Aí está.
+
+175
+00:12:06,275 --> 00:12:07,575
+Louvado seja.
+
+176
+00:12:19,838 --> 00:12:21,325
+Você está linda.
+
+177
+00:12:27,653 --> 00:12:30,503
+Lawrence quer que você sirva
+as bebidas ao Comandante.
+
+178
+00:12:34,873 --> 00:12:36,173
+Por quê?
+
+179
+00:12:37,135 --> 00:12:39,130
+Falou que não sou
+rápida suficiente.
+
+180
+00:12:46,433 --> 00:12:49,091
+As páginas
+de 10 a 16 detalham
+
+181
+00:12:49,092 --> 00:12:51,963
+a expansão da instalação
+de treinamento no Forte Stevens.
+
+182
+00:12:52,437 --> 00:12:55,074
+Auxílio na investida da tropa
+em Chicago.
+
+183
+00:12:55,563 --> 00:12:57,398
+Primeira fase da investida.
+
+184
+00:12:58,283 --> 00:12:59,583
+Precisamos nos preparar
+
+185
+00:12:59,584 --> 00:13:01,239
+para criar mais tropas
+no futuro.
+
+186
+00:13:01,240 --> 00:13:03,912
+Uma última investida focada
+e Chicago perderá
+
+187
+00:13:03,913 --> 00:13:06,568
+o último reduto dos rebeldes,
+não acha?
+
+188
+00:13:06,569 --> 00:13:08,134
+A rebelião é contagiosa.
+
+189
+00:13:08,135 --> 00:13:11,223
+Precisamos estar prontos
+para um bombardeio contínuo.
+
+190
+00:13:11,224 --> 00:13:14,557
+Não, temos coisas de valor
+para extrair lá.
+
+191
+00:13:14,558 --> 00:13:16,509
+Crianças, mulheres férteis.
+
+192
+00:13:16,510 --> 00:13:17,810
+Vá para o próximo tópico.
+
+193
+00:13:19,124 --> 00:13:21,924
+Na página 17
+verá a linha do tempo,
+
+194
+00:13:22,441 --> 00:13:25,045
+descrevendo uma série
+de salvamentos nos distritos
+
+195
+00:13:25,046 --> 00:13:26,520
+começando próxima semana.
+
+196
+00:13:26,521 --> 00:13:29,430
+Pensei que tínhamos acordado
+mandá-las para as Colônias.
+
+197
+00:13:29,431 --> 00:13:31,034
+Colônias são um puxão
+de orelhas.
+
+198
+00:13:31,035 --> 00:13:32,428
+Elas são apenas mulheres.
+
+199
+00:13:32,429 --> 00:13:34,553
+Mulheres sob o domínio
+de terroristas.
+
+200
+00:13:35,007 --> 00:13:38,114
+Não queremos que nossas mulheres
+fiquem nervosas, não é?
+
+201
+00:13:40,352 --> 00:13:43,082
+Salvamentos são ferramentas
+efetivas de instrução.
+
+202
+00:13:43,083 --> 00:13:44,954
+Faz bastante tempo
+desde a última.
+
+203
+00:13:45,883 --> 00:13:50,108
+Sabemos que mulheres podem
+aumentar suas habilidades e...
+
+204
+00:13:50,479 --> 00:13:52,725
+pensar que pertencem
+a lugares...
+
+205
+00:13:53,028 --> 00:13:54,328
+que não pertencem.
+
+206
+00:13:54,868 --> 00:13:57,238
+Mas também podem ser usadas.
+
+207
+00:13:58,853 --> 00:14:00,153
+E pode ser divertido.
+
+208
+00:14:01,486 --> 00:14:02,786
+Ofjoseph?
+
+209
+00:14:04,735 --> 00:14:06,035
+Estamos...
+
+210
+00:14:06,467 --> 00:14:10,249
+intrigados em como avaliar...
+
+211
+00:14:10,250 --> 00:14:14,007
+o valor de um indivíduo
+no mundo
+
+212
+00:14:14,008 --> 00:14:16,223
+em relação ao gênero.
+
+213
+00:14:16,891 --> 00:14:19,644
+Não era editora de livros,
+no passado?
+
+214
+00:14:21,457 --> 00:14:22,757
+Sim, senhor.
+
+215
+00:14:24,950 --> 00:14:27,082
+Existe algum livro
+sobre o assunto?
+
+216
+00:14:27,083 --> 00:14:30,036
+Sim, senhor... Muitos.
+
+217
+00:14:30,037 --> 00:14:33,938
+<i>Diferenças de Sexo
+em Habilidades Cognitivas.</i>
+
+218
+00:14:33,939 --> 00:14:35,688
+<i>A Descendência do Homem.</i>
+
+219
+00:14:36,138 --> 00:14:39,429
+Velho, mas é ótimo.
+Nisso que estava pensando?
+
+220
+00:14:39,430 --> 00:14:41,767
+Acho que o tenho aqui
+em algum lugar.
+
+221
+00:14:41,768 --> 00:14:44,299
+Poderia...
+pegar para mim?
+
+222
+00:14:45,010 --> 00:14:48,018
+Está no topo da estante,
+à direita da porta.
+
+223
+00:15:15,039 --> 00:15:16,339
+Na...
+
+224
+00:15:16,647 --> 00:15:18,597
+na pilha à esquerda.
+
+225
+00:15:18,598 --> 00:15:20,165
+Terceiro livro de baixo.
+
+226
+00:15:20,166 --> 00:15:21,543
+Letras amarelas.
+
+227
+00:15:32,756 --> 00:15:34,056
+Bom trabalho.
+
+228
+00:16:00,856 --> 00:16:03,109
+Algo mais em que eu
+possa ajudar, senhor?
+
+229
+00:16:03,644 --> 00:16:04,944
+Não, estou satisfeito.
+
+230
+00:16:06,963 --> 00:16:08,263
+Pode se retirar.
+
+231
+00:16:21,864 --> 00:16:23,314
+Viu?
+Mulheres podem ser úteis.
+
+232
+00:17:12,188 --> 00:17:13,996
+Sua mãe tem muitas amigas.
+
+233
+00:17:15,507 --> 00:17:18,187
+Ela é muito extrovertida.
+
+234
+00:17:21,579 --> 00:17:23,112
+Fiz uma coisa para você.
+
+235
+00:17:49,487 --> 00:17:50,787
+Aqui.
+
+236
+00:18:06,229 --> 00:18:08,075
+Vai superar isso, senhora.
+
+237
+00:18:09,305 --> 00:18:10,678
+Pelas mãos Dele.
+
+238
+00:18:11,680 --> 00:18:12,980
+É o que nos resta.
+
+239
+00:18:20,047 --> 00:18:21,824
+<i>Embora a terra ceda...</i>
+
+240
+00:18:21,825 --> 00:18:24,093
+<i>Embora as montanhas
+caiam no mar...</i>
+
+241
+00:18:24,094 --> 00:18:26,848
+Deus é nosso refúgio e força.
+
+242
+00:18:26,849 --> 00:18:28,568
+<i>Caro Deus,</i>
+
+243
+00:18:28,569 --> 00:18:30,109
+por favor,
+cure a minha esposa.
+
+244
+00:18:31,229 --> 00:18:34,691
+<i>Pois a minha amada é minha,
+e eu sou dela.</i>
+
+245
+00:18:34,692 --> 00:18:37,110
+Deus é nosso refúgio e força.
+
+246
+00:18:37,111 --> 00:18:42,111
+<i>E o Senhor a guiará sempre,
+e saciará a sua sede.</i>
+
+247
+00:18:42,763 --> 00:18:44,460
+E fortificará seus ossos.
+
+248
+00:18:44,461 --> 00:18:46,916
+Mostre-nos
+a Tua misericórdia, Senhor.
+
+249
+00:18:48,989 --> 00:18:51,020
+Obrigado pela oração de vocês.
+
+250
+00:18:52,319 --> 00:18:54,435
+Mais alguém precisa
+de conforto?
+
+251
+00:18:58,337 --> 00:18:59,837
+Serena?
+
+252
+00:19:20,177 --> 00:19:21,620
+Querido Senhor,
+
+253
+00:19:21,621 --> 00:19:24,213
+Serena Joy sofreu
+uma grande perda.
+
+254
+00:19:24,514 --> 00:19:27,382
+Por favor,
+livre-a do sofrimento.
+
+255
+00:19:27,383 --> 00:19:30,229
+Seja misericordioso
+e ouça as orações dela.
+
+256
+00:19:30,230 --> 00:19:32,480
+O Senhor está perto
+dos corações quebrantados.
+
+257
+00:19:32,481 --> 00:19:35,074
+Ele salva
+os de espírito abatidos.
+
+258
+00:19:35,075 --> 00:19:37,103
+Salmo 6:2, por favor.
+
+259
+00:19:42,526 --> 00:19:44,583
+Tende piedade, Senhor,
+
+260
+00:19:45,225 --> 00:19:46,925
+porque sou fraca.
+
+261
+00:19:51,981 --> 00:19:53,381
+Sara-me, Senhor,
+
+262
+00:19:53,382 --> 00:19:56,743
+porque minha alma
+está em agonia.
+
+263
+00:19:59,262 --> 00:20:01,462
+Querido Senhor,
+rezamos pelo retorno seguro
+
+264
+00:20:01,463 --> 00:20:03,063
+da filha de Serena.
+
+265
+00:20:03,398 --> 00:20:06,061
+E rezamos
+para que o casamento dela cure.
+
+266
+00:20:06,362 --> 00:20:08,381
+Porque o amor é forte
+como a morte.
+
+267
+00:20:08,382 --> 00:20:09,911
+Esposas, sujeitem-se
+
+268
+00:20:09,912 --> 00:20:12,378
+aos seus maridos
+como ao Senhor.
+
+269
+00:20:12,379 --> 00:20:14,374
+Pois o marido
+é o chefe da mulher.
+
+270
+00:20:14,375 --> 00:20:16,792
+Assim como Cristo também é
+o chefe da igreja,
+
+271
+00:20:16,793 --> 00:20:20,423
+que as mulheres estejam em tudo
+sujeitas a seus maridos.
+
+272
+00:20:20,424 --> 00:20:23,542
+E que a mulher reverencie
+o seu marido.
+
+273
+00:20:23,936 --> 00:20:26,263
+Essa é a palavra do Senhor.
+
+274
+00:20:37,200 --> 00:20:39,979
+Quando éramos recém-casados,
+eu chegava em casa
+
+275
+00:20:39,980 --> 00:20:42,175
+e abria a porta,
+mas só um pouquinho.
+
+276
+00:20:42,762 --> 00:20:44,162
+Eu esperava.
+
+277
+00:20:44,751 --> 00:20:47,251
+Eu escutava os seus passos.
+
+278
+00:20:49,338 --> 00:20:51,671
+Abria a porta
+mais um pouquinho.
+
+279
+00:20:54,761 --> 00:20:56,844
+Tinha um vislumbre
+do seu cabelo,
+
+280
+00:20:58,656 --> 00:21:00,409
+longo e solto.
+
+281
+00:21:03,747 --> 00:21:05,242
+Eu...
+
+282
+00:21:05,243 --> 00:21:08,241
+dei tudo de mim por você,
+
+283
+00:21:08,242 --> 00:21:10,042
+como uma criança
+por uma sobremesa.
+
+284
+00:21:14,741 --> 00:21:16,699
+O tipo de homem
+que eu havia me tornado.
+
+285
+00:21:17,133 --> 00:21:19,827
+Casado com uma mulher
+como você.
+
+286
+00:21:19,828 --> 00:21:21,750
+Voltando para casa
+para você.
+
+287
+00:21:28,297 --> 00:21:30,001
+Os outros homens, eu...
+
+288
+00:21:32,949 --> 00:21:34,264
+sentia pena deles.
+
+289
+00:21:34,265 --> 00:21:38,030
+Não tinham o que correr atrás,
+nada pelo que lutar.
+
+290
+00:21:38,031 --> 00:21:39,946
+Não puderam...
+
+291
+00:21:40,634 --> 00:21:42,234
+ter você.
+
+292
+00:21:47,001 --> 00:21:48,689
+Um Comandante é...
+
+293
+00:21:50,642 --> 00:21:52,528
+o chefe da família.
+
+294
+00:21:52,529 --> 00:21:53,929
+A casa é...
+
+295
+00:21:55,344 --> 00:21:56,944
+o que ele sustenta.
+
+296
+00:21:58,160 --> 00:22:01,316
+Para todo o sempre,
+até que a morte nos separe.
+
+297
+00:22:03,218 --> 00:22:05,055
+Posso não ser...
+
+298
+00:22:06,110 --> 00:22:08,646
+um homem perfeito, mas...
+
+299
+00:22:11,024 --> 00:22:13,809
+tentarei ser melhor.
+
+300
+00:22:22,010 --> 00:22:23,610
+Se eu perder você,
+
+301
+00:22:25,922 --> 00:22:27,622
+eu perco tudo.
+
+302
+00:22:28,747 --> 00:22:30,447
+Ficou bom.
+
+303
+00:22:31,281 --> 00:22:33,141
+Gostaria de repetir?
+
+304
+00:22:39,692 --> 00:22:41,437
+<i>Eu me compus.</i>
+
+305
+00:22:42,753 --> 00:22:45,715
+<i>Agora eu devo me compor</i>
+
+306
+00:22:46,118 --> 00:22:48,377
+<i>como quem escreve
+um discurso.</i>
+
+307
+00:22:52,758 --> 00:22:54,815
+<i>Não sinto
+orgulho de mim por isso.</i>
+
+308
+00:22:55,326 --> 00:22:56,826
+<i>Nem por nada disso.</i>
+
+309
+00:23:01,759 --> 00:23:03,259
+<i>O quê?</i>
+
+310
+00:23:16,475 --> 00:23:19,304
+Acha que uma contadora
+faz uma comida gostosa?
+
+311
+00:23:21,765 --> 00:23:23,165
+Sim, senhor.
+
+312
+00:23:25,834 --> 00:23:27,756
+Fichários cheios de mulheres.
+
+313
+00:23:28,323 --> 00:23:30,403
+Pensei que gostaria
+de um chá.
+
+314
+00:23:31,626 --> 00:23:33,026
+Obrigado.
+
+315
+00:23:33,797 --> 00:23:35,197
+Dia cansativo?
+
+316
+00:23:35,638 --> 00:23:37,921
+Meu trabalho
+está só começando.
+
+317
+00:23:37,922 --> 00:23:39,710
+Ao menos as pessoas
+estão partindo.
+
+318
+00:23:41,540 --> 00:23:43,806
+É cansativo
+ter pessoas por perto.
+
+319
+00:23:51,757 --> 00:23:53,738
+Isso seria...
+
+320
+00:23:53,739 --> 00:23:57,314
+particularmente difícil
+para alguém como eu?
+
+321
+00:23:57,751 --> 00:24:01,220
+Não sei como você é, senhor.
+
+322
+00:24:04,087 --> 00:24:07,089
+Você se acha boa
+em controlar as pessoas?
+
+323
+00:24:10,755 --> 00:24:13,488
+Particularmente, não.
+
+324
+00:24:15,233 --> 00:24:17,703
+Você parece ser boa
+em fazer amizades.
+
+325
+00:24:19,126 --> 00:24:21,233
+Boa em influenciar pessoas.
+
+326
+00:24:24,394 --> 00:24:26,257
+Boa em ter intimidade.
+
+327
+00:24:31,543 --> 00:24:33,087
+Obrigada.
+
+328
+00:24:42,701 --> 00:24:45,236
+Isso funcionou mesmo
+com o Fred?
+
+329
+00:24:47,497 --> 00:24:50,356
+Ele não é exatamente
+um grande intelectual.
+
+330
+00:24:50,357 --> 00:24:53,272
+Mas, novamente, nem você.
+
+331
+00:24:55,915 --> 00:24:58,343
+Talvez você não me conheça
+tão bem ainda,
+
+332
+00:24:59,241 --> 00:25:00,641
+senhor.
+
+333
+00:25:01,206 --> 00:25:02,806
+Uma coisa que não entendo.
+
+334
+00:25:03,344 --> 00:25:07,064
+Se mulheres não querem ser
+definidas pelos seus corpos,
+
+335
+00:25:07,065 --> 00:25:09,859
+porque sempre os usam
+para conseguirem o que querem?
+
+336
+00:25:09,860 --> 00:25:11,160
+Talvez não estejam usando.
+
+337
+00:25:11,161 --> 00:25:13,824
+Talvez homens se distraiam
+com muita facilidade.
+
+338
+00:25:19,104 --> 00:25:20,438
+Falando dos Waterford,
+
+339
+00:25:20,439 --> 00:25:23,562
+você arruinou mesmo
+aquela casa, não foi?
+
+340
+00:25:23,563 --> 00:25:25,170
+Fred foi rebaixado,
+
+341
+00:25:25,503 --> 00:25:27,285
+Serena perdeu um dedo,
+
+342
+00:25:27,286 --> 00:25:29,146
+a filha dela foi sequestrada.
+
+343
+00:25:30,263 --> 00:25:34,120
+Você deixou o lugar
+literalmente em cinzas.
+
+344
+00:25:35,107 --> 00:25:37,476
+Acha que tiveram
+o que mereciam?
+
+345
+00:25:37,477 --> 00:25:40,406
+Ninguém em Gilead tem
+o que merece, senhor.
+
+346
+00:25:40,995 --> 00:25:43,023
+Como podem
+não perceber o quanto...
+
+347
+00:25:43,559 --> 00:25:45,507
+você gosta de transações?
+
+348
+00:25:45,508 --> 00:25:47,222
+Eu fiz
+o que tinha que fazer.
+
+349
+00:25:47,579 --> 00:25:50,188
+Acha que se me fizer gostar
+de você, eu te ajudarei?
+
+350
+00:25:50,629 --> 00:25:53,453
+Eu acho
+que você pode tentar.
+
+351
+00:25:55,453 --> 00:25:57,848
+Acho que pode tentar
+fazer a coisa certa.
+
+352
+00:26:00,277 --> 00:26:02,305
+O que você sabe
+sobre a coisa certa?
+
+353
+00:26:02,306 --> 00:26:04,819
+Sei que ajudou a Emily
+a escapar com a bebê.
+
+354
+00:26:05,917 --> 00:26:07,490
+E sei que você deixa
+as Marthas
+
+355
+00:26:07,491 --> 00:26:09,705
+comandarem uma rede
+resistência da sua casa.
+
+356
+00:26:10,607 --> 00:26:14,457
+É preciso deixar as rebeldes
+liberarem a adrenalina,
+
+357
+00:26:14,458 --> 00:26:16,872
+ou elas acabam com tudo.
+
+358
+00:26:19,891 --> 00:26:23,202
+Quer saber por que ajudei
+a Emily?
+
+359
+00:26:23,203 --> 00:26:25,001
+Acho que se sentiu culpado.
+
+360
+00:26:26,113 --> 00:26:27,581
+Acho que sentiu pena dela.
+
+361
+00:26:27,582 --> 00:26:29,943
+Quer que me sinta culpado
+e com pena de você?
+
+362
+00:26:29,944 --> 00:26:31,244
+Você sente?
+
+363
+00:26:36,445 --> 00:26:38,145
+Eu ajudei a Emily...
+
+364
+00:26:40,103 --> 00:26:43,176
+porque ela é
+estranhamente inteligente
+
+365
+00:26:43,741 --> 00:26:46,450
+e poderia ser útil
+para o mundo,
+
+366
+00:26:46,873 --> 00:26:48,453
+algum dia.
+
+367
+00:26:48,454 --> 00:26:50,851
+Se você fosse inteligente,
+entraria no caminhão.
+
+368
+00:26:50,852 --> 00:26:52,416
+Sabe por que eu não pude.
+
+369
+00:26:52,417 --> 00:26:55,395
+Acho que preocupo-me mais
+com sua filha do que você.
+
+370
+00:26:56,184 --> 00:26:58,064
+Estou salvando o planeta
+para ela.
+
+371
+00:26:58,418 --> 00:27:03,317
+Estou reabastecendo
+a raça humana para ela.
+
+372
+00:27:03,318 --> 00:27:06,184
+- O que você está fazendo?
+- Estou tentando ser mãe dela!
+
+373
+00:27:06,185 --> 00:27:07,485
+Ela tem mãe.
+
+374
+00:27:07,856 --> 00:27:09,638
+Você conheceu
+a Sra. Mackenzie.
+
+375
+00:27:09,639 --> 00:27:13,674
+Ela é uma mulher adorável.
+Nunca roubou o marido de outra.
+
+376
+00:27:13,675 --> 00:27:17,877
+Sabia que ela organizou
+mil cestas de comida para órfãos
+
+377
+00:27:17,878 --> 00:27:19,564
+quando havia órfãos
+lá na África?
+
+378
+00:27:19,565 --> 00:27:21,984
+O que você já fez
+para ajudar alguém?
+
+379
+00:27:22,370 --> 00:27:25,481
+Exceto editar
+livros esotéricos inúteis
+
+380
+00:27:25,482 --> 00:27:27,377
+que ninguém jamais iria ler,
+
+381
+00:27:27,378 --> 00:27:31,590
+em vez de pegar
+sua filha doente na escola.
+
+382
+00:27:39,054 --> 00:27:40,354
+Inútil.
+
+383
+00:27:50,787 --> 00:27:53,364
+Você escreveu
+livros esotéricos.
+
+384
+00:27:54,655 --> 00:27:56,142
+Você fez isso.
+
+385
+00:27:59,025 --> 00:28:00,325
+Meu Deus.
+
+386
+00:28:00,954 --> 00:28:02,732
+Deve ser assustador.
+
+387
+00:28:03,982 --> 00:28:05,288
+Não é?
+
+388
+00:28:05,289 --> 00:28:08,757
+Ver os números dessas planilhas
+virarem pessoas reais?
+
+389
+00:28:08,758 --> 00:28:11,046
+Pessoas de verdade
+sendo executadas?
+
+390
+00:28:11,526 --> 00:28:14,803
+Sabendo que se ninguém
+tivesse lido seus livros,
+
+391
+00:28:14,804 --> 00:28:16,996
+todos estaríamos melhor.
+
+392
+00:28:16,997 --> 00:28:20,059
+Deve ser o inferno
+ser um homem assim.
+
+393
+00:28:21,125 --> 00:28:23,449
+Muito pior do que inútil.
+
+394
+00:28:24,963 --> 00:28:26,620
+Quer saber? Eu entendo.
+
+395
+00:28:27,119 --> 00:28:30,041
+Eu entendo
+por que você faria isso.
+
+396
+00:28:30,042 --> 00:28:33,305
+Acho que se enfiaria
+num buraco de uma casa assim,
+
+397
+00:28:33,306 --> 00:28:35,210
+fazendo jogos
+com a cabeça das pessoas,
+
+398
+00:28:35,211 --> 00:28:38,055
+fazendo uma boa ação
+ou duas de vez em quando,
+
+399
+00:28:38,056 --> 00:28:40,243
+para que você possa
+dormir à noite.
+
+400
+00:28:52,389 --> 00:28:54,594
+Quão tentador é...
+
+401
+00:28:57,108 --> 00:28:59,596
+inventar uma humanidade...
+
+402
+00:29:03,859 --> 00:29:05,660
+para qualquer um.
+
+403
+00:29:13,603 --> 00:29:14,903
+Vamos.
+
+404
+00:29:21,323 --> 00:29:22,827
+Vamos dar uma volta.
+
+405
+00:30:46,301 --> 00:30:49,864
+Não haverá Salvamentos.
+
+406
+00:30:51,229 --> 00:30:54,003
+Elas serão encaminhadas
+para as Colônias amanhã.
+
+407
+00:30:57,122 --> 00:30:58,840
+Então todas elas vão morrer?
+
+408
+00:30:58,841 --> 00:31:01,133
+Todas menos cinco.
+
+409
+00:31:01,134 --> 00:31:02,821
+Eu consegui...
+
+410
+00:31:03,289 --> 00:31:06,965
+requisitar cinco
+para servirem como Marthas.
+
+411
+00:31:08,188 --> 00:31:09,488
+Bom para você.
+
+412
+00:31:09,844 --> 00:31:11,483
+Cinco é melhor do que nada.
+
+413
+00:31:11,484 --> 00:31:12,905
+Torne-as todas Marthas.
+
+414
+00:31:12,906 --> 00:31:14,825
+Temos apenas cinco vagas.
+
+415
+00:31:28,377 --> 00:31:30,068
+Você precisa escolher
+
+416
+00:31:31,138 --> 00:31:34,815
+quem é digna
+de se tornar uma Martha.
+
+417
+00:31:40,787 --> 00:31:42,848
+Terá todas as informações
+de que precisa.
+
+418
+00:31:42,849 --> 00:31:46,938
+Nomes, idades, profissões,
+realizações acadêmicas,
+
+419
+00:31:46,939 --> 00:31:48,690
+problemas morais.
+
+420
+00:31:50,161 --> 00:31:51,578
+Isso é idiotice.
+
+421
+00:31:52,911 --> 00:31:56,135
+Quem define a moralidade?
+
+422
+00:31:57,152 --> 00:31:59,421
+Só escolha os melhores
+para a tarefa.
+
+423
+00:32:04,223 --> 00:32:05,523
+Não.
+
+424
+00:32:05,524 --> 00:32:10,012
+Achei que gostaria de ser útil,
+ao menos uma vez.
+
+425
+00:32:11,801 --> 00:32:13,962
+Nenhuma delas merece morrer.
+
+426
+00:32:15,072 --> 00:32:18,157
+E se eu disser que todas morrem
+se você não escolher?
+
+427
+00:32:26,385 --> 00:32:29,917
+Não sou responsável
+por essas mortes.
+
+428
+00:32:29,918 --> 00:32:32,809
+Você é.
+Gilead é.
+
+429
+00:32:32,810 --> 00:32:37,540
+Uma distinção sem importância
+para essas mulheres.
+
+430
+00:32:37,541 --> 00:32:39,578
+Mas posso ver que é
+importante para você.
+
+431
+00:32:41,393 --> 00:32:44,032
+E é mais importante
+do que tudo, não?
+
+432
+00:32:46,265 --> 00:32:48,377
+Não vou fazer isso.
+
+433
+00:32:51,817 --> 00:32:53,225
+Não vou.
+
+434
+00:32:58,131 --> 00:32:59,466
+Feche.
+
+435
+00:33:34,494 --> 00:33:36,046
+Você está toda molhada.
+
+436
+00:33:37,061 --> 00:33:40,358
+Você se acostumou demais
+ao clima da cidade.
+
+437
+00:33:40,988 --> 00:33:44,225
+Esqueceu como aqui
+nós lutamos contra os elementos.
+
+438
+00:33:44,226 --> 00:33:46,784
+Por que não sobe e se troca?
+
+439
+00:33:46,785 --> 00:33:49,517
+- Estou bem.
+- Precisa tirar a roupa molhada.
+
+440
+00:33:49,518 --> 00:33:53,634
+- Não, estou bem.
+- Clara fará sopa para você.
+
+441
+00:33:53,635 --> 00:33:56,031
+Clara, pode dar licença?
+
+442
+00:34:04,131 --> 00:34:07,427
+Gostaria que você não tivesse
+convidado essas pessoas.
+
+443
+00:34:07,428 --> 00:34:09,897
+- Sinto muito, querida.
+- Contou tudo sobre mim
+
+444
+00:34:09,898 --> 00:34:11,206
+e sobre meu casamento.
+
+445
+00:34:11,207 --> 00:34:14,055
+Você está certa.
+Eu não devia ter feito isso.
+
+446
+00:34:14,056 --> 00:34:15,666
+Por que fez?
+
+447
+00:34:16,436 --> 00:34:19,446
+Agora que sei,
+não farei de novo.
+
+448
+00:34:22,499 --> 00:34:24,226
+O que posso fazer
+para você comer?
+
+449
+00:34:24,628 --> 00:34:25,928
+Pare!
+
+450
+00:34:26,964 --> 00:34:29,360
+Você quer que eu volte
+para o Fred.
+
+451
+00:34:30,018 --> 00:34:32,198
+Só quero que você seja feliz.
+
+452
+00:34:32,840 --> 00:34:35,417
+Preciso que você saiba
+como era entre nós...
+
+453
+00:34:35,418 --> 00:34:36,835
+Não.
+
+454
+00:34:36,836 --> 00:34:39,645
+- As coisas que fizemos.
+- Elas são privadas.
+
+455
+00:34:39,646 --> 00:34:41,160
+Porque você não quer saber.
+
+456
+00:34:41,161 --> 00:34:43,313
+Porque não importa.
+
+457
+00:34:48,630 --> 00:34:49,933
+Olhe para você.
+
+458
+00:34:51,456 --> 00:34:53,745
+Todas as dádivas que recebeu.
+
+459
+00:34:54,450 --> 00:34:58,671
+Mas você precisa que tudo seja
+exatamente como você quer.
+
+460
+00:34:59,666 --> 00:35:01,472
+Uma garotinha mimada.
+
+461
+00:35:07,928 --> 00:35:09,558
+Sinto muito.
+
+462
+00:35:11,776 --> 00:35:15,070
+Sabe que não há lugar
+neste mundo para você sem Fred.
+
+463
+00:35:34,009 --> 00:35:37,267
+Precisa respirar fundo
+e perceber.
+
+464
+00:35:37,708 --> 00:35:39,370
+Você é uma linda mulher.
+
+465
+00:35:39,371 --> 00:35:40,909
+E Fred,
+
+466
+00:35:40,910 --> 00:35:42,469
+você e Fred juntos,
+
+467
+00:35:42,871 --> 00:35:44,550
+os Waterford?
+
+468
+00:35:46,645 --> 00:35:48,454
+Que casal formidável!
+
+469
+00:35:48,455 --> 00:35:51,400
+- Isso não significa nada.
+- Mas pode significar.
+
+470
+00:35:52,712 --> 00:35:55,265
+Pode significar tudo,
+se você permitir.
+
+471
+00:35:55,266 --> 00:35:56,872
+Meu Deus!
+
+472
+00:35:57,274 --> 00:35:59,803
+Chega, Serena!
+Basta de drama!
+
+473
+00:36:02,136 --> 00:36:05,461
+É a pior coisa do mundo
+ver um filho sofrendo.
+
+474
+00:36:08,008 --> 00:36:10,704
+A pior dor de uma mãe.
+
+475
+00:36:13,254 --> 00:36:15,304
+Não, não é.
+
+476
+00:36:17,515 --> 00:36:18,818
+O quê?
+
+477
+00:36:18,819 --> 00:36:20,924
+Não é a pior.
+
+478
+00:36:23,345 --> 00:36:26,656
+Ajudaria se parasse
+de indulgenciar esse sentimento.
+
+479
+00:36:27,018 --> 00:36:28,523
+Essa autopiedade.
+
+480
+00:36:33,661 --> 00:36:35,666
+Você abriu mão daquela bebê.
+
+481
+00:36:41,344 --> 00:36:43,406
+E ela não era nem sua.
+
+482
+00:36:47,718 --> 00:36:50,252
+Vou te preparar um banho quente.
+
+483
+00:36:51,637 --> 00:36:53,546
+Um banho quente vai ajudar.
+
+484
+00:37:25,646 --> 00:37:27,046
+Oi.
+
+485
+00:37:27,947 --> 00:37:29,247
+Oi.
+
+486
+00:37:32,436 --> 00:37:34,305
+Você não veio
+por minha causa.
+
+487
+00:37:52,871 --> 00:37:54,847
+Como isso aconteceu?
+
+488
+00:37:55,475 --> 00:37:56,948
+Era minha missão.
+
+489
+00:37:56,949 --> 00:38:00,232
+Então é um Comandante agora,
+pode pegar a Hannah.
+
+490
+00:38:00,233 --> 00:38:01,699
+Pode me ajudar a fugir.
+
+491
+00:38:03,472 --> 00:38:04,812
+Sinto muito.
+
+492
+00:38:04,813 --> 00:38:07,375
+Por quê?
+Por que não pode?
+
+493
+00:38:07,376 --> 00:38:09,045
+Há algo de errado
+com o Lawrence?
+
+494
+00:38:09,046 --> 00:38:11,211
+Lawrence é um psicopata.
+
+495
+00:38:11,823 --> 00:38:13,422
+O que sabe sobre ele?
+
+496
+00:38:13,737 --> 00:38:16,157
+- Não sei de nada.
+- Consegue descobrir?
+
+497
+00:38:16,158 --> 00:38:17,524
+Na verdade, não.
+
+498
+00:38:17,525 --> 00:38:20,096
+- Ele é do alto escalão.
+- O que você pode fazer?
+
+499
+00:38:21,854 --> 00:38:23,573
+Pode fazer alguma coisa?
+
+500
+00:38:24,148 --> 00:38:25,937
+Você serve para quê?
+
+501
+00:38:27,273 --> 00:38:28,874
+Serei movido.
+
+502
+00:38:30,493 --> 00:38:31,793
+Para o combate.
+
+503
+00:38:33,319 --> 00:38:34,619
+Em Chicago.
+
+504
+00:38:37,530 --> 00:38:39,131
+Você vai morrer.
+
+505
+00:38:40,555 --> 00:38:42,383
+Eu queria dizer adeus.
+
+506
+00:38:44,827 --> 00:38:46,127
+Adeus.
+
+507
+00:40:05,918 --> 00:40:07,955
+Você tem visita
+na sala de estar.
+
+508
+00:40:47,364 --> 00:40:48,981
+Bendito seja o fruto.
+
+509
+00:40:50,410 --> 00:40:51,710
+Oi.
+
+510
+00:41:01,587 --> 00:41:02,887
+Como você está?
+
+511
+00:41:05,285 --> 00:41:06,585
+Serena?
+
+512
+00:41:10,796 --> 00:41:12,632
+Você pensa nela?
+
+513
+00:41:19,596 --> 00:41:20,896
+Todo minuto.
+
+514
+00:41:25,619 --> 00:41:27,244
+Como faz para parar?
+
+515
+00:41:53,839 --> 00:41:55,534
+Como você se lembra dela?
+
+516
+00:41:58,064 --> 00:41:59,479
+Como você a vê?
+
+517
+00:42:02,002 --> 00:42:03,302
+No banho.
+
+518
+00:42:07,467 --> 00:42:09,194
+Ela amava a água.
+
+519
+00:42:11,944 --> 00:42:13,569
+Ela vai ser nadadora.
+
+520
+00:42:15,944 --> 00:42:18,319
+Lembra como ela costumava
+levantar a mão?
+
+521
+00:42:21,530 --> 00:42:23,491
+É como se estivesse
+dando uma opinião.
+
+522
+00:42:24,905 --> 00:42:26,780
+Essa é a política dela.
+
+523
+00:42:29,203 --> 00:42:31,992
+Acho que ela herdou isso
+de você.
+
+524
+00:42:35,228 --> 00:42:36,986
+Ela não é minha.
+
+525
+00:42:38,707 --> 00:42:40,007
+Serena,
+
+526
+00:42:42,824 --> 00:42:45,543
+apenas uma mãe
+poderia fazer o que você fez.
+
+527
+00:42:51,861 --> 00:42:53,634
+Se você pudesse pensar...
+
+528
+00:42:56,754 --> 00:43:00,435
+Se pudesse pensar
+em todas as outras mães...
+
+529
+00:43:01,864 --> 00:43:03,164
+que tiveram...
+
+530
+00:43:06,472 --> 00:43:09,347
+Que tiveram seus filhos
+tirados delas.
+
+531
+00:43:14,225 --> 00:43:15,525
+Como você.
+
+532
+00:43:20,293 --> 00:43:22,808
+Tem que haver algo
+que possamos fazer.
+
+533
+00:43:26,557 --> 00:43:28,580
+Não foi por isso
+que vim aqui.
+
+534
+00:43:28,921 --> 00:43:30,370
+Podemos nos ajudar.
+
+535
+00:43:31,883 --> 00:43:33,554
+Não podemos contar
+com eles.
+
+536
+00:43:36,390 --> 00:43:37,969
+Eles nos odeiam, Serena.
+
+537
+00:43:41,588 --> 00:43:43,437
+Eles não estão
+do nosso lado.
+
+538
+00:43:46,211 --> 00:43:47,512
+Eu tentei.
+
+539
+00:43:47,513 --> 00:43:50,059
+Você tem
+que se esforçar mais.
+
+540
+00:43:50,988 --> 00:43:52,832
+Não sou mais essa pessoa.
+
+541
+00:43:53,604 --> 00:43:55,325
+Você está com medo.
+
+542
+00:43:59,204 --> 00:44:00,504
+Use o medo.
+
+543
+00:44:11,444 --> 00:44:14,359
+Talvez sejamos mais fortes
+do que pensamos.
+
+544
+00:45:02,735 --> 00:45:04,274
+Fiz minhas escolhas.
+
+545
+00:45:06,631 --> 00:45:08,632
+<i>Houve um tempo
+em que as mulheres</i>
+
+546
+00:45:08,633 --> 00:45:10,068
+<i>podiam escolher.</i>
+
+547
+00:45:13,344 --> 00:45:15,030
+<i>"Éramos uma sociedade
+morrendo",</i>
+
+548
+00:45:15,031 --> 00:45:16,331
+<i>Tia Lydia diria,</i>
+
+549
+00:45:16,710 --> 00:45:18,138
+<i>"de tantas escolhas".</i>
+
+550
+00:45:18,992 --> 00:45:21,843
+<i>"Conhecemos os sacrifícios
+que se espera que você faça",</i>
+
+551
+00:45:21,844 --> 00:45:23,144
+<i>ela diria.</i>
+
+552
+00:45:23,670 --> 00:45:25,724
+<i>"É difícil
+quando os homens te insultam."</i>
+
+553
+00:45:58,756 --> 00:46:01,499
+Temos cinco novas Marthas
+para a Resistência:
+
+554
+00:46:01,500 --> 00:46:03,655
+uma engenheira,
+uma técnica em informática,
+
+555
+00:46:03,656 --> 00:46:05,429
+uma jornalista,
+uma advogada,
+
+556
+00:46:05,430 --> 00:46:06,730
+e uma ladra.
+
+557
+00:46:07,037 --> 00:46:08,337
+Como você sabe?
+
+558
+00:46:09,221 --> 00:46:10,744
+Eu as escolhi.
+
+559
+00:46:16,696 --> 00:46:19,188
+Suba, agora. Os lençóis
+precisam ser trocados.
+
+560
+00:46:21,884 --> 00:46:23,184
+Sienna.
+
+561
+00:46:26,880 --> 00:46:28,618
+Sobrevivemos a outro dia.
+
+562
+00:46:40,182 --> 00:46:42,595
+<i>Mãe, eu acho...</i>
+
+563
+00:46:42,596 --> 00:46:44,048
+<i>onde quer que esteja,</i>
+
+564
+00:46:45,019 --> 00:46:46,319
+<i>você pode me ouvir?</i>
+
+565
+00:46:49,505 --> 00:46:51,692
+<i>Você queria
+uma cultura feminina.</i>
+
+566
+00:46:53,012 --> 00:46:54,864
+<i>Bem, agora existe uma.</i>
+
+567
+00:46:55,623 --> 00:46:57,347
+<i>Não era a isso
+que você se referia,</i>
+
+568
+00:46:57,820 --> 00:46:59,120
+<i>mas existe.</i>
+
+569
+00:47:46,281 --> 00:47:47,746
+<i>E isso é o que fazemos.</i>
+
+570
+00:47:49,046 --> 00:47:50,346
+<i>Nós os observamos.</i>
+
+571
+00:47:50,956 --> 00:47:52,256
+<i>Os homens.</i>
+
+572
+00:47:52,603 --> 00:47:53,903
+<i>Nós os estudamos.</i>
+
+573
+00:47:54,645 --> 00:47:55,945
+<i>Nós os alimentamos.</i>
+
+574
+00:47:56,503 --> 00:47:57,803
+<i>Nós os agradamos.</i>
+
+575
+00:47:58,944 --> 00:48:00,873
+<i>Podemos fazê-los
+se sentirem fortes,</i>
+
+576
+00:48:01,621 --> 00:48:02,921
+<i>ou fracos.</i>
+
+577
+00:48:03,394 --> 00:48:04,996
+<i>Nós os conhecemos bem.</i>
+
+578
+00:48:06,910 --> 00:48:09,033
+<i>Conhecemos
+seus piores pesadelos.</i>
+
+579
+00:48:12,215 --> 00:48:14,004
+<i>E, com um pouco
+de prática,</i>
+
+580
+00:48:14,832 --> 00:48:16,337
+<i>é isso que nos tornaremos.</i>
+
+581
+00:48:17,256 --> 00:48:18,556
+<i>Pesadelos.</i>
+
+582
+00:48:19,418 --> 00:48:20,718
+<i>Um dia,</i>
+
+583
+00:48:21,299 --> 00:48:22,599
+<i>quando estivermos prontas,</i>
+
+584
+00:48:23,554 --> 00:48:24,948
+<i>iremos atrás de vocês.</i>
+
+585
+00:48:27,249 --> 00:48:28,804
+<i>Aguardem.</i>
+
