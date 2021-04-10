@@ -1,3382 +1,2456 @@
 1
-00:00:01,612 --> 00:00:03,510
-Parece que meu 
-turno começou há 100 anos.
+00:00:02,466 --> 00:00:04,510
+O meu turno nunca mais acabava.
 
 2
-00:00:03,604 --> 00:00:04,675
-<i>Beba mais café.</i>
+00:00:04,593 --> 00:00:07,221
+<i>Bebe mais café.</i>
+<i>Tens acesso a ele o dia todo.</i>
 
 3
-00:00:04,759 --> 00:00:07,042
-<i>Você está por perto o dia todo. 
-Dah.</i>
+00:00:08,013 --> 00:00:10,766
+<i>E isso aí é muito aborrecido.</i>
 
 4
-00:00:07,127 --> 00:00:09,480
-<i>Além disso, 
-aquele lugar é tão chato.</i>
+00:00:12,559 --> 00:00:14,061
+<i>O que foi isso?</i>
 
 5
-00:00:11,494 --> 00:00:13,268
-<i>Esperar. 
-O que é isso?</i>
+00:00:14,770 --> 00:00:17,898
+- É só um tipo a fazer <i>cosplay.</i>
+<i>- O que está a fazer?</i>
 
 6
-00:00:13,511 --> 00:00:15,870
-Sim. 
-Apenas um cara fazendo cosplay.
+00:00:18,148 --> 00:00:20,692
+Não sei. Deve ser algo da Comic-Con.
 
 7
-00:00:15,955 --> 00:00:17,456
-<i>- O que ele esta fazendo agora? 
-- Não sei.</i>
+00:00:24,363 --> 00:00:25,948
+Mas que raio?
 
 8
-00:00:17,541 --> 00:00:19,471
-Deve ser algum tipo de 
-Comic-Con ou algo assim.
+00:00:26,865 --> 00:00:29,451
+<i>Natalie, que barulho foi esse?</i>
 
 9
-00:00:23,261 --> 00:00:24,870
-Que diabos?
-
-10
-00:00:25,355 --> 00:00:29,534
-<i>Natalie? 
-Natalie, que barulho é esse?</i>
-
-11
-00:00:31,954 --> 00:00:34,971
+00:00:32,871 --> 00:00:35,165
 <i>Natalie, que barulho é esse?</i>
 
-12
-00:00:37,643 --> 00:00:40,004
-<i>Natalie? 
-Natalie?</i>
-
-15
-00:01:06,359 --> 00:01:07,885
-Meu lindo rapaz.
-
-16
-00:01:08,726 --> 00:01:11,315
-Estou dando a ele toda a força 
-que posso para curá-lo,
-
-17
-00:01:12,382 --> 00:01:14,387
-o que significa que vou ficar fraco 
-por mais um tempo.
-
-18
-00:01:14,472 --> 00:01:16,409
-Porque Psych e Fuerza o 
-atacaram?
-
-19
-00:01:16,494 --> 00:01:17,839
-Exatamente.
-
-20
-00:01:20,129 --> 00:01:21,742
-Você se lembra do 
-que aconteceu?
-
-21
-00:01:22,335 --> 00:01:23,784
-Apenas um pouco disso.
-
-22
-00:01:24,227 --> 00:01:25,710
-Quando eu renasci,
-
-23
-00:01:25,795 --> 00:01:28,580
-Eu estava rodeado 
-de luz e amor.
-
-24
-00:01:29,701 --> 00:01:31,268
-Então veio a dor.
-
-25
-00:01:31,353 --> 00:01:33,042
-Eu podia sentir 
-essas Forças da Natureza
-
-26
-00:01:33,127 --> 00:01:35,253
-eram como eu, 
-apenas mal.
-
-27
-00:01:35,450 --> 00:01:37,480
-Se eles são como você, 
-por que estão tentando matá-lo?
-
-28
-00:01:37,564 --> 00:01:41,549
-Não tenho certeza, 
-mas ... acho que é para alimentar.
-
-29
-00:01:42,542 --> 00:01:44,581
-É por isso que tive 
-que encontrar Barry Allen.
-
-30
-00:01:44,922 --> 00:01:47,292
-Achei que ele poderia me manter 
-segura até que eu me recuperasse totalmente.
-
-31
-00:01:47,492 --> 00:01:49,799
-Mas se as outras Forças me encontrarem 
-nesta condição,
-
-32
-00:01:49,884 --> 00:01:51,620
-Eu não sobreviveria a 
-outro ataque.
-
-33
-00:01:51,705 --> 00:01:52,926
-Não se preocupe.
-
-34
-00:01:53,440 --> 00:01:55,776
-Vamos descobrir uma maneira 
-de mantê-lo seguro.
-
-35
-00:01:56,588 --> 00:01:57,807
-De alguma maneira.
-
-36
-00:01:59,656 --> 00:02:02,526
-Santo Henry T. Sampson.
-
-37
-00:02:02,712 --> 00:02:05,690
-Uau, então você é o real,
-
-38
-00:02:05,775 --> 00:02:07,620
-abrangente,
-
-39
-00:02:07,705 --> 00:02:09,536
-incomensuravelmente interestelar,
-
-40
-00:02:09,621 --> 00:02:12,722
-e alucinantemente 
-cosmorrífico ...
-
-41
-00:02:12,807 --> 00:02:14,899
-Sim, Chester P. Runk.
-
-42
-00:02:15,226 --> 00:02:17,275
-Eu sou a Força de Velocidade.
-
-43
-00:02:18,730 --> 00:02:21,167
-Uau, Chessman.
-
-44
-00:02:21,649 --> 00:02:24,651
-Como está esse 
-sistema de detecção de isótopos ?
-
-45
-00:02:24,790 --> 00:02:27,565
-- Sim, na verdade ... 
-- Ela sabe meu nome.
-
-46
-00:02:27,650 --> 00:02:28,828
-Eu acho que ela quer.
-
-47
-00:02:28,913 --> 00:02:30,237
-OK.
-
-48
-00:02:31,129 --> 00:02:33,268
-Vejam, crentes.
-
-49
-00:02:33,353 --> 00:02:35,534
-Este cachorrinho que projetei 
-pode aumentar os sinais isotópicos
-
-50
-00:02:35,619 --> 00:02:37,232
-para que nossos satélites façam a varredura.
-
-51
-00:02:37,487 --> 00:02:39,492
-Agora tudo o que precisamos fazer 
-é construir algumas unidades,
-
-52
-00:02:39,577 --> 00:02:42,975
-coloque-os nos arredores 
-da cidade e eureka.
-
-53
-00:02:43,060 --> 00:02:44,978
-E então receberíamos 
-um aviso prévio
-
-54
-00:02:45,063 --> 00:02:46,831
-se Psych ou Fuerza 
-decidissem voltar.
-
-55
-00:02:46,924 --> 00:02:48,190
-E eles podem detectar
-
-56
-00:02:48,275 --> 00:02:50,222
-<font style="vertical-align: inherit;"></font>
-assinaturas isotópicas fundamentais,
-
-57
-00:02:50,307 --> 00:02:52,312
-para que não saibamos apenas que 
-eles estão vindo.
-
-58
-00:02:52,397 --> 00:02:55,104
-Saberemos quem quer que seja, 
-Psych ou Fuerza,
-
-59
-00:02:55,189 --> 00:02:57,179
-qual está vindo em nossa direção.
-
-60
-00:02:57,264 --> 00:02:58,834
-Chester, isso é incrível.
-
-61
-00:02:58,919 --> 00:03:01,222
-Podemos usar isso 
-para seguir as outras Forças?
-
-62
-00:03:01,307 --> 00:03:04,065
-Talvez os encontre 
-antes que nos encontrem?
-
-63
-00:03:04,351 --> 00:03:06,089
-- Ainda não. 
-- Agora mesmo,
-
-64
-00:03:06,174 --> 00:03:08,714
-eles só funcionam 
-nas proximidades, então ...
-
-65
-00:03:09,296 --> 00:03:11,440
-Mas pelo menos agora 
-temos uma maneira
-
-66
-00:03:11,525 --> 00:03:13,276
-- para ajudar a protegê-lo. 
-- Hmm.
-
-67
-00:03:13,374 --> 00:03:16,854
-Cisco, quanto tempo demoraria 
-para fazer amplificadores suficientes?
-
-68
-00:03:16,940 --> 00:03:20,175
-Temos tudo o que precisamos 
-na van STAR Labs,
-
-69
-00:03:20,260 --> 00:03:22,815
-então, 
-poderíamos construí-los
-
-70
-00:03:22,900 --> 00:03:24,424
-à medida que avançamos.
-
-71
-00:03:24,509 --> 00:03:26,862
-Então vamos fazer isso, baby, 
-porque ...
-
-72
-00:03:26,995 --> 00:03:29,596
-- A equipe Chesco está cuidando do caso. 
-- A equipe Chesco está cuidando do caso.
-
-73
-00:03:29,681 --> 00:03:31,247
-Vamos obtê-lo.
-
-74
-00:03:33,034 --> 00:03:34,477
-Separados no nascimento.
-
-75
-00:03:37,734 --> 00:03:40,735
-Ei, o 
-que é tudo isso?
-
-76
-00:03:40,860 --> 00:03:43,175
-Norvock finalmente trouxe 
-o resto das minhas coisas
-
-77
-00:03:43,260 --> 00:03:44,876
-de um dos 
-esconderijos de Amunet.
-
-78
-00:03:44,961 --> 00:03:46,727
-Eu ia jogar tudo fora, 
-mas então
-
-79
-00:03:46,811 --> 00:03:48,399
-musa atingiu.
-
-80
-00:03:50,140 --> 00:03:52,939
-Oh, uau. 
-É ótimo.
-
-81
-00:03:53,024 --> 00:03:54,299
-Sim. 
-Isso vai realmente dar o lugar
-
-82
-00:03:54,383 --> 00:03:56,079
-alguma atitude 
-quando eu terminar.
-
-83
-00:03:56,164 --> 00:03:58,082
-Eu sinto Muito. 
-Você quer pendurar isso aqui?
-
-84
-00:03:58,167 --> 00:03:59,911
-Sim. 
-Essa parede vazia atrás de você.
-
-85
-00:04:00,057 --> 00:04:02,059
-Isso tem me deixado 
-louco.
-
-86
-00:04:02,322 --> 00:04:04,454
-Bem, você sabe 
-o que dizem.
-
-87
-00:04:06,572 --> 00:04:08,079
-Grandes mentes.
-
-88
-00:04:08,759 --> 00:04:10,087
-O que você acha?
-
-89
-00:04:14,889 --> 00:04:16,258
-Um...
-
-90
-00:04:16,994 --> 00:04:19,165
-Está faltando alguma coisa.
-
-91
-00:04:28,539 --> 00:04:29,844
-Huh.
-
-92
-00:04:30,882 --> 00:04:32,144
-Muito melhor.
-
-93
-00:04:33,635 --> 00:04:35,627
-Você sabe, a 
-arte deve sempre
-
-94
-00:04:35,712 --> 00:04:37,852
-provocar uma forte reação.
-
-95
-00:04:38,625 --> 00:04:39,938
-Oh, é verdade.
-
-96
-00:04:42,821 --> 00:04:47,399
-E o sensor está pronto.
-
-97
-00:04:47,595 --> 00:04:48,817
-Excelente.
-
-98
-00:04:49,057 --> 00:04:51,305
-Assim que o amplificador entrar no ar,
-
-99
-00:04:51,406 --> 00:04:55,438
-então nosso sistema de alerta antecipado 
-estará pronto.
-
-100
-00:04:55,610 --> 00:04:59,040
-E isso significa que é hora 
-de um café e um cronut.
-
-101
-00:04:59,125 --> 00:05:00,485
-Café e um cronut.
-
-102
-00:05:00,570 --> 00:05:03,532
-Na verdade, você sabe, há 
-um Sip-n-Dash em Masonville.
-
-103
-00:05:03,696 --> 00:05:06,337
-Ou era, de volta ao dia.
-
-104
-00:05:08,507 --> 00:05:10,282
-Oh, eu morava lá,
-
-105
-00:05:10,429 --> 00:05:12,304
-mas vovó Runk 
-e eu nos mudamos para Central City
-
-106
-00:05:12,389 --> 00:05:14,071
-quando eu terminei o 
-ensino médio.
-
-107
-00:05:14,156 --> 00:05:16,313
-- Tudo bem. 
-- Parece que estamos prontos para ir.
-
-108
-00:05:16,398 --> 00:05:17,680
-OK fixe.
-
-109
-00:05:24,305 --> 00:05:25,351
-O que?
-
-110
-00:05:25,436 --> 00:05:26,618
-Por quê?
-
-111
-00:05:28,993 --> 00:05:30,813
-Veja isso.
-
-112
-00:05:31,081 --> 00:05:32,477
-O que você acha?
-
-113
-00:05:32,608 --> 00:05:35,135
-Você acha 
-que são as filtrações de neutrino
-
-114
-00:05:35,415 --> 00:05:38,682
-- falha nele? 
-- Cisco, Cisco, Cisco, Cisco.
-
-115
-00:05:41,382 --> 00:05:42,908
-O que?
-
-116
-00:05:51,729 --> 00:05:52,967
-Estamos bem?
-
-117
-00:05:53,052 --> 00:05:54,970
-Estamos bem.
-
-118
-00:05:55,055 --> 00:05:56,146
-O que é que foi isso?
-
-119
-00:05:56,403 --> 00:05:58,469
-Eu não faço ideia.
-
-120
-00:06:02,015 --> 00:06:04,750
-Bem, parece que 
-o sensor está funcionando.
-
-121
-00:06:04,835 --> 00:06:05,984
-Huh.
-
-122
-00:06:12,439 --> 00:06:14,156
-Eu te dei meu telefone?
-
-123
-00:06:14,241 --> 00:06:15,523
-No.
-
-124
-00:06:15,856 --> 00:06:18,250
-O meu também se foi.
-
-125
-00:06:19,311 --> 00:06:22,469
-Ok, espere. 
-Onde está a van?
-
-126
-00:06:24,031 --> 00:06:28,281
-Oh! Foi só aqui. 
-O que...
-
-127
-00:06:31,732 --> 00:06:33,117
-Uh.
-
-128
-00:06:33,588 --> 00:06:35,867
-A van tem 
-um modo secreto de camuflagem
-
-129
-00:06:36,360 --> 00:06:38,992
-que eu não sei? 
-Pedindo por um amigo.
-
-130
-00:06:39,077 --> 00:06:41,036
-Isso não é uma van.
-
-131
-00:06:48,184 --> 00:06:49,312
-Uau.
-
-132
-00:06:49,397 --> 00:06:53,831
-Xadrez, acabamos de passar por 
-baixo da cúpula.
-
-133
-00:06:58,327 --> 00:06:59,398
-<i>Nora?</i>
-
-134
-00:07:01,664 --> 00:07:03,274
-Você está bem?
-
-135
-00:07:03,930 --> 00:07:05,273
-Sim.
-
-136
-00:07:06,800 --> 00:07:09,195
-Apenas para garantir que 
-nada aconteça com Barry.
-
-137
-00:07:12,097 --> 00:07:13,907
-Como você lida 
-com tudo isso?
-
-138
-00:07:14,522 --> 00:07:17,125
-Bem, nunca é fácil 
-lidar com uma ameaça,
-
-139
-00:07:17,284 --> 00:07:19,960
-especialmente quando afeta 
-alguém de quem você gosta.
-
-140
-00:07:21,719 --> 00:07:23,557
-Mas não se preocupe, ok?
-
-141
-00:07:23,858 --> 00:07:26,515
-Amanhã a esta hora, 
-Barry estará de volta ao que era.
-
-142
-00:07:26,600 --> 00:07:30,323
-Curado, enrolado 
-no sofá, totalmente estilo BBB.
-
-143
-00:07:33,164 --> 00:07:35,976
-BBB... Barry's Blanket Burrito.
-
-144
-00:07:36,061 --> 00:07:37,142
-É um ...
-
-145
-00:07:38,248 --> 00:07:40,035
-É difícil de explicar.
-
-146
-00:07:40,469 --> 00:07:42,234
-Não. 
-Eu entendo.
-
-147
-00:07:42,732 --> 00:07:45,805
-É algo 
-entre vocês dois.
-
-148
-00:07:50,681 --> 00:07:53,161
-Na verdade, quer saber?
-
-149
-00:07:54,471 --> 00:07:56,212
-Não tem que ser.
-
-150
-00:07:57,501 --> 00:08:00,591
-Eu quero te mostrar algo. 
-Venha comigo.
-
-151
-00:08:05,612 --> 00:08:06,666
-Conseguimos.
-
-152
-00:08:06,751 --> 00:08:08,346
-Agora podemos encontrar um telefone
-
-153
-00:08:08,516 --> 00:08:10,652
-e ligue para STAR Labs 
-antes de ...
-
-154
-00:08:13,759 --> 00:08:16,307
-Diga-me que você está vendo 
-o que estou vendo.
-
-155
-00:08:16,453 --> 00:08:17,675
-Tem alguma coisa a ver
-
-156
-00:08:17,760 --> 00:08:20,167
-com "Space Jam" 
-voltando ao estoque?
-
-157
-00:08:20,252 --> 00:08:22,792
-Naquele vídeo blockbuster
-
-158
-00:08:22,877 --> 00:08:24,627
-isso não existe mais?
-
-159
-00:08:24,712 --> 00:08:26,213
-Sim, e veja isso.
-
-160
-00:08:26,298 --> 00:08:27,877
-Eu vi uma 
-loja Sip-n-Dash lá atrás
-
-161
-00:08:27,962 --> 00:08:30,881
-que foi demolido 
-quando eu estava no colégio.
-
-162
-00:08:33,899 --> 00:08:35,807
-Acho que 
-viajamos no tempo.
-
-163
-00:08:36,994 --> 00:08:38,315
-Sério?
-
-164
-00:08:39,151 --> 00:08:40,893
-Então ... esta noite
-
-165
-00:08:40,977 --> 00:08:43,596
-vamos festejar 
-como se fosse 1998?
-
-166
-00:08:54,222 --> 00:08:56,762
-Nenhum dos telefones públicos funciona, 
-não temos celulares,
-
-167
-00:08:56,847 --> 00:08:59,331
-e estamos presos 
-em uma barreira invisível.
-
-168
-00:08:59,721 --> 00:09:01,333
-Estamos presos
-
-169
-00:09:02,120 --> 00:09:03,621
-nos anos 90?
-
-170
-00:09:04,784 --> 00:09:07,167
-Isso é tão épico. 
-Épico.
-
-171
-00:09:07,252 --> 00:09:08,371
-Oh espere. 
-Não não não.
-
-172
-00:09:08,456 --> 00:09:11,285
-Está fora do heezy fo 'sheezy.
-
-173
-00:09:11,370 --> 00:09:12,660
-Heezy fo ...
-
-174
-00:09:12,745 --> 00:09:14,441
-<i>Ok, cheesy. 
-Por que você não se acalma?</i>
-
-175
-00:09:19,292 --> 00:09:21,910
-Olha, 
-isso é incrível?
-
-176
-00:09:21,995 --> 00:09:23,441
-sim.
-
-177
-00:09:23,526 --> 00:09:25,207
-Precisamos desesperadamente 
-descobrir uma maneira
-
-178
-00:09:25,292 --> 00:09:28,034
-voltar para casa? 
-Também sim.
-
-179
-00:09:28,299 --> 00:09:29,902
-Bem, como devemos 
-fazer isso
-
-180
-00:09:29,995 --> 00:09:32,917
-sem um DeLorean 
-ou banheira de hidromassagem?
-
-181
-00:09:33,261 --> 00:09:35,768
-Olhando para o 
-que nos trouxe aqui:
-
-182
-00:09:36,073 --> 00:09:38,502
-Uma onda de energia verde 
-que parece
-
-183
-00:09:38,587 --> 00:09:41,616
-veio direto do Tartaruga 2.0 
-A Vingança da Baleia Branca.
-
-184
-00:09:41,701 --> 00:09:43,985
-Coincidência? 
-Eu acho que não.
-
-185
-00:09:44,274 --> 00:09:47,633
-Olha, eu sei que você e oTartaruga
-2.0 meio que têm essa coisa.
-
-186
-00:09:47,790 --> 00:09:49,087
-Eu direi.
-
-187
-00:09:49,733 --> 00:09:52,297
-Talvez não estejamos lidando 
-com uma meta de forma alguma.
-
-188
-00:09:53,040 --> 00:09:56,189
-O amplificador mostrou 
-um pico isotópico
-
-189
-00:09:56,274 --> 00:09:57,564
-quando a onda bateu.
-
-190
-00:09:57,649 --> 00:09:59,521
-Portanto, é uma de nossas forças. 
-Esperar.
-
-191
-00:09:59,605 --> 00:10:02,176
-Verifique as assinaturas. 
-Foi Fuerza ou Psych?
-
-192
-00:10:02,391 --> 00:10:03,658
-Nenhum.
-
-193
-00:10:03,743 --> 00:10:06,572
-O sensor detectou 
-uma energia temporal.
-
-194
-00:10:06,657 --> 00:10:08,822
-Portanto, há uma nova Força 
-na cidade, e ...
-
-195
-00:10:08,907 --> 00:10:12,423
-- E pode controlar o tempo. 
-- Sim, ok.
-
-196
-00:10:12,508 --> 00:10:14,212
-Temos que sair daqui 
-e avisar a equipe.
-
-197
-00:10:14,297 --> 00:10:15,323
-A Speed ​​Force não é segura.
-
-198
-00:10:15,407 --> 00:10:16,868
-Não tão rápido.
-
-199
-00:10:17,032 --> 00:10:19,697
-Precisamos saber 
-exatamente contra quem estamos lutando.
-
-200
-00:10:19,782 --> 00:10:21,533
-Você se lembra de como 
-a Força de Velocidade perguntou
-
-201
-00:10:21,618 --> 00:10:22,930
-se os amplificadores 
-pudessem
-
-202
-00:10:23,015 --> 00:10:24,580
-- rastrear as Forças? 
-- Sim.
-
-203
-00:10:24,665 --> 00:10:27,249
-Se adicionarmos um diodo transmissor 
-ao sensor ...
-
-204
-00:10:27,334 --> 00:10:29,992
-Ele poderia localizar 
-os circuitos isotópicos o suficiente
-
-205
-00:10:30,077 --> 00:10:32,523
-para detectar uma nova Força 
-em um raio de 18 metros.
-
-206
-00:10:32,608 --> 00:10:35,453
-Certo, mas precisamos do tipo 
-de receptor maximizado
-
-207
-00:10:35,538 --> 00:10:37,218
-que simplesmente não existe ainda.
-
-208
-00:10:43,078 --> 00:10:44,645
-Hora de fazer compras.
-
-209
-00:10:48,036 --> 00:10:50,748
-Cara, há uma estação técnica 
-bem aqui.
-
-210
-00:10:53,202 --> 00:10:56,225
-Xadrez, se apresse. 
-Isso é embaraçoso.
-
-211
-00:11:00,616 --> 00:11:01,631
-Ver?
-
-212
-00:11:01,716 --> 00:11:05,123
-O lixo de um homem é o lixo de 
-outro ...
-
-213
-00:11:05,208 --> 00:11:08,592
-O motivo de outro homem ter 
-tomado a vacina antitetânica?
-
-214
-00:11:08,947 --> 00:11:11,889
-Já tomei 
-minha vacina antitetânica.
-
-215
-00:11:14,116 --> 00:11:17,234
-Não acredito que você acabou de 
-usar lixo para consertar nosso sensor.
-
-216
-00:11:17,319 --> 00:11:21,342
-Ah, pense nisso como um 
-localizador de força adaptado.
-
-217
-00:11:23,515 --> 00:11:26,521
-Ah. 
-Descanse em paz, UltraFax 4000.
-
-218
-00:11:26,788 --> 00:11:28,936
-Droga, eles não os fazem mais 
-gostar de você.
-
-219
-00:11:29,642 --> 00:11:30,725
-Tudo bem.
-
-220
-00:11:32,202 --> 00:11:33,786
-Vamos nos encontrar 
-um tempo Deus.
-
-221
-00:11:34,874 --> 00:11:37,873
-Para o colégio, hein?
-
-222
-00:11:38,069 --> 00:11:40,491
-O sensor parece pensar que 
-eles estão aqui em algum lugar.
-
-223
-00:11:40,647 --> 00:11:41,906
-Vamos fazer isso.
-
-224
-00:11:41,991 --> 00:11:44,496
-Ei, ei, ei. 
-Sério?
-
-225
-00:11:44,756 --> 00:11:47,359
-O diretor de Masonville não 
-sofre de nenhum tolo, entende?
-
-226
-00:11:47,444 --> 00:11:49,812
-Tudo bem. 
-Em seguida, entramos sorrateiramente.
-
-227
-00:11:49,897 --> 00:11:51,590
-- Simples. 
-- Uh-uh.
-
-228
-00:11:51,983 --> 00:11:55,515
-Temos que nos misturar. 
-Temos que chutar isso para um nível mais alto.
-
-229
-00:11:55,600 --> 00:11:58,335
-<i><font style="vertical-align: inherit;"></font>
-"É assim que fazemos", de Montell Jordan ...</i>
-
-230
-00:12:00,413 --> 00:12:01,939
-<i>♪ É assim que fazemos</i>
-
-231
-00:12:02,023 --> 00:12:04,768
-<i>♪ Olha só, 
-era uma vez em 94 ♪</i>
-
-232
-00:12:04,852 --> 00:12:07,264
-<i>♪ Montell não ganhava dinheiro 
-e a vida era lenta ♪</i>
-
-233
-00:12:07,349 --> 00:12:09,615
-<i>♪ Morava um DJ 
-e Paul era o nome dele ♪</i>
-
-234
-00:12:09,700 --> 00:12:12,010
-<i>♪ Ele veio até Monty, 
-isso é o que ele disse ♪</i>
-
-235
-00:12:12,095 --> 00:12:14,100
-<i>♪ Você e Oji 
-vão ganhar algum dinheiro ♪</i>
-
-236
-00:12:14,193 --> 00:12:16,807
-<i>♪ Venda um milhão de discos 
-e estamos fazendo isso ♪</i>
-
-237
-00:12:16,957 --> 00:12:21,145
-<i>♪ Ohh, estou zunindo porque 
-é assim que fazemos ♪</i>
-
-238
-00:12:21,230 --> 00:12:24,105
-Tudo bem. 
-Aqui está o plano.
-
-239
-00:12:24,190 --> 00:12:26,747
-Fazemos perguntas às pessoas, 
-ver se alguém
-
-240
-00:12:26,832 --> 00:12:29,013
-tem planos diabólicos 
-para alterar o futuro ...
-
-241
-00:12:29,098 --> 00:12:29,825
-sim.
-
-242
-00:12:29,910 --> 00:12:32,786
-E então verificamos o sensor. 
-Se der um pico ...
-
-243
-00:12:32,871 --> 00:12:36,440
-- Então encontramos nosso deus do tempo. 
-- Vamos obtê-lo.
-
-244
-00:12:38,262 --> 00:12:42,095
-- Isso é para o anuário? 
-- Sim.
-
-245
-00:12:42,180 --> 00:12:45,314
-<font style="vertical-align: inherit;"></font>
-Seção "Future Falcon Forecast" .
-
-246
-00:12:46,211 --> 00:12:47,821
-Qual é a pergunta de novo?
-
-247
-00:12:49,071 --> 00:12:51,120
-Onde você 
-se vê daqui a 23 anos?
-
-248
-00:12:51,205 --> 00:12:52,544
-Milímetros.
-
-249
-00:12:57,362 --> 00:12:59,997
-♪ Shorties sempre correndo 
-quando eu começo a fluir ♪
-
-250
-00:13:00,081 --> 00:13:02,652
-♪ Bola no palco, 
-mas minha vaia não apareceu ♪
-
-251
-00:13:02,736 --> 00:13:04,963
-♪ Minha garota reclama que 
-meus versos são fracos ♪
-
-252
-00:13:05,048 --> 00:13:07,271
-♪ Ela pega a bola 8. 
-Ver? ♪
-
-253
-00:13:07,356 --> 00:13:10,098
-♪ O resultado parece sombrio, sim
-
-254
-00:13:11,952 --> 00:13:14,245
-23. 
-Sim.
-
-255
-00:13:14,330 --> 00:13:15,682
-Em 23 anos,
-
-256
-00:13:15,851 --> 00:13:19,047
-Serei como todo mundo 
-nesta escola idiota.
-
-257
-00:13:19,392 --> 00:13:22,555
-Um zumbi. 
-Totalmente morto.
-
-258
-00:13:22,659 --> 00:13:24,142
-♪ Mas eu sou a bomba
-
-259
-00:13:24,227 --> 00:13:25,883
-♪ Eu vou matar, 
-no futuro ♪
-
-260
-00:13:25,968 --> 00:13:28,685
-♪ Explodindo todas as 
-mentes do rap , você vai precisar de uma sutura
-
-261
-00:13:28,801 --> 00:13:32,802
-♪ Morto por dentro, de trabalhar como escravo 
-em um trabalho ingrato.
-
-262
-00:13:33,332 --> 00:13:34,607
-- Oh. 
-- Oh.
-
-263
-00:13:34,692 --> 00:13:36,466
-Legal, legal, legal, legal, legal.
-
-264
-00:13:36,551 --> 00:13:38,991
-- Os empregos são ruins. 
-- Isso é tudo.
-
-265
-00:13:39,076 --> 00:13:40,652
-Sim. 
-Continue.
-
-266
-00:13:40,737 --> 00:13:43,302
-Continue cuspindo. 
-Sim, você entendeu, garoto, ei.
-
-267
-00:13:43,473 --> 00:13:46,479
-♪ Explodindo todas as mentes do rap, 
-você vai precisar de uma sutura ♪
-
-268
-00:13:46,563 --> 00:13:49,264
-♪ Boom, e essa é a 
-minha "Previsão do Falcão" ♪
-
-269
-00:13:49,348 --> 00:13:51,674
-É Reggie Q, estou fora. 
-O passado.
-
-270
-00:13:51,759 --> 00:13:53,964
-- Ambos: Oh! 
-- Deixou cair o microfone.
-
-271
-00:13:54,048 --> 00:13:57,744
-- Sim Sim. 
-- Ah, não, ele estava cuspindo.
-
-272
-00:13:57,829 --> 00:14:00,054
-- Não. 
-- Não? OK.
-
-273
-00:14:03,841 --> 00:14:06,213
-- Carregue os dois ... 
-- Não, você não carrega os dois.
-
-274
-00:14:06,298 --> 00:14:09,000
-Ei, cachorro, olha só. 
-Os pais conseguiram para mim.
-
-275
-00:14:09,412 --> 00:14:13,157
-Disseram que querem que a NFL 
-possa me atacar a qualquer momento.
-
-276
-00:14:13,241 --> 00:14:15,595
-- É hella legal, certo? 
-- Sim, sim, bom, Deon.
-
-277
-00:14:15,679 --> 00:14:17,205
-Sim cara.
-
-278
-00:14:17,289 --> 00:14:19,120
-Você sabe, no futuro, 
-eu quero ser igual a Deon.
-
-279
-00:14:19,204 --> 00:14:20,174
-Você sabe, ele vai matá-lo
-
-280
-00:14:20,259 --> 00:14:21,654
-no campeonato estadual 
-amanhã.
-
-281
-00:14:21,739 --> 00:14:24,136
-Ei, K. Swizzle. 
-É hora de pular.
-
-282
-00:14:29,780 --> 00:14:31,437
-Nós vamos...
-
-283
-00:14:31,521 --> 00:14:33,308
-Não é ele.
-
-284
-00:14:44,318 --> 00:14:45,503
-Espere até aqueles atletas idiotas
-
-285
-00:14:45,588 --> 00:14:47,503
-veja o que o futuro 
-reserva para eles.
-
-286
-00:14:52,049 --> 00:14:55,886
-Ei, Parker, certo?
-
-287
-00:14:56,067 --> 00:14:58,472
-Ouça, você tem 
-alguns minutos de sobra,
-
-288
-00:14:58,557 --> 00:15:00,475
-para que possamos fazer 
-algumas perguntas?
-
-289
-00:15:00,560 --> 00:15:02,425
-- Quem é Você? 
-- Somos estudantes.
-
-290
-00:15:02,526 --> 00:15:03,995
-- Alunos. 
-- Assim como você.
-
-291
-00:15:04,080 --> 00:15:05,824
-Sim. 
-Vocês falam como meu pai.
-
-292
-00:15:05,909 --> 00:15:07,131
-Parker.
-
-293
-00:15:07,556 --> 00:15:09,519
-- O que? 
-- Vamos.
-
-294
-00:15:09,604 --> 00:15:12,828
-Não seja maluco, certo? 
-Temos 17 anos.
-
-295
-00:15:12,913 --> 00:15:15,222
-- Tenho 16 anos. 
-- Amamos "The Real World".
-
-296
-00:15:15,782 --> 00:15:18,872
-Nós gostamos de Beanie Babies 
-e "The Matrix".
-
-297
-00:15:19,830 --> 00:15:22,705
-"The Matrix" ainda não 
-foi lançado.
-
-298
-00:15:22,789 --> 00:15:24,359
-Ah, droga. 
-Ver?
-
-299
-00:15:24,443 --> 00:15:26,053
-Eu tive um pressentimento. 
-Espere um segundo.
-
-300
-00:15:27,228 --> 00:15:28,320
-Como você soube disso?
-
-301
-00:15:28,404 --> 00:15:30,365
-Isso não está certo.
-
-302
-00:15:30,449 --> 00:15:32,193
-Você tem que me ajudar, por favor.
-
-303
-00:15:32,277 --> 00:15:34,108
-Estamos presos na mesma data.
-
-304
-00:15:34,192 --> 00:15:36,371
-Não, espere.
-
-305
-00:15:36,455 --> 00:15:37,851
-Ele sabe que eu me libertei.
-
-306
-00:15:37,935 --> 00:15:41,678
-Vai recomeçar. 
-Oh Deus.
-
-307
-00:15:42,896 --> 00:15:45,355
-Oh, de novo não.
-
-308
-00:15:46,717 --> 00:15:48,488
-OK.
-
-309
-00:15:48,958 --> 00:15:50,910
-Isso foi estranho.
-
-310
-00:15:58,702 --> 00:15:59,965
-Você está bem, cara?
-
-311
-00:16:01,694 --> 00:16:02,995
-Quem é Você?
-
-312
-00:16:04,723 --> 00:16:06,347
-Onde estou?
-
-313
-00:16:08,239 --> 00:16:10,938
-Você pegou meu capacete?
-
-314
-00:16:11,902 --> 00:16:14,031
-Cara, sou eu. 
-Chester.
-
-315
-00:16:14,115 --> 00:16:16,018
-No.
-
-316
-00:16:16,103 --> 00:16:17,648
-Nao eu nao
-
-317
-00:16:17,733 --> 00:16:19,023
-sei quem é você.
-
-318
-00:16:19,207 --> 00:16:20,830
-Perigo desconhecido.
-
-319
-00:16:21,215 --> 00:16:24,134
-Perigo desconhecido? 
-Uh.
-
-320
-00:16:24,226 --> 00:16:27,316
-Cisco, quantos anos você tem?
-
-321
-00:16:28,477 --> 00:16:30,610
-Tenho sete anos, seu predador.
-
-322
-00:16:32,351 --> 00:16:35,267
-Porque você ainda acha que 
-estamos em 1998.
-
-323
-00:16:36,093 --> 00:16:37,791
-Oh, no.
-
-324
-00:16:40,310 --> 00:16:42,120
-Por favor senhor. 
-Não me persiga.
-
-325
-00:16:42,205 --> 00:16:43,412
-Eu não quero 
-entrar na sua van.
-
-326
-00:16:43,496 --> 00:16:46,755
-Não estou tentando te machucar. 
-Ouça, apenas ouça, certo?
-
-327
-00:16:46,905 --> 00:16:48,560
-Você não tem sete anos.
-
-328
-00:16:48,653 --> 00:16:50,694
-Você tem 30 anos 
-e é um cientista
-
-329
-00:16:50,778 --> 00:16:53,544
-na STAR Labs. 
-Lembrar?
-
-330
-00:16:53,700 --> 00:16:55,611
-Que tal visitar Atlantis
-
-331
-00:16:55,696 --> 00:16:58,743
-ou King Shark contra Grodd?
-
-332
-00:16:59,613 --> 00:17:02,399
-Oh, Deus, por favor me diga que 
-você se lembra de "Game of Thrones".
-
-333
-00:17:03,139 --> 00:17:05,883
-- Dedo mindinho. 
-- Sim.
-
-334
-00:17:05,967 --> 00:17:07,926
-- O Trono de Ferro. 
-- Sim.
-
-335
-00:17:08,231 --> 00:17:10,018
-"As Chuvas de Castamere."
-
-336
-00:17:10,102 --> 00:17:11,889
-"As Chuvas de Castamere." 
-sim.
-
-337
-00:17:11,973 --> 00:17:14,411
-Chester.
-
-338
-00:17:15,673 --> 00:17:17,243
-Como chegamos aqui?
-
-339
-00:17:17,327 --> 00:17:19,985
-A última coisa que me lembro, 
-Parker estava todo "Get Out" em nós.
-
-340
-00:17:20,069 --> 00:17:22,133
-Oh não. 
-Parker não é nosso Biff Tannen.
-
-341
-00:17:22,218 --> 00:17:24,709
-Uma referência moderna o 
-despertou, assim como você.
-
-342
-00:17:24,794 --> 00:17:27,101
-Mas estamos de volta 
-à rua principal.
-
-343
-00:17:27,279 --> 00:17:29,154
-Logo antes de a onda atingir,
-
-344
-00:17:29,379 --> 00:17:31,155
-Parker disse que vai ...
-
-345
-00:17:31,337 --> 00:17:33,472
-ambos: começar de novo.
-
-346
-00:17:47,057 --> 00:17:48,389
-Tenho que ir.
-
-347
-00:17:55,800 --> 00:17:57,196
-- É um loop temporal. 
-- É um loop temporal.
-
-348
-00:17:57,280 --> 00:17:59,344
-Não se trata de 
-mudar o futuro.
-
-349
-00:17:59,429 --> 00:18:01,999
-É sobre reviver um dia 
-repetidamente.
-
-350
-00:18:03,518 --> 00:18:06,133
-Quando Parker acordou, 
-ele reiniciou o loop,
-
-351
-00:18:06,413 --> 00:18:08,194
-mas por que 
-você não foi golpeado?
-
-352
-00:18:09,210 --> 00:18:11,514
-Eu acho que o sensor absorveu 
-a energia temporal
-
-353
-00:18:11,737 --> 00:18:13,086
-e me protegeu.
-
-354
-00:18:13,818 --> 00:18:16,302
-Só que, pelo jeito, 
-isso não vai acontecer de novo.
-
-355
-00:18:16,386 --> 00:18:18,671
-Oh, não, não, não, não, não.
-
-356
-00:18:18,756 --> 00:18:20,326
-Temos que consertar isso.
-
-357
-00:18:20,477 --> 00:18:23,375
-Caso contrário, se o loop for reiniciado, 
-não ficaremos protegidos.
-
-358
-00:18:23,460 --> 00:18:24,919
-Não vamos lembrar 
-que estamos presos no passado,
-
-359
-00:18:25,003 --> 00:18:26,660
-e ficaremos presos aqui, 
-como todo mundo.
-
-360
-00:18:26,744 --> 00:18:28,357
-- Temos que consertar isso agora. 
-- Ok, quer saber?
-
-361
-00:18:28,441 --> 00:18:30,229
-Acho que tenho as peças 
-para consertar isso na casa da vovó Runk.
-
-362
-00:18:30,313 --> 00:18:31,882
-Perfeito. 
-Vamos lá agora,
-
-363
-00:18:31,966 --> 00:18:33,580
-e enquanto estamos no nosso caminho, 
-talvez possamos descobrir
-
-364
-00:18:33,664 --> 00:18:35,796
-o que há de tão especial 
-em 4 de dezembro de 98.
-
-365
-00:18:36,648 --> 00:18:39,924
-Uh. 
-Você sabe o que?
-
-366
-00:18:41,326 --> 00:18:43,198
-Essas partes não estão 
-na casa da vovó Runk.
-
-367
-00:18:44,526 --> 00:18:45,878
-Em algum lugar melhor.
-
-368
-00:18:46,111 --> 00:18:48,620
-Por favor, não vá 
-mergulhar no lixo.
-
-369
-00:18:49,767 --> 00:18:52,294
-<i>Este cobertor é 
-bastante apreciado.</i>
-
-370
-00:18:52,558 --> 00:18:54,706
-Ele tem isso há anos.
-
-371
-00:18:56,518 --> 00:18:58,436
-Como se enfaixar 
-ajuda?
-
-372
-00:18:58,823 --> 00:19:00,817
-Bem, não é 
-sobre o cobertor.
-
-373
-00:19:00,902 --> 00:19:03,660
-É mais como 
-se embrulhar
-
-374
-00:19:03,745 --> 00:19:05,606
-nas memórias 
-e no conforto
-
-375
-00:19:05,691 --> 00:19:07,745
-associado ao cobertor.
-
-376
-00:19:11,292 --> 00:19:14,941
-É como ser abraçado 
-por braços calorosos e amorosos.
-
-377
-00:19:16,359 --> 00:19:18,120
-Sua mãe fez isso 
-para ele.
-
-378
-00:19:19,326 --> 00:19:22,691
-Ele realmente não fala muito sobre ela 
-, então ...
-
-379
-00:19:23,331 --> 00:19:24,717
-Nem com você?
-
-380
-00:19:29,241 --> 00:19:31,503
-Eles estavam tão perto.
-
-381
-00:19:32,244 --> 00:19:34,581
-Ser lembrado 
-do que aconteceu,
-
-382
-00:19:35,034 --> 00:19:37,554
-ele é forçado 
-a pensar sobre aquela noite.
-
-383
-00:19:40,683 --> 00:19:44,644
-A violência de tudo ... 
-Fica com ele,
-
-384
-00:19:44,808 --> 00:19:46,948
-e eu gostaria de poder tirar isso 
-dele,
-
-385
-00:19:47,033 --> 00:19:50,019
-mas ... 
-eu não posso.
-
-386
-00:20:04,198 --> 00:20:06,499
-<i>TI-82.</i>
-
-387
-00:20:06,583 --> 00:20:09,082
-Garota, você ainda está bem.
-
-388
-00:20:09,167 --> 00:20:10,949
-Pare de flertar 
-com as calculadoras.
-
-389
-00:20:11,034 --> 00:20:12,020
-Temos um problema.
-
-390
-00:20:12,105 --> 00:20:15,605
-- O que? 
-- O conversor de energia X-76.
-
-391
-00:20:15,777 --> 00:20:17,945
-Eles acabaram de vender o último 
-para aquele cara.
-
-392
-00:20:25,254 --> 00:20:27,848
-Ok, relaxa. 
-Não é grande coisa.
-
-393
-00:20:27,933 --> 00:20:29,146
-Ele realmente parece 
-bem razoável.
-
-394
-00:20:29,230 --> 00:20:31,488
-Eu digo que apenas oferecemos 
-para comprá-lo de volta dele.
-
-395
-00:20:31,573 --> 00:20:33,699
-Não não não. 
-Não podemos ir atrás dele.
-
-396
-00:20:33,784 --> 00:20:36,003
-OK. 
-Por que não?
-
-397
-00:20:41,127 --> 00:20:42,644
-Xadrez, o que está acontecendo?
-
-398
-00:20:43,314 --> 00:20:45,480
-Não podemos ir atrás dele 
-porque
-
-399
-00:20:47,188 --> 00:20:48,659
-ele é meu pai.
-
-400
-00:20:50,503 --> 00:20:53,282
-Sou a última pessoa que 
-ele gostaria de ajudar agora.
-
-401
-00:20:58,820 --> 00:21:01,391
-Xadrez, você quer me dizer o 
-que está acontecendo?
-
-402
-00:21:02,839 --> 00:21:04,794
-Olha, meu pai era
-
-403
-00:21:05,158 --> 00:21:06,909
-um cara muito inteligente
-
-404
-00:21:08,066 --> 00:21:10,323
-que viajava o tempo todo 
-tentando ficar rico
-
-405
-00:21:10,433 --> 00:21:11,684
-fora de sua última invenção,
-
-406
-00:21:11,769 --> 00:21:15,534
-então ... 
-ele nunca teve tempo para mim.
-
-407
-00:21:18,652 --> 00:21:21,985
-Era sempre: "Desculpe, filho.
-
-408
-00:21:22,300 --> 00:21:24,426
-Eu não acredito em desistir. "
-
-409
-00:21:31,081 --> 00:21:32,277
-Olha, o que aconteceu ...
-
-410
-00:21:32,362 --> 00:21:36,699
-Amanhã, meu pai morre 
-em um acidente de carro
-
-411
-00:21:36,784 --> 00:21:39,511
-a caminho de uma grande reunião 
-em Coast City.
-
-412
-00:21:42,427 --> 00:21:44,647
-Hoje é o último dia em 
-que o vejo vivo.
-
-413
-00:21:52,950 --> 00:21:54,636
-Eu sinto Muito.
-
-414
-00:21:58,691 --> 00:22:00,972
-Isso é pesado para qualquer um,
-
-415
-00:22:01,728 --> 00:22:03,425
-muito menos uma criança.
-
-416
-00:22:05,942 --> 00:22:07,363
-E se...
-
-417
-00:22:08,917 --> 00:22:11,152
-E se você estiver aqui 
-por um motivo?
-
-418
-00:22:13,620 --> 00:22:16,387
-Esta pode ser 
-sua chance
-
-419
-00:22:16,972 --> 00:22:18,183
-para falar com seu pai.
-
-420
-00:22:18,697 --> 00:22:21,120
-Estou bem com isso, cara.
-
-421
-00:22:22,441 --> 00:22:24,293
-Eu não posso salvar a vida dele.
-
-422
-00:22:24,378 --> 00:22:27,112
-Isso apenas zeraria 
-o loop de tempo, então ...
-
-423
-00:22:28,612 --> 00:22:30,530
-Agora eu só tenho que ...
-
-424
-00:22:30,905 --> 00:22:34,316
-Só tenho que ficar firme. 
-Continue fazendo minhas coisas.
-
-425
-00:22:44,181 --> 00:22:45,612
-Eu entendo.
-
-426
-00:22:48,456 --> 00:22:52,025
-Não se preocupe com 
-o conversor, certo?
-
-427
-00:22:53,377 --> 00:22:55,003
-Vou pegar com ele.
-
-428
-00:22:55,293 --> 00:22:57,080
-Esperar. 
-Você vai falar com meu pai?
-
-429
-00:22:57,164 --> 00:22:59,942
-Apenas o suficiente 
-para obter o X-76.
-
-430
-00:23:00,027 --> 00:23:01,911
-Então eu volto aqui,
-
-431
-00:23:01,995 --> 00:23:03,304
-nós consertamos tudo,
-
-432
-00:23:03,393 --> 00:23:06,784
-e tudo volta 
-ao normal.
-
-433
-00:23:08,628 --> 00:23:12,237
-É isso que você quer, 
-certo?
-
-434
-00:23:25,229 --> 00:23:26,464
-Oh! Graças a deus.
-
-435
-00:23:27,237 --> 00:23:28,989
-Eu pensei que você poderia ir a 
-algum lugar que Barry conhece,
-
-436
-00:23:29,073 --> 00:23:30,504
-mas você não estava 
-no STAR Labs,
-
-437
-00:23:30,589 --> 00:23:32,628
-e CCPD parecia improvável.
-
-438
-00:23:33,792 --> 00:23:36,482
-Sim, e sei 
-como ele adora o café daqui.
-
-439
-00:23:39,487 --> 00:23:42,520
-Eu nunca levei em conta 
-o quanto a morte de sua mãe
-
-440
-00:23:42,605 --> 00:23:44,347
-ainda pode pesar sobre ele.
-
-441
-00:23:45,283 --> 00:23:46,753
-O que eu fiz?
-
-442
-00:23:48,901 --> 00:23:52,574
-Vou mudar minha aparência. 
-Apareça em minha verdadeira forma
-
-443
-00:23:52,659 --> 00:23:54,613
-para todos vocês, 
-de agora em diante, como um raio,
-
-444
-00:23:54,698 --> 00:23:58,184
-porque eu não posso continuar 
-machucando ele assim.
-
-445
-00:23:58,269 --> 00:24:01,533
-Você não está causando dor a ele. 
-Você está dando a ele um presente.
-
-446
-00:24:02,111 --> 00:24:03,638
-Quão?
-
-447
-00:24:04,253 --> 00:24:06,977
-É como o cobertor dele
-
-448
-00:24:07,061 --> 00:24:08,714
-lembra-o de sua mãe,
-
-449
-00:24:09,058 --> 00:24:11,155
-e essa memória lhe dá 
-conforto e paz.
-
-450
-00:24:11,239 --> 00:24:13,154
-É a mesma coisa com você.
-
-451
-00:24:13,608 --> 00:24:15,419
-Então, não sou 
-um lembrete doloroso?
-
-452
-00:24:15,504 --> 00:24:18,980
-Não, de forma alguma. 
-Você é feliz.
-
-453
-00:24:20,820 --> 00:24:22,635
-Eu posso ser seu pára-raios,
-
-454
-00:24:22,720 --> 00:24:25,120
-mas você é seu raio.
-
-455
-00:24:25,818 --> 00:24:27,339
-Obrigada.
-
-456
-00:24:52,451 --> 00:24:54,064
-Posso te ajudar garoto?
-
-457
-00:24:54,586 --> 00:24:57,716
-Mim? 
-Uh, sim.
-
-458
-00:24:58,199 --> 00:25:01,158
-Eu gostaria de comprar 
-seu conversor X-76.
-
-459
-00:25:03,301 --> 00:25:06,966
-O que o faz pensar 
-que tenho um, Sr. ...?
-
-460
-00:25:07,418 --> 00:25:09,031
-Boyega.
-
-461
-00:25:09,903 --> 00:25:11,774
-John Boyega.
-
-462
-00:25:12,130 --> 00:25:16,373
-O balconista da loja de tecnologia disse 
-que você comprou o último,
-
-463
-00:25:16,458 --> 00:25:20,559
-e eles não recebem outra 
-remessa por uma semana, então ...
-
-464
-00:25:25,796 --> 00:25:27,505
-Olha, eu gostaria de te ajudar,
-
-465
-00:25:28,497 --> 00:25:31,497
-mas eu preciso 
-deste conversor de energia X-76 também.
-
-466
-00:25:32,039 --> 00:25:36,286
-Você precisa disso para alguma 
-invenção importante, certo?
-
-467
-00:25:36,899 --> 00:25:40,114
-Não. 
-Estou jogando fora.
-
-468
-00:25:41,475 --> 00:25:42,784
-Uh...
-
-469
-00:25:42,869 --> 00:25:46,223
-Ha, meu filho Chester 
-está trabalhando em um projeto.
-
-470
-00:25:46,308 --> 00:25:47,849
-Eu olhei seus planos.
-
-471
-00:25:47,934 --> 00:25:50,419
-Daqui a dois dias, 
-ele vai precisar dessa parte,
-
-472
-00:25:51,082 --> 00:25:53,040
-mas já estarei de volta 
-à estrada.
-
-473
-00:25:54,765 --> 00:25:57,583
-Estou jogando fora agora 
-para que ele possa encontrar mais tarde,
-
-474
-00:25:58,733 --> 00:26:00,270
-quando ele precisa.
-
-475
-00:26:02,123 --> 00:26:04,856
-Você tem filhos, Sr. Boyega?
-
-476
-00:26:05,405 --> 00:26:07,407
-Se você fizer isso, 
-algum dia você entenderá.
-
-477
-00:26:08,430 --> 00:26:11,059
-Espere, então por que não 
-dar a ele?
-
-478
-00:26:12,895 --> 00:26:14,769
-É minha maneira de ensiná-lo 
-a ser engenhoso
-
-479
-00:26:14,861 --> 00:26:16,481
-e um solucionador de problemas.
-
-480
-00:26:17,321 --> 00:26:20,403
-- É brilhante. 
-- Eu sei.
-
-481
-00:26:20,638 --> 00:26:23,512
-Além disso, ele tem a alegria 
-de aprender a ver o tesouro
-
-482
-00:26:24,415 --> 00:26:26,297
-onde outras pessoas veem o lixo.
-
-483
-00:26:28,344 --> 00:26:32,016
-Você faz muito esse tipo de coisa 
-por ele?
-
-484
-00:26:32,101 --> 00:26:34,133
-Tudo o que faço é por ele.
-
-485
-00:26:34,803 --> 00:26:37,141
-Ele é a razão de eu 
-sair da cama pela manhã.
-
-486
-00:26:44,798 --> 00:26:46,516
-Mas nunca se ressinta
-
-487
-00:26:46,815 --> 00:26:48,777
-tendo que trabalhar tanto 24 horas por dia, 7 dias por semana?
-
-488
-00:26:49,243 --> 00:26:50,844
-Eu sou o pai do menino ...
-
-489
-00:26:54,843 --> 00:26:57,829
-E Chester vale 
-qualquer sacrifício que eu tenha que fazer.
-
-490
-00:27:01,304 --> 00:27:05,744
-Além disso, 
-quando se trata dele ...
-
-491
-00:27:07,868 --> 00:27:09,462
-Eu não acredito em desistir.
-
-492
-00:27:13,532 --> 00:27:16,475
-Então você não se importa
-
-493
-00:27:16,560 --> 00:27:18,719
-sobre o seu trabalho 
-mais do que sobre o seu filho.
-
-494
-00:27:20,392 --> 00:27:22,516
-Você se preocupa com seu trabalho 
-por causa dele.
-
-495
-00:27:22,888 --> 00:27:26,024
-Sou apenas um homem tentando fazer 
-a coisa certa.
-
-496
-00:27:26,805 --> 00:27:28,462
-Deixe meu filho orgulhoso.
-
-497
-00:27:37,468 --> 00:27:39,219
-Sim. 
-Isso é estranho.
-
-498
-00:27:41,111 --> 00:27:45,297
-Desculpa. 
-É muito inspirador.
-
-499
-00:27:46,410 --> 00:27:49,696
-E espero poder ser 
-um ótimo pai também algum dia.
-
-500
-00:27:51,305 --> 00:27:53,351
-Algo me diz que 
-você será.
-
-501
-00:27:54,743 --> 00:27:56,688
-Ainda não estou vendendo 
-essa parte.
-
-502
-00:27:59,333 --> 00:28:02,141
-Mas se você realmente precisa de um,
-
-503
-00:28:02,226 --> 00:28:03,575
-Acho que tenho uma ideia.
-
-504
-00:28:09,819 --> 00:28:10,899
-Segure isso.
-
-505
-00:28:12,784 --> 00:28:15,051
-<i>Cisco, meu Pops 
-é muito legal, cara.</i>
-
-506
-00:28:15,656 --> 00:28:18,501
-<i>Sim? 
-Parece que sim.</i>
-
-507
-00:28:19,985 --> 00:28:21,012
-Estou muito feliz
-
-508
-00:28:21,097 --> 00:28:22,469
-tivemos um dia para sair.
-
-509
-00:28:24,078 --> 00:28:26,388
-Isso me fez perceber 
-que meu Pops não é apenas inteligente.
-
-510
-00:28:27,900 --> 00:28:29,992
-O cara é um gênio.
-
-511
-00:28:30,077 --> 00:28:31,410
-Verifique-o.
-
-512
-00:28:33,417 --> 00:28:36,902
-Pops e eu construímos juntos.
-
-513
-00:28:40,860 --> 00:28:43,012
-Uau.
-
-514
-00:28:44,425 --> 00:28:46,430
-Sabes o que isto significa.
-
-515
-00:28:46,514 --> 00:28:49,346
-Agora, podemos interromper 
-os isótopos temporais ...
-
-516
-00:28:49,430 --> 00:28:51,691
-- E vá para casa. - E vá para casa. 
-- Sim.
-
-517
-00:28:51,815 --> 00:28:54,145
-Ei, nerds! 
-Estive procurando por você.
-
-518
-00:28:55,088 --> 00:28:56,426
-Ei 
-Eu, Deon.
-
-519
-00:28:56,511 --> 00:28:59,169
-Estávamos indo para ... 
-Pensando em ...
-
-520
-00:28:59,314 --> 00:29:00,753
-- Blockbuster. 
-- Blockbuster.
-
-521
-00:29:00,852 --> 00:29:03,075
-- Você já viu "Space Jam"? 
-- Quatro vezes, cara.
-
-522
-00:29:03,166 --> 00:29:04,371
-Oh, cara, é tão bom.
-
-523
-00:29:04,456 --> 00:29:06,884
-Agora, é hora de chutar seu 
-aspirante a Urkels para o meio-fio,
-
-524
-00:29:06,969 --> 00:29:09,371
-porque 
-quem quer que sejam vocês,
-
-525
-00:29:10,338 --> 00:29:12,125
-você não pertence aqui.
-
-526
-00:29:12,567 --> 00:29:15,316
-Esse é meu tempo...
-
-527
-00:29:16,097 --> 00:29:19,184
-E vocês dois precisam ir.
-
-528
-00:29:22,868 --> 00:29:24,565
-Deus do tempo.
-
-529
-00:29:29,614 --> 00:29:32,751
-Obrigado por arruinar 
-meu dia perfeito, não.
-
-530
-00:29:33,012 --> 00:29:34,709
-Ei, Deon.
-
-531
-00:29:34,793 --> 00:29:38,138
-Por que vagabundear por volta de 1998? 
-Cara, eu pensei que você tinha saído
-
-532
-00:29:38,223 --> 00:29:40,723
-a vida de cidade pequena 
-para a faculdade e a NFL.
-
-533
-00:29:40,808 --> 00:29:43,166
-Não fui 
-eu!
-
-534
-00:29:49,348 --> 00:29:51,435
-<i>Você terá 30 minutos 
-para criar ...</i>
-
-535
-00:29:51,520 --> 00:29:53,614
-<i>um amuse-bouche 
-que vai fazer cócegas ...</i>
-
-536
-00:29:56,598 --> 00:29:59,535
-<i>Reproduz "Outra Mulher" do Pulse 
-...</i>
-
-537
-00:30:01,801 --> 00:30:03,260
-Oh droga.
-
-538
-00:30:03,344 --> 00:30:04,522
-<i>♪ poderia te fazer ver</i>
-
-539
-00:30:04,606 --> 00:30:07,916
-Katie, 
-acho que temos um problema.
-
-540
-00:30:13,004 --> 00:30:14,531
-O que você quer dizer?
-
-541
-00:30:14,707 --> 00:30:16,684
-Vovó Runk disse 
-que depois que você ganhou o estado ...
-
-542
-00:30:16,816 --> 00:30:18,927
-Foi 
-o quarterback da segunda série
-
-543
-00:30:19,011 --> 00:30:20,645
-que levou a equipe à vitória.
-
-544
-00:30:20,730 --> 00:30:22,605
-Não eu, seu idiota.
-
-545
-00:30:22,868 --> 00:30:25,652
-Me machuquei e fui eliminado 
-no primeiro quarto.
-
-546
-00:30:25,975 --> 00:30:27,512
-Ele obteve toda a vitória.
-
-547
-00:30:28,236 --> 00:30:29,675
-Mim?
-
-548
-00:30:29,829 --> 00:30:32,052
-Eu tenho quatro pinos no meu joelho
-
-549
-00:30:32,230 --> 00:30:34,996
-e um emprego vendendo carros usados.
-
-550
-00:30:36,158 --> 00:30:37,785
-Eu voltei ao passado
-
-551
-00:30:37,870 --> 00:30:41,790
-porque não tenho 
-futuro!
-
-552
-00:30:41,882 --> 00:30:43,512
-Isso é estranho,
-
-553
-00:30:43,726 --> 00:30:46,084
-porque seu futuro 
-parece brilhante para mim.
-
-554
-00:30:57,044 --> 00:30:59,263
-Vocês, idiotas, realmente acham 
-que podem me impedir?
-
-555
-00:31:00,231 --> 00:31:02,189
-Você está tropeçando.
-
-556
-00:31:04,579 --> 00:31:07,585
-- Oh, não é bom. 
-- Oh, droga.
-
-557
-00:31:07,669 --> 00:31:11,325
-Eu apenas apaguei do tempo. 
-Foi mal.
-
-558
-00:31:24,181 --> 00:31:26,447
-Alguém poderia me dizer
-
-559
-00:31:26,532 --> 00:31:30,191
-o que essa energia verde 
-está fazendo para minha cidade?
-
-560
-00:31:30,344 --> 00:31:32,479
-Existem isótopos geotérmicos 
-por toda a cidade,
-
-561
-00:31:32,563 --> 00:31:33,966
-o que significa que sabemos 
-que é uma das Forças.
-
-562
-00:31:34,050 --> 00:31:35,690
-Estamos apenas tentando 
-descobrir qual.
-
-563
-00:31:35,870 --> 00:31:37,801
-Isso costumava ser um tablet.
-
-564
-00:31:46,043 --> 00:31:47,973
-Então não sou só eu?
-
-565
-00:31:48,246 --> 00:31:49,738
-Bebezinha.
-
-566
-00:31:50,320 --> 00:31:53,504
-Você está incrível.
-
-567
-00:31:53,704 --> 00:31:55,215
-Você também, pai.
-
-568
-00:31:55,642 --> 00:31:57,129
-Geada.
-
-569
-00:31:58,223 --> 00:31:59,770
-Caitlin.
-
-570
-00:32:00,091 --> 00:32:01,791
-Obrigado por tentar.
-
-571
-00:32:02,047 --> 00:32:04,355
-Nora, Iris me disse que 
-você estava aqui,
-
-572
-00:32:04,440 --> 00:32:06,706
-mas ... é tão bom ver você.
-
-573
-00:32:06,791 --> 00:32:08,253
-É bom ver você também, 
-capitão.
-
-574
-00:32:09,494 --> 00:32:11,822
-As varreduras mostram que a 
-base isotópica é instável.
-
-575
-00:32:11,907 --> 00:32:14,304
-A onda verde está se espalhando 
-e indo em direção ao centro da cidade.
-
-576
-00:32:14,388 --> 00:32:15,661
-<i>O que é esse barulho?</i>
-
-577
-00:32:17,506 --> 00:32:20,208
-<i>Natalie? 
-Natalie!</i>
-
-578
-00:32:20,394 --> 00:32:21,551
+10
+00:00:38,919 --> 00:00:40,837
 <i>Natalie?</i>
 
-579
-00:32:31,971 --> 00:32:33,152
-Oh meu Deus.
+11
+00:01:03,777 --> 00:01:05,862
+24 HORAS ANTES
 
-580
-00:32:38,934 --> 00:32:40,808
-Consegui rastrear 
-a energia até uma cidade próxima.
+12
+00:01:07,322 --> 00:01:08,699
+O meu menino.
 
-581
-00:32:40,892 --> 00:32:42,506
-- Masonville? 
-- Cisco e Chester
+13
+00:01:09,741 --> 00:01:15,122
+Dou-lhe tudo o que posso para o curar.
+Ou seja, ficarei fraca mais algum tempo.
 
-582
-00:32:42,590 --> 00:32:44,192
-estavam instalando um 
-sistema de alerta antecipado por lá.
+14
+00:01:15,289 --> 00:01:18,041
+- Porque o Psico e a Fuerza te atacaram?
+- Sim.
 
-583
-00:32:44,276 --> 00:32:45,292
-Parece que 
-algo foi acionado
+15
+00:01:21,211 --> 00:01:24,256
+- Lembras-te do que aconteceu?
+- De algumas coisas.
 
-584
-00:32:45,376 --> 00:32:46,990
-o sensor do amplificador.
+16
+00:01:25,382 --> 00:01:29,303
+Quando renasci,
+estava rodeada de luz e amor.
 
-585
-00:32:47,160 --> 00:32:48,685
-Se eu puder acessar 
-a unidade de dados,
+17
+00:01:30,762 --> 00:01:32,180
+Depois, veio a dor.
 
-586
-00:32:48,770 --> 00:32:51,090
-Posso descobrir o 
-que desencadeou isso.
+18
+00:01:32,264 --> 00:01:36,101
+Senti que aquelas Forças da Natureza
+eram como eu, mas más.
 
-587
-00:32:51,840 --> 00:32:55,075
-- Temporal, como na viagem no tempo? 
-- Sim, mas esta energia
+19
+00:01:36,184 --> 00:01:41,815
+- Se são como tu, porque te tentam matar?
+- Não sei. Creio que para se alimentarem.
 
-588
-00:32:55,160 --> 00:32:58,341
-não corresponde a Psych ou Fuerza, o 
-que significa ...
+20
+00:01:43,567 --> 00:01:48,155
+Daí, ter procurado o Barry Allen.
+Pensei que me protegeria até eu recuperar.
 
-589
-00:32:58,426 --> 00:32:59,668
-O que significa que 
-estamos lidando
+21
+00:01:48,989 --> 00:01:52,701
+Mas, se as outras Forças
+me encontrarem assim, não sobreviverei.
 
-590
-00:32:59,753 --> 00:33:03,996
-com uma nova Força da Natureza 
-que pode ... alterar o tempo.
+22
+00:01:52,784 --> 00:01:56,705
+Não te preocupes.
+Acharemos um meio de te manter a salvo.
 
-591
-00:33:06,697 --> 00:33:07,989
-Apertem os cintos, idiotas,
+23
+00:01:57,289 --> 00:01:58,248
+De alguma forma.
 
-592
-00:33:08,320 --> 00:33:10,739
-porque uma vez que 
-eu reiniciei meu loop temporal,
+24
+00:02:00,834 --> 00:02:03,086
+Santo Henry T. Sampson!
 
-593
-00:33:11,138 --> 00:33:12,661
-você vai esquecer tudo.
+25
+00:02:04,046 --> 00:02:08,550
+É o verdadeiro, universal,
 
-594
-00:33:24,588 --> 00:33:26,388
-Temos que sair daqui. 
-Ele é muito poderoso.
+26
+00:02:08,842 --> 00:02:10,636
+imensamente interestelar,
 
-595
-00:33:26,473 --> 00:33:27,377
-Não podemos lutar contra ele sozinhos.
+27
+00:02:10,719 --> 00:02:13,555
+cosmoférico e alucinante...
 
-596
-00:33:27,461 --> 00:33:30,802
-Vamos. 
-Xadrez?
+28
+00:02:13,639 --> 00:02:17,851
+Sim, Chester P. Runk.
+Sou o Poder da Velocidade.
 
-597
-00:33:34,468 --> 00:33:36,723
-Eu não acredito em desistir.
+29
+00:02:20,896 --> 00:02:22,022
+Chessman...
 
-598
-00:33:36,916 --> 00:33:39,177
-Essas assinaturas isotópicas 
-estão se movendo em velocidades
+30
+00:02:22,731 --> 00:02:25,525
+Há novidades
+do sistema de deteção de isótopos?
 
-599
-00:33:39,262 --> 00:33:41,037
-isso deveria ser impossível.
+31
+00:02:25,609 --> 00:02:26,943
+Sim, na verdade...
 
-600
-00:33:41,122 --> 00:33:42,957
-Esta nova força
+32
+00:02:27,110 --> 00:02:29,613
+- Ela sabe o meu nome.
+- Acho que sabe.
 
-601
-00:33:43,041 --> 00:33:45,351
-está retrocedendo o tempo aleatoriamente,
+33
+00:02:29,696 --> 00:02:30,697
+Certo.
 
-602
-00:33:45,435 --> 00:33:46,570
-e não podemos pará-lo.
+34
+00:02:32,157 --> 00:02:34,076
+Observem, crentes.
 
-603
-00:33:46,654 --> 00:33:49,442
-O que acontece 
-se ficarmos presos
+35
+00:02:34,701 --> 00:02:38,246
+Este menino amplifica
+o sinal dos isótopos para os satélites.
 
-604
-00:33:49,526 --> 00:33:51,314
-em um desses bolsos de tempo?
+36
+00:02:38,580 --> 00:02:42,793
+Só temos de construir mais alguns,
+colocá-los na periferia da cidade e...
 
-605
-00:33:51,398 --> 00:33:53,794
-Podemos acabar 
-na Idade da Pedra.
+37
+00:02:42,959 --> 00:02:44,127
+Heureca!
 
-606
-00:33:53,979 --> 00:33:55,487
-Oh meu Deus.
+38
+00:02:44,586 --> 00:02:47,798
+Teríamos um pré-aviso
+se as Forças decidissem voltar.
 
-607
-00:33:55,619 --> 00:33:58,840
-Agora cabe à 
-Cisco e ao Chester.
+39
+00:02:47,881 --> 00:02:51,385
+Também conseguem detetar
+assinaturas de base isotópica.
 
-608
-00:34:02,539 --> 00:34:03,846
-- Ei. 
-- Eu, Deon.
+40
+00:02:51,468 --> 00:02:53,261
+Não saberemos só que vêm...
 
-609
-00:34:03,931 --> 00:34:05,327
-Escute-me.
+41
+00:02:53,345 --> 00:02:58,141
+Seja o Psico ou a Fuerza, saberemos
+qual dos dois vem na nossa direção.
 
-610
-00:34:05,460 --> 00:34:06,725
-Você pode nos fazer
+42
+00:02:58,225 --> 00:02:59,810
+Chester, é fantástico.
 
-611
-00:34:06,810 --> 00:34:08,565
-esqueça nossos futuros,
+43
+00:02:59,935 --> 00:03:04,981
+Podemos usá-lo para seguir outras Forças?
+E encontrá-las primeiro do que elas a nós?
 
-612
-00:34:09,503 --> 00:34:11,072
-mas não há poder 
-no mundo
+44
+00:03:05,399 --> 00:03:06,483
+Ainda não.
 
-613
-00:34:11,156 --> 00:34:13,855
-- isso vai fazer você esquecer o seu. 
-- Sim, me fale sobre isso.
+45
+00:03:06,566 --> 00:03:09,236
+Neste momento,
+só funcionam a curta distância...
 
-614
-00:34:14,699 --> 00:34:17,270
-Tentei reescrever 
-aquela noite 100 vezes.
+46
+00:03:10,362 --> 00:03:13,365
+Mas, agora,
+temos uma forma de ajudar a proteger-te.
 
-615
-00:34:17,565 --> 00:34:19,255
-Não importa o que eu tente fazer,
+47
+00:03:14,825 --> 00:03:17,869
+Quanto demoraria
+criar amplificadores suficientes?
 
-616
-00:34:19,339 --> 00:34:20,992
-Eu não posso mudar o 
-que acontece.
+48
+00:03:17,994 --> 00:03:20,956
+A carrinha do laboratório
+tem tudo o que é preciso.
 
-617
-00:34:21,819 --> 00:34:24,385
-O que aconteceu com você 
-deve ser um ponto fixo.
+49
+00:03:21,164 --> 00:03:25,419
+Podíamos construí-los no caminho.
 
-618
-00:34:25,029 --> 00:34:26,553
-Você não pode mudar isso.
+50
+00:03:25,585 --> 00:03:27,504
+Vamos a isto!
 
-619
-00:34:28,084 --> 00:34:29,697
-Então, talvez você deva 
-parar de tentar,
+51
+00:03:27,587 --> 00:03:30,465
+A Equipa Chesco trata disto!
 
-620
-00:34:29,782 --> 00:34:31,614
-e em vez disso 
-escolha ver
+52
+00:03:30,590 --> 00:03:31,675
+Vamos buscá-lo.
 
-621
-00:34:31,699 --> 00:34:34,502
-as possibilidades 
-em cada novo dia.
+53
+00:03:33,927 --> 00:03:35,429
+Separaram-nos à nascença.
 
-622
-00:34:34,923 --> 00:34:36,589
-Olha, seu futuro 
-ainda não está escrito, Deon.
+54
+00:03:38,849 --> 00:03:39,891
+Olá.
 
-623
-00:34:36,673 --> 00:34:39,049
-Eu odeio meu futuro!
+55
+00:03:40,600 --> 00:03:41,727
+O que se passa?
 
-624
-00:34:47,313 --> 00:34:50,232
-Eu deveria ser 
-o próximo Patrick Mahomes, cara.
+56
+00:03:41,810 --> 00:03:45,981
+O Norvok trouxe-me o resto das coisas
+de um dos esconderijos da Amunet.
 
-625
-00:34:50,317 --> 00:34:52,237
-Olha eu sei que é facil
+57
+00:03:46,064 --> 00:03:49,151
+Ia deitar tudo fora,
+mas, depois, senti-me inspirada.
 
-626
-00:34:53,321 --> 00:34:55,510
-para segurar as coisas ruins.
+58
+00:03:53,363 --> 00:03:54,239
+Está ótimo.
 
-627
-00:34:57,073 --> 00:34:58,250
-Desde que eu era criança,
+59
+00:03:54,322 --> 00:03:56,992
+Sim, vai dar à casa alguma personalidade.
 
-628
-00:34:58,334 --> 00:35:00,948
-Achei que meu pai se importava mais 
-com seu trabalho do que comigo.
+60
+00:03:57,325 --> 00:04:02,539
+- Desculpa. Queres pendurar isso aqui?
+- Sim. Essa parede vazia deixa-me louca.
 
-629
-00:35:01,032 --> 00:35:02,298
-Boo-hoo, cara.
+61
+00:04:03,665 --> 00:04:05,250
+Sabes o ditado...
 
-630
-00:35:02,382 --> 00:35:05,065
-E carreguei a mágoa 
-comigo por anos.
+62
+00:04:07,627 --> 00:04:08,879
+Duas cabeças...
 
-631
-00:35:06,035 --> 00:35:07,648
-Mas hoje,
+63
+00:04:09,755 --> 00:04:10,589
+O que achas?
 
-632
-00:35:07,865 --> 00:35:10,487
-quando olhei para o meu passado 
-com novos olhos ...
+64
+00:04:18,013 --> 00:04:19,848
+Falta-lhe qualquer coisa.
 
-633
-00:35:12,130 --> 00:35:15,612
-Vi que meu pai trabalhou muito 
-para me dar uma vida melhor.
+65
+00:04:31,902 --> 00:04:33,028
+Está melhor.
 
-634
-00:35:16,182 --> 00:35:19,581
-E assim que vi isso, 
-me ajudou a me livrar dessa dor, Deon.
+66
+00:04:34,696 --> 00:04:38,533
+A arte deve sempre provocar
+uma reação forte.
 
-635
-00:35:21,685 --> 00:35:23,635
-E você pode fazer o mesmo.
+67
+00:04:39,701 --> 00:04:40,869
+E provoca.
 
-636
-00:35:24,210 --> 00:35:26,955
-Mas não até que você pare de deixar 
-um momento no seu passado
+68
+00:04:44,164 --> 00:04:48,460
+E... o sensor está pronto.
 
-637
-00:35:27,102 --> 00:35:29,452
-defina todos os momentos 
-do seu futuro.
+69
+00:04:48,668 --> 00:04:49,503
+Excelente.
 
-638
-00:35:58,158 --> 00:35:59,495
-O futuro está em mim?
+70
+00:04:50,086 --> 00:04:52,422
+Quando o amplificador estiver ativo,
 
-639
-00:36:02,028 --> 00:36:03,511
+71
+00:04:52,506 --> 00:04:56,259
+temos o nosso sistema de pré-aviso.
+
+72
+00:04:56,676 --> 00:05:00,180
+Isso quer dizer
+que está na altura de café e <i>cronut.</i>
+
+73
+00:05:00,263 --> 00:05:01,431
+Café e <i>cronut...</i>
+
+74
+00:05:01,515 --> 00:05:04,142
+Sabes, há uma Sip&Dash em Masonville.
+
+75
+00:05:04,768 --> 00:05:07,187
+Pelo menos, havia.
+
+76
+00:05:09,606 --> 00:05:14,778
+Vivi lá, mas fui para Central City
+com a avó Runk quando acabei o secundário.
+
+77
+00:05:15,237 --> 00:05:16,154
+Muito bem.
+
+78
+00:05:16,571 --> 00:05:18,240
+- Estamos prontos.
+- Fixe.
+
+79
+00:05:25,705 --> 00:05:27,749
+- O quê?
+- Porquê?
+
+80
+00:05:30,085 --> 00:05:31,002
+Olha para isto.
+
+81
+00:05:32,212 --> 00:05:33,797
+O que achas?
+
+82
+00:05:33,880 --> 00:05:36,883
+Foi o filtro de neutrinos que falhou?
+
+83
+00:05:36,967 --> 00:05:39,010
+Cisco...
+
+84
+00:05:41,846 --> 00:05:42,806
+O quê?
+
+85
+00:05:52,816 --> 00:05:55,068
+Estamos bem? Estamos bem.
+
+86
+00:05:56,069 --> 00:05:59,030
+- O que foi aquilo?
+- Não faço ideia.
+
+87
+00:06:03,076 --> 00:06:05,704
+Bem, o sensor está a trabalhar.
+
+88
+00:06:13,420 --> 00:06:16,298
+- Dei-te o meu telemóvel?
+- Não.
+
+89
+00:06:16,923 --> 00:06:18,800
+O meu também desapareceu.
+
+90
+00:06:20,260 --> 00:06:21,344
+Espera.
+
+91
+00:06:21,845 --> 00:06:22,887
+A carrinha?
+
+92
+00:06:25,599 --> 00:06:26,558
+Estava aqui.
+
+93
+00:06:34,774 --> 00:06:38,486
+A carrinha tem algum
+modo de invisibilidade que eu desconheça?
+
+94
+00:06:38,570 --> 00:06:41,615
+- Um amigo queria saber.
+- Não é uma carrinha.
+
+95
+00:06:50,498 --> 00:06:51,625
+Ches,
+
+96
+00:06:52,834 --> 00:06:54,836
+estamos numa redoma.
+
+97
+00:06:59,299 --> 00:07:00,300
+Nora?
+
+98
+00:07:02,761 --> 00:07:03,887
+Estás bem?
+
+99
+00:07:05,013 --> 00:07:06,014
 Sim.
 
-640
-00:36:03,595 --> 00:36:05,760
-Então eu consigo descobrir 
-como é.
+100
+00:07:07,599 --> 00:07:10,101
+Só estou a garantir que nada lhe acontece.
 
-641
-00:36:08,846 --> 00:36:11,604
-Então, eu posso decidir o 
-que vai acontecer a partir de agora.
+101
+00:07:13,063 --> 00:07:14,773
+Como lidas com tudo isto?
 
-642
-00:36:12,815 --> 00:36:14,628
-Não só para mim ...
+102
+00:07:15,607 --> 00:07:18,234
+Nunca é fácil lidar com uma ameaça.
 
-643
-00:36:15,468 --> 00:36:16,951
-Mas para todos.
+103
+00:07:18,318 --> 00:07:20,445
+Sobretudo se afeta quem amamos.
 
-644
-00:36:26,066 --> 00:36:27,589
-É hora de pular.
+104
+00:07:22,864 --> 00:07:24,491
+Mas não te preocupes.
 
-645
-00:36:43,862 --> 00:36:45,963
-Bem, Barry, parece que 
-seus sinais vitais se estabilizaram.
+105
+00:07:24,741 --> 00:07:26,159
+Por esta altura, amanhã,
 
-646
-00:36:46,120 --> 00:36:47,364
-Como te sentes?
+106
+00:07:26,242 --> 00:07:28,536
+o Barry já vai estar bem, curado
 
-647
-00:36:47,448 --> 00:36:49,448
-Eu me sinto bem.
+107
+00:07:28,620 --> 00:07:31,039
+e aconchegado no sofá com a MBB dele.
 
-648
-00:36:50,321 --> 00:36:53,283
-Ainda não teve sorte em encontrar Deon?
+108
+00:07:34,209 --> 00:07:36,878
+MBB. A Manta Burrito do Barry.
 
-649
-00:36:53,367 --> 00:36:55,503
-Até agora, os 
-satélites não encontraram
+109
+00:07:37,087 --> 00:07:40,924
+É difícil de explicar.
 
-650
-00:36:55,588 --> 00:36:57,894
-quaisquer traços de sua 
-assinatura de energia temporal.
+110
+00:07:41,591 --> 00:07:43,009
+Não, eu percebo.
 
-651
-00:36:57,979 --> 00:37:00,334
-E ele é um deus do tempo, 
-então quem sabe onde
+111
+00:07:43,843 --> 00:07:46,596
+É uma coisa vossa.
 
-652
-00:37:00,418 --> 00:37:03,292
-ou quando ele pode estar se escondendo?
+112
+00:07:51,935 --> 00:07:54,604
+Na verdade, sabes que mais?
 
-653
-00:37:03,479 --> 00:37:07,198
-Além disso, acho que só 
-agora Deon está começando a perceber
+113
+00:07:55,605 --> 00:07:56,690
+Não tem de ser.
 
-654
-00:37:07,331 --> 00:37:09,212
-todo o escopo 
-de seus poderes.
+114
+00:07:58,566 --> 00:08:01,528
+Quero mostrar-te uma coisa. Vem comigo.
 
-655
-00:37:09,455 --> 00:37:10,910
-Mas eu não entendo.
+115
+00:08:06,783 --> 00:08:07,784
+Conseguimos!
 
-656
-00:37:10,995 --> 00:37:14,301
-Nem uma vez ele mencionou 
-correr atrás de você.
+116
+00:08:07,867 --> 00:08:11,538
+Vamos procurar um telefone
+para ligar para o laboratório antes...
 
-657
-00:37:15,102 --> 00:37:16,454
-Bem, ao contrário dos outros,
+117
+00:08:14,916 --> 00:08:17,168
+Diz-me que estás a ver o mesmo que eu.
 
-658
-00:37:16,539 --> 00:37:18,671
-ele pode não saber 
-que eu sobrevivi.
+118
+00:08:17,502 --> 00:08:21,006
+Tem algo que ver
+com podermos alugar <i>Space Jam?</i>
 
-659
-00:37:19,518 --> 00:37:21,777
-- Isso faz sentido. 
-- Sabe, é estranho.
+119
+00:08:21,381 --> 00:08:25,343
+Naquela Blockbuster que já não existe?
 
-660
-00:37:21,862 --> 00:37:24,316
-Cada vez que você e Chester 
-falam sobre Deon,
+120
+00:08:25,677 --> 00:08:26,636
+O MELHOR DE 1998
 
-661
-00:37:24,401 --> 00:37:26,605
-ele soa muito 
-mais razoável do que psicológico
+121
+00:08:26,720 --> 00:08:28,555
+Também vi uma Sip&Dash lá atrás
 
-662
-00:37:26,690 --> 00:37:28,558
-e muito menos letal do 
-que Fuerza.
+122
+00:08:28,763 --> 00:08:31,599
+que foi demolida
+quando andava no secundário.
 
-663
-00:37:28,643 --> 00:37:31,292
-Mesmo assim, ser capaz 
-de controlar o tempo
+123
+00:08:34,978 --> 00:08:36,855
+Acho que viajámos no tempo.
 
-664
-00:37:31,377 --> 00:37:33,082
-o torna 
-a Força mais poderosa até agora.
+124
+00:08:38,106 --> 00:08:39,232
+A sério?
 
-665
-00:37:33,167 --> 00:37:36,285
-Ele pode detê-lo em 
-seu caminho a qualquer hora, em qualquer lugar.
+125
+00:08:40,233 --> 00:08:44,320
+Então, hoje,
+vamos divertir-nos como se fosse 1998?
 
-666
-00:37:36,370 --> 00:37:37,503
-Esse é o seu poder.
+126
+00:08:56,332 --> 00:08:59,044
+Nenhuma cabine funciona.
+Não temos telemóveis.
 
-667
-00:37:37,588 --> 00:37:39,481
-É como se ele fosse o oposto 
-da Força de Velocidade.
+127
+00:08:59,169 --> 00:09:01,546
+E prenderam-nos numa barreira invisível.
 
-668
-00:37:39,565 --> 00:37:41,918
-Ele é a força imóvel.
+128
+00:09:02,213 --> 00:09:03,465
+Estamos presos...
 
-669
-00:37:42,002 --> 00:37:45,052
-O que eu acho 
-que faria Fuerza
+129
+00:09:04,549 --> 00:09:06,134
+... nos anos 90?
 
-670
-00:37:45,307 --> 00:37:47,346
-a Força Força.
+130
+00:09:06,968 --> 00:09:09,345
+Isto é mesmo épico!
 
-671
-00:37:47,571 --> 00:37:52,100
-E isso faria de Psych 
-a Sage Force.
+131
+00:09:09,763 --> 00:09:13,683
+Espera. Não. É mesmo radical!
 
-672
-00:37:55,580 --> 00:37:58,174
-Se esta nova Força é 
-mais poderosa do que eu,
+132
+00:09:15,143 --> 00:09:16,227
+Cheesy, acalma-te.
 
-673
-00:37:58,259 --> 00:37:59,838
-então como você o 
-derrotou, Cisco?
+133
+00:09:21,691 --> 00:09:23,985
+Ouve. Isto é fantástico?
 
-674
-00:38:00,112 --> 00:38:03,592
-Uh, eu não o derrotei.
+134
+00:09:24,527 --> 00:09:25,445
+Sim, é.
 
-675
-00:38:03,676 --> 00:38:04,963
-Chester P. Did.
+135
+00:09:25,570 --> 00:09:28,656
+Temos de perceber
+urgentemente como voltar para casa?
 
-676
-00:38:05,175 --> 00:38:07,267
-Uh, eu tive sorte.
+136
+00:09:28,782 --> 00:09:29,991
+Sim, temos.
 
-677
-00:38:07,383 --> 00:38:09,542
-Sim, vou deixar 
-o mano a mano
+137
+00:09:30,700 --> 00:09:35,038
+Como o faremos sem um DeLorean
+ou um jacuzzi?
 
-678
-00:38:09,640 --> 00:38:12,512
-com grandes males para o Flash 
-de agora em diante.
+138
+00:09:35,580 --> 00:09:37,707
+Analisando o que nos trouxe para cá.
 
-679
-00:38:13,337 --> 00:38:16,952
-Oh, essa é Kamilla.
+139
+00:09:38,249 --> 00:09:40,085
+Uma onda de energia verde
 
-680
-00:38:17,041 --> 00:38:20,000
-Deveríamos nos encontrar no Jitters. 
-Caitlin, você ainda está?
+140
+00:09:40,210 --> 00:09:43,880
+que parece saída do <i>Tartaruga 2.0,</i>
+<i>A Vingança da Baleia Branca.</i>
 
-681
-00:38:20,084 --> 00:38:21,385
-Absolutamente. 
-Deixe-me pegar minha bolsa.
+141
+00:09:44,005 --> 00:09:45,882
+Coincidência? Não me parece.
 
-682
-00:38:21,470 --> 00:38:22,996
-E você, Chess? 
-Você ainda está deprimido?
+142
+00:09:46,508 --> 00:09:49,928
+Ouve, sei que tu e o Tartaruga 2.0
+têm uma cena...
 
-683
-00:38:23,081 --> 00:38:25,478
-Não, na verdade eu tenho 
-uma missão a fazer,
+143
+00:09:50,011 --> 00:09:50,845
+Sim, temos.
 
-684
-00:38:25,563 --> 00:38:27,739
-mas trazer 
-um irmão de volta um Vibe-a-ccino?
+144
+00:09:52,055 --> 00:09:54,516
+Talvez não estejamos a lidar com um meta.
 
-685
-00:38:28,708 --> 00:38:30,439
-Duh.
+145
+00:09:55,225 --> 00:09:59,562
+Quando a onda chegou,
+o amplificador mostrou um pico isotópico.
 
-686
-00:38:30,712 --> 00:38:33,939
-Ei, você não teve sorte, 
-certo?
+146
+00:09:59,687 --> 00:10:01,397
+É uma das nossas Forças.
 
-687
-00:38:34,182 --> 00:38:35,880
-O que você fez lá fora ...
+147
+00:10:01,523 --> 00:10:04,025
+Vê as assinaturas.
+Foi a Fuerza ou o Psico?
 
-688
-00:38:37,380 --> 00:38:38,752
-Estou orgulhoso de você.
+148
+00:10:04,150 --> 00:10:05,151
+ENERGIA TEMPORAL
 
-689
-00:38:39,426 --> 00:38:40,778
+149
+00:10:05,235 --> 00:10:08,655
+Nenhum. O sensor detetou
+uma energia temporal.
+
+150
+00:10:08,947 --> 00:10:11,074
+Ou seja, há uma nova Força e...
+
+151
+00:10:11,157 --> 00:10:12,951
+E controla o tempo.
+
+152
+00:10:14,035 --> 00:10:16,287
+Temos de sair daqui e avisar a equipa.
+
+153
+00:10:16,371 --> 00:10:21,417
+- O Poder da Velocidade não está seguro.
+- Calma. Temos de saber quem enfrentamos.
+
+154
+00:10:22,001 --> 00:10:25,839
+O PV não perguntou se os amplificadores
+localizavam as Forças?
+
+155
+00:10:25,922 --> 00:10:26,756
 Sim.
 
-690
-00:38:40,863 --> 00:38:43,611
-Acho que sou apenas um homem 
-tentando fazer a coisa certa.
+156
+00:10:26,840 --> 00:10:29,425
+Se incorporarmos
+um díodo emissor no sensor...
 
-691
-00:38:44,848 --> 00:38:46,463
-Deixe meu Pops orgulhoso.
+157
+00:10:29,551 --> 00:10:31,886
+Irá restringir os circuitos isotópicos
 
-692
-00:38:50,854 --> 00:38:51,963
-Caitlin, se apresse.
+158
+00:10:31,970 --> 00:10:34,681
+e detetar uma nova Força
+num raio de 18 metros.
 
-693
-00:38:52,048 --> 00:38:54,486
-Estou tentando pegar este café 
-e um cronut.
+159
+00:10:34,764 --> 00:10:39,269
+Mas precisamos de um recetor
+com uma capacidade que ainda não existe.
 
-694
-00:38:55,324 --> 00:38:57,697
-Iris, graças a você,
+160
+00:10:45,567 --> 00:10:46,860
+Vamos às compras!
 
-695
-00:38:57,782 --> 00:38:59,955
-Estou vendo as coisas com 
-muito mais clareza agora.
+161
+00:10:50,405 --> 00:10:52,782
+Temos aqui uma Tech Station.
 
-696
-00:39:01,473 --> 00:39:03,434
-Bem, eu imagino que vocês dois 
-estão ansiosos para chegar em casa,
+162
+00:10:55,493 --> 00:10:57,954
+Ches, despacha-te! Isto é embaraçoso.
 
-697
-00:39:03,518 --> 00:39:05,567
-então te vejo pela manhã.
+163
+00:11:02,834 --> 00:11:03,835
+Estás a ver?
 
-698
-00:39:05,651 --> 00:39:07,569
-Esperar.
+164
+00:11:04,669 --> 00:11:10,466
+- O que para uns é lixo, para outros é...
+- Motivo para se vacinar contra o tétano?
 
-699
-00:39:07,653 --> 00:39:09,440
-Você vai ficar aqui esta noite?
+165
+00:11:12,135 --> 00:11:13,845
+Eu já fui vacinado.
 
-700
-00:39:09,524 --> 00:39:10,746
-Bem, eu quero saber agora 
-mesmo
+166
+00:11:16,639 --> 00:11:19,767
+Não acredito
+que usaste sucata para arranjar o sensor.
 
-701
-00:39:10,830 --> 00:39:13,488
-se os satélites 
-encontrarem as outras Forças.
+167
+00:11:20,143 --> 00:11:23,730
+Pensa nisso como um...
+Localizador de Forças reaproveitado.
 
-702
-00:39:13,572 --> 00:39:14,881
-Sim, não, eu entendo isso,
+168
+00:11:26,566 --> 00:11:31,070
+Descansa em paz, Ultrafax 4000.
+Já não se fazem mais como tu.
 
-703
-00:39:14,965 --> 00:39:17,141
-mas receberemos um alerta 
-se isso acontecer.
+169
+00:11:32,238 --> 00:11:35,992
+Muito bem.
+Vamos lá encontrar um deus do tempo.
 
-704
-00:39:17,968 --> 00:39:20,408
-Nora, temos lençóis limpos
+170
+00:11:38,202 --> 00:11:39,913
+A escola secundária?
 
-705
-00:39:20,492 --> 00:39:23,451
-em nosso quarto de hóspedes 
-e muitos cobertores.
+171
+00:11:40,163 --> 00:11:44,208
+O sensor diz que estão algures aqui.
+Vamos a isto.
 
-706
-00:39:24,235 --> 00:39:27,847
-- Parece aconchegante. 
-- Sim é.
+172
+00:11:44,292 --> 00:11:46,169
+Espera. A sério?
 
-707
-00:39:28,476 --> 00:39:30,176
-Você deveria ficar 
-conosco esta noite.
+173
+00:11:46,920 --> 00:11:49,589
+O diretor daqui
+não é nada paciente, entendes?
 
-708
-00:39:30,261 --> 00:39:31,480
-Certo, Barry?
+174
+00:11:49,672 --> 00:11:52,675
+Certo. Então, entramos à socapa, simples.
 
-709
-00:39:33,561 --> 00:39:37,208
-Um,
-sure.
+175
+00:11:54,135 --> 00:11:57,931
+Temos de passar despercebidos.
+De estar ao nível deles.
 
-710
-00:39:39,512 --> 00:39:41,786
-Sim claro.
+176
+00:12:00,600 --> 00:12:01,476
+Vamos.
 
-711
-00:39:43,670 --> 00:39:46,091
-Você não tem ideia do quanto 
-isso significaria para mim.
+177
+00:12:04,020 --> 00:12:05,104
+PERDIDOS E ACHADOS
 
-712
-00:39:46,196 --> 00:39:47,418
-Mesmo.
+178
+00:12:23,498 --> 00:12:25,583
+Muito bem. Eis o plano.
 
-713
-00:39:47,549 --> 00:39:49,159
-O prazer é nosso.
+179
+00:12:26,334 --> 00:12:31,089
+Fazemos perguntas para ver se alguém
+tem planos diabólicos para mudar o futuro.
 
-714
-00:40:10,430 --> 00:40:12,176
-Eu tenho você, Pops.
+180
+00:12:31,172 --> 00:12:33,508
+- Sim.
+- E, depois, vemos o sensor.
 
-715
-00:40:14,044 --> 00:40:16,020
-É hora de terminar o 
-que você começou.
+181
+00:12:33,758 --> 00:12:36,844
+- Se disparar...
+- Encontrámos o nosso deus do tempo.
 
-716
-00:40:32,606 --> 00:40:33,692
-OK.
+182
+00:12:36,928 --> 00:12:37,887
+Vamo-nos a ele!
 
-717
-00:40:42,017 --> 00:40:43,979
-Oh, no.
+183
+00:12:40,848 --> 00:12:41,891
+Para o anuário?
 
-718
-00:40:44,126 --> 00:40:46,028
-Não, não, não, não, não, não, não.
+184
+00:12:42,976 --> 00:12:46,604
+Sim. Para a secção
+"Previsão Falcon Sobre o Futuro".
 
-719
-00:40:46,113 --> 00:40:48,031
-É essa maldita bolha de tempo de volta?
+185
+00:12:48,106 --> 00:12:49,315
+Qual era a pergunta?
 
-720
-00:40:48,235 --> 00:40:50,044
-Oh não. 
-Eu só gostei do visual,
+186
+00:12:51,275 --> 00:12:52,944
+Onde te vês daqui a 23 anos?
 
-721
-00:40:50,129 --> 00:40:52,308
-então decidi dar 
-uma passada em um brechó.
+187
+00:12:59,575 --> 00:13:01,995
+<i>Ela revira os olhos</i>
+<i>Quando começo a cantar</i>
 
-722
-00:40:52,550 --> 00:40:54,512
-Pegou esses meninos maus também.
+188
+00:13:02,245 --> 00:13:04,580
+<i>Caído no palco</i>
+<i>E a miúda a desertar</i>
 
-723
-00:40:54,711 --> 00:40:56,977
-- Ouça, precisamos conversar. 
-- ECA.
+189
+00:13:04,664 --> 00:13:07,041
+<i>Queixa-se que a versar sou desanimador</i>
 
-724
-00:40:57,108 --> 00:40:59,481
-Nada de bom começa 
-com "Precisamos conversar".
+190
+00:13:07,125 --> 00:13:08,751
+<i>Abana a bola mágica e diz</i>
 
-725
-00:40:59,566 --> 00:41:03,640
-Este novo contato estadual 
-que está auditando a CCPD,
+191
+00:13:08,876 --> 00:13:10,670
+<i>"Vês? É desolador"</i>
 
-726
-00:41:03,725 --> 00:41:05,106
-o nome dela é Kristen Kramer,
+192
+00:13:10,795 --> 00:13:11,796
+<i>Sim</i>
 
-727
-00:41:05,191 --> 00:41:07,084
-Acabei de descobrir 
-que ela está aqui para pegar
+193
+00:13:12,213 --> 00:13:13,214
+Sim.
 
-728
-00:41:07,169 --> 00:41:09,211
-um perigoso 
-meta-humano fugitivo.
+194
+00:13:14,173 --> 00:13:15,383
+Vinte e três, sim.
 
-729
-00:41:09,296 --> 00:41:12,817
-- Hmm. 
-- Ela está aqui pelo Killer Frost.
+195
+00:13:16,551 --> 00:13:20,638
+Daqui a 23 anos,
+serei como todos nesta escola idiota.
 
-730
-00:41:15,028 --> 00:41:17,936
-- Isso não é mais quem eu sou. 
+196
+00:13:21,723 --> 00:13:24,058
+Uma <i>zombie.</i> Completamente morta.
+
+197
+00:13:25,059 --> 00:13:27,687
+<i>Sou do melhor</i>
+<i>Vou arrasar no futuro, vão ver</i>
+
+198
+00:13:27,770 --> 00:13:29,188
+<i>Com este meu rap</i>
+
+199
+00:13:29,272 --> 00:13:30,732
+<i>Vão pasmar, podem crer</i>
+
+200
+00:13:31,024 --> 00:13:34,902
+Morta por dentro,
+por ser uma escrava num emprego ingrato.
+
+201
+00:13:36,863 --> 00:13:39,699
+- Boa! Os empregos são maus.
+- É tudo.
+
+202
+00:13:41,617 --> 00:13:42,493
+Sim. Continua.
+
+203
+00:13:42,952 --> 00:13:45,496
+- Sempre a rimar!
+- Sim, é isso, meu!
+
+204
+00:13:45,580 --> 00:13:48,374
+<i>Com este meu rap</i>
+<i>Vão pasmar, podem crer</i>
+
+205
+00:13:49,625 --> 00:13:51,335
+<i>É a minha Previsão Falcon</i>
+
+206
+00:13:51,419 --> 00:13:53,546
+<i>Sou o Reggie Q., tchauzão!</i>
+
+207
+00:13:55,006 --> 00:13:57,133
+- Deixar cair o microfone.
+- Boa.
+
+208
+00:13:57,216 --> 00:13:59,385
+- Sempre a rimar...
+- Sim.
+
+209
+00:13:59,761 --> 00:14:01,387
+- Não.
+- Não? Certo.
+
+210
+00:14:05,975 --> 00:14:08,436
+- E vão dois...
+- Não, não vão dois.
+
+211
+00:14:08,519 --> 00:14:09,896
+K, meu. Topa!
+
+212
+00:14:10,146 --> 00:14:11,481
+Os meus pais deram-mo.
+
+213
+00:14:11,564 --> 00:14:15,234
+Querem que a NFL
+me consiga contactar a qualquer hora.
+
+214
+00:14:15,318 --> 00:14:17,695
+- Muito fixe, não é?
+- Sim. Boa, Deon.
+
+215
+00:14:17,779 --> 00:14:18,613
+Sim, meu.
+
+216
+00:14:19,030 --> 00:14:23,785
+No futuro, quero ser como o Deon.
+Ele vai arrasar na final estatal amanhã.
+
+217
+00:14:23,951 --> 00:14:26,079
+É isso mesmo, K. Estamos no ir!
+
+218
+00:14:31,584 --> 00:14:32,585
+Bem...
+
+219
+00:14:33,419 --> 00:14:34,462
+Não é ele.
+
+220
+00:14:46,474 --> 00:14:49,477
+Aqueles idiotas vão ver
+o que o futuro lhes reserva.
+
+221
+00:14:56,234 --> 00:14:57,944
+Parker, certo?
+
+222
+00:14:58,277 --> 00:15:02,198
+Podes dispensar-nos uns minutos
+para te fazermos umas perguntas?
+
+223
+00:15:02,532 --> 00:15:03,491
+Quem são vocês?
+
+224
+00:15:03,866 --> 00:15:05,326
+- Somos alunos.
+- Alunos.
+
+225
+00:15:05,410 --> 00:15:07,829
+- Como tu.
+- Parecem o meu pai a falar.
+
+226
+00:15:10,623 --> 00:15:12,875
+Vá lá. Não sejas ridículo.
+
+227
+00:15:12,959 --> 00:15:16,129
+- Temos 17 anos.
+- Eu tenho 16.
+
+228
+00:15:16,212 --> 00:15:20,550
+Adoramos o <i>Dragon Ball.</i>
+Gostamos dos Pega Monstros e do <i>Matrix.</i>
+
+229
+00:15:22,343 --> 00:15:24,637
+O <i>Matrix</i> ainda não estreou.
+
+230
+00:15:24,720 --> 00:15:27,390
+Bolas! Viste?
+Tive um pressentimento... Espera.
+
+231
+00:15:29,183 --> 00:15:31,269
+- Como sabias?
+- Algo não está bem.
+
+232
+00:15:32,520 --> 00:15:35,982
+Têm de me ajudar. Por favor.
+Estamos presos no mesmo dia.
+
+233
+00:15:36,065 --> 00:15:39,735
+Não, esperem.
+Já sabe que me consegui libertar.
+
+234
+00:15:41,028 --> 00:15:43,197
+Vai começar de novo! Céus!
+
+235
+00:15:44,532 --> 00:15:46,284
+Outra vez, não!
+
+236
+00:15:48,870 --> 00:15:49,996
+Certo.
+
+237
+00:15:51,372 --> 00:15:52,582
+Aquilo foi estranho.
+
+238
+00:16:00,882 --> 00:16:02,008
+Estás bem, meu?
+
+239
+00:16:03,885 --> 00:16:04,760
+Quem és tu?
+
+240
+00:16:07,138 --> 00:16:08,347
+Onde estou?
+
+241
+00:16:10,683 --> 00:16:12,393
+Tirou-me o meu capacete?
+
+242
+00:16:13,811 --> 00:16:16,022
+Meu, sou eu, o Chester.
+
+243
+00:16:16,647 --> 00:16:17,773
+Não.
+
+244
+00:16:18,483 --> 00:16:20,902
+Eu não o conheço.
+
+245
+00:16:21,527 --> 00:16:22,778
+Alerta de estranho!
+
+246
+00:16:23,237 --> 00:16:24,947
+Alerta de estranho.
+
+247
+00:16:26,115 --> 00:16:27,200
+Cisco?
+
+248
+00:16:27,909 --> 00:16:29,160
+Que idade tens?
+
+249
+00:16:30,745 --> 00:16:32,330
+Sete anos, seu tarado!
+
+250
+00:16:34,415 --> 00:16:36,959
+Porque achas que ainda estamos em 1998.
+
+251
+00:16:38,377 --> 00:16:39,337
+Não.
+
+252
+00:16:43,508 --> 00:16:45,468
+- Cisco.
+- Não venha atrás de mim.
+
+253
+00:16:45,551 --> 00:16:50,014
+- Não quero entrar na sua carrinha!
+- Não te quero fazer mal. Ouve-me, sim?
+
+254
+00:16:50,181 --> 00:16:51,766
+Não tens sete anos.
+
+255
+00:16:51,849 --> 00:16:56,729
+Tens 30. E és um cientista
+nos Laboratórios STAR. Lembras-te?
+
+256
+00:16:57,104 --> 00:16:58,981
+De visitar a Atlântida?
+
+257
+00:16:59,106 --> 00:17:01,484
+Ou do Tubarão-Rei contra o Grodd?
+
+258
+00:17:02,985 --> 00:17:05,238
+Céus! Pelo menos, <i>A Guerra dos Tronos!</i>
+
+259
+00:17:06,364 --> 00:17:08,491
+- O Mindinho.
+- Sim.
+
+260
+00:17:09,158 --> 00:17:11,327
+- O Trono de Ferro.
+- Sim.
+
+261
+00:17:11,619 --> 00:17:15,164
+- "The Rains of Castamere."
+- "The Rains of Castamere." Sim!
+
+262
+00:17:15,248 --> 00:17:16,290
+Chester.
+
+263
+00:17:18,918 --> 00:17:23,214
+Como viemos cá parar? A última coisa
+de que me lembro é do Parker a fugir.
+
+264
+00:17:23,297 --> 00:17:25,383
+Não, ele não é o nosso Biff Tannen.
+
+265
+00:17:25,466 --> 00:17:28,010
+Uma referência moderna acordou-o,
+como a ti.
+
+266
+00:17:28,261 --> 00:17:29,762
+Voltámos à rua principal!
+
+267
+00:17:30,805 --> 00:17:32,390
+Antes de a onda chegar,
+
+268
+00:17:33,015 --> 00:17:36,477
+o Parker disse: "Vai começar de novo."
+
+269
+00:17:39,355 --> 00:17:41,816
+QUE VENHA O NOVO
+
+270
+00:17:50,491 --> 00:17:51,409
+Temos de ir.
+
+271
+00:17:59,083 --> 00:18:00,585
+É um ciclo temporal.
+
+272
+00:18:00,710 --> 00:18:04,297
+Isto não é sobre mudar o futuro,
+é sobre reviver o mesmo dia.
+
+273
+00:18:05,881 --> 00:18:07,133
+4 DE DEZEMBRO DE 1998
+
+274
+00:18:07,216 --> 00:18:11,095
+O Parker acordou e reiniciou o ciclo.
+Mas porque não te afetou?
+
+275
+00:18:12,513 --> 00:18:16,017
+Acho que o sensor absorveu
+a energia temporal e me protegeu.
+
+276
+00:18:17,184 --> 00:18:19,520
+Mas parece que não voltará a acontecer.
+
+277
+00:18:19,604 --> 00:18:21,022
+Não pode ser.
+
+278
+00:18:21,939 --> 00:18:23,399
+Temos de o consertar.
+
+279
+00:18:23,482 --> 00:18:26,611
+Senão, se o ciclo reiniciar,
+não estaremos protegidos.
+
+280
+00:18:26,694 --> 00:18:30,031
+Vamos esquecer o futuro
+e ficar presos cá como os outros.
+
+281
+00:18:30,114 --> 00:18:33,618
+- Temos de o fazer já!
+- A casa da avó Runk tem o que falta.
+
+282
+00:18:33,701 --> 00:18:34,869
+Perfeito. Vamos lá.
+
+283
+00:18:34,952 --> 00:18:36,662
+E temos de tentar descobrir
+
+284
+00:18:36,746 --> 00:18:38,914
+o que tem de tão especial este dia.
+
+285
+00:18:42,043 --> 00:18:46,130
+Sabes que mais?
+O que falta não está na casa da avó Runk.
+
+286
+00:18:47,840 --> 00:18:50,968
+- Está num sítio melhor.
+- O lixo outra vez, não!
+
+287
+00:18:53,262 --> 00:18:55,389
+Esta manta é mesmo adorada.
+
+288
+00:18:55,890 --> 00:18:57,266
+Tem-na há anos.
+
+289
+00:18:59,685 --> 00:19:03,981
+- Como é que envolver-se nela ajuda?
+- Não se trata propriamente da manta.
+
+290
+00:19:04,065 --> 00:19:08,778
+É mais o envolver-se
+nas memórias e no conforto
+
+291
+00:19:08,861 --> 00:19:10,738
+associados à manta.
+
+292
+00:19:14,575 --> 00:19:17,953
+É como ser abraçado
+por alguém que nos ama.
+
+293
+00:19:19,747 --> 00:19:25,878
+Foi a mãe dele que a fez.
+Ele não fala muito dela.
+
+294
+00:19:26,629 --> 00:19:27,672
+Nem contigo?
+
+295
+00:19:32,677 --> 00:19:34,512
+Eles eram muito chegados.
+
+296
+00:19:35,596 --> 00:19:37,223
+Lembrar-lhe o que aconteceu
+
+297
+00:19:38,224 --> 00:19:40,601
+obriga-o a pensar naquela noite.
+
+298
+00:19:43,896 --> 00:19:45,648
+Em toda a violência...
+
+299
+00:19:46,357 --> 00:19:47,441
+Isso fica com ele.
+
+300
+00:19:48,150 --> 00:19:50,820
+Oxalá conseguisse
+fazer isso desaparecer, mas...
+
+301
+00:19:52,071 --> 00:19:53,197
+... não consigo.
+
+302
+00:20:07,962 --> 00:20:14,051
+- TI-82. Miúda, continuas a ser ótima.
+- Para de namoriscar com as calculadoras.
+
+303
+00:20:14,135 --> 00:20:16,053
+- Temos um problema.
+- O que foi?
+
+304
+00:20:16,846 --> 00:20:18,639
+O último transformador X-76
+
+305
+00:20:19,140 --> 00:20:21,475
+acabou de ser vendido àquele tipo.
+
+306
+00:20:28,524 --> 00:20:32,570
+Tem calma. Não deve haver problema.
+Parece ser uma pessoa razoável.
+
+307
+00:20:32,653 --> 00:20:34,488
+Oferecemo-nos para lho comprar.
+
+308
+00:20:34,697 --> 00:20:36,574
+Não. Não podemos fazer isso.
+
+309
+00:20:37,158 --> 00:20:38,951
+Está bem. Porque não?
+
+310
+00:20:44,582 --> 00:20:48,169
+- Ches, o que se passa?
+- Não podemos porque...
+
+311
+00:20:50,546 --> 00:20:51,464
+... é o meu pai.
+
+312
+00:20:53,716 --> 00:20:55,843
+Sou a última pessoa a quem ajudaria.
+
+313
+00:21:03,225 --> 00:21:04,935
+Contas-me o que se passa?
+
+314
+00:21:07,146 --> 00:21:10,775
+O meu pai era um tipo inteligente,
+
+315
+00:21:12,359 --> 00:21:16,489
+estava sempre a viajar, a tentar
+enriquecer com a sua última invenção...
+
+316
+00:21:18,407 --> 00:21:20,034
+Nunca tinha tempo para mim.
+
+317
+00:21:22,995 --> 00:21:25,790
+Só dizia: "Desculpa, filho.
+
+318
+00:21:26,707 --> 00:21:28,250
+Não acredito em desistir."
+
+319
+00:21:35,508 --> 00:21:38,803
+- Seja o que for que aconteceu...
+- Amanhã, o meu pai morre
+
+320
+00:21:39,887 --> 00:21:43,557
+num acidente a caminho
+de uma reunião importante em Coast City.
+
+321
+00:21:46,644 --> 00:21:48,604
+Vejo-o vivo pela última vez hoje.
+
+322
+00:21:57,154 --> 00:21:58,072
+Lamento.
+
+323
+00:22:02,993 --> 00:22:07,498
+Não é fácil para ninguém.
+Muito menos para um miúdo.
+
+324
+00:22:10,417 --> 00:22:11,335
+E se...
+
+325
+00:22:13,212 --> 00:22:15,172
+E se estás aqui por algum motivo?
+
+326
+00:22:17,925 --> 00:22:22,555
+Esta pode ser a tua oportunidade
+para falares com ele.
+
+327
+00:22:23,681 --> 00:22:25,224
+De que adiantaria?
+
+328
+00:22:27,017 --> 00:22:30,437
+Não o posso salvar.
+Isso iria reiniciar o ciclo temporal.
+
+329
+00:22:32,940 --> 00:22:37,945
+Não, só tenho de aguentar.
+E fazer o que tenho de fazer.
+
+330
+00:22:48,539 --> 00:22:49,373
+Eu compreendo.
+
+331
+00:22:52,793 --> 00:22:55,588
+Não te preocupes com o transformador.
+
+332
+00:22:57,798 --> 00:22:58,716
+Eu trato disso.
+
+333
+00:22:59,800 --> 00:23:01,302
+Vais falar com o meu pai?
+
+334
+00:23:01,719 --> 00:23:04,096
+Só o tempo suficiente para ter o X-76.
+
+335
+00:23:04,221 --> 00:23:07,349
+Depois, volto, consertamos o sensor
+
+336
+00:23:07,725 --> 00:23:10,477
+e tudo volta ao normal.
+
+337
+00:23:12,938 --> 00:23:15,816
+É o que queres, certo?
+
+338
+00:23:29,580 --> 00:23:33,167
+Graças a Deus! Tinhas de estar
+num sítio que o Barry conhece,
+
+339
+00:23:33,250 --> 00:23:36,670
+mas não estavas no laboratório,
+e, no CCPD, era improvável.
+
+340
+00:23:38,172 --> 00:23:40,341
+Sei que ele adora este café.
+
+341
+00:23:43,802 --> 00:23:47,848
+Nunca considerei
+o quanto a morte da mãe ainda o afetava.
+
+342
+00:23:49,350 --> 00:23:50,309
+O que fui fazer?
+
+343
+00:23:53,312 --> 00:23:54,980
+Mudarei o meu aspeto.
+
+344
+00:23:55,814 --> 00:23:58,901
+A partir de agora,
+assumirei a minha forma como raio,
+
+345
+00:23:59,026 --> 00:24:01,862
+porque não posso continuar
+a magoá-lo assim.
+
+346
+00:24:02,655 --> 00:24:04,990
+Não o magoas. És uma dádiva.
+
+347
+00:24:06,533 --> 00:24:07,368
+Como?
+
+348
+00:24:08,661 --> 00:24:12,623
+Tal como a manta o faz recordar a mãe.
+
+349
+00:24:13,499 --> 00:24:16,543
+Essa memória dá-lhe conforto e paz.
+Contigo é igual.
+
+350
+00:24:17,836 --> 00:24:22,633
+- Então, não sou uma recordação dolorosa?
+- Não, de todo. És uma boa recordação.
+
+351
+00:24:25,344 --> 00:24:29,223
+Eu posso ser o para-raios dele,
+mas tu és o raio.
+
+352
+00:24:29,848 --> 00:24:30,933
+Obrigada.
+
+353
+00:24:56,834 --> 00:25:01,088
+- Posso ajudá-lo, jovem?
+- A mim? Sim.
+
+354
+00:25:02,381 --> 00:25:04,717
+Quero comprar-lhe o transformador X-76.
+
+355
+00:25:07,845 --> 00:25:10,973
+O que o faz pensar que tenho um, senhor...
+
+356
+00:25:11,849 --> 00:25:15,602
+Boyega, John Boyega.
+
+357
+00:25:16,478 --> 00:25:20,607
+Na loja,
+disseram que o senhor comprou o último
+
+358
+00:25:20,733 --> 00:25:24,236
+e que só vão receber mais
+para a semana, por isso...
+
+359
+00:25:30,159 --> 00:25:31,368
+Gostava de o ajudar,
+
+360
+00:25:32,745 --> 00:25:35,122
+mas também preciso do transformador.
+
+361
+00:25:36,498 --> 00:25:40,002
+Para uma invenção importante, certo?
+
+362
+00:25:41,170 --> 00:25:43,672
+Não. Para deitar fora.
+
+363
+00:25:48,051 --> 00:25:50,137
+O meu filho Chester tem um projeto.
+
+364
+00:25:50,804 --> 00:25:51,889
+Vi os planos dele.
+
+365
+00:25:52,264 --> 00:25:56,935
+Daqui a dois dias, vai precisar daquilo,
+mas, nessa altura, estarei a viajar.
+
+366
+00:25:59,188 --> 00:26:04,193
+Deito-o fora agora, para que o encontre
+depois, quando precisar dele.
+
+367
+00:26:06,528 --> 00:26:08,113
+Tem filhos, Sr. Boyega?
+
+368
+00:26:09,698 --> 00:26:14,953
+- Um dia, se tiver, vai entender.
+- Porque não lho dá simplesmente?
+
+369
+00:26:17,206 --> 00:26:19,750
+Assim, ensino-o
+a saber resolver problemas.
+
+370
+00:26:21,585 --> 00:26:24,129
+- Isso é brilhante.
 - Eu sei.
 
-731
-00:41:18,147 --> 00:41:20,780
-Eu só tenho que encontrar uma maneira 
-de fazê-la ver isso.
+371
+00:26:24,922 --> 00:26:29,927
+Além disso, aprenderá a ver um tesouro...
+onde os outros veem lixo.
 
-732
-00:41:21,140 --> 00:41:23,711
-Nesse ínterim, 
-você precisa se esconder.
+372
+00:26:32,721 --> 00:26:36,099
+Faz muitas vezes isto por ele?
 
-733
-00:41:23,796 --> 00:41:25,255
-Sim. 
-Isso não vai acontecer.
+373
+00:26:36,433 --> 00:26:40,771
+Tudo o que faço é por ele.
+É a razão por que me levanto de manhã.
 
-734
-00:41:25,356 --> 00:41:27,448
-Ela é ex 
--Inteligência do Exército, Frost.
+374
+00:26:49,029 --> 00:26:52,699
+Nunca se arrepende
+de estar sempre a trabalhar tanto?
 
-735
-00:41:27,533 --> 00:41:30,085
-Não me importo se ela é 
-Xena, Princesa Guerreira.
+375
+00:26:53,575 --> 00:26:54,827
+Sou o pai dele.
 
-736
-00:41:30,197 --> 00:41:32,550
-Estou finalmente livre 
-para viver minha própria vida,
+376
+00:26:59,289 --> 00:27:01,542
+Merece todos os meus sacrifícios.
 
-737
-00:41:32,635 --> 00:41:35,146
-e ninguém vai tirar isso 
-de mim.
+377
+00:27:05,671 --> 00:27:06,588
+Além disso...
 
-738
-00:41:35,231 --> 00:41:39,325
-Então, se essa Kristen Kramer 
-quiser vir atrás de mim,
+378
+00:27:08,715 --> 00:27:09,842
+... em relação a ele...
 
-739
-00:41:39,457 --> 00:41:42,413
-então eu digo venha.
+379
+00:27:11,885 --> 00:27:13,512
+... não acredito em desistir.
+
+380
+00:27:18,100 --> 00:27:22,312
+Então, não se preocupa mais
+com o trabalho do que com o seu filho.
+
+381
+00:27:24,439 --> 00:27:26,441
+Preocupa-se com o trabalho porque...
+
+382
+00:27:27,234 --> 00:27:32,155
+Sou só um homem. A tentar fazer o correto.
+Quero deixar o meu filho orgulhoso.
+
+383
+00:27:41,832 --> 00:27:43,166
+Pois, isto é estranho.
+
+384
+00:27:45,669 --> 00:27:46,587
+Desculpe.
+
+385
+00:27:47,546 --> 00:27:49,172
+É que foi muito inspirador.
+
+386
+00:27:50,799 --> 00:27:53,719
+Espero, um dia,
+também poder vir a ser um bom pai.
+
+387
+00:27:55,762 --> 00:28:00,559
+Algo me diz que vai ser.
+Mas não lhe vou vender o transformador.
+
+388
+00:28:03,729 --> 00:28:07,441
+Mas, se precisa mesmo de um,
+acho que tenho uma ideia.
+
+389
+00:28:13,822 --> 00:28:14,740
+Segure nisso.
+
+390
+00:28:17,117 --> 00:28:22,497
+<i>- Cisco, o meu pai é mesmo porreiro.</i>
+<i>- Parece que sim.</i>
+
+391
+00:28:24,374 --> 00:28:26,501
+Ainda bem que tivemos um dia juntos.
+
+392
+00:28:28,462 --> 00:28:30,631
+Fez-me ver que não é só inteligente.
+
+393
+00:28:32,257 --> 00:28:34,760
+O tipo é um génio. Vê só.
+
+394
+00:28:37,846 --> 00:28:40,766
+Construímo-lo juntos.
+
+395
+00:28:48,732 --> 00:28:50,067
+Sabes o que significa?
+
+396
+00:28:50,859 --> 00:28:53,487
+Já podemos interromper
+os isótopos temporais...
+
+397
+00:28:53,612 --> 00:28:55,239
+E voltar para casa!
+
+398
+00:28:55,322 --> 00:28:57,741
+- Sim!
+- Cromos, estava à vossa procura.
+
+399
+00:28:59,868 --> 00:29:01,745
+Olá, Deon. Estávamos mesmo a...
+
+400
+00:29:02,579 --> 00:29:04,581
+... a pensar ir à Blockbuster.
+
+401
+00:29:05,040 --> 00:29:07,292
+- Já viste <i>Space Jam?</i>
+- Quatro vezes.
+
+402
+00:29:07,417 --> 00:29:08,418
+É muito bom.
+
+403
+00:29:08,543 --> 00:29:12,381
+Hora de os dois Screechs irem embora.
+Porque, sejam lá quem forem,
+
+404
+00:29:14,716 --> 00:29:15,968
+não pertencem aqui.
+
+405
+00:29:17,177 --> 00:29:18,845
+Este é o meu tempo
+
+406
+00:29:20,472 --> 00:29:22,307
+e vocês têm de se ir embora.
+
+407
+00:29:27,062 --> 00:29:28,480
+O deus do tempo.
+
+408
+00:29:34,945 --> 00:29:37,656
+Obrigado por estragarem o dia perfeito.
+Ou não.
+
+409
+00:29:38,282 --> 00:29:39,366
+Calma, Deon.
+
+410
+00:29:40,158 --> 00:29:42,160
+Porquê vaguear em 1998?
+
+411
+00:29:42,244 --> 00:29:45,789
+Não trocaste a vida da cidade pequena
+pela faculdade e a NFL?
+
+412
+00:29:45,872 --> 00:29:47,916
+Não era eu!
+
+413
+00:29:54,756 --> 00:29:57,718
+<i>Têm 30 minutos para fazer um</i>
+amuse-bouche...
+
+414
+00:30:07,227 --> 00:30:08,312
+Bolas!
+
+415
+00:30:09,938 --> 00:30:12,607
+Caity, acho que temos um problema.
+
+416
+00:30:18,488 --> 00:30:21,908
+Como assim? A avó Runk disse que,
+depois de serem campeões...
+
+417
+00:30:22,159 --> 00:30:25,454
+Foi o <i>quarterback</i> de reserva
+que os levou à vitória.
+
+418
+00:30:26,079 --> 00:30:27,289
+Não fui eu, imbecil!
+
+419
+00:30:28,290 --> 00:30:30,667
+Eu lesionei-me e saí no primeiro quarto.
+
+420
+00:30:31,251 --> 00:30:32,753
+Ele ficou com a vitória.
+
+421
+00:30:33,587 --> 00:30:34,463
+E eu fiquei...
+
+422
+00:30:35,255 --> 00:30:39,843
+... com quatro parafusos no joelho
+e um emprego a vender carros usados.
+
+423
+00:30:41,595 --> 00:30:46,683
+Voltei ao passado porque não tenho futuro!
+
+424
+00:30:47,184 --> 00:30:51,063
+Que estranho... A mim,
+parece-me que tens um futuro brilhante!
+
+425
+00:31:02,115 --> 00:31:04,242
+Acham mesmo que me conseguem deter?
+
+426
+00:31:05,494 --> 00:31:06,495
+Estão loucos.
+
+427
+00:31:10,165 --> 00:31:12,501
+- Isto não é bom.
+- Bolas!
+
+428
+00:31:13,293 --> 00:31:14,795
+Apaguei-o do tempo.
+
+429
+00:31:15,170 --> 00:31:16,046
+Peço desculpa.
+
+430
+00:31:29,601 --> 00:31:33,397
+Por favor, alguém me diz
+o que está esta energia verde
+
+431
+00:31:33,522 --> 00:31:35,399
+a fazer à minha cidade?
+
+432
+00:31:35,482 --> 00:31:39,069
+Há isótopos geotérmicos em toda a parte.
+É uma das Forças.
+
+433
+00:31:39,319 --> 00:31:42,572
+- Estamos a tentar descobrir qual.
+- Isto era um tablet.
+
+434
+00:31:51,456 --> 00:31:54,292
+- Pelos vistos, não sou só eu.
+- Filhota!
+
+435
+00:31:57,462 --> 00:31:58,422
+Estás linda.
+
+436
+00:31:58,880 --> 00:31:59,923
+Tu também, pai.
+
+437
+00:32:00,924 --> 00:32:01,883
+Nevasca.
+
+438
+00:32:03,468 --> 00:32:04,553
+Caitlin.
+
+439
+00:32:05,387 --> 00:32:06,346
+Valeu o esforço.
+
+440
+00:32:07,681 --> 00:32:11,768
+Nora, a Iris disse que estavas cá, mas...
+É muito bom ver-te.
+
+441
+00:32:11,852 --> 00:32:13,145
+A ti também, capitão.
+
+442
+00:32:14,688 --> 00:32:19,359
+A base isotópica é instável.
+A onda está a espalhar-se para a baixa.
+
+443
+00:32:19,484 --> 00:32:20,652
+<i>Que barulho é esse?</i>
+
+444
+00:32:23,155 --> 00:32:26,324
+<i>Natalie.</i>
+
+445
+00:32:37,419 --> 00:32:39,629
+Meu Deus!
+
+446
+00:32:43,884 --> 00:32:46,928
+- A energia vem de uma cidade próxima.
+- Masonville?
+
+447
+00:32:47,095 --> 00:32:49,389
+Os rapazes iam instalar o sistema lá.
+
+448
+00:32:49,473 --> 00:32:52,184
+Algo fez disparar
+o sensor do amplificador?
+
+449
+00:32:52,350 --> 00:32:55,770
+Se aceder aos dados,
+talvez descubra o que despoletou isto.
+
+450
+00:32:55,854 --> 00:32:57,314
+ASSINATURA DE ENERGIA TEMPORAL
+
+451
+00:32:57,397 --> 00:32:59,900
+- "Temporal", tipo, viajar no tempo?
+- Sim,
+
+452
+00:33:00,025 --> 00:33:03,653
+mas esta energia não é a do Psico
+nem a da Fuerza, por isso...
+
+453
+00:33:03,778 --> 00:33:06,531
+É uma nova Força da Natureza que consegue
+
+454
+00:33:07,407 --> 00:33:08,492
+alterar o tempo.
+
+455
+00:33:11,953 --> 00:33:13,205
+Preparem-se, idiotas.
+
+456
+00:33:13,622 --> 00:33:17,501
+Assim que reiniciar o ciclo temporal,
+vão esquecer-se de tudo.
+
+457
+00:33:29,638 --> 00:33:33,475
+Temos de ir. É muito poderoso.
+Não o conseguiremos vencer. Vamos.
+
+458
+00:33:34,351 --> 00:33:35,268
+Ches?
+
+459
+00:33:40,315 --> 00:33:41,816
+Não acredito em desistir.
+
+460
+00:33:42,108 --> 00:33:45,779
+Estas assinaturas têm velocidades
+que deviam ser impossíveis.
+
+461
+00:33:46,446 --> 00:33:49,866
+Esta nova Força
+faz recuar o tempo aleatoriamente.
+
+462
+00:33:50,700 --> 00:33:51,785
+É imparável.
+
+463
+00:33:51,910 --> 00:33:56,456
+O que acontece se ficarmos presos
+num destes intervalos do tempo?
+
+464
+00:33:56,998 --> 00:34:00,126
+- Podemos ir parar à Idade da Pedra.
+- Meu Deus!
+
+465
+00:34:00,794 --> 00:34:03,129
+Estamos nas mãos do Cisco e do Chester.
+
+466
+00:34:07,717 --> 00:34:09,135
+Deon.
+
+467
+00:34:09,219 --> 00:34:10,470
+Escuta.
+
+468
+00:34:10,762 --> 00:34:13,139
+Podes fazer-nos esquecer o nosso futuro,
+
+469
+00:34:14,975 --> 00:34:18,770
+mas nenhum poder te fará esquecer o teu.
+- A quem o dizes!
+
+470
+00:34:19,854 --> 00:34:22,315
+Tentei reescrever aquela noite 100 vezes.
+
+471
+00:34:22,774 --> 00:34:25,777
+Faça o que fizer,
+não consigo mudar o que aconteceu.
+
+472
+00:34:27,362 --> 00:34:31,366
+O que te aconteceu deve ser um ponto fixo.
+Não o podes mudar.
+
+473
+00:34:33,410 --> 00:34:36,871
+Talvez seja melhor parares de tentar
+e escolheres ver
+
+474
+00:34:37,247 --> 00:34:39,833
+as possibilidades de cada novo dia.
+
+475
+00:34:40,000 --> 00:34:43,503
+- O teu futuro ainda não está escrito.
+- Odeio o meu futuro!
+
+476
+00:34:52,679 --> 00:34:55,140
+Eu devia ser o próximo Patrick Mahomes.
+
+477
+00:34:55,557 --> 00:34:57,058
+Ouve, eu sei que é fácil...
+
+478
+00:34:58,476 --> 00:35:00,270
+... agarrarmo-nos às coisas más.
+
+479
+00:35:02,522 --> 00:35:05,859
+Desde miúdo, sempre achei
+que o meu pai só via trabalho.
+
+480
+00:35:05,984 --> 00:35:07,110
+Já estou a chorar.
+
+481
+00:35:07,485 --> 00:35:09,988
+E, durante anos,
+carreguei essa dor comigo.
+
+482
+00:35:11,406 --> 00:35:15,285
+Mas, hoje, quando olhei
+para o meu passado com outros olhos,
+
+483
+00:35:17,495 --> 00:35:20,415
+vi o quanto trabalhou
+para me dar uma vida melhor.
+
+484
+00:35:21,625 --> 00:35:24,294
+E ver isso ajudou
+a libertar-me da dor, Deon.
+
+485
+00:35:27,005 --> 00:35:31,635
+Podes fazer o mesmo, quando não deixares
+que um momento do teu passado
+
+486
+00:35:31,760 --> 00:35:34,095
+defina todos os momentos do teu futuro.
+
+487
+00:36:03,083 --> 00:36:04,501
+O futuro depende de mim?
+
+488
+00:36:07,170 --> 00:36:08,004
+Sim.
+
+489
+00:36:08,880 --> 00:36:10,465
+Então, posso defini-lo?
+
+490
+00:36:14,094 --> 00:36:16,805
+Posso decidir
+o que acontece a partir de agora?
+
+491
+00:36:18,223 --> 00:36:19,349
+Não só comigo,
+
+492
+00:36:20,767 --> 00:36:21,768
+mas com todos.
+
+493
+00:36:31,069 --> 00:36:31,903
+Estou no ir.
+
+494
+00:36:48,461 --> 00:36:50,130
+REJUVENESCIMENTO COMPLETO
+
+495
+00:36:50,255 --> 00:36:52,465
+Os teus sinais vitais estabilizaram.
+
+496
+00:36:52,549 --> 00:36:53,466
+Como te sentes?
+
+497
+00:36:53,717 --> 00:36:55,301
+Sinto-me bem.
+
+498
+00:36:56,720 --> 00:36:59,347
+Ainda não conseguiram encontrar o Deon?
+
+499
+00:36:59,723 --> 00:37:03,852
+Até agora, os satélites não detetaram
+vestígios de energia temporal.
+
+500
+00:37:04,310 --> 00:37:09,441
+E ele é um deus do tempo. Quem sabe
+onde e em que ano pode estar escondido?
+
+501
+00:37:09,816 --> 00:37:15,071
+Além disso, acho que só agora começou
+
+502
+00:37:15,905 --> 00:37:16,865
+Mas não percebo.
+
+503
+00:37:17,407 --> 00:37:20,118
+Nunca mencionou que te perseguiu.
+
+504
+00:37:21,536 --> 00:37:24,664
+Ao contrário dos outros,
+pode não saber que sobrevivi.
+
+505
+00:37:26,040 --> 00:37:26,916
+Faz sentido.
+
+506
+00:37:27,208 --> 00:37:30,503
+É estranho.
+Sempre que tu e o Chester falam dele,
+
+507
+00:37:30,587 --> 00:37:34,883
+parece ser mais moderado que o Psico
+e menos letal que a Fuerza.
+
+508
+00:37:34,966 --> 00:37:39,304
+Ainda assim, controlar o tempo
+torna-o na Força mais poderosa.
+
+509
+00:37:39,512 --> 00:37:43,183
+Pode paralisar-nos quando e onde quiser.
+É esse o poder dele.
+
+510
+00:37:43,725 --> 00:37:48,062
+É o oposto do Poder da Velocidade.
+É o Poder da Imobilidade.
+
+511
+00:37:48,229 --> 00:37:53,151
+O que faz
+com que a Fuerza seja o Poder da Força
+
+512
+00:37:54,027 --> 00:37:58,323
+e o Psico seja o Poder da Sapiência.
+
+513
+00:38:01,910 --> 00:38:05,914
+Se esta nova Força é mais poderosa que eu,
+como a derrotaste, Cisco?
+
+514
+00:38:08,625 --> 00:38:09,709
+Não fui eu.
+
+515
+00:38:10,001 --> 00:38:11,002
+Foi o Chester P..
+
+516
+00:38:11,711 --> 00:38:13,213
+Tive sorte.
+
+517
+00:38:13,755 --> 00:38:18,510
+Pois, vou deixar os confrontos diretos
+com os mauzões para o Flash.
+
+518
+00:38:21,721 --> 00:38:24,808
+É a Kamilla.
+Vamos encontrar-nos no Jitters.
+
+519
+00:38:25,058 --> 00:38:27,477
+- Caitlin, vens?
+- Sim. Vou buscar a mala.
+
+520
+00:38:27,811 --> 00:38:29,354
+E tu, Ches, também vens?
+
+521
+00:38:29,479 --> 00:38:33,399
+Não, tenho de tratar de umas coisas,
+mas trazes-me um Vibe-accino?
+
+522
+00:38:37,070 --> 00:38:38,655
+Ouve, não tiveste sorte.
+
+523
+00:38:39,447 --> 00:38:41,616
+Aquilo que fizeste...
+
+524
+00:38:43,743 --> 00:38:46,496
+- Estou orgulhoso de ti.
+- Sim.
+
+525
+00:38:47,288 --> 00:38:52,418
+Sou só um homem. A tentar fazer o correto.
+Quero deixar o meu pai orgulhoso.
+
+526
+00:38:57,173 --> 00:39:00,468
+Caitlin, despacha-te.
+Não quero perder o café e o <i>cronut.</i>
+
+527
+00:39:01,386 --> 00:39:05,431
+Iris, graças a ti,
+vejo tudo com mais clareza.
+
+528
+00:39:07,725 --> 00:39:11,646
+Bem, devem estar ansiosos
+para ir para casa, por isso, até amanhã.
+
+529
+00:39:12,021 --> 00:39:14,774
+Espera. Vais passar a noite aqui?
+
+530
+00:39:15,817 --> 00:39:19,320
+Quero saber na hora
+se os satélites detetarem outras Forças.
+
+531
+00:39:20,071 --> 00:39:22,699
+Sim, eu entendo,
+mas temos alertas para isso.
+
+532
+00:39:24,409 --> 00:39:28,746
+Nora, temos lençóis lavados
+no quarto de hóspedes e muitas mantas.
+
+533
+00:39:30,415 --> 00:39:31,791
+Parece ser acolhedor.
+
+534
+00:39:32,834 --> 00:39:33,751
+Sim, é.
+
+535
+00:39:34,919 --> 00:39:37,338
+Devias ficar connosco. Certo, Barry?
+
+536
+00:39:42,343 --> 00:39:43,219
+Claro.
+
+537
+00:39:46,014 --> 00:39:47,724
+Sim, claro que sim.
+
+538
+00:39:50,310 --> 00:39:53,438
+Não fazem ideia do que significa para mim.
+A sério.
+
+539
+00:39:53,605 --> 00:39:54,731
+Será um prazer.
+
+540
+00:39:55,607 --> 00:39:56,983
+- Obrigada.
+- Vamos.
+
+541
+00:40:16,753 --> 00:40:17,837
+Conta comigo, pai.
+
+542
+00:40:20,298 --> 00:40:21,925
+Vou acabar o que começaste.
+
+543
+00:40:38,775 --> 00:40:39,651
+Certo.
+
+544
+00:40:50,036 --> 00:40:54,207
+Não, não pode ser.
+Aquela maldita bolha do tempo voltou?
+
+545
+00:40:54,540 --> 00:40:58,461
+Não. Eu é que gosto do visual
+e fui à loja de roupa em segunda mão.
+
+546
+00:40:58,836 --> 00:41:02,173
+- Também comprei estes meninos.
+- Ouve, temos de falar.
+
+547
+00:41:03,508 --> 00:41:05,718
+Nada bom começa com "temos de falar".
+
+548
+00:41:05,927 --> 00:41:10,723
+A nova representante do estado
+que veio auditar o CCPD, a Kristen Kramer,
+
+549
+00:41:11,349 --> 00:41:15,853
+acabei de saber que veio para apanhar
+uma perigosa fugitiva meta-humana.
+
+550
+00:41:17,313 --> 00:41:18,439
+A Nevasca Fatal.
+
+551
+00:41:21,401 --> 00:41:22,902
+Já não sou essa Nevasca.
+
+552
+00:41:23,111 --> 00:41:26,781
+Eu sei. Só tenho de a fazer ver isso.
+
+553
+00:41:27,657 --> 00:41:29,951
+Entretanto, não podes dar nas vistas.
+
+554
+00:41:30,118 --> 00:41:31,285
+Isso é impossível.
+
+555
+00:41:31,494 --> 00:41:36,332
+- Foi dos Serviços Secretos do Exército.
+- Até pode ser Xena, a Princesa Guerreira.
+
+556
+00:41:36,457 --> 00:41:41,295
+Sou finalmente livre para viver
+a minha vida, e ninguém me vai tirar isso.
+
+557
+00:41:41,629 --> 00:41:45,174
+Portanto, se essa Kristen Kramer
+me quiser apanhar,
+
+558
+00:41:45,883 --> 00:41:48,136
+então, que venha.
+
+559
+00:42:13,369 --> 00:42:17,171
+Legendas: Ricardo Reis
+Ripadas por: Virtual_PT
