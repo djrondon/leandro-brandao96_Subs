@@ -1,0 +1,3408 @@
+1
+00:00:01,215 --> 00:00:05,219
+<i>Em 2166, um tirano imortal
+chamado Vandal Savage</i>
+
+2
+00:00:05,220 --> 00:00:07,690
+<i>conquistou o mundo
+e matou minha esposa e filho.</i>
+
+3
+00:00:07,691 --> 00:00:10,620
+<i>Montei um time de elite
+para caçá-lo através do tempo</i>
+
+4
+00:00:10,621 --> 00:00:12,164
+<i>e impedi-lo
+de chegar ao poder.</i>
+
+5
+00:00:12,165 --> 00:00:14,099
+<i>Infelizmente,
+meu plano não tem apoio</i>
+
+6
+00:00:14,100 --> 00:00:17,767
+<i>do conselho que eu fazia parte,
+os Mestres do Tempo.</i>
+
+7
+00:00:17,768 --> 00:00:20,087
+<i>No futuro, talvez meus amigos
+não sejam heróis,</i>
+
+8
+00:00:20,088 --> 00:00:25,088
+<i>mas se conseguirmos,
+serão lembrados como lendas.</i>
+
+9
+00:00:27,321 --> 00:00:29,440
+<i>Anteriormente
+em Legends of Tomorrow...</i>
+
+10
+00:00:30,068 --> 00:00:32,452
+Dois anos.
+Você nos abandonou em 1958.
+
+11
+00:00:32,453 --> 00:00:34,788
+<i>Estava feliz com a vida
+que construímos juntos,</i>
+
+12
+00:00:34,789 --> 00:00:36,523
+a que imaginei ser
+o nosso futuro.
+
+13
+00:00:36,524 --> 00:00:37,908
+Chronos nos atacou.
+
+14
+00:00:37,909 --> 00:00:39,643
+<i>Ele sabotou a nave
+e levou Snart.</i>
+
+15
+00:00:39,644 --> 00:00:42,974
+Se vai me matar,
+poderia ao menos dizer o motivo.
+
+16
+00:00:44,765 --> 00:00:46,066
+Os Mestres do Tempo,
+
+17
+00:00:46,067 --> 00:00:48,485
+eles me levaram a um lugar
+chamado Ponto de Fuga.
+
+18
+00:00:48,486 --> 00:00:50,471
+Passei uma vida
+treinando com eles,
+
+19
+00:00:50,472 --> 00:00:51,772
+renascendo.
+
+20
+00:00:51,773 --> 00:00:53,073
+Não o mate.
+
+21
+00:00:54,025 --> 00:00:55,942
+<i>Os Mestres do Tempo
+levou um dos nossos</i>
+
+22
+00:00:55,943 --> 00:00:57,277
+<i>e o colocou contra nós.</i>
+
+23
+00:00:57,278 --> 00:00:59,794
+Digo para desfazer
+o trabalho deles.
+
+24
+00:01:05,836 --> 00:01:08,108
+Espero que esteja confortável,
+sr. Rory.
+
+25
+00:01:12,793 --> 00:01:14,744
+Ou você atende por Chronos
+ultimamente?
+
+26
+00:01:14,745 --> 00:01:16,880
+Não recebo ordens de você.
+
+27
+00:01:16,881 --> 00:01:19,032
+Não acredito
+que algum dia recebi.
+
+28
+00:01:19,033 --> 00:01:20,606
+Bem, isso é contestável.
+
+29
+00:01:23,788 --> 00:01:25,888
+Estou pedindo
+por dois motivos.
+
+30
+00:01:26,641 --> 00:01:29,924
+Primeiro,
+poderíamos ter a sua ajuda.
+
+31
+00:01:30,378 --> 00:01:32,212
+Qual o segundo motivo?
+
+32
+00:01:32,213 --> 00:01:35,065
+Estamos indo para 2147
+para enfrentar Savage.
+
+33
+00:01:35,066 --> 00:01:38,002
+Essa é o segundo
+ou o primeiro motivo?
+
+34
+00:01:38,419 --> 00:01:39,896
+Esqueça.
+
+35
+00:01:41,372 --> 00:01:43,530
+Eu lhe devo desculpas,
+sr. Rory.
+
+36
+00:01:43,975 --> 00:01:45,492
+Eu falhei com você.
+
+37
+00:01:45,493 --> 00:01:48,374
+Eu o trouxe a essa missão
+com uma falsa pretensão,
+
+38
+00:01:48,375 --> 00:01:50,580
+rejeitando
+a sua verdadeira vocação.
+
+39
+00:01:50,581 --> 00:01:52,711
+E quando essa vocação
+tomou o próprio rumo,
+
+40
+00:01:53,084 --> 00:01:54,935
+pedi ao sr. Snart para...
+
+41
+00:01:57,854 --> 00:01:59,154
+Lidar com você.
+
+42
+00:02:01,542 --> 00:02:03,860
+Meu ponto é:
+
+43
+00:02:03,861 --> 00:02:06,313
+a sua discussão deveria
+ser comigo e não com ele.
+
+44
+00:02:06,314 --> 00:02:10,200
+Se o faz sentir-se melhor,
+
+45
+00:02:10,201 --> 00:02:11,929
+quero matar vocês dois.
+
+46
+00:02:14,872 --> 00:02:18,549
+<i>Capitão, chegamos em 2147.</i>
+
+47
+00:02:18,960 --> 00:02:20,317
+Obrigado, Gideon.
+
+48
+00:02:20,645 --> 00:02:23,373
+Trace uma rota
+para o Conglomerado Kasnian.
+
+49
+00:02:24,799 --> 00:02:27,781
+150 anos no futuro
+e as pessoas ainda vestem lã?
+
+50
+00:02:27,782 --> 00:02:29,970
+- Cara, odeio lã.
+- Seja grato, sr. Jackson.
+
+51
+00:02:29,971 --> 00:02:32,139
+Aqueles vivendo fora
+do Conglomerado Kasnian
+
+52
+00:02:32,140 --> 00:02:33,440
+estão vestindo trapos.
+
+53
+00:02:33,441 --> 00:02:36,125
+- Conglomerado?
+- Sim, em 2080,
+
+54
+00:02:36,126 --> 00:02:38,812
+o governo começou
+a dar espaço às corporações.
+
+55
+00:02:38,813 --> 00:02:40,280
+Mais parecido com 2008.
+
+56
+00:02:40,281 --> 00:02:42,315
+De acordo com Gideon,
+daqui 2 horas,
+
+57
+00:02:42,316 --> 00:02:45,116
+nosso psicopata imortal favorito
+tem uma reunião agendada
+
+58
+00:02:45,117 --> 00:02:46,803
+com os acionistas
+do Conglomerado.
+
+59
+00:02:46,804 --> 00:02:48,321
+Parece excitante.
+
+60
+00:02:48,322 --> 00:02:51,158
+Acha que Savage conquista
+o mundo negociando ações?
+
+61
+00:02:51,159 --> 00:02:53,909
+O que sabemos é que em 20 anos,
+Kasnia é a base de apoio
+
+62
+00:02:53,910 --> 00:02:55,960
+de onde Savage
+assume o controle do mundo,
+
+63
+00:02:55,961 --> 00:02:58,665
+não queremos enfrentá-lo lá,
+mas se pudermos descobrir
+
+64
+00:02:58,666 --> 00:03:02,109
+como as ações dele aqui
+leva à ascensão do poder dele,
+
+65
+00:03:02,941 --> 00:03:04,641
+então não precisaremos
+enfrentá-lo.
+
+66
+00:03:04,642 --> 00:03:06,139
+Entendido, capitão,
+
+67
+00:03:06,140 --> 00:03:08,016
+mas se vamos conferir
+o futuro...
+
+68
+00:03:08,017 --> 00:03:11,111
+Deveríamos convidar
+os irmãos nerds.
+
+69
+00:03:11,112 --> 00:03:14,731
+Já posso ouvir o que Stan
+vai dizer sobre 2147.
+
+70
+00:03:14,732 --> 00:03:16,416
+O futuro é...
+
+71
+00:03:16,417 --> 00:03:17,949
+- Fascinante.
+- Surpreendente.
+
+72
+00:03:18,886 --> 00:03:21,471
+A chance era meio a meio
+dele escolher uma dessas.
+
+73
+00:03:21,472 --> 00:03:23,589
+Na verdade,
+eu diria "extraordinário".
+
+74
+00:03:23,590 --> 00:03:27,845
+- Não é?
+- 2147 foi considerado o apogeu.
+
+75
+00:03:28,162 --> 00:03:30,997
+Todas essas pessoas
+têm 5 anos para aproveitar.
+
+76
+00:03:30,998 --> 00:03:32,315
+Antes do quê?
+
+77
+00:03:32,316 --> 00:03:33,616
+Antes que um cruel ditador
+
+78
+00:03:33,617 --> 00:03:35,335
+chamado Per Degaton
+assume o poder,
+
+79
+00:03:35,336 --> 00:03:38,939
+solta o vírus Armagedônio,
+e a maioria acaba morto.
+
+80
+00:03:38,940 --> 00:03:40,881
+Isso é deprimente.
+
+81
+00:03:47,247 --> 00:03:49,807
+É a minha armadura?
+É a minha armadura.
+
+82
+00:03:58,442 --> 00:04:01,578
+Você foi identificado
+por violar o Decreto 12.
+
+83
+00:04:01,579 --> 00:04:04,047
+É assim que Tor,
+pai do Per Degaton,
+
+84
+00:04:04,048 --> 00:04:06,347
+mantem a ordem em Kasnia.
+
+85
+00:04:07,418 --> 00:04:09,286
+Não parece progresso
+para mim.
+
+86
+00:04:09,287 --> 00:04:11,704
+Falando nisso, precisamos
+conhecer melhor a área.
+
+87
+00:04:11,705 --> 00:04:14,491
+Preciso conferir como tornaram
+minha armadura autônoma.
+
+88
+00:04:14,492 --> 00:04:16,543
+Por que não leva
+Martin e Jax com você?
+
+89
+00:04:16,544 --> 00:04:20,012
+Srta. Lance, sr. Snart e eu
+vamos localizaremos Savage.
+
+90
+00:04:21,716 --> 00:04:23,416
+<i>Tor Degaton
+possui reuniões diárias</i>
+
+91
+00:04:23,417 --> 00:04:25,085
+<i>com o seu conselho
+administrativo.</i>
+
+92
+00:04:25,086 --> 00:04:27,837
+- E é aberto ao público?
+- Claro que não.
+
+93
+00:04:27,838 --> 00:04:29,840
+Apenas aos acionistas
+de Kasnia.
+
+94
+00:04:29,841 --> 00:04:32,876
+Detesto ter que dizer isso,
+mas não somos acionistas.
+
+95
+00:04:32,877 --> 00:04:35,913
+Eu sou mais
+um homem de recursos.
+
+96
+00:04:47,942 --> 00:04:49,392
+Está liberado
+para participar.
+
+97
+00:04:49,393 --> 00:04:51,344
+Eles terão que aguardar
+do lado de fora.
+
+98
+00:04:51,345 --> 00:04:55,682
+Esse é o meu contador,
+e ela é minha guarda-costa.
+
+99
+00:04:55,683 --> 00:04:57,243
+Apenas acionistas.
+
+100
+00:05:05,192 --> 00:05:06,910
+Já passamos por isso.
+
+101
+00:05:06,911 --> 00:05:09,129
+Não vou pôr a resolução
+para ser votada.
+
+102
+00:05:09,130 --> 00:05:11,164
+Senhor, com todo respeito,
+
+103
+00:05:11,165 --> 00:05:13,765
+a situação fora dos limites
+do Conglomerado
+
+104
+00:05:13,766 --> 00:05:15,985
+estão ficando insustentáveis.
+
+105
+00:05:15,986 --> 00:05:18,266
+Protestos por comida,
+mudança climática.
+
+106
+00:05:18,267 --> 00:05:20,523
+Estou ciente que o mundo
+fora dos nossos muros
+
+107
+00:05:20,524 --> 00:05:22,178
+está entrando em caos.
+
+108
+00:05:22,977 --> 00:05:25,595
+Mas causar o caos não pode ser
+uma resposta adequada.
+
+109
+00:05:25,596 --> 00:05:28,048
+Não é o caos.
+
+110
+00:05:28,049 --> 00:05:29,532
+É a lógica.
+
+111
+00:05:29,533 --> 00:05:33,880
+A população mundial é
+insustentável nos níveis atuais.
+
+112
+00:05:34,655 --> 00:05:36,456
+O rebanho deve ser reduzido.
+
+113
+00:05:36,457 --> 00:05:40,253
+Você já argumentou, sr. Savage.
+Não importa quantas vezes
+
+114
+00:05:40,254 --> 00:05:42,395
+você opta por sustentar
+seu ponto de vista,
+
+115
+00:05:42,396 --> 00:05:44,184
+minha decisão se mantém.
+
+116
+00:06:13,820 --> 00:06:15,120
+Vandal.
+
+117
+00:06:16,831 --> 00:06:18,751
+Meu garoto.
+
+118
+00:06:18,752 --> 00:06:20,934
+Meu pai mataria você
+por me chamar assim.
+
+119
+00:06:20,935 --> 00:06:23,403
+Eu não gostaria
+de ser executado.
+
+120
+00:06:23,404 --> 00:06:24,704
+Per Degaton.
+
+121
+00:06:26,340 --> 00:06:28,198
+Como foi a reunião?
+
+122
+00:06:28,199 --> 00:06:31,427
+Seu pai continua
+o mesmo intransigente de sempre.
+
+123
+00:06:31,428 --> 00:06:34,147
+O problema é,
+meu jovem aluno,
+
+124
+00:06:34,148 --> 00:06:36,516
+para comandar uma corporação
+não é a mesma coisa
+
+125
+00:06:36,517 --> 00:06:38,221
+que comandar um país.
+
+126
+00:06:39,153 --> 00:06:41,087
+Se está sugerindo
+que o meu pai
+
+127
+00:06:41,088 --> 00:06:42,455
+não tem o que precisa...
+
+128
+00:06:42,456 --> 00:06:45,190
+Sim, ele me mataria
+por isso também.
+
+129
+00:06:45,960 --> 00:06:49,600
+Acredito que tenho
+que viver perigosamente então.
+
+130
+00:06:51,198 --> 00:06:53,562
+Como estão progredindo
+os seus estudos?
+
+131
+00:06:57,354 --> 00:06:58,938
+<i>Ele é um professor?</i>
+
+132
+00:06:58,939 --> 00:07:01,357
+Parece
+que tutor do jovem Per Degaton.
+
+133
+00:07:01,358 --> 00:07:03,827
+Diz isso
+como significasse algo.
+
+134
+00:07:03,828 --> 00:07:06,162
+Após a morte do pai dele,
+em 5 anos,
+
+135
+00:07:06,163 --> 00:07:08,181
+Per Degaton
+solta o vírus Armagedônio,
+
+136
+00:07:08,182 --> 00:07:10,133
+que dizima
+a população mundial,
+
+137
+00:07:10,134 --> 00:07:12,084
+<i>que o deixa pronto
+para ser conquistado.</i>
+
+138
+00:07:15,506 --> 00:07:17,890
+Per Degaton prepara
+o mundo para uma ditadura,
+
+139
+00:07:17,891 --> 00:07:19,441
+e, então,
+quando chega a hora...
+
+140
+00:07:22,329 --> 00:07:24,898
+<i>Savage remove o poder dele.</i>
+
+141
+00:07:26,617 --> 00:07:28,419
+<i>Matando Per Degaton.</i>
+
+142
+00:07:28,420 --> 00:07:29,720
+<i>De fato.</i>
+
+143
+00:07:29,721 --> 00:07:32,436
+Então não temos o que precisamos
+para derrotar Savage,
+
+144
+00:07:32,437 --> 00:07:35,158
+mas talvez descobrimos
+como parar a ascensão do poder.
+
+145
+00:07:35,159 --> 00:07:37,660
+Privando-o do seu brinquedinho,
+Per Degaton.
+
+146
+00:07:37,661 --> 00:07:40,169
+Certo, como fazemos isso?
+
+147
+00:07:41,181 --> 00:07:42,759
+É bem simples.
+
+148
+00:07:42,760 --> 00:07:46,454
+Matamos o pequeno bastardo
+nós mesmos.
+
+149
+00:07:48,351 --> 00:07:50,301
+1ª Temporada | Episódio 10
+-= Progeny =-
+
+150
+00:07:50,302 --> 00:07:52,602
+Legenda:
+Hugo^4 | CHaandde² | SongMade¹
+
+151
+00:07:52,603 --> 00:07:54,003
+Revisão:
+Hugo
+
+152
+00:07:54,004 --> 00:07:56,004
+[InSUBs]
+Qualidade é InSUBstituível!
+
+153
+00:07:57,159 --> 00:08:00,982
+Para ser claro, estamos falando
+de assassinar uma criança...
+
+154
+00:08:00,983 --> 00:08:02,877
+Que não fez nada
+a ninguém...
+
+155
+00:08:02,878 --> 00:08:05,681
+Ainda.
+Por que não o pegamos agora,
+
+156
+00:08:05,682 --> 00:08:07,016
+enquanto é fácil?
+
+157
+00:08:07,017 --> 00:08:08,701
+Deve haver
+uma forma melhor.
+
+158
+00:08:08,702 --> 00:08:11,053
+Como sabemos que o futuro
+desse Per Degaton
+
+159
+00:08:11,054 --> 00:08:13,689
+em se tornar um ditador
+é inevitável?
+
+160
+00:08:13,690 --> 00:08:16,158
+Porque no futuro
+de onde sou,
+
+161
+00:08:16,159 --> 00:08:18,009
+as crianças aprendem
+sobre Per Degaton
+
+162
+00:08:18,010 --> 00:08:20,930
+da mesma forma que as do seu
+aprendem sobre Adolf Hitler.
+
+163
+00:08:20,931 --> 00:08:23,350
+E se focarmos nos problemas
+sociais mais amplos
+
+164
+00:08:23,351 --> 00:08:25,501
+que permitiria
+um déspota assumir o poder?
+
+165
+00:08:25,502 --> 00:08:27,303
+Já sabemos o que empurra
+esse moleque
+
+166
+00:08:27,304 --> 00:08:29,622
+para o lado negro: Savage.
+
+167
+00:08:29,623 --> 00:08:30,923
+Não é culpa do garoto
+
+168
+00:08:30,924 --> 00:08:32,725
+ter um psicopata imortal
+como tutor.
+
+169
+00:08:32,726 --> 00:08:34,240
+Se não matarmos
+o garoto agora,
+
+170
+00:08:34,241 --> 00:08:38,047
+Savage o matará
+assim que assumir o mundo.
+
+171
+00:08:38,048 --> 00:08:39,798
+Se não o transformar
+no maior tirano
+
+172
+00:08:39,799 --> 00:08:41,100
+que o mundo já conheceu,
+
+173
+00:08:41,101 --> 00:08:43,252
+Savage não poderá
+se tornar no último tirano
+
+174
+00:08:43,253 --> 00:08:44,553
+que o mundo conhecerá.
+
+175
+00:08:45,422 --> 00:08:47,340
+Assassinar uma criança
+a sangue frio,
+
+176
+00:08:47,341 --> 00:08:49,792
+assim como Savage
+assassinou o seu próprio filho.
+
+177
+00:08:49,793 --> 00:08:51,409
+Qual o sentido
+em salvar o mundo
+
+178
+00:08:51,410 --> 00:08:54,229
+se nos rebaixamos
+aos métodos dele para isso?
+
+179
+00:08:57,067 --> 00:08:58,634
+Estou com o professor Stein.
+
+180
+00:08:58,969 --> 00:09:00,269
+Tudo bem.
+
+181
+00:09:00,270 --> 00:09:02,872
+Se nenhum de vocês
+tem coragem de matar o garoto...
+
+182
+00:09:02,873 --> 00:09:04,657
+Então removê-lo
+dessa linha do tempo
+
+183
+00:09:04,658 --> 00:09:06,842
+pode ser a melhor coisa.
+
+184
+00:09:06,843 --> 00:09:09,929
+Ótimo, saímos de infanticídio
+para rapto infantil.
+
+185
+00:09:09,930 --> 00:09:11,230
+Progresso.
+
+186
+00:09:11,231 --> 00:09:13,181
+Antes, precisamos planejar
+como raptá-lo
+
+187
+00:09:13,182 --> 00:09:15,568
+debaixo do nariz
+dos seguranças do pai dele.
+
+188
+00:09:15,569 --> 00:09:18,070
+E não se esqueça
+do exército dos robôs Atom.
+
+189
+00:09:18,071 --> 00:09:20,156
+Precisaremos
+de um ladrão experiente.
+
+190
+00:09:20,157 --> 00:09:22,091
+Enquanto sequestra
+o garoto Hitler,
+
+191
+00:09:22,092 --> 00:09:24,610
+professor Stein e eu
+sabotaremos o exército robô.
+
+192
+00:09:24,611 --> 00:09:26,128
+Chamo
+de Time do Exército Robô.
+
+193
+00:09:26,129 --> 00:09:27,763
+Isso não é perda de tempo?
+
+194
+00:09:27,764 --> 00:09:29,266
+Não para os cidadãos de Kasnia
+
+195
+00:09:29,267 --> 00:09:30,967
+atormentados
+pela minha tecnologia.
+
+196
+00:09:30,968 --> 00:09:33,469
+Essa tecnologia leva
+à ascensão do poder do Savage.
+
+197
+00:09:33,470 --> 00:09:35,004
+Bom plano B.
+
+198
+00:09:35,005 --> 00:09:36,867
+Ótimo.
+Time do Sequestro.
+
+199
+00:09:37,174 --> 00:09:38,474
+Vamos, time.
+
+200
+00:09:44,431 --> 00:09:45,915
+Você está bem?
+
+201
+00:09:45,916 --> 00:09:49,702
+Estou.
+Eu só estava pensando.
+
+202
+00:09:49,703 --> 00:09:52,488
+Acho que compreendo.
+
+203
+00:09:52,489 --> 00:09:54,573
+- Compreende?
+- Sim, Savage,
+
+204
+00:09:54,574 --> 00:09:56,975
+ele está tão perto,
+você pode senti-lo, não é?
+
+205
+00:09:57,758 --> 00:09:59,058
+Posso.
+
+206
+00:10:00,330 --> 00:10:01,767
+Quer falar sobre isso?
+
+207
+00:10:02,849 --> 00:10:04,917
+Não.
+Não se preocupe comigo.
+
+208
+00:10:04,918 --> 00:10:06,993
+- Ficarei bem.
+- Tudo bem.
+
+209
+00:10:12,525 --> 00:10:13,825
+<i>Querida?</i>
+
+210
+00:10:16,316 --> 00:10:17,616
+<i>Querida?</i>
+
+211
+00:10:19,216 --> 00:10:20,516
+Estou em casa.
+
+212
+00:10:29,343 --> 00:10:30,643
+Qual o problema?
+
+213
+00:10:30,644 --> 00:10:31,944
+Nada.
+
+214
+00:10:32,295 --> 00:10:33,896
+Posso pegar uma bebida
+para você?
+
+215
+00:10:34,864 --> 00:10:36,265
+Seria ótimo.
+
+216
+00:10:36,266 --> 00:10:38,767
+Enquanto prepara,
+pode me dizer o que se passa.
+
+217
+00:10:38,768 --> 00:10:40,312
+Não é nada, sério.
+
+218
+00:10:41,638 --> 00:10:43,722
+Você é uma péssima mentirosa.
+
+219
+00:10:43,723 --> 00:10:46,571
+Sou, mas você me ama
+assim mesmo.
+
+220
+00:10:47,410 --> 00:10:49,660
+Além de qualquer coisa
+que eu possa descrever.
+
+221
+00:10:52,265 --> 00:10:55,484
+E por eu amar você,
+sei quando algo incomoda você.
+
+222
+00:10:55,485 --> 00:10:58,905
+É só um sentimento.
+
+223
+00:10:58,906 --> 00:11:00,206
+Dele?
+
+224
+00:11:00,724 --> 00:11:02,091
+É difícil explicar.
+
+225
+00:11:03,793 --> 00:11:05,744
+Não tento sentido
+a presença do Savage,
+
+226
+00:11:05,745 --> 00:11:08,784
+mas você tem,
+ou pensa que tem.
+
+227
+00:11:08,785 --> 00:11:12,069
+Acho que hora
+de irmos embora.
+
+228
+00:11:12,070 --> 00:11:13,535
+Tenho férias chegando.
+
+229
+00:11:13,536 --> 00:11:17,056
+- Podemos visitar Coast City...
+- Férias não vai consertar isso.
+
+230
+00:11:17,507 --> 00:11:19,764
+- Eu sei.
+- Savage não vai nos esquecer
+
+231
+00:11:19,765 --> 00:11:21,160
+porque fomos embora.
+
+232
+00:11:21,161 --> 00:11:23,974
+- Eu sei.
+- E ele não vai parar até...
+
+233
+00:11:23,975 --> 00:11:25,275
+Mamãe?
+
+234
+00:11:26,366 --> 00:11:27,833
+Não consigo dormir.
+
+235
+00:11:27,834 --> 00:11:29,367
+Ei, batedor.
+
+236
+00:11:29,368 --> 00:11:31,203
+- Papai.
+- Venha aqui.
+
+237
+00:11:37,427 --> 00:11:38,909
+O que está errado?
+
+238
+00:11:39,913 --> 00:11:41,711
+Nada.
+
+239
+00:11:42,983 --> 00:11:44,700
+Eu apenas amo muito você.
+
+240
+00:11:47,120 --> 00:11:49,415
+Eu amo muito vocês dois.
+
+241
+00:11:56,279 --> 00:11:59,447
+<i>Sem jogar lixo no chão.
+Sem crimes de rua. Sem poluição.</i>
+
+242
+00:11:59,448 --> 00:12:01,183
+Quando poderemos ir embora?
+
+243
+00:12:01,184 --> 00:12:03,266
+<i>Mantenha seus olhos abertos.</i>
+
+244
+00:12:03,267 --> 00:12:04,567
+De acordo com Gideon,
+
+245
+00:12:04,568 --> 00:12:06,568
+Per Degaton deve passar
+a qualquer minuto
+
+246
+00:12:06,569 --> 00:12:08,190
+a caminho
+da aula de ginástica.
+
+247
+00:12:08,191 --> 00:12:09,899
+Está dizendo
+que o Hitler do futuro
+
+248
+00:12:09,900 --> 00:12:12,607
+está matriculado
+em aula de ginástica?
+
+249
+00:12:20,787 --> 00:12:22,777
+Isso aí.
+
+250
+00:12:30,947 --> 00:12:33,539
+Estou vendo
+Um Garoto de Qualidade.
+
+251
+00:12:33,540 --> 00:12:35,051
+<i>Não o vejo.</i>
+
+252
+00:12:35,052 --> 00:12:37,720
+Ele está cercado
+pelo pelotão valente do papai.
+
+253
+00:12:37,721 --> 00:12:40,378
+<i>Esquina nordeste da praça.</i>
+
+254
+00:12:41,577 --> 00:12:43,026
+Estou vendo.
+
+255
+00:12:43,027 --> 00:12:45,177
+<i>Tem certeza
+que não quer apenas atirar nele?</i>
+
+256
+00:12:45,178 --> 00:12:46,678
+Seria muito mais fácil.
+
+257
+00:12:46,679 --> 00:12:49,442
+<i>Mantenha o plano,
+vocês dois.</i>
+
+258
+00:12:52,235 --> 00:12:53,535
+<i>Agora, srta. Lance.</i>
+
+259
+00:12:57,941 --> 00:12:59,642
+Estou em posição.
+
+260
+00:12:59,643 --> 00:13:02,178
+<i>É com você agora, sr. Snart.</i>
+
+261
+00:13:14,240 --> 00:13:16,709
+Desde a introdução
+do nosso último modelo
+
+262
+00:13:16,710 --> 00:13:18,810
+de policiais autônomos
+de aplicação da lei,
+
+263
+00:13:18,811 --> 00:13:21,397
+o crime caiu drasticamente.
+
+264
+00:13:21,398 --> 00:13:23,448
+Na verdade, ele é inexistente.
+
+265
+00:13:23,449 --> 00:13:26,870
+Sério? Agradecemos
+por nos mostrar, dra. Brice.
+
+266
+00:13:26,871 --> 00:13:28,237
+É um prazer.
+
+267
+00:13:28,238 --> 00:13:30,456
+Não temos muitos visitamos
+de Central City
+
+268
+00:13:30,457 --> 00:13:33,057
+desde que a Corporação
+dos Laboratórios STAR assumiu.
+
+269
+00:13:36,513 --> 00:13:38,013
+A não ser
+que eu esteja errado,
+
+270
+00:13:38,014 --> 00:13:40,932
+sua tecnologia
+utiliza uma liga miniaturizada.
+
+271
+00:13:40,933 --> 00:13:45,220
+A tecnologia é proprietária,
+mas sim.
+
+272
+00:13:45,221 --> 00:13:46,972
+Como sabe disso, doutor...
+
+273
+00:13:46,973 --> 00:13:48,273
+Lecter.
+
+274
+00:13:48,274 --> 00:13:49,919
+Dr. Hannibal Lecter.
+
+275
+00:13:50,943 --> 00:13:55,939
+Como entrou para a robótica,
+dra. Brice?
+
+276
+00:13:55,940 --> 00:13:57,800
+Está no meu sangue.
+
+277
+00:13:58,351 --> 00:14:00,669
+Robótica é uma paixão
+da minha família
+
+278
+00:14:00,670 --> 00:14:04,420
+desde que o meu tataravô
+fundou a empresa.
+
+279
+00:14:08,762 --> 00:14:10,404
+Esse é o...
+
+280
+00:14:11,030 --> 00:14:13,272
+Meu Deus.
+
+281
+00:14:16,984 --> 00:14:18,554
+Que estranho.
+
+282
+00:14:18,555 --> 00:14:20,060
+Você se parece com ele.
+
+283
+00:14:20,456 --> 00:14:22,886
+É, eu pareço como...
+
+284
+00:14:23,293 --> 00:14:26,789
+É, isso é muito estranho.
+
+285
+00:14:29,506 --> 00:14:31,139
+Não posso acreditar.
+
+286
+00:14:31,140 --> 00:14:33,290
+Sou como o Werner Von Braun
+da robótica.
+
+287
+00:14:33,291 --> 00:14:34,592
+Quem?
+
+288
+00:14:34,593 --> 00:14:36,873
+O cientista nazista
+que inventou o foguete V2,
+
+289
+00:14:36,874 --> 00:14:39,678
+construído usando escravos,
+e usado contra Londres.
+
+290
+00:14:39,679 --> 00:14:41,165
+Exceto que meus robôs,
+um dia,
+
+291
+00:14:41,166 --> 00:14:43,193
+serão usados contra o mundo.
+
+292
+00:14:43,194 --> 00:14:44,801
+Ray, cara, não acha
+
+293
+00:14:44,802 --> 00:14:46,670
+que você está focando
+na coisa errada?
+
+294
+00:14:46,671 --> 00:14:48,655
+Tem um filho
+que nem tinha ouvido falar.
+
+295
+00:14:48,656 --> 00:14:50,941
+Tinha um filho.
+Nesse específico período,
+
+296
+00:14:50,942 --> 00:14:53,176
+sua prole já deve estar
+há muito tempo morta.
+
+297
+00:14:53,177 --> 00:14:54,511
+Obrigado,
+
+298
+00:14:54,512 --> 00:14:57,230
+como se eu já não estivesse
+me sentindo mal o bastante.
+
+299
+00:14:57,231 --> 00:15:02,035
+Como é possível
+que eu seja tataravô?
+
+300
+00:15:02,036 --> 00:15:06,557
+Antes de sairmos de 2016,
+a única pessoa que eu...
+
+301
+00:15:06,558 --> 00:15:08,608
+Fazendo sexo?
+
+302
+00:15:08,609 --> 00:15:11,278
+me se foi
+uma semana antes de sairmos.
+
+303
+00:15:11,279 --> 00:15:12,579
+Ela morreu?
+
+304
+00:15:12,580 --> 00:15:16,266
+Não, é uma expressão
+onde você se finge de morto
+
+305
+00:15:16,267 --> 00:15:18,252
+não respondendo
+as mensagens de alguém.
+
+306
+00:15:18,253 --> 00:15:20,473
+Que idade estranha
+para namorar.
+
+307
+00:15:20,944 --> 00:15:24,975
+Você acha que ela
+não te respondeu porque...
+
+308
+00:15:24,976 --> 00:15:26,460
+Ela sabia
+que estava grávida?
+
+309
+00:15:27,730 --> 00:15:30,180
+Não me surpreende que meu filho
+começou a companhia
+
+310
+00:15:30,181 --> 00:15:31,848
+que produz robôs do mau.
+
+311
+00:15:31,849 --> 00:15:33,400
+Se eu não tivesse saído
+de 2016,
+
+312
+00:15:33,401 --> 00:15:36,429
+meu filho teria um pai amável,
+e a Palmer Tech não avançaria
+
+313
+00:15:36,430 --> 00:15:38,230
+com a construção
+de exército de robôs
+
+314
+00:15:38,231 --> 00:15:40,281
+que o Savage usa
+para conquistar o mundo.
+
+315
+00:15:40,942 --> 00:15:42,631
+Uma situação e tanto,
+não acha?
+
+316
+00:15:43,194 --> 00:15:47,030
+De qualquer forma,
+eu fui o pai de alguém
+
+317
+00:15:47,031 --> 00:15:48,331
+e eu nem sabia.
+
+318
+00:15:55,506 --> 00:15:57,056
+- Oi.
+- Oi.
+
+319
+00:15:57,658 --> 00:15:59,326
+Você está bem?
+
+320
+00:15:59,327 --> 00:16:01,111
+Estou.
+Eu estou bem.
+
+321
+00:16:01,913 --> 00:16:03,576
+Você não parece bem.
+
+322
+00:16:04,198 --> 00:16:06,851
+Só um pouco...
+Faminto.
+
+323
+00:16:06,852 --> 00:16:08,152
+Faminto?
+
+324
+00:16:08,153 --> 00:16:10,416
+Nada que uma barrinha energética
+não resolva.
+
+325
+00:16:10,896 --> 00:16:12,196
+Vejo você depois.
+
+326
+00:16:22,400 --> 00:16:25,159
+Edith e Joseph Boardman?
+
+327
+00:16:25,160 --> 00:16:26,551
+Nossos nomes novos.
+
+328
+00:16:26,988 --> 00:16:29,329
+Joe Boardman é um bom nome.
+
+329
+00:16:30,074 --> 00:16:32,843
+Além disso,
+nunca beijei uma Edith antes,
+
+330
+00:16:33,144 --> 00:16:35,566
+mas, certamente,
+posso me acostumar com isso.
+
+331
+00:16:38,249 --> 00:16:40,108
+E sobre isso tudo?
+
+332
+00:16:43,037 --> 00:16:45,455
+Como explicar
+para o nosso filho
+
+333
+00:16:45,456 --> 00:16:49,293
+o motivo dos seus pais
+se mudarem a cada dois anos,
+
+334
+00:16:49,644 --> 00:16:50,977
+alterando o nome deles,
+
+335
+00:16:50,978 --> 00:16:53,346
+checando por ameaças
+a cada cruzamento?
+
+336
+00:16:53,347 --> 00:16:54,779
+Não sei por que achamos
+
+337
+00:16:54,780 --> 00:16:56,430
+que poderíamos fazer isso
+de novo.
+
+338
+00:16:57,535 --> 00:16:59,380
+Acha que somos egoístas?
+
+339
+00:16:59,971 --> 00:17:01,271
+Por ter uma família?
+
+340
+00:17:01,272 --> 00:17:02,873
+Porque quando Savage
+nos achar...
+
+341
+00:17:02,874 --> 00:17:05,342
+- Ele não vai.
+- Ele sempre nos acha.
+
+342
+00:17:05,343 --> 00:17:07,277
+Talvez essa vida
+seja diferente.
+
+343
+00:17:07,278 --> 00:17:09,249
+Honestamente,
+você acredita nisso?
+
+344
+00:17:11,368 --> 00:17:12,668
+Veja...
+
+345
+00:17:15,370 --> 00:17:18,518
+Tudo o que eu sei
+é que Savage
+
+346
+00:17:18,519 --> 00:17:21,002
+não é a única coisa imortal,
+meu amor.
+
+347
+00:17:24,089 --> 00:17:25,389
+Isso aqui também é.
+
+348
+00:17:35,990 --> 00:17:39,409
+Imagino com o que
+maníacos genocidas sonham?
+
+349
+00:17:39,410 --> 00:17:40,710
+<i>Ele está sonhando</i>
+
+350
+00:17:40,711 --> 00:17:42,761
+<i>que está assando biscoitos
+com a mãe dele.</i>
+
+351
+00:17:42,762 --> 00:17:45,916
+Espere, você pode
+monitorar nossos sonhos?
+
+352
+00:17:45,917 --> 00:17:47,567
+<i>Claro.
+Por exemplo, noite passada,</i>
+
+353
+00:17:47,568 --> 00:17:50,003
+<i>você teve uma fantasia
+envolvendo uma enfermeira.</i>
+
+354
+00:17:50,004 --> 00:17:51,755
+Já chega, Gideon.
+
+355
+00:17:51,756 --> 00:17:53,648
+Gideon,
+cheque a linha do tempo
+
+356
+00:17:53,649 --> 00:17:55,525
+para certificar
+que o rapto do garoto
+
+357
+00:17:55,526 --> 00:17:57,864
+teve o efeito esperado
+sob o futuro.
+
+358
+00:17:57,865 --> 00:17:59,165
+<i>Minha nossa.</i>
+
+359
+00:17:59,714 --> 00:18:02,500
+<i>Você ficará desapontado
+com os resultados.</i>
+
+360
+00:18:02,501 --> 00:18:04,301
+O que quer dizer
+com não deu em nada?
+
+361
+00:18:04,302 --> 00:18:05,886
+Quero dizer,
+raptar Per Degaton
+
+362
+00:18:05,887 --> 00:18:08,221
+teve um efeito nominal
+sobre a linha do tempo.
+
+363
+00:18:08,222 --> 00:18:10,457
+Talvez precisamos
+nos livrar do fedelho
+
+364
+00:18:10,458 --> 00:18:12,776
+em algum lugar
+onde não possa causar problemas,
+
+365
+00:18:12,777 --> 00:18:14,412
+como a idade das pedras.
+
+366
+00:18:14,413 --> 00:18:17,213
+<i>Não importa onde e quando
+você o rapta na linha do tempo,</i>
+
+367
+00:18:17,214 --> 00:18:18,717
+<i>Savage vai ascender
+no poder.</i>
+
+368
+00:18:18,718 --> 00:18:21,368
+Mas Rip disse que esse garoto
+é como o pequeno Hitler.
+
+369
+00:18:21,369 --> 00:18:23,453
+Sim, e também que o tempo
+quer que ocorra,
+
+370
+00:18:23,454 --> 00:18:27,090
+e alterando um evento global
+como a ascensão do Savage
+
+371
+00:18:27,091 --> 00:18:28,656
+não pode ser impedido
+
+372
+00:18:28,657 --> 00:18:30,827
+meramente raptando
+o aprendiz dele.
+
+373
+00:18:30,828 --> 00:18:32,288
+Então voltamos
+para o plano A?
+
+374
+00:18:32,289 --> 00:18:34,164
+Acabando com o garoto
+enquanto dorme?
+
+375
+00:18:34,165 --> 00:18:38,084
+Não vamos nos esquecer
+que esse garoto, um dia,
+
+376
+00:18:38,085 --> 00:18:41,664
+será responsável
+por bilhões de mortes,
+
+377
+00:18:42,089 --> 00:18:44,074
+incluindo a minha família.
+
+378
+00:18:44,075 --> 00:18:47,211
+Digamos que você impeça Savage
+e salve as vidas da sua família,
+
+379
+00:18:47,212 --> 00:18:49,012
+você será capaz de olhar
+no seu filho
+
+380
+00:18:49,013 --> 00:18:51,782
+sabendo o que você fez
+para que ele vivesse?
+
+381
+00:18:52,083 --> 00:18:55,102
+Quando essa é a alternativa,
+melhor eu nunca mais vê-lo.
+
+382
+00:18:55,103 --> 00:18:56,487
+Tenho uma ideia melhor.
+
+383
+00:18:56,488 --> 00:18:58,705
+Em vez de discutir
+se devemos ou não matá-lo,
+
+384
+00:18:58,706 --> 00:19:00,274
+ou onde e quando largá-lo,
+
+385
+00:19:00,275 --> 00:19:01,992
+por que não só
+conversamos com ele?
+
+386
+00:19:01,993 --> 00:19:04,427
+Savage passou anos
+corrompendo a mente dele.
+
+387
+00:19:04,428 --> 00:19:07,797
+Não é muito tarde
+para o Per Degaton mudar.
+
+388
+00:19:07,798 --> 00:19:10,650
+- Quem diz?
+- Alguém com duas passagens
+
+389
+00:19:10,651 --> 00:19:11,974
+na Liga dos Assassinos
+
+390
+00:19:11,975 --> 00:19:14,353
+e um caso de sede por sangue
+dentro de si.
+
+391
+00:19:21,629 --> 00:19:23,281
+Finalmente.
+
+392
+00:19:23,922 --> 00:19:26,586
+Alguém disposto
+a fazer o trabalho de um homem.
+
+393
+00:19:27,235 --> 00:19:28,785
+Não é o motivo
+de eu estar aqui.
+
+394
+00:19:29,170 --> 00:19:30,487
+É quase engraçado
+
+395
+00:19:30,488 --> 00:19:32,305
+como vocês continuam
+desfilando aqui
+
+396
+00:19:32,306 --> 00:19:35,342
+como algum tipo
+de confessionário ou algo assim.
+
+397
+00:19:35,843 --> 00:19:37,761
+Também não é o motivo
+de eu estar aqui.
+
+398
+00:19:38,362 --> 00:19:40,663
+Então,
+vou tentar o seu jogo.
+
+399
+00:19:41,282 --> 00:19:45,369
+Todos estão lá argumentando
+se devem ou não matar o garoto,
+
+400
+00:19:45,370 --> 00:19:47,938
+porque ninguém acha
+que ele pode mudar,
+
+401
+00:19:47,939 --> 00:19:49,441
+o que me fez pensar
+sobre você.
+
+402
+00:19:54,178 --> 00:19:56,411
+Ninguém acha
+que você pode mudar.
+
+403
+00:19:57,498 --> 00:19:58,832
+É por isso que está aí.
+
+404
+00:19:58,833 --> 00:20:01,418
+O único motivo de estar aqui
+é que se eu sair,
+
+405
+00:20:01,419 --> 00:20:04,304
+vou retribuir ao Snart algo
+que ele não terá como escapar.
+
+406
+00:20:04,305 --> 00:20:05,605
+Ele salvou a sua vida.
+
+407
+00:20:05,606 --> 00:20:08,208
+Ele amarelou ao tentar me matar,
+não é a mesma coisa.
+
+408
+00:20:08,209 --> 00:20:09,809
+Ele me abandonou.
+
+409
+00:20:09,810 --> 00:20:13,346
+Não é como se ele tivesse
+muitas opções.
+
+410
+00:20:13,347 --> 00:20:15,131
+Enquanto você estava ocupado
+
+411
+00:20:15,132 --> 00:20:17,984
+nos entregando
+a um time de piratas homicidas,
+
+412
+00:20:17,985 --> 00:20:19,910
+Leonard e eu quase morremos.
+
+413
+00:20:21,272 --> 00:20:22,892
+Ele estava pensando em você,
+
+414
+00:20:24,292 --> 00:20:27,820
+ele contou sobre a sua parceria,
+a sua amizade.
+
+415
+00:20:29,280 --> 00:20:30,764
+E fez você chorar?
+
+416
+00:20:33,017 --> 00:20:35,241
+Você acha
+que vai me fazer chorar?
+
+417
+00:20:35,570 --> 00:20:39,405
+Ele é seu amigo,
+um amigo leal.
+
+418
+00:20:41,064 --> 00:20:42,364
+Você deveria saber disso.
+
+419
+00:20:42,927 --> 00:20:44,227
+Bem, obrigado.
+
+420
+00:20:45,346 --> 00:20:47,639
+Acertarei isso com ele
+assim que eu puder.
+
+421
+00:20:50,434 --> 00:20:53,211
+Matar uma criança,
+
+422
+00:20:53,988 --> 00:20:55,703
+não é algo heroico.
+
+423
+00:21:16,410 --> 00:21:17,743
+Sr. Degaton.
+
+424
+00:21:18,579 --> 00:21:21,751
+Pelos últimos 50 anos,
+cada um dentro do Conglomerado
+
+425
+00:21:21,752 --> 00:21:23,052
+enviou amostras biológicas
+
+426
+00:21:23,053 --> 00:21:26,052
+para que pudessem ser rastreados
+e monitorados o tempo todo,
+
+427
+00:21:26,053 --> 00:21:28,939
+- mas esses três...
+- Não são do Conglomerado,
+
+428
+00:21:28,940 --> 00:21:31,516
+e nem mesmo
+dos últimos 50 anos.
+
+429
+00:21:31,517 --> 00:21:33,948
+- Como sabe?
+- Longa história.
+
+430
+00:21:34,662 --> 00:21:37,755
+O que é importante
+é que posso recuperar seu filho.
+
+431
+00:21:38,399 --> 00:21:40,383
+Como sabe
+que não o mataram ainda?
+
+432
+00:21:40,384 --> 00:21:42,752
+Porque conheço as pessoas
+que o raptaram,
+
+433
+00:21:42,753 --> 00:21:44,748
+e eles são fracos.
+
+434
+00:21:45,840 --> 00:21:48,675
+<i>Com escrúpulos
+quando se trata de morte.</i>
+
+435
+00:22:28,709 --> 00:22:30,009
+Quem é você?
+
+436
+00:22:32,186 --> 00:22:34,202
+Essa é
+uma excelente pergunta.
+
+437
+00:22:35,456 --> 00:22:36,781
+O que foi isso?
+
+438
+00:22:37,793 --> 00:22:39,793
+Esse foi o nosso Bote do Tempo
+decolando.
+
+439
+00:22:39,794 --> 00:22:41,228
+Como Per Degaton escapou?
+
+440
+00:22:41,229 --> 00:22:43,129
+Gideon,
+quem mais está no Bote?
+
+441
+00:22:43,130 --> 00:22:45,649
+<i>Está sendo pilotado
+pelo capitão Hunter.</i>
+
+442
+00:22:45,650 --> 00:22:47,767
+O qual acaba
+de desligar o transponder.
+
+443
+00:22:47,768 --> 00:22:50,683
+Parece que alguém
+não quer ser seguido.
+
+444
+00:22:50,684 --> 00:22:53,540
+- Por quê?
+- Porque não quer ser impedido.
+
+445
+00:22:54,341 --> 00:22:56,408
+Impedi-lo de fazer o quê?
+
+446
+00:22:57,511 --> 00:22:59,331
+Matar o Per Degaton.
+
+447
+00:23:03,378 --> 00:23:05,862
+Só pense
+um pouco sobre isso.
+
+448
+00:23:05,863 --> 00:23:07,807
+Onde Rip pode
+ter levado Per Degaton?
+
+449
+00:23:09,066 --> 00:23:11,376
+O Bote do Tempo
+tem autonomia para 12.800km...
+
+450
+00:23:11,377 --> 00:23:12,702
+Então, qualquer lugar.
+
+451
+00:23:12,703 --> 00:23:14,787
+Não importa
+onde ele o está levando.
+
+452
+00:23:14,788 --> 00:23:16,638
+O que importa é
+o que ele fará com ele
+
+453
+00:23:16,639 --> 00:23:19,039
+- quando ele chegar lá.
+- Rip não é um assassino.
+
+454
+00:23:19,040 --> 00:23:22,078
+Para o capitão,
+não é sobre matar, mas salvar.
+
+455
+00:23:22,079 --> 00:23:23,379
+Salvar?
+
+456
+00:23:24,264 --> 00:23:27,084
+A vida do filho dele
+pela do Per Degaton.
+
+457
+00:23:29,436 --> 00:23:32,705
+É um mero cálculo
+a sangue frio
+
+458
+00:23:32,706 --> 00:23:34,608
+para um pai agir.
+
+459
+00:23:37,661 --> 00:23:39,255
+<i>Você sabe quem eu sou?</i>
+
+460
+00:23:40,297 --> 00:23:41,614
+Meu pai vai te...
+
+461
+00:23:41,615 --> 00:23:42,915
+Agradecer?
+
+462
+00:23:43,351 --> 00:23:45,301
+Imagino que exista
+uma enorme recompensa
+
+463
+00:23:45,302 --> 00:23:46,752
+pelo seu retorno
+em segurança.
+
+464
+00:23:47,137 --> 00:23:48,437
+Relaxe.
+
+465
+00:23:49,990 --> 00:23:51,320
+Você logo estará em casa.
+
+466
+00:23:59,049 --> 00:24:02,949
+Vamos, querido, temos que ir
+ou o trem vai sair sem nós.
+
+467
+00:24:02,950 --> 00:24:04,250
+Aonde vamos?
+
+468
+00:24:04,251 --> 00:24:06,235
+Vamos em uma pequena viagem.
+
+469
+00:24:06,236 --> 00:24:09,372
+Pense nisso
+como uma de suas aventuras.
+
+470
+00:24:09,373 --> 00:24:11,001
+O homem mal nos encontrou,
+
+471
+00:24:11,525 --> 00:24:14,275
+aquele que você e a mamãe
+comentaram enquanto eu dormia?
+
+472
+00:24:16,981 --> 00:24:19,476
+Por que Vandal Savage
+está nos caçando?
+
+473
+00:24:21,835 --> 00:24:23,370
+É hora dele saber.
+
+474
+00:24:26,505 --> 00:24:27,805
+Vamos.
+
+475
+00:24:33,213 --> 00:24:35,315
+Consegue manter um segredo,
+Aldus?
+
+476
+00:24:35,316 --> 00:24:40,264
+Há algo especial
+sobre a mamãe e o papai.
+
+477
+00:24:40,265 --> 00:24:43,172
+Nós nos conhecemos
+há muito, muito tempo,
+
+478
+00:24:43,173 --> 00:24:45,858
+e nos amamos
+desde o dia que nos conhecemos.
+
+479
+00:24:45,859 --> 00:24:47,806
+Já conheço essa história.
+
+480
+00:24:48,929 --> 00:24:51,399
+Você conhece
+parte dessa história.
+
+481
+00:24:52,566 --> 00:24:54,687
+Já ouviu falar de um lugar
+chamado Egito?
+
+482
+00:24:55,936 --> 00:24:59,773
+Tudo começou durante
+o comando de Ramsés II,
+
+483
+00:24:59,774 --> 00:25:02,175
+quando tarde da noite
+um grande e mágico meteoro
+
+484
+00:25:02,176 --> 00:25:04,221
+entrou destruindo
+o Templo de Hórus,
+
+485
+00:25:04,222 --> 00:25:06,073
+o deus-falcão.
+
+486
+00:25:13,412 --> 00:25:14,751
+- Oi.
+- Oi.
+
+487
+00:25:14,752 --> 00:25:16,057
+Está bem?
+
+488
+00:25:16,058 --> 00:25:20,893
+Sim, estou.
+Só estava pensando.
+
+489
+00:25:20,894 --> 00:25:22,462
+Estava pensando no quê?
+
+490
+00:25:22,463 --> 00:25:25,017
+Deixe-me entrar
+nessa sua mente de 4 mil anos.
+
+491
+00:25:27,234 --> 00:25:31,355
+Os flashes que venho tendo,
+não são do Savage.
+
+492
+00:25:31,356 --> 00:25:34,265
+São de Carter.
+
+493
+00:25:36,020 --> 00:25:37,949
+E não são só memórias.
+
+494
+00:25:38,429 --> 00:25:40,048
+Também são sentimentos.
+
+495
+00:25:41,111 --> 00:25:43,263
+Entendo.
+
+496
+00:25:43,264 --> 00:25:46,715
+Deve ser esquisito sentir
+que está me traindo com ele.
+
+497
+00:25:47,399 --> 00:25:48,699
+Não, Ray.
+
+498
+00:25:49,656 --> 00:25:53,611
+Sinto que estou o traindo
+com você.
+
+499
+00:25:57,217 --> 00:25:58,517
+Sinto muito.
+
+500
+00:26:00,234 --> 00:26:02,288
+Não, tudo bem.
+
+501
+00:26:04,471 --> 00:26:06,471
+Quero dizer, eu sabia
+no que eu me metia.
+
+502
+00:26:07,324 --> 00:26:10,039
+As últimas 206 vezes
+que você se apaixonou
+
+503
+00:26:10,040 --> 00:26:11,911
+foram pelo mesmo cara.
+
+504
+00:26:12,596 --> 00:26:15,141
+Acho que não é uma boa hora
+para falar sobre...
+
+505
+00:26:16,011 --> 00:26:17,773
+O que está te incomodando.
+
+506
+00:26:20,226 --> 00:26:22,605
+Não é só você
+que é perceptivo.
+
+507
+00:26:24,691 --> 00:26:26,436
+Qual é o problema?
+
+508
+00:26:28,529 --> 00:26:33,042
+Acontece que tenho um filho
+do qual eu não sabia,
+
+509
+00:26:33,043 --> 00:26:36,736
+lá em 2016,
+e, aqui no futuro,
+
+510
+00:26:36,737 --> 00:26:41,641
+a neta da minha neta cria
+o exército de robôs Gestapos
+
+511
+00:26:41,642 --> 00:26:46,451
+que Savage, um dia,
+usará para destruir o mundo.
+
+512
+00:26:48,415 --> 00:26:49,926
+Por que não me contou?
+
+513
+00:26:52,069 --> 00:26:54,207
+Não queria
+que pensasse mal de mim.
+
+514
+00:26:55,055 --> 00:26:56,355
+Ray,
+
+515
+00:26:57,763 --> 00:26:59,854
+como eu poderia
+pensar mal de você?
+
+516
+00:27:01,795 --> 00:27:03,921
+Agora que desabafamos...
+
+517
+00:27:04,965 --> 00:27:06,530
+O que isso quer dizer
+para nós?
+
+518
+00:27:12,639 --> 00:27:15,308
+Sem sorte em achar
+nosso capitão homicida?
+
+519
+00:27:15,309 --> 00:27:16,642
+Gideon está procurando,
+
+520
+00:27:16,643 --> 00:27:18,728
+mas acho que Rip
+não será encontrado
+
+521
+00:27:18,729 --> 00:27:20,029
+até que queira ser.
+
+522
+00:27:20,030 --> 00:27:22,081
+O que você faz aqui embaixo?
+
+523
+00:27:22,583 --> 00:27:25,394
+Não acha que deve,
+ao menos, uma conversa a ele?
+
+524
+00:27:25,395 --> 00:27:28,471
+Nós conversamos
+quando ele era Chronos
+
+525
+00:27:28,472 --> 00:27:31,290
+e ele deixou bem claro
+o que sente por mim.
+
+526
+00:27:31,291 --> 00:27:32,899
+E o que você sente?
+
+527
+00:27:32,900 --> 00:27:34,200
+Por você?
+
+528
+00:27:34,561 --> 00:27:35,954
+Pelo Mick.
+
+529
+00:27:36,729 --> 00:27:39,604
+Não tenho sentimentos
+pelo Mick.
+
+530
+00:27:42,536 --> 00:27:44,396
+Não pareceu
+enquanto estávamos
+
+531
+00:27:44,397 --> 00:27:47,456
+morrendo de hipotermia
+na sala de máquinas.
+
+532
+00:27:47,457 --> 00:27:51,294
+Se quer aliviar sua consciência,
+é problema seu,
+
+533
+00:27:51,295 --> 00:27:53,379
+mas ele ainda é o mesmo
+desgraçado que era
+
+534
+00:27:53,380 --> 00:27:55,848
+quando vocês queriam
+que eu desse um fim nele.
+
+535
+00:27:55,849 --> 00:27:58,384
+Não fui eu quem sugeriu
+abandonar Rory.
+
+536
+00:27:58,385 --> 00:27:59,685
+Foi você.
+
+537
+00:27:59,686 --> 00:28:02,069
+Isso ainda pesa
+na sua consciência.
+
+538
+00:28:03,336 --> 00:28:07,805
+Então pare de ser um babaca
+e vá resolver isso com ele.
+
+539
+00:28:19,640 --> 00:28:21,162
+Isso não é Kasnia.
+
+540
+00:28:22,109 --> 00:28:24,605
+Achei que um lugar neutro
+seria melhor.
+
+541
+00:28:24,606 --> 00:28:25,906
+Para o quê?
+
+542
+00:28:27,335 --> 00:28:28,635
+Para me trocar?
+
+543
+00:28:29,800 --> 00:28:32,708
+Seu pai te ensinou a nadar,
+Per Degaton?
+
+544
+00:28:33,520 --> 00:28:36,370
+Não, ele deve ter mandado
+alguém ensinar por ele, não foi?
+
+545
+00:28:36,807 --> 00:28:39,134
+Não te falta tutores,
+não é?
+
+546
+00:28:40,527 --> 00:28:43,574
+É como o sr. Savage.
+
+547
+00:28:45,038 --> 00:28:46,338
+Do que está falando?
+
+548
+00:28:46,339 --> 00:28:49,402
+Meu filho, Jonas,
+sempre quis aprender a nadar.
+
+549
+00:28:49,403 --> 00:28:51,537
+Prometi que eu o ensinaria,
+
+550
+00:28:51,538 --> 00:28:55,703
+mas nunca pareceu
+ser a hora certa.
+
+551
+00:28:58,178 --> 00:29:02,857
+Meu filho nunca aprendeu a nadar
+porque foi assassinado.
+
+552
+00:29:04,017 --> 00:29:07,451
+Então você me trouxe aqui
+para me matar.
+
+553
+00:29:07,452 --> 00:29:09,852
+Eu o trouxe aqui
+para salvar a vida do meu filho.
+
+554
+00:29:10,757 --> 00:29:12,699
+A sua vida em troca da dele.
+
+555
+00:29:16,660 --> 00:29:17,960
+Sinto muito.
+
+556
+00:29:18,265 --> 00:29:19,653
+Não, não sente.
+
+557
+00:29:21,618 --> 00:29:24,934
+Você não sente muito
+porque não vai me matar.
+
+558
+00:29:24,935 --> 00:29:26,246
+Eu preciso.
+
+559
+00:29:26,247 --> 00:29:29,208
+Para salvar minha esposa
+e meu filho, eu preciso.
+
+560
+00:29:29,209 --> 00:29:30,910
+Não esperava
+que você entendesse.
+
+561
+00:29:30,911 --> 00:29:32,878
+Não importa
+se eu entendo ou não.
+
+562
+00:29:32,879 --> 00:29:34,580
+Consigo ver nos seus olhos.
+
+563
+00:29:34,581 --> 00:29:36,082
+Você não me matará.
+
+564
+00:29:36,433 --> 00:29:39,788
+Você é como meu pai, fraco.
+
+565
+00:29:42,522 --> 00:29:44,934
+Vandal Savage
+me ensinou muitas coisas,
+
+566
+00:29:44,935 --> 00:29:46,890
+incluindo como um assassino
+se parece.
+
+567
+00:29:49,062 --> 00:29:50,462
+Você não é um assassino.
+
+568
+00:30:00,641 --> 00:30:02,255
+Seu tutor o ensinou bem,
+
+569
+00:30:03,894 --> 00:30:05,558
+mesmo com os objetivos
+deturpados.
+
+570
+00:30:05,559 --> 00:30:06,879
+Vandal me ama.
+
+571
+00:30:06,880 --> 00:30:09,013
+Ele quer te usar
+como um peão,
+
+572
+00:30:09,899 --> 00:30:12,468
+e, no fim,
+ele irá te trair.
+
+573
+00:30:12,469 --> 00:30:14,020
+Não, ele nunca me trairia.
+
+574
+00:30:14,021 --> 00:30:15,638
+Já disse a mim mesmo
+várias vezes
+
+575
+00:30:15,639 --> 00:30:17,423
+que não há nada
+que eu nunca faria
+
+576
+00:30:17,424 --> 00:30:20,074
+para salvar meu filho e esposa,
+mas agora vejo que há.
+
+577
+00:30:20,677 --> 00:30:22,945
+Minha hesitação
+em te matar, Per Degaton,
+
+578
+00:30:22,946 --> 00:30:24,456
+não é uma fraqueza.
+
+579
+00:30:25,399 --> 00:30:26,852
+É bondade.
+
+580
+00:30:27,834 --> 00:30:30,219
+E se há um fiapo
+de bondade em mim,
+
+581
+00:30:30,220 --> 00:30:31,904
+então preciso acreditar
+
+582
+00:30:31,905 --> 00:30:33,955
+que há um fiapo de bondade
+dentro de você.
+
+583
+00:30:37,311 --> 00:30:39,851
+Seja o homem que seu pai
+quer se você seja,
+
+584
+00:30:41,715 --> 00:30:43,920
+não o homem que Savage quer.
+
+585
+00:31:02,168 --> 00:31:04,898
+Savage, ele está vindo.
+
+586
+00:31:05,340 --> 00:31:06,640
+Gideon?
+
+587
+00:31:06,641 --> 00:31:09,034
+<i>As forças de Tor Degaton
+cercaram a nave.</i>
+
+588
+00:31:16,049 --> 00:31:17,425
+<i>Temo que nossos escudos</i>
+
+589
+00:31:17,426 --> 00:31:19,601
+<i>não aguentarão
+continuar sendo bombardeados.</i>
+
+590
+00:31:19,602 --> 00:31:20,952
+- Você teme?
+- Que tal isso:
+
+591
+00:31:20,953 --> 00:31:22,374
+Por que não atiram de volta?
+
+592
+00:31:22,375 --> 00:31:23,683
+<i>Eu atiraria, mas...</i>
+
+593
+00:31:23,684 --> 00:31:26,344
+Os robôs voadores já acertaram
+nosso sistema de armas.
+
+594
+00:31:26,345 --> 00:31:27,796
+Não precisamos de armas.
+
+595
+00:31:27,797 --> 00:31:29,747
+Ele está certo.
+Nós temos super poderes.
+
+596
+00:31:44,230 --> 00:31:46,101
+Acho que isso é seu.
+
+597
+00:31:56,343 --> 00:31:58,793
+Chamarei a atenção,
+você cuida das tropas no solo.
+
+598
+00:32:28,375 --> 00:32:30,607
+Ray, está tudo bem?
+
+599
+00:32:30,608 --> 00:32:32,961
+Então é assim que é
+ser o modelo do ano passado.
+
+600
+00:32:32,962 --> 00:32:35,562
+Eles são muito rápidos.
+Precisamos achar outra forma.
+
+601
+00:32:39,285 --> 00:32:41,937
+Esqueçam.
+Nós seguraremos os robôs.
+
+602
+00:32:41,938 --> 00:32:44,038
+Vamos acabar
+com o centro de comando deles.
+
+603
+00:32:58,529 --> 00:32:59,829
+Quem é você?
+
+604
+00:33:04,711 --> 00:33:06,177
+<i>Ray, depressa.</i>
+
+605
+00:33:06,479 --> 00:33:08,350
+Não consigo segurá-los
+para sempre.
+
+606
+00:33:12,118 --> 00:33:13,422
+Onde arrumou seu traje?
+
+607
+00:33:14,821 --> 00:33:19,207
+Se não nos deixar desabilitar
+seu exército de robôs do mal,
+
+608
+00:33:19,208 --> 00:33:20,803
+o mundo todo será destruído.
+
+609
+00:33:20,804 --> 00:33:22,884
+Eles foram criados
+para trazer paz.
+
+610
+00:33:24,351 --> 00:33:25,651
+Eu sei.
+
+611
+00:33:26,466 --> 00:33:28,917
+- Eu criei os robôs.
+- O quê?
+
+612
+00:33:28,918 --> 00:33:33,386
+Sou o seu tataravô.
+
+613
+00:33:33,387 --> 00:33:37,192
+o cara da estátua do hall,
+o pai da indústria robótica.
+
+614
+00:33:38,745 --> 00:33:41,548
+Está me dizendo
+que você é Sidney Palmer?
+
+615
+00:33:41,549 --> 00:33:42,849
+Sidney?
+
+616
+00:33:43,750 --> 00:33:48,596
+Espere, a estátua no hall
+é do meu irmão idiota?
+
+617
+00:33:49,309 --> 00:33:50,739
+É claro.
+
+618
+00:33:50,740 --> 00:33:53,104
+Ele deve ter ido trabalhar
+para Felicity em 2016
+
+619
+00:33:53,105 --> 00:33:54,409
+depois que eu sumi.
+
+620
+00:33:54,410 --> 00:33:57,310
+Ele deixou minha tecnologia
+ser pervertida pelos militares.
+
+621
+00:33:57,311 --> 00:33:58,897
+Isso é tão coisa do Sidney.
+
+622
+00:33:58,898 --> 00:34:01,984
+Então, isso quer dizer
+que ela não é...
+
+623
+00:34:02,502 --> 00:34:04,292
+Não sou um pai.
+
+624
+00:34:06,506 --> 00:34:09,674
+Precisamos da sua ajuda
+para desabilitar os robôs.
+
+625
+00:34:11,744 --> 00:34:13,945
+Por que devo acreditar
+em você?
+
+626
+00:34:14,614 --> 00:34:18,411
+Porque se tem uma gota sequer
+do sangue de Palmer,
+
+627
+00:34:18,761 --> 00:34:20,319
+fará o que é certo.
+
+628
+00:34:33,816 --> 00:34:36,953
+Parece que Raymond conseguiu
+sabotar o exército de robôs.
+
+629
+00:34:36,954 --> 00:34:39,538
+Então acabar com o resto
+desses caras deve ser mole.
+
+630
+00:34:39,539 --> 00:34:41,830
+Não vai ser mole.
+
+631
+00:34:43,092 --> 00:34:44,560
+O que você quer?
+
+632
+00:34:44,561 --> 00:34:49,089
+Quero trocar a vida dessa mulher
+pela do seu capitão, Rip Hunter.
+
+633
+00:34:49,090 --> 00:34:50,836
+Tenho uma ideia melhor:
+
+634
+00:34:51,200 --> 00:34:54,430
+A vida dela
+em troca da dele.
+
+635
+00:34:57,777 --> 00:34:59,361
+Seu filho retornará
+para você
+
+636
+00:34:59,362 --> 00:35:02,464
+assim que nos prometer
+passagem segura.
+
+637
+00:35:02,465 --> 00:35:04,099
+Não faça isso, pai.
+
+638
+00:35:04,100 --> 00:35:05,438
+Se os deixar ir agora,
+
+639
+00:35:05,439 --> 00:35:07,800
+eles só voltarão
+atrás de nós no futuro.
+
+640
+00:35:08,554 --> 00:35:10,318
+A escolha é sua.
+
+641
+00:35:12,725 --> 00:35:14,192
+Seu filho está certo.
+
+642
+00:35:14,193 --> 00:35:15,973
+Deveríamos matar todos.
+
+643
+00:35:19,032 --> 00:35:20,531
+Abaixem as armas!
+
+644
+00:35:20,532 --> 00:35:21,850
+Não, pai!
+
+645
+00:35:21,851 --> 00:35:25,287
+Deixe meu filho ir
+e você poderá ir em paz.
+
+646
+00:35:25,288 --> 00:35:26,699
+Tem minha palavra.
+
+647
+00:35:38,618 --> 00:35:42,073
+É bom achar um novo mentor,
+garoto.
+
+648
+00:36:10,061 --> 00:36:11,361
+O que você quer?
+
+649
+00:36:11,728 --> 00:36:14,305
+Acham que deveríamos
+ter uma conversa franca.
+
+650
+00:36:14,306 --> 00:36:16,812
+Não somos francos.
+Onde isso nos deixa?
+
+651
+00:36:16,813 --> 00:36:18,704
+Tenho dezenas de razões
+para te matar.
+
+652
+00:36:18,705 --> 00:36:21,323
+E você tem outras dezenas
+de razões para me matar.
+
+653
+00:36:21,324 --> 00:36:24,057
+Nenhuma conversa
+irá mudar algo.
+
+654
+00:36:24,058 --> 00:36:26,206
+Exatamente,
+essa é a minha proposta.
+
+655
+00:36:26,207 --> 00:36:29,952
+Eu abro a cela,
+e deixamos os socos falarem.
+
+656
+00:36:38,733 --> 00:36:40,033
+Quando eu te matar...
+
+657
+00:36:40,034 --> 00:36:42,096
+Você pega o Bote do Tempo,
+escapa,
+
+658
+00:36:42,097 --> 00:36:45,687
+e vive o resto de sua vida
+onde quiser.
+
+659
+00:36:48,838 --> 00:36:50,156
+E se você me matar,
+
+660
+00:36:53,090 --> 00:36:55,085
+é melhor do que estar preso
+neste lugar
+
+661
+00:36:55,086 --> 00:36:57,338
+como uma aberração de circo.
+
+662
+00:36:58,568 --> 00:37:00,510
+Tomo isso como um sim.
+
+663
+00:37:00,511 --> 00:37:01,930
+Toquem o sino.
+
+664
+00:37:07,951 --> 00:37:09,877
+Não precisa bater.
+
+665
+00:37:09,878 --> 00:37:11,996
+- É também o seu quarto.
+- Sim, eu sei.
+
+666
+00:37:11,997 --> 00:37:16,234
+É que as coisas
+têm sido estranhas.
+
+667
+00:37:16,235 --> 00:37:20,084
+Desde que disse que tinha
+um filho que não tinha,
+
+668
+00:37:20,085 --> 00:37:23,068
+ou quando disse que ainda
+estava apaixonada pelo...
+
+669
+00:37:23,069 --> 00:37:25,917
+Sabe o que amo em você, Ray?
+
+670
+00:37:25,918 --> 00:37:29,041
+Você sempre consegue
+encontrar o lado positivo.
+
+671
+00:37:29,042 --> 00:37:31,164
+E não importa o quê,
+você nunca desiste.
+
+672
+00:37:31,818 --> 00:37:35,186
+Então, por favor,
+não desista de nós.
+
+673
+00:37:35,187 --> 00:37:36,642
+Não vou desistir,
+
+674
+00:37:37,168 --> 00:37:40,716
+mas é difícil
+ignorar a matemática.
+
+675
+00:37:40,717 --> 00:37:42,931
+Você e Carter
+passaram vidas juntos,
+
+676
+00:37:42,932 --> 00:37:45,988
+e em cada uma,
+você se apaixonou,
+
+677
+00:37:47,200 --> 00:37:49,691
+então, por que nessa vida
+seria diferente?
+
+678
+00:37:54,357 --> 00:37:56,251
+Eu nunca te encontrei antes.
+
+679
+00:37:57,624 --> 00:38:01,002
+Ray, Carter é meu passado.
+
+680
+00:38:02,283 --> 00:38:04,346
+Você é meu futuro.
+
+681
+00:38:19,494 --> 00:38:20,864
+Vandal.
+
+682
+00:38:20,865 --> 00:38:23,813
+Não esperava você tão cedo.
+
+683
+00:38:23,814 --> 00:38:25,439
+Meu pai quis
+que eu descansasse,
+
+684
+00:38:25,440 --> 00:38:27,815
+mas eu queria continuar
+meus estudos.
+
+685
+00:38:27,816 --> 00:38:31,122
+- Bom garoto.
+- Então, onde começamos?
+
+686
+00:38:31,123 --> 00:38:33,845
+Estava pensando
+pela mitologia Grega.
+
+687
+00:38:33,846 --> 00:38:36,448
+Você conhece
+a história de Édipo Rei?
+
+688
+00:38:36,449 --> 00:38:40,216
+Era um príncipe dos ladrões
+antes de seu pai o exilar.
+
+689
+00:38:40,217 --> 00:38:41,774
+Por quê?
+
+690
+00:38:41,775 --> 00:38:44,506
+Porque o rei era um covarde.
+
+691
+00:38:45,139 --> 00:38:48,107
+Ele ouviu uma profecia
+que um dia o seu filho
+
+692
+00:38:48,108 --> 00:38:51,897
+tomaria a coroa dele,
+ele amarrou os pés do menino
+
+693
+00:38:51,898 --> 00:38:54,324
+e o jogou na floresta
+para morrer.
+
+694
+00:38:56,088 --> 00:38:59,597
+- O que o menino fez?
+- Ele fez o que tinha de fazer.
+
+695
+00:38:59,598 --> 00:39:02,425
+E, um dia,
+a profecia se realizou,
+
+696
+00:39:02,426 --> 00:39:06,837
+e o príncipe se tornou
+um grande e poderoso rei.
+
+697
+00:39:09,572 --> 00:39:11,464
+No entanto, não foi fácil.
+
+698
+00:39:11,857 --> 00:39:14,157
+Grandes coisas nunca são fáceis.
+
+699
+00:39:24,383 --> 00:39:26,809
+<i>Infelizmente, nossas interações
+não fizeram nada</i>
+
+700
+00:39:26,810 --> 00:39:29,106
+<i>para impedir a subida
+de Per Degaton ao poder.</i>
+
+701
+00:39:30,947 --> 00:39:33,263
+<i>Capaz de termos o ajudado.</i>
+
+702
+00:39:38,497 --> 00:39:40,977
+<i>Na verdade, o vírus,
+que não era para ser</i>
+
+703
+00:39:40,978 --> 00:39:43,207
+<i>liberado no mundo
+por mais cinco anos...</i>
+
+704
+00:39:43,208 --> 00:39:44,508
+Sinto muito, pai.
+
+705
+00:39:48,240 --> 00:39:50,749
+<i>Agora será lançado
+em questão de dias.</i>
+
+706
+00:39:52,652 --> 00:39:56,052
+Como sabem, nosso ex-presidente
+passou a cadeira do Conglomerado
+
+707
+00:39:56,053 --> 00:39:57,353
+passou para seu filho.
+
+708
+00:39:57,904 --> 00:40:01,568
+E, devido à idade, me elegeu
+para ser o seu responsável.
+
+709
+00:40:06,289 --> 00:40:07,777
+A primeira coisa a se fazer,
+
+710
+00:40:07,778 --> 00:40:10,404
+gostaria de rever
+nossa discussão
+
+711
+00:40:10,405 --> 00:40:12,499
+sobre a crise da população
+
+712
+00:40:12,500 --> 00:40:14,591
+além das fronteiras
+do Conglomerado.
+
+713
+00:40:14,592 --> 00:40:17,735
+Como sabemos,
+já temos uma solução.
+
+714
+00:40:19,193 --> 00:40:21,382
+Eu fiz a coisa certa,
+Gideon?
+
+715
+00:40:21,383 --> 00:40:23,744
+<i>Não cometer assassinato
+é geralmente considerado</i>
+
+716
+00:40:23,745 --> 00:40:25,570
+<i>a coisa certa, capitão.</i>
+
+717
+00:40:27,045 --> 00:40:28,981
+Neste caso...
+
+718
+00:40:31,530 --> 00:40:33,136
+Eu me pergunto.
+
+719
+00:40:54,086 --> 00:40:58,147
+Temos um acordo, Mick,
+mate-me e será livre.
+
+720
+00:40:59,514 --> 00:41:02,781
+É o que quer, não é,
+
+721
+00:41:02,782 --> 00:41:04,869
+sair da equipe?
+
+722
+00:41:06,272 --> 00:41:07,919
+Eu não sei o que quero mais.
+
+723
+00:41:08,724 --> 00:41:10,474
+A verdade é que não importa.
+
+724
+00:41:11,960 --> 00:41:13,975
+Do que está falando?
+
+725
+00:41:15,001 --> 00:41:17,992
+Se eu ficar ou partir,
+eu estou morto.
+
+726
+00:41:19,589 --> 00:41:20,889
+Estamos todos mortos.
+
+727
+00:41:23,347 --> 00:41:24,958
+<i>Desde que falhei em trazê-lo,</i>
+
+728
+00:41:24,959 --> 00:41:27,055
+<i>os Mestres do Tempo
+querem que eu entre,</i>
+
+729
+00:41:27,056 --> 00:41:30,898
+<i>e dessa vez,</i>
+eles não vão se arriscar.
+
+730
+00:41:30,899 --> 00:41:34,504
+Eles se chamam de Caçadores,
+mercenários,
+
+731
+00:41:34,505 --> 00:41:37,567
+e ao contrário de mim,
+não há parte humana neles.
+
+732
+00:41:38,119 --> 00:41:40,591
+Eles querem nos prender
+no Ponto de Fuga?
+
+733
+00:41:40,592 --> 00:41:42,898
+Os caçadores fazem uma coisa:
+matar,
+
+734
+00:41:42,899 --> 00:41:45,290
+quando, onde,
+
+735
+00:41:45,291 --> 00:41:47,255
+e não irão parar
+até que cada um de nós
+
+736
+00:41:47,256 --> 00:41:49,523
+sejam apagados
+da face da história.
+
+737
+00:41:52,173 --> 00:41:56,134
+Tem sugestão de como poderíamos
+enganá-los, sr. Rory?
+
+738
+00:41:56,135 --> 00:41:57,435
+Corram.
+
+739
+00:41:57,436 --> 00:42:01,252
+www.insubs.com
