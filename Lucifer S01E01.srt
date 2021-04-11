@@ -1,0 +1,3699 @@
+1
+00:00:02,283 --> 00:00:04,874
+No início dos tempos...
+
+2
+00:00:04,904 --> 00:00:09,904
+o anjo Lucifer foi expulso do Paraíso e
+condenado a reinar o Inferno para sempre.
+
+3
+00:00:09,934 --> 00:00:13,272
+{\an8}Até ter decidido
+tirar férias...
+
+4
+00:00:18,195 --> 00:00:20,044
+Los Angeles 2015 d.C.
+
+5
+00:00:58,889 --> 00:01:00,739
+Baixe o volume, senhor.
+
+6
+00:01:04,034 --> 00:01:05,334
+Desligue o rádio.
+
+7
+00:01:05,673 --> 00:01:06,673
+Desculpe.
+
+8
+00:01:08,266 --> 00:01:10,236
+Sabe porque o fiz encostar?
+
+9
+00:01:10,246 --> 00:01:13,263
+Bem, obviamente sentiu a necessidade
+de exercitar os seus poderes limitados e
+
+10
+00:01:13,273 --> 00:01:15,206
+castigar-me por ter ignorado
+o limite de velocidade.
+
+11
+00:01:15,216 --> 00:01:17,016
+Está tudo bem, eu percebo.
+
+12
+00:01:17,803 --> 00:01:20,025
+É que... também gosto
+de castigar as pessoas.
+
+13
+00:01:20,035 --> 00:01:21,300
+Ou pelo costumava.
+
+14
+00:01:22,728 --> 00:01:24,178
+Carta de condução e livrete.
+
+15
+00:01:24,829 --> 00:01:26,129
+É para já.
+
+16
+00:01:30,099 --> 00:01:31,514
+Está a tentar subornar-me, senhor?
+
+17
+00:01:31,524 --> 00:01:32,524
+Sim, claro.
+
+18
+00:01:35,422 --> 00:01:36,922
+Não é suficiente?
+
+19
+00:01:37,236 --> 00:01:40,410
+- Leve mais. É apenas dinheiro.
+- É contra a leis, senhor.
+
+20
+00:01:40,420 --> 00:01:43,170
+Vocês têm piada quanto
+às vossas leis, não?
+
+21
+00:01:44,536 --> 00:01:47,028
+Às vezes infringe a lei, não?
+
+22
+00:01:49,775 --> 00:01:50,775
+Às vezes...
+
+23
+00:01:51,390 --> 00:01:53,442
+ligo a sirene e conduzo
+mesmo rápido
+
+24
+00:01:53,452 --> 00:01:54,641
+sem qualquer motivo.
+
+25
+00:01:54,969 --> 00:01:56,134
+Só porque posso.
+
+26
+00:01:56,427 --> 00:01:59,427
+Certo? E porque não o faria?
+É divertido!
+
+27
+00:01:59,755 --> 00:02:02,505
+- É bom safar-se com algo, não?
+- Sim.
+
+28
+00:02:05,926 --> 00:02:07,488
+Está tudo bem, agente.
+
+29
+00:02:07,498 --> 00:02:09,373
+As pessoas gostam de contar-me coisas.
+
+30
+00:02:09,383 --> 00:02:13,016
+Aqueles desejos pequenos e negros
+no fundo da mente.
+
+31
+00:02:13,026 --> 00:02:14,026
+É um dom.
+
+32
+00:02:14,250 --> 00:02:15,985
+Deve ter algo a ver com esta cara.
+
+33
+00:02:17,471 --> 00:02:18,823
+Fica tentado a ficar com ele, certo?
+
+34
+00:02:20,025 --> 00:02:21,823
+Bem, do que está à espera?
+Que lhe dê permissão?
+
+35
+00:02:21,833 --> 00:02:24,204
+Aceite, compre algo
+bonito, merece.
+
+36
+00:02:26,327 --> 00:02:28,831
+Se não se importa,
+tenho de ir.
+
+37
+00:02:29,646 --> 00:02:30,996
+Sim, claro.
+
+38
+00:02:31,433 --> 00:02:32,858
+Tenha um bom serão.
+
+39
+00:02:33,603 --> 00:02:35,003
+O senhor também, agente.
+
+40
+00:02:36,566 --> 00:02:37,566
+O senhor também.
+
+41
+00:02:43,885 --> 00:02:46,172
+Lucifer S01E01
+"Pilot"
+
+42
+00:02:46,173 --> 00:02:48,580
+<b><font color=#004000>Lus</font><font color=#FFFF00>o</font><font color=#FF0000>Subs</font></b>
+<b><font color=#004000>AS</font><font color=#FFFF00>AP</font><font color=#FF0000>Subs</font></b>
+
+43
+00:02:48,581 --> 00:02:50,541
+<b><i>Traduzido por:
+LusoSubs e AsapSubs</b></i>
+
+44
+00:02:50,541 --> 00:02:52,541
+Sincronização: ItalianSubs
+
+45
+00:03:01,059 --> 00:03:02,159
+Olá, chefe.
+
+46
+00:03:29,670 --> 00:03:31,119
+Onde tens andado?
+
+47
+00:03:31,222 --> 00:03:32,863
+Escondido num castelo,
+
+48
+00:03:32,873 --> 00:03:36,247
+a copular com uma jovem mulher
+chamada Faith. Irónico, não é?
+
+49
+00:03:37,364 --> 00:03:38,664
+Obrigada, Patrick.
+
+50
+00:03:38,768 --> 00:03:39,868
+Podes ir.
+
+51
+00:03:44,046 --> 00:03:45,178
+Seu diabozinho.
+
+52
+00:03:45,393 --> 00:03:46,393
+O que foi?
+
+53
+00:03:46,742 --> 00:03:49,399
+- Deixei cair algo.
+- Tenho a certeza que sim.
+
+54
+00:03:49,409 --> 00:03:50,762
+Ouve, Lucifer.
+
+55
+00:03:50,792 --> 00:03:53,389
+- Som uma grande fã de sexo.
+- Obviamente.
+
+56
+00:03:53,399 --> 00:03:56,264
+Mas não deixei o Inferno
+para ser empregada de mesa.
+
+57
+00:03:56,274 --> 00:04:00,474
+Não devias passar o teu precioso
+tempo a fazer algo mais
+
+58
+00:04:00,711 --> 00:04:01,940
+significativo?
+
+59
+00:04:03,428 --> 00:04:05,408
+És o Senhor do Inferno,
+por amor de Deus.
+
+60
+00:04:05,418 --> 00:04:08,412
+Estou reformado, Maze.
+Tenho todo o tempo do mundo.
+
+61
+00:04:08,422 --> 00:04:09,422
+Obrigado.
+
+62
+00:04:23,148 --> 00:04:24,788
+Acho que tens uma visita.
+
+63
+00:04:31,759 --> 00:04:33,372
+Amenadiel!
+
+64
+00:04:33,402 --> 00:04:35,903
+Como estão as coisas, grandalhão?
+
+65
+00:04:36,659 --> 00:04:39,695
+Foi pedido o teu regresso
+ao submundo.
+
+66
+00:04:40,798 --> 00:04:42,019
+Certo. Está bem.
+
+67
+00:04:42,029 --> 00:04:44,022
+Deixa-me... verificar a agenda.
+
+68
+00:04:44,032 --> 00:04:45,523
+Sim, aqui está.
+
+69
+00:04:45,533 --> 00:04:50,238
+O 7º de Nunca através do 15º de
+Nunca-Vai-Acontecer. O que vos parece?
+
+70
+00:04:52,152 --> 00:04:54,911
+Olha, relembra o pai que
+fui embora do Inferno
+
+71
+00:04:54,921 --> 00:04:57,292
+porque estava farto de fazer
+parte da sua peça.
+
+72
+00:04:57,302 --> 00:04:59,809
+Aviso-te, Lucifer, não faltes
+ao respeito ao nosso pai.
+
+73
+00:04:59,819 --> 00:05:02,938
+Bem, o nosso pai tem-me desrespeitado
+desde o início dos tempos.
+
+74
+00:05:02,948 --> 00:05:04,741
+Portanto, não me julgues,
+não achas?
+
+75
+00:05:04,751 --> 00:05:05,751
+És
+
+76
+00:05:05,918 --> 00:05:08,920
+a paródia de tudo
+o que é divino.
+
+77
+00:05:09,920 --> 00:05:10,920
+Obrigado!
+
+78
+00:05:11,181 --> 00:05:12,331
+Obrigado, mas
+
+79
+00:05:12,533 --> 00:05:14,956
+ultimamente tenho
+pensado muito.
+
+80
+00:05:14,966 --> 00:05:17,287
+Achas que sou o Diabo porque
+sou inerentemente mau,
+
+81
+00:05:17,297 --> 00:05:19,753
+ou apenas porque o querido
+pai decidiu que eu era?
+
+82
+00:05:19,763 --> 00:05:23,234
+O que achas exactamente que acontece
+quando o Diabo abandona o Inferno?
+
+83
+00:05:24,155 --> 00:05:25,657
+Todos aqueles demónios,
+
+84
+00:05:26,382 --> 00:05:28,623
+todas aquelas almas
+atormentadas e torturadas...
+
+85
+00:05:29,141 --> 00:05:30,504
+aonde pensas que vão?
+
+86
+00:05:31,449 --> 00:05:32,449
+Não sei.
+
+87
+00:05:32,838 --> 00:05:35,217
+Não me interessa.
+Não é problema meu, irmão.
+
+88
+00:05:36,278 --> 00:05:39,228
+Então considera o cargo
+oficialmente vago.
+
+89
+00:05:39,701 --> 00:05:42,396
+E tu, meu amigo plumado,
+podes ir para o Inferno.
+
+90
+00:05:46,222 --> 00:05:47,300
+Sim, experimenta.
+
+91
+00:05:48,062 --> 00:05:50,646
+Achas que agora o nosso pai
+está chateado.
+
+92
+00:05:54,858 --> 00:05:55,858
+Sabes,
+
+93
+00:05:56,222 --> 00:05:58,622
+ele não será misericordioso
+por muito mais tempo.
+
+94
+00:06:18,989 --> 00:06:20,219
+Olá.
+
+95
+00:06:20,699 --> 00:06:21,789
+Lembras-te de mim?
+
+96
+00:06:22,562 --> 00:06:24,292
+- És famosa, não és?
+- Delilah!
+
+97
+00:06:24,470 --> 00:06:26,870
+- Delilah, não é?
+- Amo-te, Delilah!
+
+98
+00:06:27,700 --> 00:06:29,062
+Dás-me um autógrafo?
+
+99
+00:06:29,072 --> 00:06:30,822
+Se me ofereceres uma bebida.
+
+100
+00:06:31,803 --> 00:06:34,253
+Então, vais dizer-me porque
+voltaste?
+
+101
+00:06:34,263 --> 00:06:35,902
+Há algo que devo saber.
+
+102
+00:06:36,400 --> 00:06:37,400
+O quê?
+
+103
+00:06:37,782 --> 00:06:39,032
+Eu...
+
+104
+00:06:39,828 --> 00:06:41,443
+vendi a minha alma ao Diabo?
+
+105
+00:06:42,802 --> 00:06:45,530
+Isso implicaria que o Diabo
+estivesse interessado na tua alma.
+
+106
+00:06:45,540 --> 00:06:47,417
+Ouve, tudo o que fiz
+
+107
+00:06:47,427 --> 00:06:50,819
+foi apresentar-te a algumas pessoas chave
+que me deviam favores. É só.
+
+108
+00:06:51,542 --> 00:06:53,864
+Com todas as coisas boas veio
+inferno de muitas coisas más.
+
+109
+00:06:53,874 --> 00:06:56,974
+O Diabo obrigou-te a fazê-lo, foi?
+
+110
+00:06:56,984 --> 00:06:58,990
+O álcool, as drogas,
+as <i>selfies</i> em topless.
+
+111
+00:06:59,273 --> 00:07:01,630
+Foram escolhas que tomaste,
+minha cara.
+
+112
+00:07:01,640 --> 00:07:02,790
+Jimmy Barnes?
+
+113
+00:07:03,014 --> 00:07:05,257
+Não acredito que quase
+casaste com aquele diabrete suado.
+
+114
+00:07:05,267 --> 00:07:06,497
+Produziu o meu álbum.
+
+115
+00:07:06,507 --> 00:07:09,763
+- Apresentaste-me a ele.
+- Sugeri que trabalhasses com ele, não dormir com ele.
+
+116
+00:07:09,773 --> 00:07:12,512
+- Fiquei confusa!
+- E depois abandonaste-o no altar.
+
+117
+00:07:12,581 --> 00:07:13,839
+Pois, foi mau da minha parte.
+
+118
+00:07:13,971 --> 00:07:16,871
+Na verdade, gostei.
+
+119
+00:07:16,915 --> 00:07:20,045
+Prendeu-me na casa de banho nos Grammys.
+Disse-me que queria voltar para mim.
+
+120
+00:07:20,055 --> 00:07:23,123
+Depois ouço dizer que se vai casar
+com uma supermodelo. Este fim-de-semana!
+
+121
+00:07:23,133 --> 00:07:24,221
+E estou com ciúmes.
+
+122
+00:07:25,465 --> 00:07:27,360
+Meu Deus, estou um farrapo.
+
+123
+00:07:27,370 --> 00:07:30,270
+Deus não tem nada a ver
+com as tuas coisas.
+
+124
+00:07:30,325 --> 00:07:31,325
+Ouve...
+
+125
+00:07:32,332 --> 00:07:34,732
+não vendeste a tua alma, Delilah.
+
+126
+00:07:35,261 --> 00:07:36,415
+Deves-me um favor.
+
+127
+00:07:36,843 --> 00:07:39,276
+- Tenho medo.
+- Devias ter.
+
+128
+00:07:39,902 --> 00:07:43,822
+Porque o que estou prestes a pedir-te
+não vai ser fácil para ti.
+
+129
+00:07:44,374 --> 00:07:45,824
+Recompõe-te.
+
+130
+00:07:46,488 --> 00:07:48,614
+É só isso que peço.
+
+131
+00:07:48,972 --> 00:07:51,749
+Estás a desperdiçar o teu talento.
+A tua vida!
+
+132
+00:07:56,682 --> 00:07:58,082
+És humana, querida.
+
+133
+00:07:59,778 --> 00:08:01,087
+Vou fazer o que pediste.
+
+134
+00:08:01,734 --> 00:08:03,334
+Vou recompor-me.
+
+135
+00:08:04,011 --> 00:08:05,722
+- Promete, Lucifer.
+- Ouve,
+
+136
+00:08:06,545 --> 00:08:07,722
+não se trata de mim.
+
+137
+00:08:08,330 --> 00:08:09,553
+O que acontece agora,
+
+138
+00:08:09,934 --> 00:08:11,134
+depende de ti.
+
+139
+00:08:12,072 --> 00:08:13,172
+- Está bem?
+- Sim.
+
+140
+00:08:13,951 --> 00:08:14,951
+Vem cá.
+
+141
+00:08:56,626 --> 00:08:58,476
+Não, não, não. Ainda não.
+
+142
+00:09:00,358 --> 00:09:01,808
+O que fizeste?
+
+143
+00:09:01,869 --> 00:09:02,969
+Desculpa.
+
+144
+00:09:03,138 --> 00:09:04,238
+"Desculpa"?
+
+145
+00:09:05,040 --> 00:09:06,727
+Porque a mataste?
+
+146
+00:09:07,621 --> 00:09:08,671
+Porque havia de ser?
+
+147
+00:09:08,968 --> 00:09:10,068
+Pelo dinheiro.
+
+148
+00:09:10,987 --> 00:09:11,987
+"Dinheiro"?
+
+149
+00:09:12,521 --> 00:09:15,592
+São momentos como este que
+ainda desejava estar no Inferno.
+
+150
+00:09:15,961 --> 00:09:18,881
+Todas as actividades divertidas
+que tinha planeado para ti.
+
+151
+00:09:19,575 --> 00:09:22,325
+Meu, acabei
+de premir o gatilho.
+
+152
+00:10:12,666 --> 00:10:14,966
+Queres saber o que descobri até agora?
+
+153
+00:10:17,362 --> 00:10:20,012
+O tenente disse
+que este caso é meu.
+
+154
+00:10:20,236 --> 00:10:21,986
+Sim, Chloe, o caso é teu.
+
+155
+00:10:22,036 --> 00:10:24,832
+Mas tenta não demorar demasiado tempo.
+É um dos fáceis.
+
+156
+00:10:24,842 --> 00:10:28,876
+É o nosso mau da fita. Eddy Deacon.
+É um traficante de baixo nível.
+
+157
+00:10:28,886 --> 00:10:32,349
+Encontrei isto no seu bolso
+e isto na mala da Delilah.
+
+158
+00:10:32,359 --> 00:10:33,895
+Portanto, é óbvio que
+está relacionado com droga.
+
+159
+00:10:33,905 --> 00:10:36,261
+Provavelmente devia-lhe
+muito dinheiro ou assim.
+
+160
+00:10:36,271 --> 00:10:38,441
+Não anda propriamente a vender
+estádios ultimamente.
+
+161
+00:10:38,451 --> 00:10:40,841
+Como sabes que
+é de baixo nível?
+
+162
+00:10:40,851 --> 00:10:41,984
+Olha para o seu carro.
+
+163
+00:10:41,994 --> 00:10:44,464
+Viste o seu relógio?
+Não é barato.
+
+164
+00:10:44,474 --> 00:10:46,074
+Provavelmente é falso.
+
+165
+00:10:46,507 --> 00:10:47,507
+Olha...
+
+166
+00:10:48,791 --> 00:10:51,591
+este vai atrair
+muita atenção, Chloe.
+
+167
+00:10:51,780 --> 00:10:53,547
+Não pensaria demasiado nisso.
+
+168
+00:10:53,557 --> 00:10:54,827
+Não depois de Palmetto Street.
+
+169
+00:10:54,837 --> 00:10:58,043
+Pedi este caso
+por causa de Palmetto Street, Dan.
+
+170
+00:10:59,597 --> 00:11:00,847
+Adiante,
+
+171
+00:11:00,895 --> 00:11:02,295
+há alguma testemunha?
+
+172
+00:11:03,353 --> 00:11:05,234
+Lucifer Morningstar.
+
+173
+00:11:05,614 --> 00:11:07,788
+Lucifer Morningstar...
+
+174
+00:11:07,940 --> 00:11:10,490
+É um nome artístico
+ou assim?
+
+175
+00:11:11,438 --> 00:11:12,699
+Temo que seja um dom de Deus.
+
+176
+00:11:13,804 --> 00:11:16,230
+Pareces-me familiar.
+Já nos encontrámos?
+
+177
+00:11:17,689 --> 00:11:20,280
+Sim. Há cinco minutos.
+E sou eu que faço as perguntas.
+
+178
+00:11:21,304 --> 00:11:23,026
+Fala-me da tua relação
+com a vítima.
+
+179
+00:11:23,547 --> 00:11:25,624
+Trabalhava aqui há alguns anos.
+
+180
+00:11:25,634 --> 00:11:28,434
+Ocasionalmente acompanhava-a
+ao piano quando ela cantava.
+
+181
+00:11:28,444 --> 00:11:31,316
+Depois tornou-se uma grande estrela
+e alguém decidiu matá-la.
+
+182
+00:11:32,056 --> 00:11:33,571
+- Conheces quem disparou?
+- Não.
+
+183
+00:11:33,581 --> 00:11:36,829
+Mas tivemos uma conversinha interessante
+antes de ter começado a morrer.
+
+184
+00:11:37,223 --> 00:11:38,906
+Perguntei-lhe porque o fez.
+
+185
+00:11:39,841 --> 00:11:42,569
+Gostas de brincar aos polícias?
+
+186
+00:11:42,579 --> 00:11:45,345
+Não, gosto de brincar no geral, detective.
+E tu?
+
+187
+00:11:46,367 --> 00:11:48,653
+Então, tiveste uma conversa
+com um morto.
+
+188
+00:11:48,663 --> 00:11:50,255
+Ele não estava propriamente morto.
+
+189
+00:11:50,455 --> 00:11:52,890
+A sua alma ainda não tinha
+passado para o outro lado.
+
+190
+00:11:52,900 --> 00:11:53,900
+Percebo.
+
+191
+00:11:54,287 --> 00:11:56,941
+- Ele disse-te porque o fez?
+- Dinheiro, claro.
+
+192
+00:11:57,133 --> 00:11:59,180
+Vocês humanos, adoram o vosso dinheiro,
+não?
+
+193
+00:12:00,390 --> 00:12:02,249
+Sim, adoramos.
+
+194
+00:12:02,458 --> 00:12:04,303
+E de que planeta vens? Londres?
+
+195
+00:12:05,872 --> 00:12:08,914
+Sim, ele também disse:
+"Acabei de premir o gatilho".
+
+196
+00:12:08,924 --> 00:12:10,612
+Não achas interessante?
+
+197
+00:12:10,946 --> 00:12:12,655
+A Delilah foi morta
+por um traficante.
+
+198
+00:12:12,911 --> 00:12:15,633
+E parece que ela
+deu-te muito que fazer.
+
+199
+00:12:15,821 --> 00:12:18,242
+É triste, é feio,
+mas não é muito complicado.
+
+200
+00:12:18,252 --> 00:12:20,884
+Algo deve ter corrido mal entre eles
+e ela foi perfurada por balas,
+
+201
+00:12:20,894 --> 00:12:22,498
+e uma intervenção divina
+acaba com ela.
+
+202
+00:12:22,508 --> 00:12:25,108
+Não funciona assim, detective.
+
+203
+00:12:25,975 --> 00:12:29,534
+Está um presente bem embrulhado
+para a polícia, não achas?
+
+204
+00:12:29,544 --> 00:12:30,606
+Diz-me algo.
+
+205
+00:12:31,664 --> 00:12:35,359
+Como é que ela ficou cheia de balas
+e tu não tens nenhum arranhão?
+
+206
+00:12:35,369 --> 00:12:38,404
+- É interessante, não achas?
+- É a vantagem de ser imortal.
+
+207
+00:12:38,414 --> 00:12:39,429
+Imortal?
+
+208
+00:12:39,439 --> 00:12:43,439
+Claro, escreve-se com um "m"
+ou com dois? Nunca me lembro.
+
+209
+00:12:43,780 --> 00:12:46,202
+O que fará a tua organização
+corrupta quanto a isto?
+
+210
+00:12:47,621 --> 00:12:50,014
+- Como?
+- Encontrarás o responsável?
+
+211
+00:12:50,024 --> 00:12:52,581
+Será castigado?
+Será uma prioridade?
+
+212
+00:12:52,897 --> 00:12:54,347
+Porque para mim é.
+
+213
+00:12:54,506 --> 00:12:55,906
+Tem tomates, amigo.
+
+214
+00:12:55,926 --> 00:12:58,292
+Muito obrigado, mas
+não são lá muito grandes.
+
+215
+00:12:58,382 --> 00:13:00,082
+Aposto que sim.
+
+216
+00:13:00,336 --> 00:13:04,422
+De certeza que não nos conhecemos?
+Podia jurar que já te vi nua, fizemos sexo?
+
+217
+00:13:06,765 --> 00:13:07,823
+Acabou.
+
+218
+00:13:07,833 --> 00:13:10,799
+Detective, espere, há alguém para castigar,
+ainda não terminámos.
+
+219
+00:13:10,809 --> 00:13:12,306
+Sim, já terminámos.
+
+220
+00:13:31,907 --> 00:13:34,678
+Se alguém dos presentes
+se opuser a este matrimónio,
+
+221
+00:13:34,688 --> 00:13:36,681
+fale agora ou cale-se para sempre.
+
+222
+00:13:36,691 --> 00:13:39,041
+Desculpe! Sim, eu tenho um problema.
+
+223
+00:13:39,506 --> 00:13:41,784
+Mais ninguém reparou
+quão incrível é,
+
+224
+00:13:41,794 --> 00:13:44,959
+de fazer cair o queixo, tão linda
+que esta jovem mulher é?
+
+225
+00:13:44,969 --> 00:13:48,122
+E o quão baixo, suado
+e feio como o caraças
+
+226
+00:13:48,132 --> 00:13:51,350
+este homúnculo é?
+Isto é um casamento ou um rapto?
+
+227
+00:13:51,360 --> 00:13:52,810
+Percebe o que quero dizer?
+
+228
+00:13:54,545 --> 00:13:56,295
+Sim, boa sorte, Padre.
+
+229
+00:13:56,451 --> 00:13:59,431
+Diga olá por mim.
+Há quanto tempo.
+
+230
+00:13:59,611 --> 00:14:01,661
+Jimmy Barnes! Lembras-te de mim?
+
+231
+00:14:01,819 --> 00:14:04,814
+Amigo, isto é um evento privado.
+Como conseguiste entrar?
+
+232
+00:14:04,824 --> 00:14:08,774
+E também bastante generoso
+para um produtor musical sem amigos.
+
+233
+00:14:09,150 --> 00:14:11,705
+- Lembras-te de mim, certo?
+- Sim, lembro-me de ti.
+
+234
+00:14:12,505 --> 00:14:14,061
+O que queres?
+Estou um pouco ocupado.
+
+235
+00:14:14,071 --> 00:14:18,213
+Não acredito que te vais casar
+um dia depois da tua ex-noiva
+
+236
+00:14:18,223 --> 00:14:20,899
+e em tempos a estrela mais famosa
+foi morta a sangue frio.
+
+237
+00:14:21,209 --> 00:14:25,064
+Sim, é muito triste, mas já
+arruinou o meu casamento uma vez.
+
+238
+00:14:25,074 --> 00:14:28,215
+- Não deixarei que aconteça de novo.
+- É difícil ser rejeitado. Não é, Jimmy?
+
+239
+00:14:28,225 --> 00:14:29,225
+Duas vezes.
+
+240
+00:14:29,601 --> 00:14:31,779
+- O quê?
+- Tentaste reconquistá-la.
+
+241
+00:14:31,789 --> 00:14:35,144
+Mataria alguém se me rejeitassem
+uma só vez, não que seja possível.
+
+242
+00:14:35,154 --> 00:14:36,525
+Portanto, vá lá,
+
+243
+00:14:36,535 --> 00:14:37,985
+que me dizes, Jimbo?
+
+244
+00:14:38,703 --> 00:14:40,003
+Querias que ela morresse?
+
+245
+00:14:40,376 --> 00:14:42,758
+Pára de olhar para mim dessa maneira,
+sua aberração.
+
+246
+00:14:42,768 --> 00:14:45,919
+Não vou fazer esses jogos
+mentais contigo. Não, claro que não.
+
+247
+00:14:45,929 --> 00:14:49,162
+Estava furioso e fui humilhado,
+quando me deixou, mas acho
+
+248
+00:14:49,172 --> 00:14:50,909
+que reagi bastante bem.
+
+249
+00:14:51,019 --> 00:14:52,273
+Sim, claramente.
+
+250
+00:14:52,283 --> 00:14:53,383
+Respeito.
+
+251
+00:14:53,528 --> 00:14:56,090
+Devias fazer esses teus jogos
+com o 2Vile.
+
+252
+00:14:56,290 --> 00:14:57,290
+O rapper?
+
+253
+00:14:57,324 --> 00:14:59,756
+Por favor, a Delilah deixou-me
+por aquele lunático.
+
+254
+00:14:59,766 --> 00:15:01,915
+Estavam sempre a discutir.
+Dava-lhe muitas estaladas.
+
+255
+00:15:01,925 --> 00:15:05,056
+Ele rodeia-se com idiotas
+armados 24 sobre 24 horas.
+
+256
+00:15:05,066 --> 00:15:06,634
+Ele é mesmo perigoso.
+
+257
+00:15:07,760 --> 00:15:08,760
+Certo.
+
+258
+00:15:09,559 --> 00:15:11,056
+Desculpe a minha má-educação.
+
+259
+00:15:11,066 --> 00:15:14,849
+Permita-me apresentar-me,
+chamo-me Lucifer Morningstar.
+
+260
+00:15:16,852 --> 00:15:19,411
+Quero fazer sexo
+com ele esta noite.
+
+261
+00:15:22,074 --> 00:15:23,553
+Caraças, desculpa, não...
+
+262
+00:15:24,535 --> 00:15:28,205
+- Não acredito que acabei de dizer isto.
+- Não, não, não. Sejamos honestos.
+
+263
+00:15:28,215 --> 00:15:30,792
+Não vai casar-se com este desgraçado
+porque ama-lo, pois não?
+
+264
+00:15:30,802 --> 00:15:32,199
+- Meu Deus, não.
+- Não.
+
+265
+00:15:32,785 --> 00:15:34,857
+É melhor eu ir.
+
+266
+00:15:36,627 --> 00:15:38,618
+A melhor das sortes
+para vocês, rapazes.
+
+267
+00:15:57,361 --> 00:15:58,421
+Boa tarde, senhor.
+
+268
+00:15:58,431 --> 00:16:02,418
+Estou aqui para ver a pessoa tristemente
+conhecida como 2Vile. Ele está?
+
+269
+00:16:02,428 --> 00:16:05,075
+Desculpe, senhor, não está disponível.
+Temo que esteja de luto.
+
+270
+00:16:05,287 --> 00:16:07,284
+Tenho narcóticos para ele.
+
+271
+00:16:08,758 --> 00:16:10,437
+Por aqui, senhor.
+
+272
+00:16:21,433 --> 00:16:25,310
+Alguém pode desligar
+esta música horrível?
+
+273
+00:16:26,052 --> 00:16:27,559
+Olá, DJ?
+
+274
+00:16:27,948 --> 00:16:28,948
+Obrigado.
+
+275
+00:16:29,426 --> 00:16:32,267
+- Quem é este palhaço?
+- Ele tem narcóticos para si, senhor.
+
+276
+00:16:33,530 --> 00:16:35,429
+Chamo-me
+Lucifer Morningstar.
+
+277
+00:16:36,175 --> 00:16:37,552
+Lucifer Morningstar?
+
+278
+00:16:39,471 --> 00:16:41,295
+Um bom nome gay,
+para um gajo de hip-hop.
+
+279
+00:16:41,305 --> 00:16:42,605
+Isso ofende-me.
+
+280
+00:16:43,453 --> 00:16:45,204
+O que foi?
+Não gostas de hip-hop?
+
+281
+00:16:45,214 --> 00:16:46,818
+Não, muito certamente que não.
+
+282
+00:16:47,927 --> 00:16:50,027
+Bem, isso ofende-me a mim.
+
+283
+00:16:52,235 --> 00:16:54,131
+Tens algum problema
+com gajos negros?
+
+284
+00:16:54,481 --> 00:16:57,311
+Não, nem por isso.
+Simplesmente detesto a tua música.
+
+285
+00:16:57,321 --> 00:17:01,453
+E quando digo a "tua música", é mesmo a "tua" música,
+não é aquela feita pelos outros negros.
+
+286
+00:17:01,534 --> 00:17:04,345
+Se não fossem os <i>blues</i> não havia
+qualquer música que agradasse ao Diabo!
+
+287
+00:17:04,355 --> 00:17:06,873
+Claramente que há muitos
+gigantes musicais, mas...
+
+288
+00:17:06,883 --> 00:17:08,983
+tu não fazes parte.
+Estou a fazer-me entender?
+
+289
+00:17:08,993 --> 00:17:10,583
+- Sim, fizeste-te entender muito bem.
+- Óptimo!
+
+290
+00:17:11,161 --> 00:17:13,087
+Se vieste à
+procura da tua morte.
+
+291
+00:17:16,829 --> 00:17:18,637
+Pois, bem, não gastes as munições,
+sou imortal.
+
+292
+00:17:19,785 --> 00:17:21,146
+Fala-me sobre a Delilah.
+
+293
+00:17:21,769 --> 00:17:23,548
+Não viste as notícias?
+
+294
+00:17:23,558 --> 00:17:25,108
+Essa cabra está morta!
+
+295
+00:17:31,983 --> 00:17:33,152
+Não dispares, idiota!
+
+296
+00:17:34,858 --> 00:17:36,616
+- Não a matei.
+- Porque haveria de acreditar em ti?
+
+297
+00:17:36,626 --> 00:17:38,063
+Porque eu amava a miúda.
+
+298
+00:17:38,093 --> 00:17:42,043
+Por vezes as pessoas matam as pessoas
+que amam. O coração é algo misterioso.
+
+299
+00:17:42,565 --> 00:17:43,927
+- Pelo que me disseram.
+- Não foi assim.
+
+300
+00:17:44,864 --> 00:17:46,014
+A rapariga enlouquecia-me!
+
+301
+00:17:46,024 --> 00:17:48,776
+As mulheres têm esse efeito.
+Não significa que possas espancá-las, certo?
+
+302
+00:17:48,786 --> 00:17:50,836
+Resolvemos isso há muito tempo!
+
+303
+00:17:50,864 --> 00:17:53,427
+Bati-lhe uma vez porque
+descobri que andava a trair-me!
+
+304
+00:18:01,458 --> 00:18:02,458
+Está bem.
+
+305
+00:18:02,570 --> 00:18:03,570
+Com quem?
+
+306
+00:18:03,817 --> 00:18:05,813
+Não sei, não sei,
+ela não me queria dizer.
+
+307
+00:18:06,136 --> 00:18:07,728
+Disse-me que era
+um grande segredo...
+
+308
+00:18:07,738 --> 00:18:09,378
+era um gajo qualquer
+rico e casado...
+
+309
+00:18:09,388 --> 00:18:11,320
+Ela tem alguma amiga a
+quem podia ter contado?
+
+310
+00:18:11,330 --> 00:18:13,430
+Ela não confiava em ninguém, meu.
+
+311
+00:18:13,746 --> 00:18:16,044
+A terapeuta dela! Provavelmente
+a terapeuta é a única que sabe.
+
+312
+00:18:16,054 --> 00:18:19,388
+Chamava-se...
+Dra. Linda em Beverly Hills,
+
+313
+00:18:19,572 --> 00:18:21,678
+ia ter com ela quase cinco
+vezes por semana, em segredo.
+
+314
+00:18:21,688 --> 00:18:23,354
+Usava um nome falso e tudo.
+
+315
+00:18:24,384 --> 00:18:25,434
+A sério?
+
+316
+00:18:25,962 --> 00:18:26,962
+Bem...
+
+317
+00:18:27,038 --> 00:18:28,503
+obrigado pelo teu tempo.
+
+318
+00:18:29,611 --> 00:18:32,173
+Polícia de Los Angeles!
+Armas para baixo! No chão, já!
+
+319
+00:18:32,446 --> 00:18:33,603
+Vocês as duas, contra a parede.
+
+320
+00:18:33,892 --> 00:18:36,171
+Detective.
+Bem-vinda à festa.
+
+321
+00:18:36,396 --> 00:18:38,996
+Pegue no balde,
+recolha as armas. Já!
+
+322
+00:18:39,026 --> 00:18:41,496
+Sua matreira,
+deste-me ouvidos.
+
+323
+00:18:41,692 --> 00:18:44,741
+Investiguei o telemóvel do gajo morto,
+o 2Vile foi a última pessoa a quem ligou.
+
+324
+00:18:44,751 --> 00:18:45,908
+Vá lá, meu...
+
+325
+00:18:46,240 --> 00:18:49,848
+Mas o que acho muito interessante é o
+facto de tu sozinho teres descoberto.
+
+326
+00:18:50,117 --> 00:18:52,417
+Bem, tenho andado ocupado,
+minha querida.
+
+327
+00:18:52,962 --> 00:18:55,579
+- Fala-me sobre a Delilah.
+- Já falámos sobre ela, Detective.
+
+328
+00:18:55,589 --> 00:18:58,313
+E porque ligaste para o assassino
+dois dias antes de ter sido assassinada?
+
+329
+00:18:58,323 --> 00:18:59,323
+Pronto!
+
+330
+00:18:59,380 --> 00:19:01,474
+Sim, liguei ao Eddy porque
+por vezes saímos juntos.
+
+331
+00:19:01,775 --> 00:19:03,125
+Conheceu a
+Delilah através de mim.
+
+332
+00:19:03,135 --> 00:19:05,200
+Como queiram! Mas isto não faz
+de mim um assassino, pois não?
+
+333
+00:19:05,624 --> 00:19:07,803
+Não.
+Mas torna-te num suspeito.
+
+334
+00:19:08,121 --> 00:19:11,371
+Então toda a gente que estiver no telemóvel
+do Eddy é um suspeito? Estás a brincar?
+
+335
+00:19:11,600 --> 00:19:13,670
+Vais arrastar metade
+de Hollywood contigo.
+
+336
+00:19:13,680 --> 00:19:15,230
+Será algo como os
+Óscares ou parecido.
+
+337
+00:19:15,266 --> 00:19:16,316
+Esperem lá.
+
+338
+00:19:16,777 --> 00:19:19,363
+- Não és a gaja daquele filme?
+- O quê? Qual filme?
+
+339
+00:19:19,373 --> 00:19:21,648
+- Costumavas ser actriz ou algo assim, certo?
+- Sim.
+
+340
+00:19:21,658 --> 00:19:23,701
+Aquele filme de adolescentes...
+Esqueci-me do nome.
+
+341
+00:19:23,711 --> 00:19:27,660
+Mas é claro, o <i>Hot Tub High School</i>.
+É daí que te conheço!
+
+342
+00:19:27,934 --> 00:19:29,228
+Vamos focar-nos nas
+minhas perguntas, pode ser?
+
+343
+00:19:29,238 --> 00:19:32,597
+É a tal gaja com a famosa cena de nudez
+a sair da banheira de hidromassagens!
+
+344
+00:19:32,607 --> 00:19:35,142
+Foi um filme a gozar com o <i>Fast Times</i>.
+Ela era a nova Phoebe Cates!
+
+345
+00:19:35,152 --> 00:19:37,800
+- Obrigada, gostei disso.
+- Foi uma cena e tanto!
+
+346
+00:19:37,810 --> 00:19:40,846
+Tenho aqui balas suficientes
+para te calar a boca.
+
+347
+00:19:40,856 --> 00:19:42,549
+Tu!
+Temos de conversar, agora mesmo.
+
+348
+00:19:42,559 --> 00:19:44,845
+Isso é uma perda de tempo, Detective.
+Acabei de o ameaçar.
+
+349
+00:19:44,855 --> 00:19:48,005
+Não é o nosso gajo.
+Ele tê-lo-ia dito, acredita.
+
+350
+00:19:48,247 --> 00:19:50,747
+- Fizeste o quê?
+- Pois, isso não é ilegal?
+
+351
+00:19:51,491 --> 00:19:52,620
+Um bocadinho.
+Sim.
+
+352
+00:19:52,824 --> 00:19:55,074
+Tu, ficas aí.
+E tu, tu vens comigo.
+
+353
+00:19:55,126 --> 00:19:56,126
+O quê?
+
+354
+00:19:57,653 --> 00:19:58,753
+Com prazer.
+
+355
+00:19:59,153 --> 00:20:02,822
+Pelo menos agora me ouças, no entanto,
+não percebo porque estou a ser preso.
+
+356
+00:20:03,307 --> 00:20:05,340
+Porque estás a interferir com
+uma investigação da polícia.
+
+357
+00:20:05,350 --> 00:20:08,831
+E quebraste mais leis do que
+consigo imaginar. E inervaste-me.
+
+358
+00:20:09,018 --> 00:20:10,771
+Pois.
+Consigo livrar-me disto, sabias?
+
+359
+00:20:10,781 --> 00:20:11,831
+Engraçadinho.
+
+360
+00:20:14,357 --> 00:20:15,607
+Como fizeste isso?
+
+361
+00:20:15,716 --> 00:20:17,720
+Vá lá, estamos a perder tempo!
+Devíamos andar por aí
+
+362
+00:20:17,730 --> 00:20:20,187
+a resolver um homicídio
+e a punir o responsável.
+
+363
+00:20:20,197 --> 00:20:23,228
+"Devíamos"? Tu és louco.
+Vou prender-te. Entra no carro.
+
+364
+00:20:23,238 --> 00:20:25,859
+Não, isso é aborrecido,
+para não dizer que é inútil.
+
+365
+00:20:26,641 --> 00:20:28,618
+Vá lá, eu ajudo-te,
+vai ser divertido!
+
+366
+00:20:28,628 --> 00:20:29,655
+Como podias ajudar-me?
+
+367
+00:20:30,158 --> 00:20:33,043
+Tenho vários tipos de habilidades,
+consigo ser muito persuasivo com as pessoas.
+
+368
+00:20:33,089 --> 00:20:34,951
+E consigo ver coisas que
+os outros não conseguem.
+
+369
+00:20:34,961 --> 00:20:37,245
+Então...
+és psíquico ou algo parecido?
+
+370
+00:20:37,314 --> 00:20:40,044
+Não, não consigo ler as mentes das pessoas.
+Não sou um Jedi.
+
+371
+00:20:40,054 --> 00:20:41,450
+As pessoas gostam
+de me contar coisas.
+
+372
+00:20:41,923 --> 00:20:44,726
+Dizem-te coisas? Confessam-te
+os pecados? Sem mais nem menos?
+
+373
+00:20:44,736 --> 00:20:47,423
+Não, não me confessam os pecados.
+Não tenho poder sobre os pecados das pessoas.
+
+374
+00:20:47,433 --> 00:20:49,454
+Por acaso até tenho má
+reputação por causa disso.
+
+375
+00:20:49,464 --> 00:20:52,696
+Tenho a capacidade de extrair os
+desejos proibidos das pessoas.
+
+376
+00:20:53,499 --> 00:20:55,213
+Quanto mais simples for o humano,
+mais fácil é.
+
+377
+00:20:55,223 --> 00:20:58,166
+Quanto mais complexo for,
+mais desafiante e estimulante será.
+
+378
+00:20:58,341 --> 00:21:01,341
+Mas não, os pecados...
+os pecados são culpa dos humanos.
+
+379
+00:21:01,446 --> 00:21:02,496
+"Dos humanos"?
+
+380
+00:21:04,000 --> 00:21:05,490
+Já entendi, já entendi!
+
+381
+00:21:05,500 --> 00:21:08,961
+O nome, a história toda sobre o Lucifer,
+e os desejos são o teu superpoder.
+
+382
+00:21:09,008 --> 00:21:11,108
+Por acaso, trata-se de
+um dom dado por Deus.
+
+383
+00:21:11,777 --> 00:21:12,777
+Pronto.
+
+384
+00:21:12,909 --> 00:21:13,909
+Escuta...
+
+385
+00:21:14,254 --> 00:21:15,704
+diz-me, Detective...
+
+386
+00:21:16,406 --> 00:21:19,256
+o que mais desejas nesta vida?
+
+387
+00:21:20,636 --> 00:21:21,979
+É isto? É este o teu
+grande truque mágico?
+
+388
+00:21:30,048 --> 00:21:31,077
+Acho que...
+
+389
+00:21:31,087 --> 00:21:32,837
+quando era criança...
+
+390
+00:21:33,793 --> 00:21:37,635
+sempre quis ser polícia
+como o meu pai, para que...
+
+391
+00:21:38,110 --> 00:21:40,510
+um dia pudesse ajudar as pessoas e...
+
+392
+00:21:40,714 --> 00:21:42,614
+e fosse levada a sério...
+
+393
+00:21:42,849 --> 00:21:45,895
+quando te dissesse:
+"cala-te e entra no raio carro".
+
+394
+00:21:50,868 --> 00:21:52,414
+Não és uma espécie de Jedi,
+pois não?
+
+395
+00:21:53,072 --> 00:21:54,456
+Entra no carro!
+
+396
+00:21:54,733 --> 00:21:57,064
+Não! Não, não. Olha,
+eu sei algo que tu não sabes.
+
+397
+00:21:57,514 --> 00:22:00,468
+- A sério? E o que é?
+- Não digo a não ser que me leves contigo.
+
+398
+00:22:01,478 --> 00:22:04,011
+Por favor, vá lá!
+Cheguei até ao 2Vile, não foi?
+
+399
+00:22:04,252 --> 00:22:06,814
+Porque te importas tanto com isto?
+Com a Delilah?
+
+400
+00:22:08,736 --> 00:22:09,836
+Olha, eu...
+
+401
+00:22:10,560 --> 00:22:11,810
+Importo-me e pronto.
+
+402
+00:22:12,318 --> 00:22:14,788
+<i>Se não a tivesse ajudado
+com a carreira dela,</i>
+
+403
+00:22:14,988 --> 00:22:16,559
+<i>talvez não estivesse morta.</i>
+
+404
+00:22:16,569 --> 00:22:18,029
+Pronto. Está bem!
+
+405
+00:22:18,170 --> 00:22:21,218
+Mas se esta tua coisa
+das pistas não funcionar,
+
+406
+00:22:21,228 --> 00:22:23,550
+volto a algemar-te, e garanto-te
+que ficarão bem apertadas.
+
+407
+00:22:23,560 --> 00:22:24,810
+Isso é uma promessa?
+
+408
+00:22:33,768 --> 00:22:36,104
+<i>Sim, uma terapeuta em Beverly Hills,
+o primeiro nome é Linda.</i>
+
+409
+00:22:36,408 --> 00:22:39,046
+- Descobre se a Delilah era cliente dela.
+- Por acaso ela usava um pseudónimo,
+
+410
+00:22:39,056 --> 00:22:41,573
+que por acaso também sei.
+Sou bastante bom nisto, não sou?
+
+411
+00:22:42,058 --> 00:22:43,108
+Penny Lane.
+
+412
+00:22:44,081 --> 00:22:46,407
+A Delilah pode ter usado o nome
+Penny Lane. Obrigada.
+
+413
+00:22:50,020 --> 00:22:52,677
+Não te armes em convencido.
+Ainda não descobrimos nada.
+
+414
+00:22:52,687 --> 00:22:56,099
+Não, não. Não é por causa disso.
+É por causa de saber que já te tinha visto.
+
+415
+00:22:56,109 --> 00:22:57,276
+Certo, certo.
+
+416
+00:22:57,306 --> 00:23:00,366
+Viste as minhas mamas.
+Que excitante! Tens 12 anos ou quê?
+
+417
+00:23:00,376 --> 00:23:03,171
+Então o filme é algo que te faz
+ter algum peso sobre os ombros?
+
+418
+00:23:04,709 --> 00:23:07,417
+Não está propriamente no topo da lista
+das coisas com as quais tenho de viver.
+
+419
+00:23:07,427 --> 00:23:11,661
+Pois. Uma linda polícia a lutar para ser
+levada a sério num mundo machista, é isso?
+
+420
+00:23:12,653 --> 00:23:14,403
+Sim.
+Algo parecido.
+
+421
+00:23:14,678 --> 00:23:15,765
+Bem, estão em perigo.
+
+422
+00:23:16,121 --> 00:23:18,820
+Claramente que és inteligente
+e tens instintos notáveis.
+
+423
+00:23:18,830 --> 00:23:21,130
+Ignora-os.
+Confia em ti própria.
+
+424
+00:23:23,581 --> 00:23:24,931
+Detective Decker.
+
+425
+00:23:25,232 --> 00:23:26,727
+Está bem,
+envia-me por <i>SMS</i>.
+
+426
+00:23:26,737 --> 00:23:27,737
+Obrigada.
+
+427
+00:23:28,391 --> 00:23:29,391
+O que foi?
+
+428
+00:23:31,250 --> 00:23:32,727
+Que o que
+disseste é plausível.
+
+429
+00:23:32,737 --> 00:23:35,653
+Existe uma Penny Lane que é consultada
+pela Dra. Linda Martin em Beverly Hills.
+
+430
+00:23:35,663 --> 00:23:37,913
+Excelente!
+Cancelarei os meus planos.
+
+431
+00:23:39,631 --> 00:23:42,831
+- Parece que temos alguém famoso.
+- Por favor, pára de falar. Estou?
+
+432
+00:23:43,378 --> 00:23:44,811
+O quê? Está a brincar comigo?
+Ela está bem?
+
+433
+00:23:46,634 --> 00:23:48,215
+Claro que ele não está aí.
+
+434
+00:23:48,693 --> 00:23:49,693
+Obrigada.
+
+435
+00:23:50,695 --> 00:23:53,346
+- Temos de fazer uma paragem.
+- O quê? Claro que não!
+
+436
+00:23:53,356 --> 00:23:55,483
+A minha filha meteu-se numa luta,
+tenho que ir buscá-la.
+
+437
+00:23:55,493 --> 00:23:56,892
+O quê?
+Não sabe ir sozinha para casa?
+
+438
+00:23:57,006 --> 00:23:58,006
+Tem 7 anos!
+
+439
+00:23:58,299 --> 00:24:02,204
+Não estou aqui para ajudar a fazer recados,
+mas para ajudar a resolver um homicídio!
+
+440
+00:24:02,214 --> 00:24:03,214
+A sério?
+
+441
+00:24:14,889 --> 00:24:15,889
+Pronto.
+
+442
+00:24:16,042 --> 00:24:17,142
+Espera aqui.
+
+443
+00:24:17,229 --> 00:24:18,279
+Com prazer.
+
+444
+00:24:18,327 --> 00:24:19,577
+Desprezo crianças.
+
+445
+00:24:55,297 --> 00:24:57,388
+Não me parece que
+possa fumar cá dentro.
+
+446
+00:24:59,247 --> 00:25:01,204
+Meu Deus.
+O que será de mim?
+
+447
+00:25:01,877 --> 00:25:03,727
+A minha mãe é polícia.
+
+448
+00:25:03,747 --> 00:25:05,005
+Ela pode prendê-lo.
+
+449
+00:25:07,809 --> 00:25:09,552
+Acho que conheço a tua mãe.
+
+450
+00:25:09,562 --> 00:25:10,812
+Como se chama?
+
+451
+00:25:11,373 --> 00:25:12,373
+Lucifer.
+
+452
+00:25:12,824 --> 00:25:13,828
+Como o Diabo?
+
+453
+00:25:14,716 --> 00:25:15,719
+Exactamente!
+
+454
+00:25:16,581 --> 00:25:17,899
+Eu chamo-me Beatrice.
+
+455
+00:25:17,909 --> 00:25:19,472
+Mas toda a gente
+me trata por Trixie.
+
+456
+00:25:20,556 --> 00:25:22,095
+Isso é nome de puta.
+
+457
+00:25:22,105 --> 00:25:24,855
+- O que é uma puta?
+- Pergunta à tua mãe.
+
+458
+00:25:25,290 --> 00:25:26,290
+Então...
+
+459
+00:25:26,845 --> 00:25:27,849
+porque estás em sarilhos?
+
+460
+00:25:28,589 --> 00:25:29,856
+Vê aquela rapariga?
+
+461
+00:25:31,061 --> 00:25:34,480
+Estava a tratar-me mal.
+Criou uma conta falsa no <i>Snapchat</i>
+
+462
+00:25:34,490 --> 00:25:35,954
+e usava-a para gozar comigo.
+
+463
+00:25:36,364 --> 00:25:37,414
+Por isso...
+
+464
+00:25:37,877 --> 00:25:40,420
+dei-lhe um pontapé naquele
+sítio em que ninguém pode mexer.
+
+465
+00:25:42,958 --> 00:25:44,058
+Estou a ver.
+
+466
+00:25:44,364 --> 00:25:45,564
+Boa jogada.
+
+467
+00:25:47,240 --> 00:25:48,990
+Mesmo bem jogado.
+
+468
+00:25:51,861 --> 00:25:52,916
+Olá, rapariga malvada.
+
+469
+00:25:54,658 --> 00:25:58,808
+Sabias que há um lugar reservado no
+Inferno para pessoas como tu?
+
+470
+00:25:58,952 --> 00:26:00,352
+Por isso, diverte-te.
+
+471
+00:26:07,156 --> 00:26:08,353
+O que fizeste?
+
+472
+00:26:09,188 --> 00:26:10,523
+Eu...
+
+473
+00:26:10,752 --> 00:26:13,502
+acho que alguém está a
+sentir um bocado de culpa.
+
+474
+00:26:21,696 --> 00:26:22,746
+Olá, papá!
+
+475
+00:26:22,841 --> 00:26:25,183
+- Olá, minorca.
+- Mas que surpresa, estás atrasado!
+
+476
+00:26:25,276 --> 00:26:27,595
+Vá lá, tem calma.
+Estava a fechar um caso.
+
+477
+00:26:27,872 --> 00:26:31,726
+Pois, como se não estivesse a trabalhar num caso.
+Pois! Aquele que tentaste roubar-me!
+
+478
+00:26:31,991 --> 00:26:33,816
+Estás a falar do
+caso sem sentido?
+
+479
+00:26:33,826 --> 00:26:35,627
+Viste que era sem sentido, certo?
+
+480
+00:26:35,637 --> 00:26:38,004
+Estou a aplicar-me, Dan.
+É um caso importante.
+
+481
+00:26:38,014 --> 00:26:40,139
+Exactamente. É por isso que
+tens de ser inteligente.
+
+482
+00:26:40,149 --> 00:26:41,856
+Ela é inteligente.
+Tu é que és burro.
+
+483
+00:26:42,791 --> 00:26:45,918
+Talvez fosse melhor evitares discutir
+em frente da criança. É impróprio.
+
+484
+00:26:47,506 --> 00:26:49,406
+Não sei se devo rir ou dar-te um tiro.
+
+485
+00:26:49,952 --> 00:26:51,002
+Surpreende-me.
+
+486
+00:26:51,209 --> 00:26:52,583
+Não é engraçado, papá?
+
+487
+00:26:53,898 --> 00:26:57,083
+Podes deixar a Trix em casa da minha mãe?
+Nós temos de ir embora. Obrigada.
+
+488
+00:26:57,290 --> 00:26:59,079
+Trixella,
+dá um beijo à mamã.
+
+489
+00:26:59,921 --> 00:27:03,038
+Amo-te tanto!
+Fizeste um bom trabalho contra aquela miúda.
+
+490
+00:27:03,048 --> 00:27:04,048
+Obrigada, mamã.
+
+491
+00:27:04,709 --> 00:27:05,921
+O que é uma puta?
+
+492
+00:27:09,994 --> 00:27:11,394
+O papá diz-te.
+
+493
+00:27:15,856 --> 00:27:18,406
+Adeus, Lucifer,
+foi fixe conhecer-te!
+
+494
+00:27:21,129 --> 00:27:22,829
+Acho que ela gosta de ti.
+
+495
+00:27:22,963 --> 00:27:25,113
+Claro que gosta.
+Porque não haveria de gostar?
+
+496
+00:27:36,706 --> 00:27:38,990
+A tua filha foi planeada,
+ou foi um erro?
+
+497
+00:27:40,824 --> 00:27:42,140
+Planeada... mais ou menos.
+
+498
+00:27:42,251 --> 00:27:45,279
+A sério? Porque nunca entendi
+o interesse humano na procriação.
+
+499
+00:27:45,420 --> 00:27:48,364
+- Talvez seja melhor não entenderes.
+- As crianças são umas criaturas horríveis.
+
+500
+00:27:48,374 --> 00:27:50,746
+São um fardo insuportável
+e sufocante.
+
+501
+00:27:53,318 --> 00:27:55,218
+A tua é o oposto.
+Quer dizer...
+
+502
+00:27:55,271 --> 00:27:57,913
+não é nada que sirva para te gabares,
+nem algo que tenhas de ter vergonha,
+
+503
+00:27:57,923 --> 00:27:59,836
+e isso é mesmo bom, não é?
+
+504
+00:27:59,846 --> 00:28:02,007
+Estás consciente do
+quão idiota estás a parecer?
+
+505
+00:28:02,328 --> 00:28:03,328
+Não!
+
+506
+00:28:04,868 --> 00:28:06,011
+Por falar em idiotas...
+
+507
+00:28:06,954 --> 00:28:10,303
+porque é que o teu ex-marido estava a
+pressionar-te para fechares o caso?
+
+508
+00:28:12,072 --> 00:28:13,472
+Por nada.
+
+509
+00:28:15,217 --> 00:28:16,221
+Que estranho.
+
+510
+00:28:16,650 --> 00:28:17,779
+Sim, pois és.
+
+511
+00:28:19,583 --> 00:28:21,056
+O meu Pai enviou-te?
+
+512
+00:28:23,409 --> 00:28:25,659
+Pronto, Detectives,
+já posso recebê-los.
+
+513
+00:28:26,122 --> 00:28:28,060
+- Obrigada.
+- "Detectives".
+
+514
+00:28:29,758 --> 00:28:33,158
+Dra. Martin, gostava de lhe fazer
+umas perguntas sobre a Delilah.
+
+515
+00:28:38,736 --> 00:28:40,162
+Está a pensar sobre aquilo,
+não está?
+
+516
+00:28:41,006 --> 00:28:42,885
+- O quê?
+- Sim, eu não recomendaria.
+
+517
+00:28:42,895 --> 00:28:45,793
+Eu sou como a heroína, provoco
+dependência. Nunca acaba bem.
+
+518
+00:28:47,822 --> 00:28:49,559
+Desculpa,
+vocês conhecem-se?
+
+519
+00:28:49,695 --> 00:28:51,312
+Não, não,
+mas conheço aquele olhar.
+
+520
+00:28:51,836 --> 00:28:53,736
+Não sei do que está a falar.
+
+521
+00:28:55,758 --> 00:28:57,774
+É interessante,
+porque...
+
+522
+00:28:58,023 --> 00:28:59,515
+tu não me encaras
+da mesma forma.
+
+523
+00:28:59,525 --> 00:29:01,224
+- De que forma?
+- Com fascinação carnal.
+
+524
+00:29:01,351 --> 00:29:02,565
+Isso acontece
+porque não existe.
+
+525
+00:29:02,575 --> 00:29:05,401
+Não, o problema é esse.
+Com a maior parte das mulheres, existe.
+
+526
+00:29:05,411 --> 00:29:09,014
+Tento atrair o lado negro que há
+no coração de vocês todas, mas...
+
+527
+00:29:09,024 --> 00:29:11,850
+tu, Detective, pareces estranhamente
+imune aos meus encantos.
+
+528
+00:29:11,860 --> 00:29:14,789
+Tratá-los de "charmes",
+acho que é ir longe demais.
+
+529
+00:29:15,132 --> 00:29:17,066
+Para ser honesta,
+acho que és repulsivo.
+
+530
+00:29:17,076 --> 00:29:18,443
+Como se fosse
+um nível químico.
+
+531
+00:29:18,453 --> 00:29:19,457
+É fascinante.
+
+532
+00:29:21,011 --> 00:29:24,026
+- Bem, Linda, diga-me...
+- Diz que é fascinante,
+
+533
+00:29:24,225 --> 00:29:26,775
+no entanto,
+vejo que isso o perturba, não é?
+
+534
+00:29:27,623 --> 00:29:28,823
+Profundamente.
+
+535
+00:29:30,587 --> 00:29:33,956
+Dra. Martin, sabemos que a
+Delilah estava a ter um caso
+
+536
+00:29:33,966 --> 00:29:37,325
+com um homem rico e casado, se nos
+dissesse o nome, nós podíamos ir embora.
+
+537
+00:29:37,577 --> 00:29:39,333
+Lamento,
+não posso fazê-lo.
+
+538
+00:29:39,439 --> 00:29:41,064
+É uma daquelas complicadas.
+
+539
+00:29:41,828 --> 00:29:43,128
+Linda, querida.
+
+540
+00:29:43,816 --> 00:29:45,416
+Porque não me diz a mim?
+
+541
+00:29:45,466 --> 00:29:46,716
+Bem, não posso.
+
+542
+00:29:47,791 --> 00:29:49,521
+Quero dizer, mas não posso.
+
+543
+00:29:51,407 --> 00:29:52,957
+É mesmo o Diabo!
+
+544
+00:29:53,635 --> 00:29:54,785
+Correcto!
+
+545
+00:29:55,420 --> 00:29:58,090
+Vá lá, Dra. Martin.
+Sei que quer fazê-lo!
+
+546
+00:29:58,100 --> 00:30:01,331
+E também é mesmo
+muito húmida!
+
+547
+00:30:01,544 --> 00:30:03,986
+- Aposto que sim!
+- Não posso!
+
+548
+00:30:04,270 --> 00:30:06,419
+O que lhe fizeste?
+Drogaste-a?
+
+549
+00:30:06,429 --> 00:30:10,379
+Não, a culpa não é dela, está a reagir
+ao meu efeito. Vê e aprende, está bem?
+
+550
+00:30:11,188 --> 00:30:12,838
+Pronto, a resposta é sim.
+
+551
+00:30:12,848 --> 00:30:15,879
+Podemos dar uma "volta",
+se tiver de ser, mas primeiro...
+
+552
+00:30:16,456 --> 00:30:18,306
+terá que nos dizer, Linda.
+Está bem?
+
+553
+00:30:23,304 --> 00:30:24,304
+Está bem!
+
+554
+00:30:26,055 --> 00:30:27,255
+É o Grey Cooper.
+
+555
+00:30:27,884 --> 00:30:29,621
+O Grey Cooper?
+A sério?
+
+556
+00:30:30,418 --> 00:30:32,323
+- Isso é alta bomba!
+- Grey Cooper, o actor?
+
+557
+00:30:32,333 --> 00:30:34,916
+- Aquele casado com a Amanda "qualquer coisa"?
+- Sim!
+
+558
+00:30:34,926 --> 00:30:37,156
+- Sim!
+- Não, ele é horrível!
+
+559
+00:30:37,301 --> 00:30:40,813
+Tem a cara tão quadrada,
+é tão bonito, é tão normal!
+
+560
+00:30:40,925 --> 00:30:45,906
+Estou muito desapontado com a Delilah,
+é mesmo um gosto terrível no sexo oposto!
+
+561
+00:30:46,363 --> 00:30:49,652
+Muito obrigada, Dra. Martin, nós entraremos
+em contacto. Pronto, temos de ir embora.
+
+562
+00:30:49,662 --> 00:30:51,232
+Sim, claro, mas...
+
+563
+00:30:51,242 --> 00:30:53,641
+fiz um acordo e agora tenho
+de cumprir a minha parte do acordo.
+
+564
+00:30:53,651 --> 00:30:55,348
+Não te importas de esperar lá fora?
+
+565
+00:30:55,759 --> 00:30:58,717
+Estás mesmo a considerar em
+fazer sexo com ela agora mesmo?
+
+566
+00:30:58,914 --> 00:31:00,667
+- Bem, não vai demorar muito tempo.
+- Faço yoga.
+
+567
+00:31:02,585 --> 00:31:03,829
+Sexy...
+
+568
+00:31:04,345 --> 00:31:05,345
+yoga.
+
+569
+00:31:06,314 --> 00:31:08,414
+Sou assustadoramente
+flexível.
+
+570
+00:31:08,871 --> 00:31:10,021
+Quer ver?
+
+571
+00:31:18,627 --> 00:31:20,303
+Tentei mesmo não dizer nada...
+
+572
+00:31:20,313 --> 00:31:22,747
+Bem, tentou,
+é o que importa.
+
+573
+00:31:22,757 --> 00:31:24,048
+Repare,
+
+574
+00:31:24,253 --> 00:31:27,403
+lamento muito, mas tenho de ir embora.
+Mas volto, está bem?
+
+575
+00:31:27,483 --> 00:31:28,620
+Espero mesmo que sim.
+
+576
+00:31:29,744 --> 00:31:31,744
+A minha palavra de
+honra é a minha obrigação.
+
+577
+00:31:41,973 --> 00:31:44,189
+Com licença,
+com licença, com licença.
+
+578
+00:31:44,397 --> 00:31:45,397
+Obrigado.
+
+579
+00:31:46,746 --> 00:31:48,146
+Senhor!
+
+580
+00:31:55,663 --> 00:31:57,186
+Quem é este gajo?
+
+581
+00:31:58,238 --> 00:32:00,775
+- Que raio está a fazer?
+- Com licença, com licença.
+
+582
+00:32:01,099 --> 00:32:02,205
+Lamento, desculpe!
+
+583
+00:32:02,755 --> 00:32:04,055
+Lamento, ele está comigo.
+
+584
+00:32:06,438 --> 00:32:07,789
+Aquele não é o Grey Cooper?
+
+585
+00:32:08,195 --> 00:32:10,341
+Não, claro que não!
+Que raio vem a ser isto?
+
+586
+00:32:10,351 --> 00:32:12,243
+Temos de falar com o Sr. Cooper.
+
+587
+00:32:15,278 --> 00:32:16,628
+Meu Deus, a Delilah, sim.
+
+588
+00:32:17,087 --> 00:32:19,084
+Soube da notícia esta manhã.
+Nem acredito.
+
+589
+00:32:19,670 --> 00:32:21,637
+Fizemos um filme
+juntos no ano passado.
+
+590
+00:32:21,647 --> 00:32:22,812
+Aproximámo-nos bastante.
+
+591
+00:32:22,822 --> 00:32:23,822
+Amantes?
+
+592
+00:32:24,081 --> 00:32:25,081
+Amigos.
+
+593
+00:32:25,152 --> 00:32:26,389
+Amigos que eram amantes?
+
+594
+00:32:26,399 --> 00:32:28,168
+Tem calma,
+eu trato das perguntas.
+
+595
+00:32:28,178 --> 00:32:30,689
+Sr. Cooper, quando falou com
+a Delilah pela última vez?
+
+596
+00:32:30,699 --> 00:32:34,838
+Por acaso, tenho outra pergunta
+antes que comeces com as aborrecidas.
+
+597
+00:32:34,848 --> 00:32:37,233
+Diga-me, Sr. Cooper,
+o que mais deseja
+
+598
+00:32:37,243 --> 00:32:40,605
+desde sempre? Qual é o seu
+desejo mais obscuro e profundo?
+
+599
+00:32:41,071 --> 00:32:43,121
+Se fechar os olhos,
+o que vê?
+
+600
+00:32:44,497 --> 00:32:47,397
+Sou o Presidente dos
+Estados Unidos da América.
+
+601
+00:32:51,035 --> 00:32:52,885
+Bem,
+agora quem é o Diabo?
+
+602
+00:32:53,197 --> 00:32:56,397
+Essas pretensões são
+muito importantes, Sr. Cooper.
+
+603
+00:32:56,716 --> 00:32:58,478
+Bem, quando acabar
+a representação...
+
+604
+00:32:58,488 --> 00:33:00,339
+Não é preciso ter vergonha.
+
+605
+00:33:00,349 --> 00:33:02,328
+Raios, se o Arnold conseguiu...
+Não é?
+
+606
+00:33:02,338 --> 00:33:05,568
+Bem, não ia querer ter segredos
+para lhe estragar a vida, pois não?
+
+607
+00:33:05,578 --> 00:33:06,909
+Há algum objectivo nisto?
+
+608
+00:33:06,919 --> 00:33:09,005
+Sr. Cooper,
+estava a ter um caso com a Delilah?
+
+609
+00:33:09,092 --> 00:33:10,092
+Querido!
+
+610
+00:33:10,722 --> 00:33:11,764
+Tens recebido as minhas SMS?
+
+611
+00:33:11,964 --> 00:33:14,346
+Pensava que te tinham dado uma
+pausa para almoçares há meia-hora.
+
+612
+00:33:15,612 --> 00:33:17,062
+O que se passa?
+
+613
+00:33:17,168 --> 00:33:18,892
+Estas pessoas são Detectives.
+
+614
+00:33:19,198 --> 00:33:20,234
+A sério?
+
+615
+00:33:20,244 --> 00:33:21,996
+Temos algumas
+perguntas sobre a Delilah.
+
+616
+00:33:23,184 --> 00:33:24,221
+Sim.
+Que coisa tão triste.
+
+617
+00:33:24,231 --> 00:33:26,013
+Sim, muito triste.
+
+618
+00:33:27,004 --> 00:33:29,001
+O seu relógio.
+Onde o arranjou?
+
+619
+00:33:29,011 --> 00:33:30,269
+É uma falsificação do filme.
+
+620
+00:33:30,470 --> 00:33:32,676
+Não, é o que a Delilah
+te ofereceu. Não é?
+
+621
+00:33:32,686 --> 00:33:33,971
+Por causa do <i>Time will tell</i>?
+
+622
+00:33:33,981 --> 00:33:36,781
+Certo.
+Foi o filme que fizemos.
+
+623
+00:33:36,886 --> 00:33:38,086
+Foi um presente.
+
+624
+00:33:39,139 --> 00:33:42,223
+Pois. Ela ofereceu um relógio de
+10 mil dólares à equipa toda?
+
+625
+00:33:42,338 --> 00:33:43,654
+Não, só a mim.
+
+626
+00:33:44,012 --> 00:33:45,362
+Pelo que sei.
+
+627
+00:33:45,851 --> 00:33:48,327
+Porque nós éramos,
+protagonistas e assim.
+
+628
+00:33:49,377 --> 00:33:53,108
+Sabe, terá de aprender a mentir melhor,
+se quiser ser Presidente.
+
+629
+00:33:53,118 --> 00:33:54,360
+Pois, eu sei!
+
+630
+00:33:54,649 --> 00:33:56,241
+Então significa que andava
+a dormir com ela, certo?
+
+631
+00:33:57,778 --> 00:33:58,778
+Sim!
+
+632
+00:34:05,552 --> 00:34:08,911
+- Merda, acabei de dizer isto na frente de todos.
+- Enfim, como se eu não soubesse.
+
+633
+00:34:08,921 --> 00:34:11,737
+Meu Deus, és um péssimo mentiroso
+e um péssimo actor também.
+
+634
+00:34:11,922 --> 00:34:13,087
+- Tu sabias?
+- Claro!
+
+635
+00:34:13,191 --> 00:34:15,891
+Porque achas que ando
+a dormir com o Bobby?
+
+636
+00:34:16,526 --> 00:34:18,495
+- Estás a falar a sério?
+- Sim...
+
+637
+00:34:18,525 --> 00:34:19,825
+e é bom.
+
+638
+00:34:20,502 --> 00:34:22,723
+Monto naquele homem
+como se fosse um cavalo.
+
+639
+00:34:22,733 --> 00:34:23,833
+Certo, Bobby?
+
+640
+00:34:23,953 --> 00:34:24,967
+<i>O meu guarda-costas?</i>
+
+641
+00:34:25,836 --> 00:34:28,186
+- Que falta de originalidade.
+- Tenho falta de originalidade?
+
+642
+00:34:28,370 --> 00:34:30,979
+- Bem, tu és um idiota!
+- Meu...
+
+643
+00:34:31,682 --> 00:34:33,148
+- Rapazes...
+- Vá lá!
+
+644
+00:34:33,863 --> 00:34:35,763
+Rapazes... prendam-nos.
+
+645
+00:34:36,215 --> 00:34:37,215
+A sério?
+
+646
+00:34:37,246 --> 00:34:38,446
+Parem!
+
+647
+00:34:39,294 --> 00:34:41,644
+Um deles tem de ser culpado.
+
+648
+00:34:55,836 --> 00:34:56,836
+Obrigada.
+
+649
+00:34:59,148 --> 00:35:00,148
+Então...
+
+650
+00:35:00,232 --> 00:35:03,682
+parece que o Greg e a Amanda não
+têm qualquer ligação com o assassino...
+
+651
+00:35:03,692 --> 00:35:07,116
+mas o assassino tem o mesmo relógio
+que o Greg, não pode ser uma coincidência.
+
+652
+00:35:07,126 --> 00:35:09,389
+Talvez a Delilah lhe tenha
+oferecido um também,
+
+653
+00:35:09,589 --> 00:35:11,704
+como uma espécie de presente de confiança?
+
+654
+00:35:11,714 --> 00:35:14,938
+Bem, assim significava que ela
+andava mesmo a dormir com aquele verme.
+
+655
+00:35:14,948 --> 00:35:15,948
+A sério?
+
+656
+00:35:16,167 --> 00:35:17,167
+Com o Jimmy,
+
+657
+00:35:17,305 --> 00:35:18,905
+com o 2Vile,
+com o Greg Cooper.
+
+658
+00:35:19,036 --> 00:35:22,713
+Esses são mais três vermes com quem andava metida.
+Penso que ela não queria passar despercebida.
+
+659
+00:35:22,794 --> 00:35:24,028
+Sim, parece-me que tens razão.
+
+660
+00:35:27,053 --> 00:35:28,621
+Meu Deus,
+o que faço aqui?
+
+661
+00:35:29,032 --> 00:35:31,251
+Divindade errada, mas sim,
+essa é a eterna questão.
+
+662
+00:35:32,149 --> 00:35:34,935
+Não, estou a falar sobre
+estar no bar, contigo.
+
+663
+00:35:34,967 --> 00:35:37,367
+Bem, não sei.
+Diz-me tu, Detective.
+
+664
+00:35:37,799 --> 00:35:39,882
+Quer dizer, para além da tua
+dita repulsão por mim,
+
+665
+00:35:39,892 --> 00:35:42,992
+não podes negar que
+há uma ligação entre nós.
+
+666
+00:35:43,603 --> 00:35:45,186
+Diz-me,
+o que queres mesmo?
+
+667
+00:35:46,363 --> 00:35:49,383
+Referes-te
+"ao que mais quero nesta vida"?
+
+668
+00:35:49,393 --> 00:35:50,656
+Sim, sem truques.
+
+669
+00:35:50,666 --> 00:35:53,238
+Não que eles funcionem em ti,
+sua aberração.
+
+670
+00:35:54,810 --> 00:35:55,810
+A sério.
+
+671
+00:35:56,147 --> 00:35:57,297
+Estou curioso.
+
+672
+00:35:58,330 --> 00:36:01,430
+Não sei, o que...
+o que te disse é verdade.
+
+673
+00:36:01,711 --> 00:36:03,118
+Quero mesmo
+ajudar as pessoas.
+
+674
+00:36:05,309 --> 00:36:07,908
+O meu pai era polícia.
+Um grande polícia.
+
+675
+00:36:07,918 --> 00:36:09,585
+A minha mãe era actriz...
+
+676
+00:36:09,595 --> 00:36:10,976
+mesmo má.
+
+677
+00:36:10,986 --> 00:36:14,192
+Tentei ser actriz,
+tirei a roupa...
+
+678
+00:36:14,380 --> 00:36:16,824
+Não contribuía para o melhoramento
+da sociedade.
+
+679
+00:36:16,834 --> 00:36:19,034
+Não concordo, amo esse filme.
+
+680
+00:36:19,951 --> 00:36:21,096
+Portanto demiti-me.
+
+681
+00:36:21,106 --> 00:36:23,504
+Decidi tornar-me polícia,
+como o meu pai. E
+
+682
+00:36:23,514 --> 00:36:25,788
+lidei com toda a questão de
+<i>Hot tub high school</i>,
+
+683
+00:36:25,798 --> 00:36:28,332
+até me ter tornado
+detective e ter encontrado
+
+684
+00:36:28,532 --> 00:36:30,548
+uma nova maneira de ostracizar-me.
+
+685
+00:36:31,177 --> 00:36:35,803
+O motivo pelo qual o teu ex-verme estava
+a pressionar-te para encerrar o caso?
+
+686
+00:36:35,813 --> 00:36:36,813
+Sim.
+
+687
+00:36:37,042 --> 00:36:38,450
+Sim, exactamente.
+
+688
+00:36:38,565 --> 00:36:39,709
+Havia um caso,
+
+689
+00:36:39,719 --> 00:36:42,536
+um tiroteio em Palmetto Street
+onde um polícia foi alvejado.
+
+690
+00:36:42,546 --> 00:36:45,524
+E vi de maneira diferente da maioria
+do meu departamento,
+
+691
+00:36:45,534 --> 00:36:46,631
+incluindo o meu ex.
+
+692
+00:36:47,184 --> 00:36:48,331
+Meti a cabeça para fora,
+
+693
+00:36:49,214 --> 00:36:50,368
+e fez ricochete.
+
+694
+00:36:51,088 --> 00:36:52,088
+E,
+
+695
+00:36:52,196 --> 00:36:54,796
+agora... agora ninguém
+quer trabalhar comigo.
+
+696
+00:36:55,673 --> 00:36:57,083
+Bem, estou disponível.
+
+697
+00:36:59,010 --> 00:37:02,343
+É uma pena a sua pequena protegida
+não estar presente para receber o cheque.
+
+698
+00:37:02,353 --> 00:37:05,041
+<i>O álbum da banda sonora
+do filme "Time will tell" chegou</i>
+
+699
+00:37:05,051 --> 00:37:08,228
+<i>à posição número 15 da Billboard,
+e continua a subir.</i>
+
+700
+00:37:08,238 --> 00:37:10,688
+<i>A venda dos álbuns e dos singles...</i>
+
+701
+00:37:12,132 --> 00:37:13,132
+O que foi?
+
+702
+00:37:14,183 --> 00:37:16,583
+A Delilah não deu aquele
+relógio ao traficante.
+
+703
+00:37:24,027 --> 00:37:25,435
+Pára, pára, pára!
+
+704
+00:37:25,445 --> 00:37:28,445
+Que se passa? Tens um gerbilo na garganta?
+Que se passa?
+
+705
+00:37:30,361 --> 00:37:31,461
+Olá, Jimmy!
+
+706
+00:37:31,927 --> 00:37:34,465
+- A sério?
+- Como correm as vendas do álbum?
+
+707
+00:37:34,973 --> 00:37:37,340
+- Que álbum?
+- A banda sonora do <i>Time will tell</i>,
+
+708
+00:37:37,350 --> 00:37:38,900
+o qual produziu.
+
+709
+00:37:38,959 --> 00:37:41,813
+A Whitney Houston chegou ao top 10
+de vendas de álbuns após a morte.
+
+710
+00:37:41,823 --> 00:37:44,349
+O Michael Jackson chegou
+à estratosfera.
+
+711
+00:37:44,359 --> 00:37:46,977
+Não sei se alcançará
+tal nível com a morte da Delilah,
+
+712
+00:37:46,987 --> 00:37:51,017
+mas há muito lucro para os direitos
+de autores na sua direcção.
+
+713
+00:37:51,027 --> 00:37:53,331
+Parece que precisava
+do dinheiro, não?
+
+714
+00:37:53,496 --> 00:37:56,217
+É por isso que tinha de pagar
+ao atirador com o seu relógio.
+
+715
+00:37:56,227 --> 00:37:59,368
+O relógio que a Delilah lhe deu.
+Isso é doentio.
+
+716
+00:37:59,378 --> 00:38:01,578
+Mas o senhor também o é, portanto...
+
+717
+00:38:03,769 --> 00:38:05,855
+- Jimmy...
+- Eu criei-a
+
+718
+00:38:05,865 --> 00:38:08,020
+e ela arruinou-me.
+Humilhou-me.
+
+719
+00:38:08,030 --> 00:38:09,280
+Deve-me uma!
+
+720
+00:38:09,316 --> 00:38:12,216
+Não é Deus, Jimmy.
+Não a criou,
+
+721
+00:38:12,304 --> 00:38:14,292
+mas destruiu-a.
+
+722
+00:38:14,302 --> 00:38:15,713
+Por isso, vou castigá-lo.
+
+723
+00:38:15,723 --> 00:38:17,830
+Afaste-se, aberração.
+Não estou a brincar.
+
+724
+00:38:17,840 --> 00:38:20,203
+Não vou parar à prisão
+por aquela cabra! Nem pensar.
+
+725
+00:38:20,213 --> 00:38:23,621
+- Lucifer, ouve-o. Não te aproximes!
+- Está tudo bem, sou imortal.
+
+726
+00:38:27,459 --> 00:38:28,698
+Porque fizeste isso?
+
+727
+00:38:29,388 --> 00:38:31,660
+- Ele ia matar-te.
+- Não, não, não...
+
+728
+00:38:31,670 --> 00:38:34,394
+Deixaste-o ir facilmente.
+
+729
+00:38:34,404 --> 00:38:38,671
+Ele tem de pagar, tem de sofrer!
+Tem de sentir a dor! Não evitá-la!
+
+730
+00:38:39,721 --> 00:38:42,522
+Não te preocupes. De certeza que
+para onde ele vai, a dor está para chegar.
+
+731
+00:38:42,532 --> 00:38:45,024
+Não, na verdade não está, e sabes porquê?
+
+732
+00:38:45,054 --> 00:38:46,306
+Porque estou aqui e ele...
+
+733
+00:38:56,027 --> 00:38:57,027
+Não.
+
+734
+00:39:00,052 --> 00:39:01,445
+Não quero morrer.
+
+735
+00:39:02,544 --> 00:39:03,944
+Não permitirei.
+
+736
+00:39:06,386 --> 00:39:09,286
+O meu Pai terá de esperar por ti.
+
+737
+00:39:14,423 --> 00:39:16,223
+Dá-me só um segundo...
+
+738
+00:39:23,397 --> 00:39:25,447
+Não! Por favor!
+Não, não, por favor!
+
+739
+00:39:26,580 --> 00:39:28,787
+Por favor, não me mate.
+
+740
+00:39:29,676 --> 00:39:30,676
+Jimmy...
+
+741
+00:39:33,242 --> 00:39:35,561
+em breve vai desejar
+só lhe ter feito isso.
+
+742
+00:39:52,308 --> 00:39:54,423
+Olha quem voltou.
+
+743
+00:40:02,824 --> 00:40:04,434
+Quanto tempo estive inconsciente?
+
+744
+00:40:06,190 --> 00:40:07,190
+Três anos.
+
+745
+00:40:08,990 --> 00:40:09,991
+O quê?
+
+746
+00:40:13,445 --> 00:40:15,379
+- És mesmo idiota.
+- Obrigado.
+
+747
+00:40:15,389 --> 00:40:16,389
+Meu Deus...
+
+748
+00:40:20,089 --> 00:40:21,439
+Ele estava a disparar contra ti.
+
+749
+00:40:22,676 --> 00:40:24,276
+Porque não estás...
+
+750
+00:40:24,906 --> 00:40:26,256
+mais morto?
+
+751
+00:40:26,333 --> 00:40:30,283
+Estás a ter dificuldades em aceitar
+a história sobre a imortalidade, não é?
+
+752
+00:40:33,779 --> 00:40:35,506
+- O que aconteceu ao Jimmy?
+- O Jimmy...
+
+753
+00:40:36,360 --> 00:40:37,964
+O Jimmy teve o que merecia.
+
+754
+00:40:41,394 --> 00:40:42,394
+Bem...
+
+755
+00:40:42,710 --> 00:40:46,418
+tenho a certeza que estaria morta,
+se não me tivesses ajudado, por isso...
+
+756
+00:40:46,428 --> 00:40:47,428
+obrigada.
+
+757
+00:40:47,968 --> 00:40:52,068
+Desculpa, o que disseste?
+Essa última parte, não ouvi bem...
+
+758
+00:40:53,034 --> 00:40:54,034
+Obrigada.
+
+759
+00:40:55,530 --> 00:40:56,780
+De nada.
+
+760
+00:40:58,204 --> 00:41:02,304
+E, para além disso... és interessante
+demais para te deixar morrer.
+
+761
+00:41:02,953 --> 00:41:04,755
+Salvaste a minha vida
+porque sou interessante?
+
+762
+00:41:04,765 --> 00:41:06,896
+Também és descontroladamente
+irritante, mas sim.
+
+763
+00:41:10,702 --> 00:41:13,518
+- Então e agora?
+- Bem, provei ser
+
+764
+00:41:13,528 --> 00:41:15,913
+uma pessoa de valor incalculável
+na luta contra o crime,
+
+765
+00:41:15,923 --> 00:41:18,972
+e és uma exilada na polícia. Penso que isto
+pode ser o início de uma grande amizade,
+
+766
+00:41:18,982 --> 00:41:19,982
+não achas?
+
+767
+00:41:20,343 --> 00:41:21,460
+Quem és tu?
+
+768
+00:41:22,054 --> 00:41:23,454
+Já te disse.
+
+769
+00:41:23,726 --> 00:41:25,276
+- Sou o...
+- Lucifer!
+
+770
+00:41:27,534 --> 00:41:28,584
+Sim... olá, criança.
+
+771
+00:41:29,773 --> 00:41:33,327
+Porque... não guardas esses
+aborrecimentos para a tua mãe?
+
+772
+00:41:33,881 --> 00:41:34,881
+Desculpa.
+
+773
+00:41:36,638 --> 00:41:38,244
+- Meu Deus.
+- Estás magoada?
+
+774
+00:41:38,254 --> 00:41:39,254
+Estou bem.
+
+775
+00:41:40,134 --> 00:41:43,581
+Pois. Até ficava para a reunião de família,
+mas está a causar-me dores no estômago.
+
+776
+00:41:43,591 --> 00:41:45,610
+Por isso... espero ver-te
+muito em breve, Chloe.
+
+777
+00:41:46,187 --> 00:41:47,537
+- Eu não.
+- Adeusinho.
+
+778
+00:41:47,993 --> 00:41:49,843
+Estou feliz por
+não estares morta.
+
+779
+00:42:00,784 --> 00:42:02,234
+Raios me partam!
+
+780
+00:42:08,571 --> 00:42:09,896
+O que queres de mim?
+
+781
+00:42:10,852 --> 00:42:12,465
+Tenho andado a observar-te,
+Lucifer...
+
+782
+00:42:12,996 --> 00:42:15,746
+- Seu tarado sexual!
+- E não tenho a certeza se gosto do que vejo.
+
+783
+00:42:16,096 --> 00:42:18,777
+Estás a demonstrar controlo...
+misericórdia...
+
+784
+00:42:18,787 --> 00:42:21,881
+Estás com medo que esteja a virar
+as costas ao lado obscuro, irmão?
+
+785
+00:42:22,373 --> 00:42:25,573
+Lucifer, existe um balanço
+que deve ser mantido.
+
+786
+00:42:26,342 --> 00:42:29,739
+Aconselho-te que faças o que te
+digo e que regresses ao Inferno.
+
+787
+00:42:30,460 --> 00:42:32,310
+Não me ameaces,
+Amenadiel.
+
+788
+00:42:33,597 --> 00:42:36,358
+Não queiras
+começar uma guerra.
+
+789
+00:42:36,368 --> 00:42:38,218
+Amava ter uma guerra.
+
+790
+00:42:41,036 --> 00:42:42,036
+Luci!
+
+791
+00:42:44,509 --> 00:42:47,218
+O meu ódio por ti
+cresce a cada visita.
+
+792
+00:42:47,884 --> 00:42:50,684
+Eu não diria melhor,
+meu amigo.
+
+793
+00:42:51,176 --> 00:42:54,427
+Estou ansioso por comer
+o teu coração, um dia...
+
+794
+00:42:54,437 --> 00:42:55,437
+Paz!
+
+795
+00:43:14,233 --> 00:43:17,233
+Sinto a tua desaprovação,
+Maze. O que foi?
+
+796
+00:43:18,707 --> 00:43:22,207
+Só não entendo porque
+salvaste a vida de um humano.
+
+797
+00:43:23,674 --> 00:43:24,674
+Bem, existe...
+
+798
+00:43:25,189 --> 00:43:28,368
+algo de diferente nela que não
+compreendo, e isso irrita-me.
+
+799
+00:43:28,968 --> 00:43:30,952
+Talvez não seja ela
+que seja diferente.
+
+800
+00:43:32,389 --> 00:43:35,799
+É nesta parte que devia perguntar:
+"Que raio queres dizer"?
+
+801
+00:43:35,809 --> 00:43:39,259
+Estou preocupada que os humanos
+possam estar a dar-te sentimentos.
+
+802
+00:43:39,310 --> 00:43:41,355
+Pára de te preocupar!
+
+803
+00:43:41,861 --> 00:43:43,111
+Tu és o Diabo.
+
+804
+00:43:46,178 --> 00:43:47,278
+Sim, sou.
+
+805
+00:44:02,266 --> 00:44:04,424
+Pronto, tudo bem...
+o acordo é este.
+
+806
+00:44:04,578 --> 00:44:08,101
+Podemos ter o tempo de nudismo
+e de mimos que quiser, mas...
+
+807
+00:44:08,111 --> 00:44:10,961
+também terá que me ouvir.
+
+808
+00:44:10,986 --> 00:44:13,111
+Existem umas coisas que
+gostava de falar consigo.
+
+809
+00:44:13,935 --> 00:44:16,685
+Apenas... um ou dois
+problemas existenciais.
+
+810
+00:44:17,514 --> 00:44:19,114
+- Combinado?
+- Sim!
+
+811
+00:44:19,481 --> 00:44:20,481
+Excelente!
+
+812
+00:44:24,446 --> 00:44:27,954
+Tradução: Maston e Mr. Scudester
+Revisão: Maston
