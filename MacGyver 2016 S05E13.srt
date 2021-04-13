@@ -1,0 +1,3390 @@
+1
+00:00:01,698 --> 00:00:04,522
+EM ALGUM LUGAR
+NO OCEANO ÍNDICO
+
+2
+00:00:06,004 --> 00:00:08,003
+<i>Repito,
+mantenham-se calmos.</i>
+
+3
+00:00:08,004 --> 00:00:09,719
+<i>Após colocar
+o colete salva-vidas,</i>
+
+4
+00:00:09,720 --> 00:00:11,904
+<i>sigam as setas vermelhas
+no chão do corredor</i>
+
+5
+00:00:11,905 --> 00:00:14,191
+<i>para o terceiro nível,
+um membro da tripulação</i>
+
+6
+00:00:14,192 --> 00:00:16,793
+<i>de colete laranja ajudará
+com a entrada apropriada...</i>
+
+7
+00:00:16,794 --> 00:00:18,785
+Pessoal, estou com cãibra.
+
+8
+00:00:18,786 --> 00:00:20,894
+Boze, manter os membros
+nessas posições
+
+9
+00:00:20,895 --> 00:00:23,771
+pode salvar milhares de vidas.
+Apenas aguente, certo?
+
+10
+00:00:27,065 --> 00:00:29,204
+Deixem comigo!
+
+11
+00:00:29,205 --> 00:00:30,605
+Pé esquerdo no azul.
+
+12
+00:00:31,888 --> 00:00:33,288
+Bom trabalho.
+
+13
+00:00:34,429 --> 00:00:37,198
+- Estou caindo, pessoal.
+- Não, não...
+
+14
+00:00:43,578 --> 00:00:46,690
+A pressão
+nas anteparas estanques
+
+15
+00:00:46,691 --> 00:00:49,319
+dos decks acima
+está aumentando.
+
+16
+00:00:49,320 --> 00:00:52,521
+Precisamos de uma solução mais
+permanente. Vamos fazer massa.
+
+17
+00:00:52,982 --> 00:00:55,298
+<i>Bem-vindos a Hidrólise
+para leigos.</i>
+
+18
+00:00:55,299 --> 00:00:57,592
+<i>Do grego antigo
+"hidro", significa água</i>
+
+19
+00:00:57,593 --> 00:00:59,784
+<i>e "lise", desassociar.</i>
+
+20
+00:00:59,785 --> 00:01:01,803
+<i>Para usar este processo
+para fazer massa,</i>
+
+21
+00:01:01,804 --> 00:01:05,894
+<i>pegue um pouco de azeite,
+areia, resina epóxi e xampu.</i>
+
+22
+00:01:05,895 --> 00:01:07,298
+<i>Isso causará uma reação</i>
+
+23
+00:01:07,299 --> 00:01:09,600
+<i>onde moléculas de água
+rompem ligações químicas</i>
+
+24
+00:01:09,601 --> 00:01:11,802
+<i>para formar novas cadeias
+fortes o suficiente</i>
+
+25
+00:01:11,803 --> 00:01:14,253
+<i>para reter a água
+até que chegue ajuda.</i>
+
+26
+00:01:25,276 --> 00:01:27,723
+Meu garoto, Mac,
+consegue de novo.
+
+27
+00:01:28,036 --> 00:01:30,322
+Nunca subestime
+o poder da massa.
+
+28
+00:01:35,134 --> 00:01:37,234
+Não está funcionando.
+Por que não funciona?
+
+29
+00:01:38,291 --> 00:01:39,691
+Não sei.
+
+30
+00:01:39,915 --> 00:01:42,215
+<b><i>Agentes:
+LeilaC² | Hall</b></i>
+
+31
+00:01:42,216 --> 00:01:44,516
+<b><i>Agentes:
+Khronnus | Lu Colorada²</b></i>
+
+32
+00:01:44,517 --> 00:01:46,817
+<b><i>Agentes:
+Broken Soul | KetchSketch</b></i>
+
+33
+00:01:46,818 --> 00:01:49,118
+<b><i>Agentes:
+dreeh | Athena | rsquint</b></i>
+
+34
+00:01:49,119 --> 00:01:51,419
+<b><i>Fênix:
+White Wolf</b></i>
+
+35
+00:01:51,420 --> 00:01:54,502
+<b><i>GeekS
+engenhosamente apresenta...</b></i>
+
+36
+00:01:54,503 --> 00:01:56,608
+<b><i>MacGyver - 5.13</b></i>
+
+37
+00:01:56,609 --> 00:01:59,799
+<b><i>Barn Find + Oil Slick + La Punzonatura
++ Lab Rats + Tachometer</b></i>
+
+38
+00:02:01,255 --> 00:02:03,806
+Por que não funcionou?
+<i>- O navio afundou após sofrer</i>
+
+39
+00:02:03,807 --> 00:02:06,625
+<i>ataques de piratas somalis
+no Oceano Índico.</i>
+
+40
+00:02:06,626 --> 00:02:09,230
+<i>Felizmente, as 3.000 pessoas
+a bordo sobreviveram...</i>
+
+41
+00:02:09,231 --> 00:02:12,278
+Deveria ter funcionado.
+Por que não funcionou?
+
+42
+00:02:12,279 --> 00:02:14,989
+Descartei a decomposição
+do catalisador.
+
+43
+00:02:15,984 --> 00:02:17,384
+Onde posso colocar isso?
+
+44
+00:02:17,892 --> 00:02:20,626
+No armário inferior
+esquerdo.
+
+45
+00:02:21,095 --> 00:02:24,182
+A única outra explicação
+plausível é que calculei errado
+
+46
+00:02:24,183 --> 00:02:26,305
+- a energia livre de Gibbs.
+- Sem espaço.
+
+47
+00:02:26,306 --> 00:02:28,699
+Mas eu sentiria calor
+de uma reação exotérmica,
+
+48
+00:02:28,700 --> 00:02:32,346
+- o que eu não senti.
+- Mac, por favor. Chega.
+
+49
+00:02:32,347 --> 00:02:34,404
+Está obcecado.
+Mas você é apenas humano.
+
+50
+00:02:34,405 --> 00:02:38,085
+Eu sei. Mas a vida das pessoas
+estava em minhas mãos.
+
+51
+00:02:38,086 --> 00:02:39,517
+Sim, e estão todos bem.
+
+52
+00:02:39,518 --> 00:02:41,005
+E pediu
+para morarmos juntos,
+
+53
+00:02:41,006 --> 00:02:44,224
+então achei que poderia ajudar
+a abrir espaço para mim.
+
+54
+00:02:44,225 --> 00:02:45,905
+Sinto muito.
+
+55
+00:02:45,906 --> 00:02:49,101
+Mas não concordei em transformar
+o urso polar em seu cabide?
+
+56
+00:02:49,512 --> 00:02:51,581
+Que sorte a minha.
+Passou 30 segundos
+
+57
+00:02:51,582 --> 00:02:55,120
+pensando em nosso relacionamento
+em vez de brincar de massinha.
+
+58
+00:02:59,396 --> 00:03:00,796
+- Matty.
+- Matty.
+
+59
+00:03:01,975 --> 00:03:03,726
+- Anda.
+- Anda você.
+
+60
+00:03:05,772 --> 00:03:07,427
+O primeiro banho é meu.
+
+61
+00:03:10,899 --> 00:03:13,938
+- Faz isso todas as manhãs?
+- Meu cabelo é grosso.
+
+62
+00:03:16,199 --> 00:03:17,625
+Mac.
+
+63
+00:03:17,913 --> 00:03:20,514
+EM ALGUM LUGAR
+DE LOS ANGELES
+
+64
+00:03:20,515 --> 00:03:23,263
+- Desculpe o atraso. Culpa dele.
+- Foi culpa dela.
+
+65
+00:03:23,264 --> 00:03:26,285
+Fico feliz em ver
+que a coabitação está indo bem.
+
+66
+00:03:26,286 --> 00:03:28,575
+- Uma delícia!
+- Certo, o resto de nós
+
+67
+00:03:28,576 --> 00:03:30,308
+continuou com os assuntos
+urgentes.
+
+68
+00:03:30,309 --> 00:03:32,914
+Vocês dois foram chamados
+porque ontem,
+
+69
+00:03:33,485 --> 00:03:36,512
+este veículo foi listado
+para venda
+
+70
+00:03:36,513 --> 00:03:39,821
+- em Umbria, na Itália.
+- "Veículo" é bem generoso.
+
+71
+00:03:39,822 --> 00:03:41,805
+Sim,
+pode não parecer muito,
+
+72
+00:03:41,806 --> 00:03:45,707
+mas é o que os entusiastas
+automotivos chamam
+
+73
+00:03:45,708 --> 00:03:47,669
+- de "relíquia".
+- "Relíquia."
+
+74
+00:03:48,213 --> 00:03:51,023
+Carros velhos e enferrujados
+abandonados nas garagens.
+
+75
+00:03:51,288 --> 00:03:53,492
+O vendedor não tem ideia
+de que enterrado
+
+76
+00:03:53,493 --> 00:03:56,363
+sob toda aquela ferrugem
+e sujeira está um lendário
+
+77
+00:03:56,364 --> 00:04:00,409
+um Bizzarrini 5300 GT Strada,
+de 1967.
+
+78
+00:04:00,410 --> 00:04:02,870
+Um carro com linhas
+tão requintadas
+
+79
+00:04:02,871 --> 00:04:05,804
+que o chassi dele
+teve que ser forjado a mão.
+
+80
+00:04:06,445 --> 00:04:07,845
+Avaliado...
+
+81
+00:04:08,944 --> 00:04:12,917
+em €500,00.
+Restaurado, €1.000.000,00.
+
+82
+00:04:12,918 --> 00:04:15,918
+Está nos enviando para comprar
+um brinquedo para sua coleção?
+
+83
+00:04:17,244 --> 00:04:19,987
+Conheça Franco Scuro.
+
+84
+00:04:19,988 --> 00:04:23,198
+Número cinco na lista
+de mais procurados da Interpol.
+
+85
+00:04:23,199 --> 00:04:25,748
+Outrora chefe
+da família criminosa Cornacchia,
+
+86
+00:04:25,749 --> 00:04:28,403
+visto pela última vez
+em 2006
+
+87
+00:04:28,404 --> 00:04:30,311
+fugindo de um tiroteio
+com a polícia
+
+88
+00:04:30,312 --> 00:04:34,034
+dirigindo um carro do mesmo ano,
+marca e modelo desse.
+
+89
+00:04:34,035 --> 00:04:36,037
+Acha que este
+é o carro velho de Scuro.
+
+90
+00:04:36,038 --> 00:04:37,599
+É a única pista
+que vem à tona
+
+91
+00:04:37,600 --> 00:04:40,040
+desde que ele desapareceu,
+há 15 anos.
+
+92
+00:04:40,041 --> 00:04:42,545
+E nessa época,
+a família criminosa Cornacchia
+
+93
+00:04:42,546 --> 00:04:44,561
+se tornou a fornecedora
+
+94
+00:04:44,562 --> 00:04:47,445
+de armamento pesado
+para grupos extremistas
+
+95
+00:04:47,446 --> 00:04:49,107
+em toda a Europa Ocidental.
+
+96
+00:04:51,198 --> 00:04:53,220
+O atentado em Londres
+no ano passado.
+
+97
+00:04:53,221 --> 00:04:56,417
+E Paris.
+E na Bélgica.
+
+98
+00:04:56,889 --> 00:04:59,109
+Tudo possibilitado
+pelo pessoal de Scuro.
+
+99
+00:04:59,110 --> 00:05:02,201
+Preciso que confirmem
+se o veículo é dele,
+
+100
+00:05:02,202 --> 00:05:03,912
+sigam qualquer pista
+que surgir.
+
+101
+00:05:04,652 --> 00:05:07,405
+Se este homem
+ainda está respirando,
+
+102
+00:05:08,196 --> 00:05:11,603
+devemos encontrá-lo
+e interrogá-lo.
+
+103
+00:05:11,604 --> 00:05:14,771
+Encontre Scuro,
+pare as armas, pare a violência.
+
+104
+00:05:15,352 --> 00:05:18,194
+Mas se Desi e eu somos
+os únicos a ir para Itália,
+
+105
+00:05:18,195 --> 00:05:19,645
+o que os outros
+estão fazendo?
+
+106
+00:05:24,286 --> 00:05:26,253
+<i>Bozer, alguma atualização?</i>
+
+107
+00:05:26,254 --> 00:05:28,489
+Desde a última vez
+que você perguntou?
+
+108
+00:05:28,490 --> 00:05:31,405
+Larry bateu o recorde pessoal
+dele no labirinto,
+
+109
+00:05:31,783 --> 00:05:34,596
+Curly fez cocô às 8h,
+
+110
+00:05:34,597 --> 00:05:38,704
+e Moe começou a disparar
+raios laser com os bigodes dele.
+
+111
+00:05:38,705 --> 00:05:40,603
+<i>Sabe, Bozer,
+mesmo não estando aí,</i>
+
+112
+00:05:40,604 --> 00:05:42,190
+<i>ainda posso te machucar.</i>
+
+113
+00:05:42,191 --> 00:05:45,103
+Desculpe, Matty, mas faz dias
+que injetamos nesses ratos
+
+114
+00:05:45,104 --> 00:05:47,937
+os nano-rastreadores
+e nada está acontecendo.
+
+115
+00:05:47,938 --> 00:05:50,678
+- Assim que mudar...
+<i>- Riley, e você? Alguma ação?</i>
+
+116
+00:05:50,679 --> 00:05:53,244
+Pelo menos as cobaias
+da Bozer são fofas.
+
+117
+00:05:53,245 --> 00:05:56,284
+As imagens do intermediário
+da nanotecnologia são chatas.
+
+118
+00:05:56,285 --> 00:05:58,606
+<i>Ele é nossa única pista.
+Nas mãos erradas,</i>
+
+119
+00:05:58,607 --> 00:06:01,362
+<i>essa tecnologia pode virar
+o mundo de cabeça para baixo.</i>
+
+120
+00:06:01,363 --> 00:06:03,364
+<i>Assim que qualquer um
+conseguir uma pista</i>
+
+121
+00:06:03,365 --> 00:06:06,181
+<i>sobre o desenvolvedor
+ou o que está acontecendo...</i>
+
+122
+00:06:06,182 --> 00:06:07,582
+Ligaremos para você.
+
+123
+00:06:08,379 --> 00:06:11,423
+É aterrorizante ela aparecer
+assim sempre que quiser.
+
+124
+00:06:12,101 --> 00:06:14,801
+UMBRIA, ITÁLIA
+
+125
+00:06:15,095 --> 00:06:18,388
+IGUAL A TOSCANA,
+MAS SEM TODOS OS TURISTAS
+
+126
+00:06:25,409 --> 00:06:27,212
+Estamos definitivamente
+interessados.
+
+127
+00:06:28,215 --> 00:06:30,854
+O celeiro é bem seco,
+então a ferrugem é superficial.
+
+128
+00:06:30,855 --> 00:06:32,321
+E o acabamento está lindo.
+
+129
+00:06:32,322 --> 00:06:34,615
+Têm certeza de que não querem
+um café?
+
+130
+00:06:35,659 --> 00:06:37,059
+Não, obrigada.
+
+131
+00:06:37,743 --> 00:06:39,143
+Posso?
+
+132
+00:06:43,077 --> 00:06:44,477
+Com licença?
+
+133
+00:06:44,943 --> 00:06:47,254
+Estou aqui pelo carro
+que está à venda.
+
+134
+00:06:47,255 --> 00:06:52,091
+Lamento, mas o casal americano
+chegou primeiro.
+
+135
+00:06:52,092 --> 00:06:54,389
+Eu dobro o valor pedido.
+
+136
+00:06:54,661 --> 00:06:56,767
+Pago €1000.
+
+137
+00:06:57,901 --> 00:06:59,301
+Aumentamos para €2000.
+
+138
+00:07:07,001 --> 00:07:09,214
+Pago €10000.
+
+139
+00:07:13,790 --> 00:07:15,317
+Ela é toda sua.
+
+140
+00:07:16,995 --> 00:07:20,123
+Maravilhoso.
+Isso não foi emocionante?
+
+141
+00:07:21,104 --> 00:07:22,505
+Dino.
+
+142
+00:07:22,506 --> 00:07:27,214
+Faça o pagamento e prepare
+o transporte do carro.
+
+143
+00:07:33,181 --> 00:07:35,082
+Você viu aquilo?
+
+144
+00:07:35,083 --> 00:07:37,608
+O carecão
+está em um ponto cego.
+
+145
+00:07:37,609 --> 00:07:39,633
+E o outro cara
+olhou no buraco à bala,
+
+146
+00:07:39,634 --> 00:07:41,177
+como se soubesse.
+
+147
+00:07:41,389 --> 00:07:43,396
+Então eles sabem
+sobre o mafioso.
+
+148
+00:07:43,892 --> 00:07:45,526
+Qual o plano?
+
+149
+00:07:48,696 --> 00:07:50,566
+Vamos usar o carro alugado
+
+150
+00:07:50,567 --> 00:07:52,684
+e um reboque DIY
+para tirar o carro daqui.
+
+151
+00:07:52,685 --> 00:07:55,614
+- Leve Carla a um lugar seguro.
+- Certo.
+
+152
+00:07:56,685 --> 00:08:00,253
+Carla, na verdade eu adoraria
+aquele café, se não se importar.
+
+153
+00:08:01,003 --> 00:08:02,403
+Claro.
+
+154
+00:08:14,456 --> 00:08:15,857
+O que está fazendo?
+
+155
+00:08:29,337 --> 00:08:31,038
+<i>Qual é, Mac...</i>
+
+156
+00:08:31,039 --> 00:08:33,106
+<i>Já parou para pensar
+o que um airbag</i>
+
+157
+00:08:33,107 --> 00:08:34,724
+<i>deve realizar
+para funcionar?</i>
+
+158
+00:08:34,725 --> 00:08:37,377
+<i>Seu carro sai da estrada
+e bate em uma árvore.</i>
+
+159
+00:08:37,378 --> 00:08:40,538
+<i>Um dispositivo sente a colisão
+e ativa uma explosão controlada</i>
+
+160
+00:08:40,539 --> 00:08:42,684
+<i>que infla uma bolsa
+que protege sua cabeça,</i>
+
+161
+00:08:42,685 --> 00:08:44,742
+<i>enquanto o carro
+ainda está batendo.</i>
+
+162
+00:08:44,743 --> 00:08:47,589
+<i>Então, esses dois airbags
+dão conta</i>
+
+163
+00:08:47,590 --> 00:08:49,457
+<i>de levantar a dianteira
+do Bizzarrini.</i>
+
+164
+00:08:49,458 --> 00:08:50,858
+Isso não vai funcionar.
+
+165
+00:08:53,465 --> 00:08:55,306
+Esquece. Que maneiro.
+
+166
+00:09:05,073 --> 00:09:06,640
+<i>Vai! Vai! Vai!</i>
+
+167
+00:09:25,625 --> 00:09:27,771
+Esses caras não vão embora.
+
+168
+00:09:27,772 --> 00:09:29,368
+Se não os despistarmos,
+
+169
+00:09:29,369 --> 00:09:31,277
+- esse carro antigo já era.
+- Sim...
+
+170
+00:09:32,365 --> 00:09:35,922
+Após a próxima curva,
+faça zigue-zague na estrada.
+
+171
+00:09:35,923 --> 00:09:38,160
+- Vou dar uma de "Goldfinger".
+- O quê?
+
+172
+00:09:38,161 --> 00:09:39,968
+Sean Connery no DB5?
+
+173
+00:09:39,969 --> 00:09:42,241
+- Do que está falando?
+- Soltar óleo na pista.
+
+174
+00:09:42,242 --> 00:09:44,576
+Por que não disse "Spy Hunter",
+então?
+
+175
+00:09:44,577 --> 00:09:47,621
+- O que é "Spy Hunter"?
+- "O que é 'Spy Hunter'"?
+
+176
+00:10:04,864 --> 00:10:06,264
+<i>Vai! Vai! Vai!</i>
+
+177
+00:10:28,421 --> 00:10:30,456
+Mac,
+tem uma curva à frente.
+
+178
+00:10:30,457 --> 00:10:34,432
+Solte o óleo em 3, <i>2</i>, 1,
+<i>agora!</i>
+
+179
+00:10:35,462 --> 00:10:37,072
+Anda, anda, anda!
+
+180
+00:10:38,002 --> 00:10:40,035
+Está dormindo aí atrás?
+
+181
+00:10:45,105 --> 00:10:47,614
+Tem outra.
+É nossa última chance.
+
+182
+00:10:47,615 --> 00:10:51,252
+3, <i>2, 1... agora!</i>
+
+183
+00:11:13,373 --> 00:11:14,800
+Obrigada.
+
+184
+00:11:14,801 --> 00:11:18,074
+Taylor pediu à polícia local
+para ver como Carla está.
+
+185
+00:11:18,075 --> 00:11:20,406
+Vão pagá-la o suficiente
+por 3 carros.
+
+186
+00:11:20,940 --> 00:11:24,207
+Bem, não tem nada
+escondido dentro,
+
+187
+00:11:24,208 --> 00:11:26,558
+então só tem dois motivos
+para quererem o carro.
+
+188
+00:11:26,559 --> 00:11:28,759
+Informações sobre Scuro
+ou trabalham para ele
+
+189
+00:11:28,760 --> 00:11:30,160
+e encobrir pistas novas.
+
+190
+00:11:32,385 --> 00:11:35,189
+Recebi coordenadas
+de um laboratório da Interpol
+
+191
+00:11:35,190 --> 00:11:39,129
+a 480Km daqui. Taylor quer
+que levemos o carro lá.
+
+192
+00:11:39,130 --> 00:11:42,112
+Acho que o reboque
+não aguenta isso tudo.
+
+193
+00:11:42,113 --> 00:11:44,372
+Não consegue fazer
+essa sucata funcionar?
+
+194
+00:11:44,697 --> 00:11:48,676
+Acho que sim, se pegar partes
+do nosso carro alugado,
+
+195
+00:11:48,677 --> 00:11:53,537
+mas você não era
+a melhor da turma da MARSOC?
+
+196
+00:11:53,538 --> 00:11:54,938
+E daí?
+
+197
+00:11:54,939 --> 00:11:57,109
+Eram aulas de condução táctica
+de operações,
+
+198
+00:11:57,110 --> 00:11:58,510
+não para consertar carros.
+
+199
+00:11:58,778 --> 00:12:00,179
+Então...
+
+200
+00:12:00,424 --> 00:12:01,847
+Dê uma de Mac.
+
+201
+00:12:03,682 --> 00:12:06,685
+Sim, vou pedir para o Bozer
+me enviar
+
+202
+00:12:06,686 --> 00:12:08,520
+alguns diagramas mecânicos.
+
+203
+00:12:08,521 --> 00:12:10,521
+Você pode começar a sifonar
+a gasolina?
+
+204
+00:12:13,226 --> 00:12:15,245
+Boze,
+preciso de ajuda com algo,
+
+205
+00:12:15,246 --> 00:12:17,496
+mas não fale a ninguém.
+Não quero assustá-los.
+
+206
+00:12:17,497 --> 00:12:19,898
+Certo, está me assustando agora.
+O que houve?
+
+207
+00:12:19,899 --> 00:12:23,251
+Tem algo de errado
+com minhas mãos.
+
+208
+00:12:23,870 --> 00:12:27,606
+Elas ficam desajeitadas,
+como se estivessem adormecendo.
+
+209
+00:12:27,607 --> 00:12:29,169
+<i>E está piorando.</i>
+
+210
+00:12:29,170 --> 00:12:31,606
+Você poderia olhar
+os arquivos médicos do meu pai
+
+211
+00:12:31,607 --> 00:12:35,006
+por sintomas similares? Algo
+relacionado com o câncer dele?
+
+212
+00:12:35,007 --> 00:12:37,024
+- Você acha que tem câncer?
+- Não, não.
+
+213
+00:12:37,025 --> 00:12:40,552
+Acho que é um nervo comprimido,
+mas quero excluir isso, se der.
+
+214
+00:12:40,553 --> 00:12:42,855
+Acredite, não tenho nada
+além de tempo.
+
+215
+00:12:42,856 --> 00:12:44,485
+Matty me fez de babá
+desses...
+
+216
+00:12:46,226 --> 00:12:48,561
+Boze? Está aí?
+
+217
+00:12:48,962 --> 00:12:52,064
+- Sim, eu procuro.
+- Está bem, obrigado.
+
+218
+00:13:02,609 --> 00:13:04,042
+Agora você me vê.
+
+219
+00:13:04,043 --> 00:13:06,645
+Agora não me vê.
+Agora me vê.
+
+220
+00:13:06,646 --> 00:13:08,080
+Agora não me vê.
+
+221
+00:13:08,081 --> 00:13:09,781
+Agora me vê.
+
+222
+00:13:10,350 --> 00:13:13,585
+Quanto tempo mais vamos esperar
+esse cara contatar o fornecedor?
+
+223
+00:13:13,586 --> 00:13:15,787
+Tudo isso é porque Matty
+se sente culpada
+
+224
+00:13:15,788 --> 00:13:17,456
+por não nos impedir
+de ser dosados
+
+225
+00:13:17,457 --> 00:13:20,217
+- com nano-rastreadores?
+- Matty não deixaria as emoções
+
+226
+00:13:20,218 --> 00:13:23,228
+ditarem a condução da Fênix,
+entendeu?
+
+227
+00:13:23,229 --> 00:13:25,761
+Só que esses minirrobôs
+estão no meu corpo,
+
+228
+00:13:25,762 --> 00:13:27,666
+e estou menos maníaca
+do que ela.
+
+229
+00:13:27,667 --> 00:13:30,302
+Eu devia estar na Itália,
+com Mac e Desi,
+
+230
+00:13:30,303 --> 00:13:33,738
+ou usando minhas habilidades
+com literalmente qualquer coisa.
+
+231
+00:13:34,440 --> 00:13:35,875
+Na verdade,
+
+232
+00:13:35,876 --> 00:13:39,340
+tem algo que você pode fazer,
+para me ajudar.
+
+233
+00:13:40,674 --> 00:13:44,487
+Esse olhar no seu rosto
+é intrigante e assustador.
+
+234
+00:13:45,452 --> 00:13:48,274
+Sim, quando estava no MI6,
+aprendi a arte
+
+235
+00:13:48,275 --> 00:13:50,889
+de influenciar emoções
+e manipular comportamentos.
+
+236
+00:13:50,890 --> 00:13:54,693
+Infelizmente, até profissionais
+escorregam e,
+
+237
+00:13:54,694 --> 00:13:57,465
+em um momento de fraqueza,
+eu posso ter
+
+238
+00:13:57,466 --> 00:14:00,149
+enviado à Sofia
+algumas mensagens a mais,
+
+239
+00:14:00,150 --> 00:14:02,133
+antes de esperar
+ela responder.
+
+240
+00:14:03,602 --> 00:14:06,922
+Você quer que eu hackeie
+a empresa de telecomunicações,
+
+241
+00:14:06,923 --> 00:14:08,873
+delete as mensagens
+antes que ela acorde
+
+242
+00:14:08,874 --> 00:14:11,374
+para não parecer um perdedor
+ansioso e desesperado?
+
+243
+00:14:11,375 --> 00:14:14,613
+Bem, dolorosamente
+desnecessário, mas sim.
+
+244
+00:14:15,915 --> 00:14:17,315
+Bem...
+
+245
+00:14:17,783 --> 00:14:19,283
+Tem sorte
+que estou entediada.
+
+246
+00:14:20,186 --> 00:14:21,586
+Certo.
+
+247
+00:14:28,150 --> 00:14:31,052
+- Está bem. Isso deve resolver.
+- Certo.
+
+248
+00:14:56,589 --> 00:15:00,792
+Era um Jipe Wrangler Hunter
+verde metálico, de 1994.
+
+249
+00:15:00,793 --> 00:15:02,193
+Qual era o seu?
+
+250
+00:15:03,329 --> 00:15:07,178
+Era um Volkswagen Cabrio
+velho.
+
+251
+00:15:08,179 --> 00:15:11,399
+Mas o carro era uma Ferrari,
+comparada a esse calhambeque.
+
+252
+00:15:11,400 --> 00:15:13,201
+O velocímetro
+continua pulando,
+
+253
+00:15:13,202 --> 00:15:15,352
+e parece que há pedras
+na coluna de direção.
+
+254
+00:15:19,879 --> 00:15:21,556
+Acho que ele te ouviu.
+
+255
+00:15:22,048 --> 00:15:23,448
+Meu Deus.
+
+256
+00:15:25,617 --> 00:15:28,587
+Seja legal. Precisamos dele
+inteiro por mais seis horas,
+
+257
+00:15:28,588 --> 00:15:30,856
+para voltarmos
+ao nosso lar doce lar.
+
+258
+00:15:31,257 --> 00:15:33,258
+Você quer dizer
+seu lar doce lar.
+
+259
+00:15:35,128 --> 00:15:36,528
+O que quer dizer?
+
+260
+00:15:38,464 --> 00:15:42,574
+Desde que me mudei,
+tudo o que fazemos é brigar.
+
+261
+00:15:42,969 --> 00:15:45,403
+Admito que estamos fora
+de sincronia.
+
+262
+00:15:46,119 --> 00:15:49,278
+Brigamos mais morando junto
+do que quando namoramos.
+
+263
+00:15:49,279 --> 00:15:53,481
+Não posso ser a única a achar
+que morarmos junto foi um erro.
+
+264
+00:15:54,967 --> 00:15:56,372
+Desi...
+
+265
+00:15:56,373 --> 00:15:57,878
+Sabe, esqueça que eu falei.
+
+266
+00:15:57,879 --> 00:15:59,312
+- Desculpe.
+- Não. Não, veja.
+
+267
+00:15:59,995 --> 00:16:02,631
+PROCURA-SE:
+1967 BIZZARRINI - 5300 GT STRADA
+
+268
+00:16:03,415 --> 00:16:05,556
+- Ligue para o Taylor.
+- Sim. Pode deixar.
+
+269
+00:16:10,762 --> 00:16:13,358
+Minha bateria acabou.
+Pode ligar para ele?
+
+270
+00:16:13,953 --> 00:16:15,863
+- O quê?
+- Sim.
+
+271
+00:16:19,814 --> 00:16:21,416
+Temo que temos
+más notícias, Mac.
+
+272
+00:16:21,417 --> 00:16:23,178
+Quando a polícia
+foi até a fazenda
+
+273
+00:16:23,179 --> 00:16:26,049
+verificar a venda de carros
+acharam Carla morta.
+
+274
+00:16:26,593 --> 00:16:28,706
+<i>Dois tiros no peito.</i>
+
+275
+00:16:28,707 --> 00:16:31,429
+Aqueles homens voltaram
+e a mataram, mas por quê?
+
+276
+00:16:31,430 --> 00:16:34,594
+Eu não sei.
+Mas a polícia italiana...
+
+277
+00:16:34,595 --> 00:16:36,100
+<i>Estão procurando por vocês.</i>
+
+278
+00:16:36,357 --> 00:16:37,971
+- Acham que fomos nós.
+- Ótimo.
+
+279
+00:16:37,972 --> 00:16:41,030
+Sim, fiquem fora das rodovias
+principais, fora de vista,
+
+280
+00:16:41,031 --> 00:16:44,708
+e farei Matty falar
+com a polícia.
+
+281
+00:16:48,064 --> 00:16:50,404
+Taylor, ligaremos depois.
+Problemas no carro.
+
+282
+00:16:50,405 --> 00:16:52,021
+Levante o capô.
+
+283
+00:16:57,252 --> 00:16:59,938
+Droga. A correia
+do alternador arrebentou.
+
+284
+00:16:59,939 --> 00:17:01,784
+Devia estar muito corroída.
+
+285
+00:17:01,785 --> 00:17:04,919
+- Pode consertar?
+- Sei como consertar.
+
+286
+00:17:05,772 --> 00:17:07,172
+O que isso quer dizer?
+
+287
+00:17:09,855 --> 00:17:12,578
+- Minhas mãos não funcionam.
+- O quê?
+
+288
+00:17:12,899 --> 00:17:15,052
+Agora estou dizendo
+para fechar o punho,
+
+289
+00:17:15,053 --> 00:17:16,586
+e elas não estão ouvindo.
+
+290
+00:17:17,594 --> 00:17:19,886
+Está com um problema médico
+e não me contou?
+
+291
+00:17:19,887 --> 00:17:21,962
+Sim, mas é uma coisa boa,
+na verdade,
+
+292
+00:17:21,963 --> 00:17:24,072
+porque percebi
+que tenho perdido destreza
+
+293
+00:17:24,073 --> 00:17:26,304
+nos últimos dois dias.
+Por isso meu betume...
+
+294
+00:17:26,305 --> 00:17:28,627
+Meu Deus.
+Chega desse betume.
+
+295
+00:17:29,446 --> 00:17:31,099
+Colocou nossas vidas
+em perigo,
+
+296
+00:17:31,100 --> 00:17:32,677
+e você mentiu para mim.
+
+297
+00:17:34,458 --> 00:17:36,013
+Só me diga
+como fazer funcionar.
+
+298
+00:17:36,014 --> 00:17:37,541
+Tire meu cinto.
+
+299
+00:17:38,345 --> 00:17:40,493
+Sim, e então,
+pegue meu canivete.
+
+300
+00:17:40,494 --> 00:17:42,858
+Sim. Vai cortar
+a fivela do cinto.
+
+301
+00:17:42,859 --> 00:17:45,026
+Usará o calor do motor
+para unir em círculo.
+
+302
+00:17:45,027 --> 00:17:47,022
+Pegue a chave inglesa
+do canivete
+
+303
+00:17:47,023 --> 00:17:48,952
+e solte aquelas coisas.
+
+304
+00:17:48,953 --> 00:17:50,969
+Enrole o círculo
+em volta disso.
+
+305
+00:17:50,970 --> 00:17:52,870
+- Certo, assim?
+- Acho que sim.
+
+306
+00:17:52,871 --> 00:17:54,972
+- Acha?
+- Tem que sentir a tensão certa.
+
+307
+00:17:54,973 --> 00:17:57,223
+Estou acostumado
+a eu sentir isso.
+
+308
+00:17:57,869 --> 00:17:59,390
+Quer saber?
+É bom o bastante.
+
+309
+00:17:59,391 --> 00:18:01,313
+Mas a bateria
+deve estar morta,
+
+310
+00:18:01,314 --> 00:18:03,435
+terá que me ajudar
+a empurrar para pegar.
+
+311
+00:18:08,713 --> 00:18:10,585
+Certo. Agora.
+
+312
+00:18:15,073 --> 00:18:17,438
+Porta! Sem mãos. A porta!
+
+313
+00:18:17,439 --> 00:18:18,870
+Obrigado.
+
+314
+00:18:33,084 --> 00:18:36,319
+Os nano-rastreadores causaram
+problemas nas mãos do Mac.
+
+315
+00:18:36,740 --> 00:18:38,179
+O quê?
+
+316
+00:18:38,180 --> 00:18:40,516
+Um dos ratos está
+com problema na pata.
+
+317
+00:18:40,517 --> 00:18:43,026
+E vocês só tem em comum
+<i>os nano-rastreadores.</i>
+
+318
+00:18:43,027 --> 00:18:46,250
+<i>Como pode? Garantimos
+deles estarem inertes</i>
+
+319
+00:18:46,251 --> 00:18:48,647
+<i>quando pegamos a sequência
+do Silas.</i>
+
+320
+00:18:48,648 --> 00:18:50,559
+Por isso que eu trouxe
+a dra. Sandria,
+
+321
+00:18:50,560 --> 00:18:52,022
+melhor neurologista da CIA.
+
+322
+00:18:52,023 --> 00:18:53,751
+Os nano-rastreadores
+estão inertes,
+
+323
+00:18:53,752 --> 00:18:55,770
+mas são partículas estranhas
+no sangue,
+
+324
+00:18:55,771 --> 00:18:57,970
+dando um efeito colateral
+inesperado.
+
+325
+00:18:57,971 --> 00:18:59,403
+O que significa,
+exatamente?
+
+326
+00:18:59,404 --> 00:19:01,505
+Basicamente os rastreadores,
+estão formando
+
+327
+00:19:01,506 --> 00:19:03,765
+uma placa no cérebro dele
+tipo colesterol.
+
+328
+00:19:03,766 --> 00:19:06,572
+Restringindo o fluxo de sangue
+para essa parte do cérebro
+
+329
+00:19:06,573 --> 00:19:08,002
+que controla as mãos.
+
+330
+00:19:08,003 --> 00:19:09,768
+A mente dele
+está funcionando bem,
+
+331
+00:19:09,769 --> 00:19:11,411
+mas as mãos não recebem
+o sinal.
+
+332
+00:19:11,412 --> 00:19:12,864
+Parecido com um derrame.
+
+333
+00:19:16,886 --> 00:19:19,763
+- Isso vai acontecer comigo?
+- Cada corpo reage diferente.
+
+334
+00:19:19,764 --> 00:19:22,133
+Não sabemos como o seu
+vai reagir, se é que vai.
+
+335
+00:19:22,361 --> 00:19:25,331
+Descobrimos que os efeitos
+pioram com aumento do estresse.
+
+336
+00:19:25,332 --> 00:19:27,534
+O bom é que o problema
+parece ser localizado
+
+337
+00:19:27,535 --> 00:19:29,231
+nas patas dianteiras,
+mãos...
+
+338
+00:19:29,232 --> 00:19:30,633
+e não deve se espalhar mais.
+
+339
+00:19:30,634 --> 00:19:32,574
+Provavelmente. Talvez.
+
+340
+00:19:33,581 --> 00:19:34,995
+Isso pode ser permanente?
+
+341
+00:19:35,206 --> 00:19:36,764
+Ainda tem muito
+que não sabemos.
+
+342
+00:19:37,233 --> 00:19:39,737
+Mas prometo conseguir
+todas as respostas possíveis.
+
+343
+00:19:41,377 --> 00:19:42,831
+Taylor, tem um minuto?
+
+344
+00:19:42,832 --> 00:19:45,777
+Mac e Desi precisam de ajuda.
+Saímos daqui dez minutos.
+
+345
+00:19:46,617 --> 00:19:49,556
+Quem vai vigiar o corretor?
+E se ele fizer algo?
+
+346
+00:19:49,557 --> 00:19:52,311
+Pensei que ia aproveitar
+e se livrar do "Projeto Chato".
+
+347
+00:19:52,884 --> 00:19:55,313
+"Projeto Chato"
+virou urgente. Matty está certa.
+
+348
+00:19:55,314 --> 00:19:58,116
+Precisamos descobrir quem
+está por trás disso e o porquê.
+
+349
+00:19:58,117 --> 00:19:59,521
+Talvez eu tenha uma solução.
+
+350
+00:20:01,048 --> 00:20:03,423
+Queria fazer isso para vocês
+em uma hora melhor,
+
+351
+00:20:03,424 --> 00:20:06,098
+mas tenho treinado
+essas garotas.
+
+352
+00:20:06,099 --> 00:20:07,533
+Agora, escute-me.
+
+353
+00:20:07,877 --> 00:20:11,790
+Elas têm ficha criminal,
+mas são hackers habilidosas.
+
+354
+00:20:11,791 --> 00:20:13,434
+Poderíamos terceirizar
+o código
+
+355
+00:20:13,435 --> 00:20:15,281
+e criar um programa
+para vigiá-lo
+
+356
+00:20:15,282 --> 00:20:17,010
+com análise de teclas
+em tempo real
+
+357
+00:20:17,252 --> 00:20:19,457
+- quando chegarmos na Itália.
+- Está propondo
+
+358
+00:20:19,458 --> 00:20:21,347
+envolvermos civis
+em missões secretas?
+
+359
+00:20:21,668 --> 00:20:24,136
+Bem, sim.
+Mas podemos dividir o código
+
+360
+00:20:24,137 --> 00:20:26,270
+em tarefas para não verem
+o programa todo.
+
+361
+00:20:26,271 --> 00:20:29,074
+Não podemos confiar
+esse tipo de assunto
+
+362
+00:20:29,075 --> 00:20:32,545
+a várias delinquentes
+com fichas criminais.
+
+363
+00:20:33,638 --> 00:20:36,173
+Quer dizer garotas
+delinquentes com ficha como eu.
+
+364
+00:20:37,193 --> 00:20:38,600
+Ouça.
+
+365
+00:20:39,884 --> 00:20:42,201
+Não me importo que tenha
+projetos paralelos,
+
+366
+00:20:42,489 --> 00:20:44,103
+mas não deveria
+misturar pessoal
+
+367
+00:20:44,104 --> 00:20:45,605
+com assuntos oficiais
+da Fênix.
+
+368
+00:20:45,606 --> 00:20:47,008
+Mas tudo bem para meu chefe
+
+369
+00:20:47,009 --> 00:20:49,019
+que eu hackeie
+as mensagens picantes dele
+
+370
+00:20:49,020 --> 00:20:50,443
+em horário de trabalho.
+
+371
+00:20:51,022 --> 00:20:52,445
+Entendi.
+
+372
+00:20:52,712 --> 00:20:54,985
+Entendo que pode estar
+se sentindo um pouco...
+
+373
+00:20:55,934 --> 00:20:57,340
+assustada
+
+374
+00:20:57,484 --> 00:21:00,483
+e não está pensando direito,
+mas a resposta é não.
+
+375
+00:21:05,756 --> 00:21:08,161
+<i>Agradeço o trabalho,
+mas garanto que minha equipe</i>
+
+376
+00:21:08,162 --> 00:21:09,659
+<i>pode assumir daqui.</i>
+
+377
+00:21:09,985 --> 00:21:12,528
+E eu garanto
+que "la Polizia Stradale"
+
+378
+00:21:12,529 --> 00:21:13,943
+pode cuidar disso.
+
+379
+00:21:14,441 --> 00:21:17,804
+<i>Meu pessoal não está envolvido
+na morte de Carla Giordano,</i>
+
+380
+00:21:17,805 --> 00:21:19,957
+<i>então preciso que cancele
+sua busca.</i>
+
+381
+00:21:19,958 --> 00:21:22,121
+E quem é você
+para me dar ordens?
+
+382
+00:21:22,356 --> 00:21:25,478
+- Não posso dizer.
+- <i>Então não posso me importar.</i>
+
+383
+00:21:29,236 --> 00:21:31,524
+<i>Desculpe, mas foi
+uma ligação de cortesia.</i>
+
+384
+00:21:31,525 --> 00:21:33,184
+<i>E em dez segundos,</i>
+
+385
+00:21:33,185 --> 00:21:35,655
+<i>receberá uma ligação
+do seu capitão</i>
+
+386
+00:21:35,656 --> 00:21:38,121
+ordenando para terminar
+seu negócio
+
+387
+00:21:38,122 --> 00:21:40,608
+e fazer exatamente
+o que eu disser.
+
+388
+00:21:45,032 --> 00:21:46,432
+Número errado.
+
+389
+00:21:46,884 --> 00:21:50,815
+Polícia não chegou na fazenda
+quando o carro estava lá,
+
+390
+00:21:50,816 --> 00:21:54,106
+então como conseguiu
+uma descrição tão rápido?
+
+391
+00:21:54,339 --> 00:21:56,208
+<i>Meus homens têm
+várias fontes.</i>
+
+392
+00:21:57,411 --> 00:21:59,412
+A menos
+que seja o outro comprador.
+
+393
+00:21:59,622 --> 00:22:01,514
+Você está atrás do carro.
+
+394
+00:22:01,875 --> 00:22:04,216
+Você matou Carla Giordano.
+
+395
+00:22:04,966 --> 00:22:07,987
+<i>Está interferindo
+numa investigação internacional.</i>
+
+396
+00:22:07,988 --> 00:22:09,855
+<i>Deve deixar
+as autoridades compet...</i>
+
+397
+00:22:09,856 --> 00:22:13,706
+Eu sou a autoridade aqui!
+E quero Scuro morto!
+
+398
+00:22:14,294 --> 00:22:16,195
+Então sabe
+que ele ainda está vivo.
+
+399
+00:22:16,196 --> 00:22:19,498
+Atirei no Bizzarrini
+15 anos atrás
+
+400
+00:22:19,499 --> 00:22:23,632
+e errei o assassino desgraçado
+por um fio de cabelo.
+
+401
+00:22:23,963 --> 00:22:25,621
+Não errarei de novo.
+
+402
+00:22:27,975 --> 00:22:31,660
+Quero barreiras
+em um raio de 100km daqui.
+
+403
+00:22:31,661 --> 00:22:33,061
+<i>Entendido.</i>
+
+404
+00:22:41,121 --> 00:22:42,521
+Certo.
+
+405
+00:22:44,510 --> 00:22:47,630
+Aparentemente, o chefe é
+um matador de policiais machista
+
+406
+00:22:47,631 --> 00:22:49,582
+e têm várias barreiras
+nos cercando.
+
+407
+00:22:49,583 --> 00:22:51,983
+E, meu Deus,
+faça essa música parar!
+
+408
+00:22:51,984 --> 00:22:54,684
+Só tenho até esse lugar abrir
+para pensar um plano?
+
+409
+00:22:54,685 --> 00:22:56,535
+Não consigo fazer isso.
+É impossível.
+
+410
+00:23:01,886 --> 00:23:03,686
+Vai ficar tudo bem.
+
+411
+00:23:04,360 --> 00:23:05,760
+Certo?
+
+412
+00:23:08,802 --> 00:23:11,804
+Primeiro, temos que sair daqui,
+certo?
+
+413
+00:23:11,805 --> 00:23:14,840
+Serei suas mãos.
+Podemos fazer isso.
+
+414
+00:23:15,609 --> 00:23:18,577
+<i>Na química, a mudança
+de estado físico acontece</i>
+
+415
+00:23:18,578 --> 00:23:20,405
+<i>pela mudança de temperatura.
+Então,</i>
+
+416
+00:23:20,406 --> 00:23:24,407
+<i>se aquecermos um pedaço de vinil
+como um outdoor,</i>
+
+417
+00:23:24,408 --> 00:23:26,015
+<i>poderemos
+colocá-lo no carro,</i>
+
+418
+00:23:26,016 --> 00:23:28,687
+<i>mudar o estado físico dele
+e voilà.</i>
+
+419
+00:23:28,688 --> 00:23:30,623
+<i>Escondido a vista de todos.</i>
+
+420
+00:23:30,624 --> 00:23:32,024
+Mac!
+
+421
+00:23:32,792 --> 00:23:34,860
+Isso só funciona
+se me contar o que pensa.
+
+422
+00:23:34,861 --> 00:23:37,830
+Desculpe. Preciso
+que me ajude a cortar o <i>outdoor</i>.
+
+423
+00:23:37,831 --> 00:23:39,231
+Certo.
+
+424
+00:23:46,272 --> 00:23:47,672
+Não.
+
+425
+00:23:54,648 --> 00:23:57,316
+Devia ter te falado
+das minhas mãos. Desculpa.
+
+426
+00:23:57,918 --> 00:23:59,787
+Não quero que você saia.
+
+427
+00:24:00,120 --> 00:24:02,216
+Então por que
+não demonstra isso?
+
+428
+00:24:02,217 --> 00:24:04,206
+Estava tão obcecado
+com sua massa idiota
+
+429
+00:24:04,207 --> 00:24:06,390
+que nem me olhou direito
+quando me mudei.
+
+430
+00:24:07,608 --> 00:24:09,835
+Sempre fui o cara
+que constrói as coisas.
+
+431
+00:24:10,739 --> 00:24:13,465
+É meu lance.
+É como ajudo as pessoas.
+
+432
+00:24:14,583 --> 00:24:16,869
+Não pode ser
+sempre o Superman.
+
+433
+00:24:17,571 --> 00:24:18,971
+Eu sei, mas...
+
+434
+00:24:19,575 --> 00:24:22,180
+tantas pessoas morreram
+para me salvar.
+
+435
+00:24:22,977 --> 00:24:25,216
+Meu pai, minha tia,
+
+436
+00:24:25,745 --> 00:24:27,452
+o filho do Mason.
+
+437
+00:24:27,747 --> 00:24:31,016
+Se não posso salvar os outros,
+quem eu sou?
+
+438
+00:24:32,385 --> 00:24:34,020
+Você é meu parceiro.
+
+439
+00:24:37,682 --> 00:24:40,526
+Acha que te amo
+pelo que é capaz de fazer?
+
+440
+00:24:41,561 --> 00:24:43,731
+Te amo pelo que você é.
+
+441
+00:24:46,133 --> 00:24:47,533
+Você acha que sim.
+
+442
+00:24:48,328 --> 00:24:49,828
+Mas se não for?
+
+443
+00:24:53,740 --> 00:24:55,140
+Ouça.
+
+444
+00:24:56,176 --> 00:24:57,876
+Esse estilo de vida,
+
+445
+00:24:58,211 --> 00:24:59,611
+o que fazemos,
+
+446
+00:25:00,724 --> 00:25:02,786
+tudo têm
+um prazo de validade.
+
+447
+00:25:03,216 --> 00:25:05,017
+E quando pararmos
+de salvar o mundo,
+
+448
+00:25:05,018 --> 00:25:06,819
+quando estivermos velhos
+e grisalhos,
+
+449
+00:25:06,820 --> 00:25:09,755
+tem que acreditar
+que ainda estarei lá.
+
+450
+00:25:10,557 --> 00:25:12,057
+Pode contar comigo.
+
+451
+00:25:16,245 --> 00:25:17,961
+Certo,
+isso ainda está esquentando.
+
+452
+00:25:17,962 --> 00:25:20,796
+Essa é a parte mais importante.
+Especialmente aqui.
+
+453
+00:25:20,797 --> 00:25:22,201
+Passe pelo para-choque aqui.
+
+454
+00:25:22,202 --> 00:25:24,670
+- Quê? Embaixo do quê?
+- Puxe aqui. Embaixo do...
+
+455
+00:25:24,671 --> 00:25:26,693
+Se for... Desculpe.
+Por cima disso agora!
+
+456
+00:25:26,694 --> 00:25:28,422
+- Para de gritar!
+- Desculpa.
+
+457
+00:25:28,423 --> 00:25:30,035
+Depressa ou o vinil
+vai esfriar.
+
+458
+00:25:30,036 --> 00:25:31,641
+Isso não pode
+acontecer ou vai...
+
+459
+00:25:33,397 --> 00:25:34,797
+rasgar.
+
+460
+00:25:37,003 --> 00:25:38,403
+Vou precisar de uma pausa.
+
+461
+00:25:46,114 --> 00:25:48,303
+Des?
+Acho que encontrei algo.
+
+462
+00:25:49,405 --> 00:25:51,315
+Sim,
+essas são minhas iniciais.
+
+463
+00:25:52,315 --> 00:25:54,014
+Franco Scuro era meu pai.
+
+464
+00:25:55,094 --> 00:25:56,505
+Não querem comer?
+
+465
+00:25:57,099 --> 00:25:59,812
+Não, na verdade,
+estamos com pressa.
+
+466
+00:25:59,813 --> 00:26:02,958
+Por favor, não é a primeira vez
+que sou interrogada sobre ele.
+
+467
+00:26:02,959 --> 00:26:04,512
+Deixe-me tentar ajudar.
+
+468
+00:26:04,513 --> 00:26:06,613
+Meu pai foi embora
+quando eu tinha 12 anos.
+
+469
+00:26:06,614 --> 00:26:08,897
+Agora sei que ele
+era um homem horrível.
+
+470
+00:26:08,898 --> 00:26:11,815
+Não soube dele depois disso,
+e nem gostaria.
+
+471
+00:26:11,816 --> 00:26:14,808
+Temos motivos para acreditar
+que seu pai pode estar vivo.
+
+472
+00:26:15,605 --> 00:26:17,051
+Impossível.
+
+473
+00:26:17,052 --> 00:26:19,306
+Ele preferia morrer
+a deixar aquele carro.
+
+474
+00:26:19,307 --> 00:26:21,615
+Você conhece esse cara?
+
+475
+00:26:22,099 --> 00:26:25,910
+Ele é o chefe da polícia,
+Marco Vecchi.
+
+476
+00:26:26,915 --> 00:26:29,414
+Eu nunca ouvi falar dele.
+Desculpe.
+
+477
+00:26:29,901 --> 00:26:32,505
+Bem, Simona,
+você foi muito gentil...
+
+478
+00:26:33,199 --> 00:26:36,513
+mas temos
+um assunto urgente a tratar.
+
+479
+00:26:36,514 --> 00:26:37,914
+Preciso encontrar um colega.
+
+480
+00:26:39,210 --> 00:26:40,610
+É difícil.
+
+481
+00:26:42,006 --> 00:26:43,582
+Crescer sem seu pai.
+
+482
+00:26:46,905 --> 00:26:48,923
+A rejeição do meu pai
+me magoou muito.
+
+483
+00:26:52,105 --> 00:26:54,503
+Ninguém pede para ser filho
+de um homem ruim.
+
+484
+00:26:58,504 --> 00:27:00,803
+Eu o amei tanto
+quando criança.
+
+485
+00:27:02,213 --> 00:27:03,886
+A única forma
+de ficar perto dele
+
+486
+00:27:03,887 --> 00:27:06,337
+era sentar na garagem
+enquanto ele mexia no carro,
+
+487
+00:27:06,338 --> 00:27:08,271
+e ouvi-lo falar sem parar
+
+488
+00:27:08,272 --> 00:27:10,186
+sobre a época
+em que ganhou a corrida.
+
+489
+00:27:10,896 --> 00:27:12,591
+Tive ciúme daquele carro.
+
+490
+00:27:16,509 --> 00:27:20,152
+Acho que ao gravar
+minhas iniciais no Bizzarrini,
+
+491
+00:27:20,153 --> 00:27:22,393
+eu tentava abrir meu caminho
+no coração dele.
+
+492
+00:27:24,797 --> 00:27:26,347
+Estou surpresa
+que tenham visto.
+
+493
+00:27:28,100 --> 00:27:29,500
+Ele nunca notou.
+
+494
+00:27:47,892 --> 00:27:49,592
+Estamos quase
+no posto de controle.
+
+495
+00:27:49,593 --> 00:27:51,715
+Conseguiram algo
+que poderia nos ajudar?
+
+496
+00:27:51,716 --> 00:27:53,467
+Infelizmente, não.
+
+497
+00:27:53,468 --> 00:27:55,118
+Demorou mais
+do que o esperado
+
+498
+00:27:55,119 --> 00:27:57,507
+porque Riley estava falando
+sobre <i>formaggio.</i>
+
+499
+00:27:57,508 --> 00:28:00,329
+Desculpe-me por me importar
+que o pai da pobre menina
+
+500
+00:28:00,330 --> 00:28:02,897
+tinha mais histórias de corridas
+do que de dormir.
+
+501
+00:28:02,898 --> 00:28:05,477
+Espere, esse carro
+esteva em uma corrida?
+
+502
+00:28:05,478 --> 00:28:08,508
+Des, lembra que você
+reclamou da direção?
+
+503
+00:28:08,509 --> 00:28:09,933
+Entre outras coisas, sim.
+
+504
+00:28:09,934 --> 00:28:12,225
+Você pode pegar
+meu canivete suíço?
+
+505
+00:28:12,226 --> 00:28:15,808
+Está naquele bolso e,
+veja se há um fio que possa
+
+506
+00:28:15,809 --> 00:28:17,659
+ter escapado
+para a coluna de direção.
+
+507
+00:28:19,802 --> 00:28:21,302
+Sim. O que é?
+
+508
+00:28:21,303 --> 00:28:22,827
+É um carimbo oficial
+de chumbo.
+
+509
+00:28:22,828 --> 00:28:24,714
+Carros de corrida em 1960
+tinham isso.
+
+510
+00:28:24,715 --> 00:28:28,018
+La Punzonatura.
+Que tinha a data e local
+
+511
+00:28:28,019 --> 00:28:31,409
+da corrida nele,
+neste caso... San Marino.
+
+512
+00:28:32,692 --> 00:28:36,193
+- San Marino, San Marino...
+- Mac?
+
+513
+00:28:39,312 --> 00:28:40,972
+Pessoal, tenho que ir...
+
+514
+00:28:40,973 --> 00:28:43,302
+O Sargento Xarope
+está no posto de controle.
+
+515
+00:28:43,303 --> 00:28:46,110
+Se não reconhecer o carro,
+com certeza nos reconhecerá.
+
+516
+00:28:49,393 --> 00:28:50,853
+Estamos presos.
+
+517
+00:28:50,854 --> 00:28:52,403
+Precisaremos de um disfarce.
+
+518
+00:28:52,404 --> 00:28:54,993
+Pode chegar
+naquele buraco bem ali?
+
+519
+00:28:54,994 --> 00:28:57,674
+- O quê? Por quê?
+- Não dá tempo de explicar.
+
+520
+00:28:57,675 --> 00:29:00,276
+- Será minhas mãos, certo?
+- Serei.
+
+521
+00:29:00,715 --> 00:29:02,180
+Certo, então...
+
+522
+00:29:02,181 --> 00:29:04,032
+Precisa procurar
+pela graxa.
+
+523
+00:29:04,033 --> 00:29:06,805
+Está no eixo de transmissão.
+Vai saber pela viscosidade.
+
+524
+00:29:06,806 --> 00:29:08,567
+Você pode dizer apenas
+"gorduroso".
+
+525
+00:29:10,702 --> 00:29:12,527
+Agora, passe
+pelo meu cabelo.
+
+526
+00:29:16,622 --> 00:29:21,206
+Certo, agora os óculos,
+tire as lentes deles, e então...
+
+527
+00:29:24,671 --> 00:29:28,831
+Agora, tire o canivete suíço
+e corte o banco de trás.
+
+528
+00:29:29,773 --> 00:29:32,432
+Ele procura duas pessoas,
+e uma delas é...
+
+529
+00:29:32,433 --> 00:29:33,874
+era...
+
+530
+00:29:33,875 --> 00:29:35,288
+loira.
+
+531
+00:29:38,235 --> 00:29:39,635
+Até mais.
+
+532
+00:30:04,037 --> 00:30:05,437
+Pode ir!
+
+533
+00:30:12,258 --> 00:30:14,293
+Agora, mudança de planos.
+
+534
+00:30:14,624 --> 00:30:16,861
+Sei como encontrar
+Franco Scuro.
+
+535
+00:30:16,862 --> 00:30:20,589
+Ao invés de esconder este carro,
+vamos exibi-lo.
+
+536
+00:30:26,788 --> 00:30:28,569
+Qual é o seu plano doido?
+
+537
+00:30:28,570 --> 00:30:30,272
+Graças a Riley, sabemos
+qual foi
+
+538
+00:30:30,273 --> 00:30:32,332
+o melhor momento
+da vida de Franco Scuro.
+
+539
+00:30:32,333 --> 00:30:34,139
+Foi em San Marino,
+com o Bizzarrini.
+
+540
+00:30:34,140 --> 00:30:36,258
+Até a filha dele disse
+que ele amava muito.
+
+541
+00:30:36,259 --> 00:30:38,290
+Está vendo?
+Sempre diga sim
+
+542
+00:30:38,291 --> 00:30:39,962
+- ao Formaggio.
+- Faça-me o favor.
+
+543
+00:30:39,963 --> 00:30:43,596
+San Marino também
+é uma cidade-Estado na Itália,
+
+544
+00:30:43,597 --> 00:30:45,834
+que possui governo próprio
+e polícia própria.
+
+545
+00:30:45,835 --> 00:30:48,262
+O único lugar que Scuro
+poderia ficar por 15 anos
+
+546
+00:30:48,263 --> 00:30:49,702
+- sem sair da Itália.
+- Sim.
+
+547
+00:30:49,703 --> 00:30:51,607
+Que melhor forma
+teríamos de atraí-lo,
+
+548
+00:30:51,608 --> 00:30:53,771
+se não fosse mostrando
+o amor antigo dele?
+
+549
+00:30:53,772 --> 00:30:55,611
+<i>Não, vou abortar
+esta missão.</i>
+
+550
+00:30:55,612 --> 00:30:57,324
+Vamos escutá-los, Matty.
+
+551
+00:30:57,325 --> 00:31:00,092
+<i>Eu não quero e nem vou
+manter o MacGyver</i>
+
+552
+00:31:00,093 --> 00:31:02,327
+<i>em campo quando
+ele está incapacitado.</i>
+
+553
+00:31:02,328 --> 00:31:05,471
+- Não estou incapacitado.
+- Estaremos lá para apoiá-lo.
+
+554
+00:31:05,472 --> 00:31:07,123
+<i>Mac, quero você em casa.</i>
+
+555
+00:31:07,124 --> 00:31:09,108
+Se Mac conseguir manter
+a pressão baixa,
+
+556
+00:31:09,109 --> 00:31:10,731
+os sintomas dele
+não irão piorar.
+
+557
+00:31:10,732 --> 00:31:12,135
+Matty, não ajudaria
+
+558
+00:31:12,136 --> 00:31:14,346
+se não acreditasse
+que ele conseguiria.
+
+559
+00:31:14,894 --> 00:31:17,930
+Não, tomei minha decisão.
+É isso e fim!
+
+560
+00:31:24,161 --> 00:31:26,245
+Estou com o time nessa,
+Matty.
+
+561
+00:31:52,336 --> 00:31:53,766
+Mac!
+
+562
+00:31:56,585 --> 00:31:59,410
+- Está tudo bem?
+- Sim, exceto pelas mãos.
+
+563
+00:31:59,411 --> 00:32:01,681
+- Como tem passado?
+- Até agora tudo bem.
+
+564
+00:32:01,998 --> 00:32:04,635
+- Avise caso haja uma 3ª orelha.
+- Pode deixar.
+
+565
+00:32:04,636 --> 00:32:06,060
+Buonasera.
+
+566
+00:32:06,061 --> 00:32:08,486
+Alguém quer ajudar
+a montar uma mostra de carros?
+
+567
+00:32:11,099 --> 00:32:13,117
+É um Bizzarrini.
+
+568
+00:32:13,543 --> 00:32:16,246
+Vamos restaurar o Bizzarrini
+para ficar perfeito,
+
+569
+00:32:16,247 --> 00:32:18,672
+e então vamos anunciar
+como a estrela do show
+
+570
+00:32:18,673 --> 00:32:20,707
+que faremos em San Marino.
+
+571
+00:32:20,708 --> 00:32:22,687
+Riley irá criar
+o Buzz online.
+
+572
+00:32:22,688 --> 00:32:24,310
+Será ótimo.
+
+573
+00:32:25,644 --> 00:32:28,283
+Desi e Taylor irão espalhar
+a mensagem pelas ruas.
+
+574
+00:32:43,056 --> 00:32:44,538
+Não tem discussão.
+
+575
+00:32:44,539 --> 00:32:47,833
+Aquele Bizzarrini
+passou tão rápido...
+
+576
+00:32:48,633 --> 00:32:50,932
+que derreteu meu gelato.
+
+577
+00:32:51,535 --> 00:32:53,429
+Eu tinha acabado de pegar
+um Espresso,
+
+578
+00:32:53,430 --> 00:32:55,430
+e o Bizzarrini passou...
+
+579
+00:32:55,949 --> 00:32:57,712
+virou um café gelado.
+
+580
+00:33:12,899 --> 00:33:16,597
+- Eles deram esse tacômetro.
+- Perfeito.
+
+581
+00:33:16,598 --> 00:33:18,466
+Felizmente deram
+sem perguntas.
+
+582
+00:33:18,467 --> 00:33:20,184
+Vou fazer
+um medidor de pressão.
+
+583
+00:33:20,185 --> 00:33:22,634
+Bozer disse que se eu manter
+a pressão baixa,
+
+584
+00:33:22,635 --> 00:33:24,092
+meus sintomas
+não irão piorar.
+
+585
+00:33:24,093 --> 00:33:27,212
+Há pacientes que melhoram
+quando podem ver como estão.
+
+586
+00:33:27,433 --> 00:33:29,407
+Acho que estou procurando
+por algo,
+
+587
+00:33:29,408 --> 00:33:31,786
+qualquer coisa,
+que possa controlar agora.
+
+588
+00:33:32,087 --> 00:33:33,505
+Como posso ajudar?
+
+589
+00:33:33,506 --> 00:33:36,119
+Pressão sanguínea pode ser
+estimada com um oxímetro,
+
+590
+00:33:36,120 --> 00:33:38,805
+então podemos medir isso
+usando o LED infravermelho
+
+591
+00:33:38,806 --> 00:33:41,467
+dentro do controle de TV,
+e estou fazendo o que odeia
+
+592
+00:33:41,468 --> 00:33:43,672
+quando eu dou
+"Informação demais", não estou?
+
+593
+00:33:43,673 --> 00:33:45,534
+Está usando aspas
+no que digo?
+
+594
+00:33:45,535 --> 00:33:47,954
+Pegue meu telefone
+e quebre de uma vez.
+
+595
+00:33:47,955 --> 00:33:49,445
+Às suas ordens.
+
+596
+00:33:50,867 --> 00:33:53,501
+Certo, vê essa,
+coisa quadrada grande
+
+597
+00:33:53,502 --> 00:33:55,217
+no meio
+da molinha brilhante?
+
+598
+00:33:55,218 --> 00:33:57,493
+Essa é a CPU.
+Preciso tirar isso.
+
+599
+00:33:57,494 --> 00:33:59,528
+Está usando
+palavras de verdade para mim?
+
+600
+00:33:59,529 --> 00:34:01,015
+Que fofo.
+
+601
+00:34:05,081 --> 00:34:06,527
+Obrigado.
+
+602
+00:34:06,528 --> 00:34:08,715
+Sim, sabe como ano
+quebrar coisas.
+
+603
+00:34:08,716 --> 00:34:10,724
+Montar coisas
+é um pouco novo.
+
+604
+00:34:10,725 --> 00:34:13,511
+Não, digo,
+obrigado por me ajudar.
+
+605
+00:34:14,697 --> 00:34:16,591
+Obrigada por me deixar
+te ajudar.
+
+606
+00:34:17,186 --> 00:34:19,358
+Viu? Ainda amo você.
+
+607
+00:34:19,973 --> 00:34:21,563
+Talvez um pouco mais.
+
+608
+00:34:23,267 --> 00:34:25,586
+Estava com tanto medo
+do que não poderia fazer,
+
+609
+00:34:25,587 --> 00:34:28,527
+não prestei atenção
+no que poderíamos ser.
+
+610
+00:34:37,511 --> 00:34:39,158
+Você é um baita sentimental.
+
+611
+00:34:45,432 --> 00:34:47,868
+- Droga.
+- É chiclete, não é?
+
+612
+00:34:47,869 --> 00:34:49,680
+Odeio essa maldita música.
+
+613
+00:34:50,476 --> 00:34:52,368
+DIA ADORÁVEL
+PARA UMA MOSTRA DE CARROS
+
+614
+00:34:52,741 --> 00:34:55,178
+NA ITÁLIA, QUAL DIA NÃO É?
+
+615
+00:35:00,085 --> 00:35:03,001
+Sim, bem, Desi e eu
+estamos em posição.
+
+616
+00:35:04,283 --> 00:35:07,116
+E o Bizzarrini
+já chamou atenção.
+
+617
+00:35:07,117 --> 00:35:09,835
+<i>- Reporte.</i>
+- Estou na entrada,
+
+618
+00:35:09,836 --> 00:35:12,443
+aproveitando o máximo
+não poder usar as mãos.
+
+619
+00:35:12,444 --> 00:35:15,036
+<i>De olho para qualquer um
+com a idade do Scuro.</i>
+
+620
+00:35:15,037 --> 00:35:17,584
+Aguarde reconhecimento facial
+contra foto antiga.
+
+621
+00:35:17,885 --> 00:35:19,373
+Se tivermos combinação,
+<i>aviso.</i>
+
+622
+00:35:19,374 --> 00:35:21,114
+E Taylor e eu
+o prenderemos.
+
+623
+00:35:35,883 --> 00:35:38,813
+<i>Como este cara</i>
+ainda está falando do carro?
+
+624
+00:35:39,868 --> 00:35:42,521
+Não me leve a mal,
+é bonito e tal, mas se liga.
+
+625
+00:35:42,522 --> 00:35:44,856
+Bonito?
+Ela é <i>bellissima</i> de morrer.
+
+626
+00:35:44,857 --> 00:35:46,544
+Alguém mudou o discurso.
+
+627
+00:35:46,545 --> 00:35:48,746
+Bem, minha garota
+fica bem de vermelho.
+
+628
+00:35:49,585 --> 00:35:52,361
+<i>Pessoal.</i> Homem,
+60 ou 70 anos, perto do carro.
+
+629
+00:35:52,362 --> 00:35:54,761
+<i>Boné de jornaleiro.
+Riley, viu do que falo?</i>
+
+630
+00:35:57,765 --> 00:35:59,165
+Beleza, segura aí.
+
+631
+00:35:59,487 --> 00:36:02,119
+O reconhecimento é remoto
+com os servidores da Fênix,
+
+632
+00:36:02,120 --> 00:36:03,880
+mas a internet aqui
+<i>é uma droga.</i>
+
+633
+00:36:03,881 --> 00:36:05,906
+Ninguém se move
+até confirmarmos.
+
+634
+00:36:05,907 --> 00:36:07,374
+Não queremos estragar isso.
+
+635
+00:36:07,375 --> 00:36:09,824
+Ele está em cima do carro,
+Taylor.
+
+636
+00:36:10,188 --> 00:36:12,709
+Não é ele.
+Só outro louco por carro.
+
+637
+00:36:12,710 --> 00:36:14,768
+Você não sobrevive
+15 anos fugindo
+
+638
+00:36:14,769 --> 00:36:16,700
+sem ser,
+<i>extremamente cuidadoso.</i>
+
+639
+00:36:17,274 --> 00:36:19,906
+Ele poderia dar uma olhada
+de longe horas atrás.
+
+640
+00:36:19,907 --> 00:36:22,684
+Sim, ou nunca esteve
+em San Marino.
+
+641
+00:36:25,586 --> 00:36:28,030
+De onde saiu esse cara
+ao volante do nosso carro?
+
+642
+00:36:28,031 --> 00:36:30,109
+Ele tem algo na mão,
+mas não sei o que é.
+
+643
+00:36:30,110 --> 00:36:32,346
+<i>- Taylor?</i>
+- Não vejo nada daqui.
+
+644
+00:36:35,141 --> 00:36:36,801
+O isqueiro.
+
+645
+00:36:36,802 --> 00:36:38,220
+É ele. Vá, vá, vá!
+
+646
+00:36:38,221 --> 00:36:39,930
+Franco Scuro,
+você está preso!
+
+647
+00:36:39,931 --> 00:36:42,235
+Fora do carro! Devagar!
+
+648
+00:36:43,986 --> 00:36:45,386
+Eu me rendo.
+
+649
+00:36:49,742 --> 00:36:52,307
+<i>Polícia.</i> Para trás.
+
+650
+00:36:52,308 --> 00:36:54,245
+Você não tem
+nenhuma autoridade aqui
+
+651
+00:36:54,246 --> 00:36:56,678
+na República de San Marino,
+então, afaste-se.
+
+652
+00:37:00,003 --> 00:37:01,533
+Bem, isso não é bom.
+
+653
+00:37:04,111 --> 00:37:07,173
+Desi, porta. Porta? Valeu!
+
+654
+00:37:19,950 --> 00:37:21,351
+Brava, brava.
+
+655
+00:37:31,467 --> 00:37:33,241
+Certo, Franco,
+estou te vendo.
+
+656
+00:37:33,242 --> 00:37:35,421
+Esse velho sabe dirigir
+essa Bizzarrini.
+
+657
+00:37:46,549 --> 00:37:48,981
+Sabe o que é útil
+em uma perseguição?
+
+658
+00:37:48,982 --> 00:37:50,883
+- O quê?
+- As mãos.
+
+659
+00:37:56,285 --> 00:37:58,631
+Esse carro será seu caixão!
+
+660
+00:38:10,134 --> 00:38:11,699
+Droga,
+não consigo acompanhar.
+
+661
+00:38:11,700 --> 00:38:13,118
+Riley, você tem um atalho?
+
+662
+00:38:13,119 --> 00:38:16,262
+Sim, essa rua tem um desvio
+de 5Km pela lateral.
+
+663
+00:38:16,597 --> 00:38:19,250
+Se conseguirem,
+chegarão depois, e o que farão?
+
+664
+00:38:19,251 --> 00:38:20,751
+Pode deixar
+essa parte comigo.
+
+665
+00:38:24,900 --> 00:38:26,302
+Digo, nós.
+
+666
+00:39:02,919 --> 00:39:06,106
+Temos pouco tempo até o carro
+do Scuro chegar aqui.
+
+667
+00:39:08,717 --> 00:39:10,120
+Tenho uma ideia.
+
+668
+00:39:15,021 --> 00:39:16,456
+Pegue.
+
+669
+00:39:16,457 --> 00:39:20,194
+Certo, peguei isso e passe
+no gancho do kit de emergências,
+
+670
+00:39:20,195 --> 00:39:22,177
+e depois prenda o outro lado
+na roda.
+
+671
+00:39:22,178 --> 00:39:24,385
+Mas nessa velocidade,
+o carro será destruído.
+
+672
+00:39:24,386 --> 00:39:27,477
+Não se levantarmos o eixo
+traseiro e prender o cabo.
+
+673
+00:39:27,478 --> 00:39:30,191
+- E eu prenderei...
+- Quando ele atingir o cabo,
+
+674
+00:39:30,192 --> 00:39:31,853
+- faremos Top Gun.
+- Top Gun.
+
+675
+00:39:31,854 --> 00:39:34,215
+<i>O princípio desse cabo
+é bem simples.</i>
+
+676
+00:39:34,216 --> 00:39:36,787
+<i>Tem uma distância
+para parar um carro</i>
+
+677
+00:39:36,788 --> 00:39:39,417
+<i>sem destruir
+um objeto valioso.</i>
+
+678
+00:39:39,937 --> 00:39:43,286
+<i>Geralmente é utilizado
+para pegar jatos de guerra.</i>
+
+679
+00:39:43,287 --> 00:39:46,082
+<i>Mas nesse caso,
+queremos um chefe do crime</i>
+
+680
+00:39:46,083 --> 00:39:48,091
+<i>e o lindo carro
+restaurado dele.</i>
+
+681
+00:39:51,764 --> 00:39:56,074
+<i>Mas para funcionar, as partes
+precisam estar sincronizadas.</i>
+
+682
+00:39:58,161 --> 00:40:00,415
+<i>Ele colocou a armadilha
+para pegar o carro...</i>
+
+683
+00:40:03,102 --> 00:40:05,993
+<i>E ela arruma os freios
+para mexer na tensão,</i>
+
+684
+00:40:05,994 --> 00:40:08,564
+<i>que irá absorver a força
+de impacto até...</i>
+
+685
+00:40:09,136 --> 00:40:10,700
+- Pegamos ele!
+- Pegamos ele!
+
+686
+00:40:19,202 --> 00:40:20,602
+Dê isso para minha filha.
+
+687
+00:40:25,797 --> 00:40:28,409
+DE VOLTA A LOS ANGELES
+
+688
+00:40:28,792 --> 00:40:31,153
+5KG MAIS GORDOS GRAÇAS
+AO GELATO E CARBOIDRATOS
+
+689
+00:40:32,748 --> 00:40:34,687
+<i>Ouvi que acusaram
+Marco Vecchi</i>
+
+690
+00:40:34,688 --> 00:40:37,288
+<i>por assassinato e vários
+sabores de conspiração.</i>
+
+691
+00:40:37,289 --> 00:40:40,369
+É uma cereja nojenta
+para nosso sundae criminoso.
+
+692
+00:40:40,370 --> 00:40:44,067
+Riley falou do grupo
+de hackers dela?
+
+693
+00:40:44,068 --> 00:40:47,121
+É meu trabalho saber
+de tudo que acontece.
+
+694
+00:40:47,122 --> 00:40:50,126
+E ela ficou brava
+quando eu não aceitei, mas,
+
+695
+00:40:50,674 --> 00:40:52,264
+claro que tomei
+a decisão certa.
+
+696
+00:40:52,265 --> 00:40:55,385
+<i>- Quer que eu feche?</i>
+- Não, eu ficarei de olho.
+
+697
+00:40:55,885 --> 00:40:58,523
+E, Matty,
+
+698
+00:40:58,524 --> 00:41:00,852
+<i>se está se culpando
+pelos nano-rastreadores...</i>
+
+699
+00:41:00,853 --> 00:41:04,565
+Russ, era minha missão.
+
+700
+00:41:04,566 --> 00:41:05,967
+Eu os enviei.
+
+701
+00:41:07,710 --> 00:41:11,317
+De uma forma ou de outra,
+irei consertar.
+
+702
+00:41:26,809 --> 00:41:28,217
+Boas notícias.
+
+703
+00:41:28,218 --> 00:41:31,020
+Mac está tomando controle
+das mãos dele.
+
+704
+00:41:31,980 --> 00:41:33,977
+Apenas com a meditação,
+sério?
+
+705
+00:41:33,978 --> 00:41:36,461
+Uma meditação guiada
+com um scanner.
+
+706
+00:41:36,462 --> 00:41:40,024
+Estudos mostram que diminui
+estresse por mudar neurônios
+
+707
+00:41:40,025 --> 00:41:42,250
+no cérebro
+que impedirão efeitos colaterais
+
+708
+00:41:42,251 --> 00:41:44,899
+e que aconteça algo
+com a Riley.
+
+709
+00:41:44,900 --> 00:41:47,703
+Deveríamos chamá-lo
+de dr. Double-O-Boze.
+
+710
+00:41:47,704 --> 00:41:49,258
+Gostei disso.
+
+711
+00:42:04,436 --> 00:42:06,379
+- Boa noite.
+- Boa noite.
+
+712
+00:42:24,126 --> 00:42:26,431
+O que você está esperando?
+
+713
+00:42:28,351 --> 00:42:31,436
+Quem mandou
+os nano-rastreadores?
+
+714
+00:42:35,780 --> 00:42:37,407
+<i>Olá?</i>
+
+715
+00:42:37,408 --> 00:42:39,092
+<i>Quem está ai?</i>
+
+716
+00:42:42,117 --> 00:42:43,690
+<i>Não contei para ninguém.</i>
+
+717
+00:42:43,691 --> 00:42:45,384
+<i>Ninguém sabe sobre
+os nano...</i>
+
+718
+00:42:45,385 --> 00:42:47,994
+Não! Não, não, não...
+
