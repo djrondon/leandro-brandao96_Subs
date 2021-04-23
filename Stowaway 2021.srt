@@ -1,0 +1,4214 @@
+﻿1
+00:00:17,880 --> 00:00:19,297
+<i>Atenção ao pessoal de voo,</i>
+
+2
+00:00:19,381 --> 00:00:22,426
+<i>por favor, verificação</i>
+<i>para a contagem e lançamento.</i>
+
+3
+00:00:22,510 --> 00:00:23,844
+<i>- LTS?</i>
+<i>- Prontos.</i>
+
+4
+00:00:23,927 --> 00:00:25,303
+<i>- TTC?</i>
+<i>- Pronto.</i>
+
+5
+00:00:25,387 --> 00:00:27,222
+<i>- CBC?</i>
+<i>- Grupo Orbit, pronto.</i>
+
+6
+00:00:27,305 --> 00:00:28,181
+<i>BTC.</i>
+
+7
+00:00:29,683 --> 00:00:32,561
+<i>BTC, estás pronto? Afirmativo?</i>
+
+8
+00:00:32,645 --> 00:00:34,688
+<i>Afirmativo. O BTC está pronto.</i>
+
+9
+00:00:34,772 --> 00:00:37,107
+<i>- Entendido. OPS?</i>
+<i>- Prontos.</i>
+
+10
+00:00:37,190 --> 00:00:38,483
+<i>- Elétrico?</i>
+<i>- Pronto.</i>
+
+11
+00:00:38,566 --> 00:00:41,694
+<i>- SRO?</i>
+<i>- SRO pronto. Podemos lançar.</i>
+
+12
+00:00:41,778 --> 00:00:43,280
+<i>- Orientação?</i>
+<i>- Pronto.</i>
+
+13
+00:00:43,363 --> 00:00:45,573
+<i>- Tito?</i>
+<i>- Kingfisher está pronto.</i>
+
+14
+00:00:45,657 --> 00:00:48,284
+<i>- E CDR?</i>
+<i>- CDR está pronto.</i>
+
+15
+00:00:48,367 --> 00:00:50,787
+<i>Comandante Barnett,</i>
+<i>em nome da equipa Hyperion</i>
+
+16
+00:00:50,871 --> 00:00:54,207
+<i>e dos milhões de pessoas a verem,</i>
+<i>boa sorte,</i>
+
+17
+00:00:54,292 --> 00:00:56,711
+<i>e vemo-nos daqui a dois anos.</i>
+
+18
+00:00:57,211 --> 00:01:00,047
+<i>Obrigado, Jim.</i>
+<i>Os nossos agradecimentos à equipa</i>
+
+19
+00:01:00,131 --> 00:01:03,677
+e a todos no programa MTS.
+Estamos prontos para o lançamento.
+
+20
+00:01:03,760 --> 00:01:06,304
+<i>Entendido.</i>
+<i>A iniciar a sequência automática.</i>
+
+21
+00:01:07,055 --> 00:01:10,265
+<i>Contagem dos 15 segundos.</i>
+<i>Aguardem a contagem terminal.</i>
+
+22
+00:01:13,143 --> 00:01:17,732
+<i>Dez, nove, oito, sete, seis.</i>
+
+23
+00:01:17,816 --> 00:01:19,442
+<i>Iniciado o motor principal.</i>
+
+24
+00:01:20,193 --> 00:01:23,321
+<i>Três, dois, um, zero.</i>
+
+25
+00:01:39,503 --> 00:01:43,173
+<i>Primeira fase de separação</i>
+<i>em três, dois, um.</i>
+
+26
+00:01:45,592 --> 00:01:46,968
+<i>Bela separação.</i>
+
+27
+00:01:57,144 --> 00:01:58,395
+<i>A correr bem, MTS.</i>
+
+28
+00:02:13,162 --> 00:02:15,583
+<i>Devíamos ter uma boa ligação direta, MTS.</i>
+
+29
+00:02:16,083 --> 00:02:18,418
+Entendido. Estou a ver o mesmo aqui.
+
+30
+00:02:21,630 --> 00:02:23,882
+<i>Estamos a chegar à segunda fase</i>
+<i>da separação.</i>
+
+31
+00:02:23,965 --> 00:02:25,759
+OK, separação da segunda fase.
+
+32
+00:02:34,059 --> 00:02:35,852
+<i>Altitude é de 70 km.</i>
+
+33
+00:02:35,935 --> 00:02:37,855
+<i>A 170 quilómetros do lançamento</i>.
+
+34
+00:02:47,115 --> 00:02:49,742
+Hyperion, os motores principais
+estão um pouco fracos.
+
+35
+00:02:49,825 --> 00:02:52,537
+<i>- Recebido. Motores fracos.</i>
+- Boa leitura.
+
+36
+00:02:52,620 --> 00:02:54,622
+<i>Aguardem. Estamos a rever.</i>
+
+37
+00:02:58,417 --> 00:03:00,209
+Ponham as viseiras para baixo.
+
+38
+00:03:08,135 --> 00:03:11,850
+Já passámos o regresso. Abortar
+ao chegar ao fim do Oceânico?
+
+39
+00:03:12,934 --> 00:03:17,022
+ABORTAR
+
+40
+00:03:21,484 --> 00:03:22,320
+Hyperion?
+
+41
+00:03:24,572 --> 00:03:25,948
+<i>Sem permissão, MTS.</i>
+
+42
+00:03:26,031 --> 00:03:29,409
+<i>Há combustível suficiente para lidar</i>
+<i>com a discrepância. Sem permissão.</i>
+
+43
+00:03:30,242 --> 00:03:32,036
+Entendido. Sem permissão.
+
+44
+00:03:36,958 --> 00:03:39,460
+<i>MTS, vai para a órbita</i>
+<i>de transferência de Marte.</i>
+
+45
+00:03:39,543 --> 00:03:41,378
+<i>Verificação final dos sistemas.</i>
+
+46
+00:03:43,840 --> 00:03:44,799
+Prontos?
+
+47
+00:03:45,383 --> 00:03:46,216
+Sim.
+
+48
+00:03:47,133 --> 00:03:47,968
+Sim!
+
+49
+00:03:50,429 --> 00:03:53,223
+Certo, Hyperion. Estamos prontos.
+Iniciar MTO.
+
+50
+00:03:53,306 --> 00:03:55,516
+<i>Entendido. Aproveitem a viagem.</i>
+
+51
+00:03:55,600 --> 00:03:58,854
+<i>MTO em três, dois, um.</i>
+
+52
+00:04:14,034 --> 00:04:15,703
+<i>Ainda sem permissão, MTS.</i>
+
+53
+00:04:25,006 --> 00:04:27,299
+<i>MTS, ultrapassou o Max Q.</i>
+
+54
+00:04:35,099 --> 00:04:38,977
+<i>Corte do motor principal em três,</i>
+<i>dois, um.</i>
+
+55
+00:04:40,061 --> 00:04:40,896
+Prontos.
+
+56
+00:05:55,803 --> 00:05:57,012
+Aqui está ela.
+
+57
+00:06:13,572 --> 00:06:16,075
+<i>MTS, estamos a aproximar-nos</i>
+<i>da separação do Kingfisher.</i>
+
+58
+00:06:16,158 --> 00:06:18,244
+Entendido. Separação do Kingfisher.
+
+59
+00:06:26,167 --> 00:06:27,627
+<i>A separação é nominal.</i>
+
+60
+00:06:43,561 --> 00:06:46,147
+<i>O Kingfisher está acoplado ao MTS.</i>
+
+61
+00:06:46,230 --> 00:06:48,357
+<i>- A mudar para táxi.</i>
+<i>- Entendido.</i>
+
+62
+00:07:05,082 --> 00:07:07,084
+<i>MTS, qual a taxa de fecho atual?</i>
+
+63
+00:07:07,584 --> 00:07:10,379
+A taxa de fecho é normal.
+Cinco centímetros por segundo.
+
+64
+00:07:17,846 --> 00:07:19,181
+O MTS está à deriva.
+
+65
+00:07:22,726 --> 00:07:23,810
+Aguenta um pouco.
+
+66
+00:07:26,355 --> 00:07:29,149
+A rotação da gravidade está a começar.
+Avance, Hyperion.
+
+67
+00:07:40,785 --> 00:07:42,870
+A gravidade artificial está a subir.
+
+68
+00:07:48,877 --> 00:07:51,213
+Parece que atingimos perto dos 5G.
+
+69
+00:07:57,219 --> 00:07:58,721
+Amarras a desengatar.
+
+70
+00:08:32,461 --> 00:08:34,130
+Painéis solares a abrir.
+
+71
+00:08:46,432 --> 00:08:48,602
+TGS nominal e à velocidade máxima.
+
+72
+00:08:52,105 --> 00:08:53,523
+Muito bem. Desligar.
+
+73
+00:08:56,234 --> 00:08:59,115
+Obrigado pelo lançamento, Jim.
+Vemo-nos na primeira verificação.
+
+74
+00:08:59,198 --> 00:09:00,324
+Estás a brincar?
+
+75
+00:09:00,408 --> 00:09:02,911
+Foi incrível!
+
+76
+00:09:02,994 --> 00:09:03,870
+Está bem.
+
+77
+00:09:06,664 --> 00:09:09,251
+- Como te sentes?
+- Estou bem. Ótimo.
+
+78
+00:09:36,986 --> 00:09:37,903
+Vamos.
+
+79
+00:09:53,668 --> 00:09:55,628
+- Dá cá. Sim.
+- Obrigado.
+
+80
+00:10:36,838 --> 00:10:37,797
+Meu Deus!
+
+81
+00:10:37,881 --> 00:10:40,510
+Zoe, fica com este.
+David, começa a trabalhar lá atrás.
+
+82
+00:10:40,593 --> 00:10:41,552
+- Este?
+- Entendido.
+
+83
+00:11:19,840 --> 00:11:22,052
+- Estarei na última ala.
+- Entendido.
+
+84
+00:11:40,318 --> 00:11:41,361
+Como se sentem?
+
+85
+00:11:43,488 --> 00:11:45,824
+- Precisas de alguma coisa?
+- Não.
+
+86
+00:11:45,907 --> 00:11:46,783
+Uma cerveja?
+
+87
+00:11:47,366 --> 00:11:48,285
+Tão atenciosa.
+
+88
+00:13:31,345 --> 00:13:32,306
+Isto vai ajudar.
+
+89
+00:13:33,182 --> 00:13:34,016
+Obrigado, Zo.
+
+90
+00:13:55,371 --> 00:13:56,372
+Vá lá, Zo.
+
+91
+00:13:56,456 --> 00:13:57,290
+O quê?
+
+92
+00:13:57,373 --> 00:14:00,126
+- A sério?
+- O que...
+
+93
+00:14:00,210 --> 00:14:02,253
+Como é que ela arranjou Payloads?
+
+94
+00:14:02,337 --> 00:14:05,298
+Nem sequer conheço ninguém na Payloads,
+por isso...
+
+95
+00:14:05,381 --> 00:14:11,262
+Gastaste 800 gr dos teus pertences
+permitidos nisto?
+
+96
+00:14:12,430 --> 00:14:16,101
+- Nem te preocupas com a rivalidade.
+- Não. Mas tu sim, David.
+
+97
+00:14:17,518 --> 00:14:18,728
+É tão fácil.
+
+98
+00:14:19,812 --> 00:14:20,981
+Está bem.
+
+99
+00:14:22,524 --> 00:14:23,775
+Passaram cinco horas...
+
+100
+00:14:25,610 --> 00:14:26,945
+... faltam dois anos.
+
+101
+00:14:27,778 --> 00:14:30,239
+Como tua médica,
+digo-te para beberes isso.
+
+102
+00:14:31,782 --> 00:14:33,408
+COMEÇAR LIGAÇÃO
+
+103
+00:14:33,492 --> 00:14:34,577
+A LIGAR
+
+104
+00:14:41,083 --> 00:14:43,086
+"Aplicável"? "Aplicável"?
+
+105
+00:14:43,628 --> 00:14:45,548
+- "Aplicável" é britânico.
+- É?
+
+106
+00:14:46,173 --> 00:14:47,842
+- Como estou?
+- Deslumbrante.
+
+107
+00:14:48,426 --> 00:14:52,889
+- Não? A sério. Isto é importante.
+- Estás bonito. Estás bem, a sério.
+
+108
+00:14:55,433 --> 00:14:56,268
+Ótimo.
+
+109
+00:14:56,351 --> 00:14:58,770
+Sim, estamos. Ouvimos muito bem.
+
+110
+00:14:58,853 --> 00:15:00,647
+Bem-vindos à MTS-42.
+
+111
+00:15:05,734 --> 00:15:06,652
+Sim, pois foi.
+
+112
+00:15:07,486 --> 00:15:10,739
+Não é invulgar ter alguns soluços
+durante o lançamento,
+
+113
+00:15:10,823 --> 00:15:14,326
+mas devido à preparação
+e experiência da nossa equipa,
+
+114
+00:15:14,410 --> 00:15:17,454
+tivemos uma acoplagem suave
+com a MTS Cycler.
+
+115
+00:15:23,418 --> 00:15:24,252
+É verdade.
+
+116
+00:15:25,253 --> 00:15:26,837
+É agridoce.
+
+117
+00:15:26,921 --> 00:15:30,509
+Tive a honra de participar
+em duas missões até à data.
+
+118
+00:15:30,592 --> 00:15:35,096
+E estou feliz por ter uma equipa talentosa
+na minha terceira e última missão.
+
+119
+00:15:39,308 --> 00:15:42,936
+Só passaram umas horas, mas já é
+uma experiência fantástica.
+
+120
+00:15:43,019 --> 00:15:44,730
+Estou encantada por cá estar.
+
+121
+00:15:49,901 --> 00:15:52,404
+<i>Nunca pensei que estivesse aqui.</i>
+
+122
+00:15:52,488 --> 00:15:55,200
+<i>Para mim, a minha carreira</i>
+<i>ia ser pesquisa na Terra.</i>
+
+123
+00:15:55,700 --> 00:15:57,786
+<i>Nunca se sabe para onde a vida nos levará.</i>
+
+124
+00:15:59,538 --> 00:16:02,040
+Sim, candidatei-me ao programa HARP
+porque achei
+
+125
+00:16:02,123 --> 00:16:05,043
+que seria uma história
+engraçada ser rejeitada pelo Hyperion.
+
+126
+00:16:06,044 --> 00:16:09,589
+<i>Mas agora percebo que esta é</i>
+<i>uma daquelas oportunidades raras</i>
+
+127
+00:16:09,672 --> 00:16:13,759
+<i>que pode dar sentido à minha vida</i>
+<i>para além daquilo que eu imaginava.</i>
+
+128
+00:16:16,762 --> 00:16:20,140
+A exploração espacial sempre levou
+a descobertas médicas espantosas
+
+129
+00:16:20,225 --> 00:16:22,727
+que se aplicam às pessoas na Terra.
+
+130
+00:16:26,314 --> 00:16:29,818
+Bem, o lançamento foi incrível.
+
+131
+00:16:31,069 --> 00:16:34,573
+Demora um pouco a ajustar-nos
+à gravidade artificial.
+
+132
+00:16:40,413 --> 00:16:43,165
+<i>Dois anos é muito tempo</i>
+<i>para estar longe da minha mulher,</i>
+
+133
+00:16:43,249 --> 00:16:45,877
+mas esta é uma oportunidade única na vida.
+
+134
+00:16:45,960 --> 00:16:48,129
+Estou grato por ter o apoio dela.
+
+135
+00:16:50,297 --> 00:16:54,886
+<i>A minha pesquisa é essencial para manter</i>
+<i>a vida em Marte a longo prazo.</i>
+
+136
+00:16:55,594 --> 00:16:59,765
+<i>Estamos a dar os primeiros passos</i>
+<i>para chamar a Marte um segundo lar.</i>
+
+137
+00:17:03,227 --> 00:17:04,437
+Não. Não, de todo.
+
+138
+00:17:04,521 --> 00:17:07,274
+Quero dizer, das milhares de propostas
+
+139
+00:17:07,357 --> 00:17:10,860
+<i>de estudantes universitários</i>
+<i>e professores de todo o mundo,</i>
+
+140
+00:17:10,943 --> 00:17:13,696
+<i>estes dois chegaram ao topo.</i>
+
+141
+00:17:13,780 --> 00:17:17,284
+<i>Estou mais do que confiante</i>
+<i>na sua capacidade e treino.</i>
+
+142
+00:17:17,367 --> 00:17:20,161
+Conseguem lidar com qualquer coisa
+que lhes apareça à frente.
+
+143
+00:18:06,415 --> 00:18:08,292
+CDRA - APOIO À VIDA
+
+144
+00:18:24,185 --> 00:18:25,019
+Merda.
+
+145
+00:18:30,273 --> 00:18:31,233
+Merda.
+
+146
+00:18:43,912 --> 00:18:44,789
+Comandante!
+
+147
+00:18:45,957 --> 00:18:47,250
+Caramba.
+
+148
+00:18:47,333 --> 00:18:48,709
+- Estás bem?
+- Afasta-o!
+
+149
+00:18:49,418 --> 00:18:50,377
+O que se passa?
+
+150
+00:18:50,461 --> 00:18:51,838
+- Afasta-o!
+- Estás bem?
+
+151
+00:18:51,921 --> 00:18:53,589
+- Ele está vivo?
+- Puxa-o.
+
+152
+00:18:54,465 --> 00:18:55,466
+Tira-o daqui.
+
+153
+00:18:56,342 --> 00:18:58,427
+Para. Vamos levá-lo à enfermaria.
+
+154
+00:18:58,511 --> 00:18:59,345
+Apanhei-o.
+
+155
+00:18:59,428 --> 00:19:00,804
+- Pronta.
+- Um, dois, três.
+
+156
+00:19:09,812 --> 00:19:11,188
+- Aqui?
+- Sim.
+
+157
+00:19:17,904 --> 00:19:18,864
+Está bom.
+
+158
+00:19:19,448 --> 00:19:21,700
+- Quem é este?
+- Vá lá.
+
+159
+00:19:42,888 --> 00:19:44,764
+David, calça umas luvas.
+
+160
+00:19:44,848 --> 00:19:45,723
+Entendido.
+
+161
+00:19:58,527 --> 00:20:01,281
+Fecha.
+Segura o mais fechado que puderes.
+
+162
+00:20:02,949 --> 00:20:03,908
+Está bom.
+
+163
+00:20:05,409 --> 00:20:07,996
+<i>Os danos estão contidos</i>
+<i>no módulo funcional.</i>
+
+164
+00:20:08,080 --> 00:20:12,041
+<i>Uma quantidade significativa</i>
+<i>de O2 atmosférico foi libertada do MTS.</i>
+
+165
+00:20:12,124 --> 00:20:14,460
+Há uma brecha no casco.
+Estão a ouvir?
+
+166
+00:20:15,502 --> 00:20:16,337
+Ótimo.
+
+167
+00:20:16,962 --> 00:20:17,879
+Jim.
+
+168
+00:20:18,964 --> 00:20:20,506
+Quem está na minha nave?
+
+169
+00:20:22,468 --> 00:20:26,179
+Sim. Ele ainda está inconsciente,
+mas é uma ameaça?
+
+170
+00:20:26,262 --> 00:20:30,017
+Temos de encontrar uma forma
+de o prender ou...
+
+171
+00:20:41,615 --> 00:20:43,325
+Sabes se ele vai acordar?
+
+172
+00:20:44,493 --> 00:20:46,620
+Surpreende-me que ainda esteja vivo.
+
+173
+00:20:57,171 --> 00:20:59,257
+Chama-se Michael Adams.
+
+174
+00:20:59,340 --> 00:21:01,592
+Para já só sabem
+que ele é do apoio ao lançamento.
+
+175
+00:21:03,011 --> 00:21:06,265
+- Como é que não o viram?
+- Estão a investigar.
+
+176
+00:21:06,348 --> 00:21:08,308
+Não cometemos erros assim.
+
+177
+00:21:08,392 --> 00:21:11,521
+- Ele veio clandestino de propósito?
+- O Hyperion ainda não sabe.
+
+178
+00:21:16,233 --> 00:21:18,360
+Como é que não estás cheia de dores?
+
+179
+00:21:19,194 --> 00:21:21,989
+Dói.
+
+180
+00:21:23,115 --> 00:21:24,491
+Isto é mesmo grave.
+
+181
+00:21:25,409 --> 00:21:26,409
+Quanto tempo?
+
+182
+00:21:27,118 --> 00:21:29,664
+Honestamente?
+Seis semanas, pelo menos.
+
+183
+00:21:35,962 --> 00:21:37,673
+AVISO
+
+184
+00:21:38,257 --> 00:21:39,800
+O CO2 subiu 2 %.
+
+185
+00:21:40,467 --> 00:21:41,385
+Como?
+
+186
+00:21:41,886 --> 00:21:43,554
+O CDRA está desligado.
+
+187
+00:21:43,637 --> 00:21:46,974
+Desligámos o módulo funcional,
+incluindo o suporte de vida.
+
+188
+00:21:47,058 --> 00:21:49,476
+Vamos começar com as latas
+de hidróxido de lítio.
+
+189
+00:21:49,560 --> 00:21:50,394
+Percebido.
+
+190
+00:22:02,030 --> 00:22:06,202
+As máscaras de respiração na sala
+de exercício também são do CDRA,
+
+191
+00:22:06,285 --> 00:22:10,413
+por isso, vamos adiar o exercício
+até resolvermos isto.
+
+192
+00:22:10,497 --> 00:22:11,957
+- Entendido.
+- Sim, Comandante.
+
+193
+00:22:19,965 --> 00:22:21,091
+Estamos prontos.
+
+194
+00:22:24,594 --> 00:22:27,348
+AVISO
+
+195
+00:22:31,310 --> 00:22:33,561
+<i>Alguém fora do Hyperion sabe disto?</i>
+
+196
+00:22:33,644 --> 00:22:34,561
+<i>Ainda não.</i>
+
+197
+00:22:35,520 --> 00:22:37,856
+<i>É só uma questão de tempo até se saber.</i>
+
+198
+00:23:31,452 --> 00:23:32,286
+Foda-se.
+
+199
+00:23:33,495 --> 00:23:34,454
+Credo.
+
+200
+00:24:29,135 --> 00:24:30,135
+Senta-te.
+
+201
+00:24:30,219 --> 00:24:31,555
+- Descolámos?
+- Senta-te.
+
+202
+00:24:31,638 --> 00:24:33,849
+- Descolámos?
+- Senta-te ou desmaias.
+
+203
+00:24:33,932 --> 00:24:35,515
+- Nós...
+- Estás bem.
+
+204
+00:24:35,599 --> 00:24:39,269
+- Descolámos? Não.
+- Ouve. Estás bem. Estás seguro.
+
+205
+00:24:39,353 --> 00:24:43,315
+- Estás seguro. Estás bem. Comandante!
+- Não. Descolámos?
+
+206
+00:24:46,569 --> 00:24:48,695
+Vamos respirar fundo. Respira fundo.
+
+207
+00:24:48,779 --> 00:24:50,822
+Inspira pelo nariz e expira pela boca.
+
+208
+00:24:50,905 --> 00:24:52,657
+Tal como eu. Ótimo. Michael?
+
+209
+00:24:52,741 --> 00:24:55,159
+É Michael, certo? Sou a Zoe. Sou médica.
+
+210
+00:24:55,243 --> 00:24:57,536
+Quero que te concentres
+em abrandar a respiração.
+
+211
+00:24:57,620 --> 00:25:00,164
+Devagar. Está bem?
+Vou verificar os pontos.
+
+212
+00:25:00,248 --> 00:25:01,583
+- Pode ser?
+- Pontos?
+
+213
+00:25:01,666 --> 00:25:02,792
+- Devagar.
+- O quê?
+
+214
+00:25:02,876 --> 00:25:05,253
+Ficou ferido durante o lançamento, aqui.
+
+215
+00:25:05,336 --> 00:25:08,840
+Está bem? Vou só ver.
+Preparado? Tudo bem.
+
+216
+00:25:09,424 --> 00:25:10,259
+Está bem.
+
+217
+00:25:11,468 --> 00:25:12,386
+Está bom.
+
+218
+00:25:13,846 --> 00:25:15,598
+Está tudo bem.
+
+219
+00:25:17,307 --> 00:25:19,935
+Devagar. Abranda o ritmo cardíaco.
+
+220
+00:25:20,563 --> 00:25:21,814
+- Está bem?
+- Sim.
+
+221
+00:25:21,898 --> 00:25:23,024
+- Está bem.
+- Ótimo.
+
+222
+00:25:24,358 --> 00:25:25,777
+- Desculpem.
+- Não tem mal.
+
+223
+00:25:25,860 --> 00:25:28,195
+Não faz mal. Olá, Michael.
+Sou a Marina Barnett.
+
+224
+00:25:28,279 --> 00:25:32,240
+Sou a Comandante desta estação.
+Posso fazer-te algumas perguntas?
+
+225
+00:25:32,741 --> 00:25:34,451
+Sim, à vontade.
+
+226
+00:25:36,453 --> 00:25:38,789
+- Trabalhas para o Hyperion?
+- Sim.
+
+227
+00:25:40,291 --> 00:25:42,709
+Sou engenheiro de apoio ao lançamento.
+
+228
+00:25:42,793 --> 00:25:43,627
+Está bem.
+
+229
+00:25:43,711 --> 00:25:46,338
+Lembras-te do que aconteceu?
+
+230
+00:25:50,468 --> 00:25:51,719
+Sim. Estava...
+
+231
+00:25:53,555 --> 00:25:54,514
+Estava...
+
+232
+00:25:55,807 --> 00:26:00,770
+Estava a armar os pinos de segunda fase
+e pensei que estava...
+
+233
+00:26:02,188 --> 00:26:04,065
+Pensei que estava preso e...
+
+234
+00:26:04,898 --> 00:26:07,108
+- Não.
+- Tiveste uma concussão, é normal.
+
+235
+00:26:07,192 --> 00:26:09,320
+- Está bem.
+- Pensei que estava preso.
+
+236
+00:26:09,403 --> 00:26:10,905
+Não faz mal se não te lembras.
+
+237
+00:26:13,824 --> 00:26:16,243
+Estive desmaiado muito tempo?
+
+238
+00:26:19,083 --> 00:26:20,917
+Partimos há 12 horas.
+
+239
+00:26:23,170 --> 00:26:24,088
+Doze horas.
+
+240
+00:26:28,258 --> 00:26:31,011
+- Tenho de voltar para a minha irmã.
+- Não.
+
+241
+00:26:31,095 --> 00:26:34,348
+- Está sozinha. Tenho de voltar.
+- Michael. Eu percebo.
+
+242
+00:26:34,431 --> 00:26:36,725
+- Mas não vamos voltar.
+- Como assim?
+
+243
+00:26:36,808 --> 00:26:39,518
+- É uma missão de dois anos. Por favor.
+- Eu compreendo.
+
+244
+00:26:39,602 --> 00:26:41,645
+- Tenho de voltar.
+- Michael.
+
+245
+00:26:41,729 --> 00:26:44,608
+Vamos muito depressa.
+Não temos combustível para voltar.
+
+246
+00:26:44,691 --> 00:26:47,318
+- Tenho de voltar a casa.
+- Entendo. A sério.
+
+247
+00:26:47,401 --> 00:26:50,447
+Vou falar com o Hyperion.
+Venho já. Está bem?
+
+248
+00:26:50,530 --> 00:26:51,990
+Volto já. Está bem?
+
+249
+00:26:52,574 --> 00:26:53,657
+- Sim.
+- Fica aqui.
+
+250
+00:26:53,741 --> 00:26:55,783
+- Sim, Comandante.
+- Vamos resolver isto.
+
+251
+00:26:55,867 --> 00:26:58,912
+Preciso que respires
+enquanto o resolvemos. Está bem?
+
+252
+00:26:58,996 --> 00:27:01,539
+Podes fazer isso? Abrandar a respiração.
+
+253
+00:27:13,009 --> 00:27:14,051
+Ele está estável.
+
+254
+00:27:14,135 --> 00:27:17,680
+Só precisa de tempo para descansar
+e processar tudo.
+
+255
+00:27:18,348 --> 00:27:19,182
+Entendido.
+
+256
+00:27:21,017 --> 00:27:23,227
+- Precisas de ajuda?
+- Não, estou bem.
+
+257
+00:28:11,818 --> 00:28:12,735
+Michael.
+
+258
+00:28:13,988 --> 00:28:16,574
+- Deixa-me ajudar-te.
+- Estou bem.
+
+259
+00:28:18,034 --> 00:28:19,618
+- Estás bem?
+- Obrigado.
+
+260
+00:28:19,702 --> 00:28:20,578
+Senta-te.
+
+261
+00:28:21,954 --> 00:28:23,455
+- Bem?
+- Sim.
+
+262
+00:28:23,538 --> 00:28:24,622
+Sim. Obrigado.
+
+263
+00:28:24,706 --> 00:28:25,998
+- Sim?
+- Sim.
+
+264
+00:28:27,167 --> 00:28:30,503
+Michael, o Hyperion falou com a tua irmã.
+Ela está bem.
+
+265
+00:28:31,504 --> 00:28:35,759
+Vão contratar-lhe um guardião a tempo
+inteiro e cobrir todas as despesas.
+
+266
+00:28:37,345 --> 00:28:38,179
+Obrigado.
+
+267
+00:28:39,638 --> 00:28:43,184
+Estes são teus. O diretor da missão
+quer dar-te mais detalhes
+
+268
+00:28:43,267 --> 00:28:45,394
+quando estivermos em direto amanhã.
+
+269
+00:28:48,482 --> 00:28:49,483
+Está bem.
+
+270
+00:28:51,150 --> 00:28:51,985
+Obrigado.
+
+271
+00:28:53,819 --> 00:28:56,864
+Vim cá porque queria dizer umas coisas.
+
+272
+00:29:00,033 --> 00:29:01,869
+- Importam-se?
+- Não, por favor.
+
+273
+00:29:03,871 --> 00:29:04,788
+Primeiro,
+
+274
+00:29:05,831 --> 00:29:09,668
+peço desculpa
+pelo ataque de pânico que tive.
+
+275
+00:29:09,752 --> 00:29:14,716
+Foi um choque acordar aqui.
+
+276
+00:29:18,011 --> 00:29:19,053
+Obrigado.
+
+277
+00:29:19,804 --> 00:29:20,680
+Claro.
+
+278
+00:29:22,224 --> 00:29:24,351
+Além disso, não vou ficar parado.
+
+279
+00:29:25,394 --> 00:29:29,022
+Sei que a nave é pequena
+e ficou mais pequena agora que estou aqui.
+
+280
+00:29:29,105 --> 00:29:32,608
+E tenho a certeza de que há
+trabalho a fazer. E aprendo rápido.
+
+281
+00:29:33,192 --> 00:29:35,611
+Farei o que for preciso.
+
+282
+00:29:36,237 --> 00:29:38,489
+Obrigada, Michael. Agradeço.
+
+283
+00:29:39,282 --> 00:29:42,367
+Estamos à espera que o Hyperion
+nos diga o que fazer a seguir.
+
+284
+00:29:42,451 --> 00:29:45,829
+Mas, entretanto, se conseguires,
+
+285
+00:29:45,914 --> 00:29:48,750
+talvez a Zoe possa explicar-te
+os procedimentos de segurança.
+
+286
+00:29:48,833 --> 00:29:49,668
+Sim.
+
+287
+00:29:55,840 --> 00:30:00,888
+É pena que tenhas perdido
+o <i>filet mignon,</i> mas isto também é bom.
+
+288
+00:30:00,971 --> 00:30:02,556
+Achamos que é esparguete.
+
+289
+00:30:03,515 --> 00:30:07,060
+Devo avisar-te que a Zoe
+acha que é o entretenimento a bordo.
+
+290
+00:30:07,560 --> 00:30:08,519
+Entendido.
+
+291
+00:30:09,646 --> 00:30:11,023
+És o David Kim, certo?
+
+292
+00:30:12,066 --> 00:30:14,026
+- Só David.
+- Entendido.
+
+293
+00:30:14,609 --> 00:30:15,945
+Andas na faculdade?
+
+294
+00:30:16,028 --> 00:30:19,281
+Sim. A tirar o mestrado
+em Engenharia Estrutural.
+
+295
+00:30:19,824 --> 00:30:21,702
+A trabalhar numa proposta para o HARP?
+
+296
+00:30:21,785 --> 00:30:24,370
+Planeio preparar algo
+para a próxima missão.
+
+297
+00:30:26,498 --> 00:30:28,583
+Acho que não precisas de te candidatar.
+
+298
+00:30:31,628 --> 00:30:33,088
+Sim. Acho que não.
+
+299
+00:30:36,132 --> 00:30:38,509
+Saúde. Bem-vindo à MTS-42.
+
+300
+00:30:38,593 --> 00:30:39,969
+- Saúde.
+- Saúde.
+
+301
+00:30:40,052 --> 00:30:41,011
+Saúde.
+
+302
+00:30:41,679 --> 00:30:42,513
+Saúde.
+
+303
+00:30:49,729 --> 00:30:52,565
+Não sei. Não parece que esteja aqui
+de propósito.
+
+304
+00:30:52,648 --> 00:30:54,900
+Concordo. O que fazemos?
+
+305
+00:30:56,277 --> 00:30:58,571
+Acho que ele devia manter-se ocupado...
+
+306
+00:30:59,448 --> 00:31:01,200
+Não tenho nada para ele.
+
+307
+00:31:04,202 --> 00:31:08,082
+Talvez possa pedir-lhe
+para fazer uma entrada de dados.
+
+308
+00:31:09,291 --> 00:31:11,209
+Seria bom ter companhia.
+
+309
+00:31:12,961 --> 00:31:14,045
+Sim, pode ser.
+
+310
+00:31:20,802 --> 00:31:21,677
+O quê?
+
+311
+00:31:23,721 --> 00:31:27,099
+Vais ter de partilhar o crédito
+do que publicares.
+
+312
+00:31:28,726 --> 00:31:30,934
+- Não se trata do crédito, Zo.
+- OK.
+
+313
+00:31:31,644 --> 00:31:34,898
+- És uma pessoa melhor do que eu, David.
+- Isso é certo.
+
+314
+00:31:37,191 --> 00:31:39,568
+- Estamos combinados?
+- Sim.
+
+315
+00:31:39,652 --> 00:31:40,486
+Muito bem.
+
+316
+00:31:45,449 --> 00:31:47,618
+Tenta não ressonar muito esta noite.
+
+317
+00:31:48,702 --> 00:31:52,955
+À noite, as luzes ficam sempre apagadas.
+Devido ao consumo de energia.
+
+318
+00:31:53,040 --> 00:31:55,876
+E se houver uma falha catastrófica
+num módulo
+
+319
+00:31:55,959 --> 00:31:58,420
+como fogo ou despressurização rápida.
+Olha a cabeça.
+
+320
+00:31:58,921 --> 00:32:01,339
+Tens de fechar a escotilha.
+Adeus, David.
+
+321
+00:32:03,050 --> 00:32:05,638
+Isto é à prova de radiação magnética.
+
+322
+00:32:05,722 --> 00:32:08,266
+Caso haja uma tempestade solar,
+vens para aqui.
+
+323
+00:32:09,601 --> 00:32:14,564
+Sei que a tua primeira visita foi um pouco
+intensa, mas este é o meu lugar preferido.
+
+324
+00:32:32,915 --> 00:32:34,750
+As fotos não lhe fazem justiça.
+
+325
+00:32:35,334 --> 00:32:36,586
+Não, de todo.
+
+326
+00:32:49,431 --> 00:32:50,976
+Como se chama a tua irmã?
+
+327
+00:32:52,685 --> 00:32:53,519
+Ava.
+
+328
+00:33:00,900 --> 00:33:02,151
+São só vocês os dois?
+
+329
+00:33:04,406 --> 00:33:05,241
+Sim.
+
+330
+00:34:09,012 --> 00:34:11,807
+Muito bem, isto é o Lote 62.
+
+331
+00:34:11,890 --> 00:34:13,266
+Lote 62.
+
+332
+00:34:13,349 --> 00:34:15,644
+E vamos começar pela Linha 4.
+
+333
+00:34:15,727 --> 00:34:16,562
+Linha quatro.
+
+334
+00:34:18,647 --> 00:34:20,732
+A linha 4A será...
+
+335
+00:34:22,943 --> 00:34:24,361
+... 10.23.
+
+336
+00:34:28,908 --> 00:34:30,034
+Secção B...
+
+337
+00:34:35,332 --> 00:34:36,208
+O quê?
+
+338
+00:34:36,999 --> 00:34:37,917
+Desculpa.
+
+339
+00:34:38,668 --> 00:34:39,794
+Tenho de perguntar.
+
+340
+00:34:40,294 --> 00:34:41,212
+Tipo,
+
+341
+00:34:42,254 --> 00:34:45,674
+que raio é isto? O que estamos a ouvir?
+
+342
+00:34:45,757 --> 00:34:48,260
+- Não ouves jazz?
+- Não.
+
+343
+00:34:48,344 --> 00:34:49,595
+Nem por isso.
+
+344
+00:34:49,678 --> 00:34:53,974
+Na verdade, foi a minha mulher
+que me meteu no jazz, mas agora adoro.
+
+345
+00:34:56,978 --> 00:34:59,021
+A Secção B é
+
+346
+00:35:00,607 --> 00:35:02,109
+de 2.16.
+
+347
+00:35:02,192 --> 00:35:03,861
+Dois ponto um seis.
+
+348
+00:35:03,944 --> 00:35:06,279
+A investigação pode tornar-se
+um pouco monótona.
+
+349
+00:35:06,363 --> 00:35:08,072
+Especialmente a ficologia, mas
+
+350
+00:35:08,906 --> 00:35:10,826
+estes tipos mantêm-me alerta.
+
+351
+00:35:11,326 --> 00:35:14,371
+Sabes, Sanders, Coltrane, Bird.
+
+352
+00:35:15,997 --> 00:35:17,915
+São jogadores de basquetebol ou...
+
+353
+00:35:17,999 --> 00:35:20,292
+Sim, são jogadores de basquetebol.
+Não, não são.
+
+354
+00:35:20,376 --> 00:35:22,544
+Estes tipos são lendas do jazz
+dos anos 60.
+
+355
+00:35:22,628 --> 00:35:24,547
+Certo, eu sabia.
+
+356
+00:35:25,631 --> 00:35:29,593
+Ouviste como é imprevisível?
+Mas ainda tem regras.
+
+357
+00:35:29,676 --> 00:35:31,053
+Estão a tocar juntos,
+
+358
+00:35:31,137 --> 00:35:34,849
+mas de vez em quando, um ou dois
+vão para o seu próprio ritmo.
+
+359
+00:35:37,270 --> 00:35:38,395
+Agora. Ouviste?
+
+360
+00:35:42,065 --> 00:35:44,067
+Não. Nada.
+
+361
+00:35:44,151 --> 00:35:46,319
+- Está bem.
+- Parece uma confusão.
+
+362
+00:35:46,403 --> 00:35:49,197
+É isso que adoro. Não é óbvio.
+
+363
+00:35:51,073 --> 00:35:54,201
+E, às vezes,
+pode ser um pouco desagradável.
+
+364
+00:35:55,536 --> 00:35:57,039
+Mas é pura expressão.
+
+365
+00:35:58,582 --> 00:36:02,002
+- E costuma encontrar equilíbrio.
+- Boa. Disso eu gosto.
+
+366
+00:36:04,630 --> 00:36:05,464
+Está bem.
+
+367
+00:36:06,131 --> 00:36:09,842
+Secção C, 9.86.
+
+368
+00:36:46,546 --> 00:36:47,840
+<i>Como estão as coisas?</i>
+
+369
+00:36:48,340 --> 00:36:50,175
+Todo o lado esquerdo soltou-se.
+
+370
+00:36:52,385 --> 00:36:54,639
+- Tira a tampa.
+<i>- Percebido.</i>
+
+371
+00:37:03,814 --> 00:37:04,690
+Com cuidado.
+
+372
+00:37:04,773 --> 00:37:05,691
+Entendido.
+
+373
+00:37:11,530 --> 00:37:12,531
+Merda.
+
+374
+00:37:13,073 --> 00:37:15,409
+<i>- O quê?</i>
+- Deve ter havido um curto-circuito.
+
+375
+00:37:16,911 --> 00:37:18,162
+<i>Na camada desumidificadora?</i>
+
+376
+00:37:19,705 --> 00:37:20,539
+Sim.
+
+377
+00:37:21,833 --> 00:37:23,209
+Está tudo queimado.
+
+378
+00:37:24,252 --> 00:37:25,586
+Tira outra fotografia.
+
+379
+00:37:49,360 --> 00:37:50,319
+Já está?
+
+380
+00:37:53,742 --> 00:37:54,910
+CONTROLO DE MISSÃO
+
+381
+00:37:54,993 --> 00:37:56,953
+Hyperion, fala MTS. Responda.
+
+382
+00:38:03,960 --> 00:38:06,171
+Sim. Temos um suporte de vida danificado.
+
+383
+00:38:06,254 --> 00:38:09,007
+Preciso que inspecione
+as imagens do CDRA.
+
+384
+00:38:12,718 --> 00:38:15,763
+É fundamental que isto seja resolvido,
+Jim. Missão em perigo.
+
+385
+00:38:17,723 --> 00:38:19,309
+Sim. A desligar.
+
+386
+00:38:27,232 --> 00:38:29,568
+DESMONTAGEM DO CDRA
+
+387
+00:38:36,992 --> 00:38:38,660
+David, posso falar contigo?
+
+388
+00:38:38,744 --> 00:38:41,080
+- Claro.
+- Michael, podes vestir o fato do David?
+
+389
+00:38:41,163 --> 00:38:43,998
+- A Zoe vai explicar o que fazer.
+- Sim, claro.
+
+390
+00:39:16,781 --> 00:39:17,824
+Sim, Comandante?
+
+391
+00:39:21,202 --> 00:39:23,287
+Quanto O2 produz o teu suporte?
+
+392
+00:39:23,997 --> 00:39:27,250
+Uns 90 litros por dia.
+Só uma quantia insignificante.
+
+393
+00:39:28,167 --> 00:39:30,378
+Há alguma forma de conseguires 950?
+
+394
+00:39:30,461 --> 00:39:31,712
+- Queres 950?
+- Sim.
+
+395
+00:39:31,795 --> 00:39:36,135
+Não com microvegetais. Estamos
+a testar a produção de alimentos, não CO2.
+
+396
+00:39:36,218 --> 00:39:38,012
+Pensei que era a tua pesquisa.
+
+397
+00:39:38,095 --> 00:39:41,516
+Sim, mas isso é com algas
+e só pode ser aberto em Marte.
+
+398
+00:39:41,599 --> 00:39:44,018
+Quanto oxigénio produziriam as algas?
+
+399
+00:39:46,854 --> 00:39:47,898
+Aproximadamente...
+
+400
+00:39:49,900 --> 00:39:51,652
+Posso aproximar-me disso
+
+401
+00:39:51,735 --> 00:39:54,195
+nas condições certas,
+mas o equipamento de que preciso
+
+402
+00:39:54,279 --> 00:39:56,614
+foi levado para Marte na última missão.
+
+403
+00:39:58,824 --> 00:40:00,535
+O que enfrentamos aqui?
+
+404
+00:40:01,536 --> 00:40:02,953
+Perdemos o CDRA?
+
+405
+00:40:04,580 --> 00:40:06,123
+Ainda não temos a certeza.
+
+406
+00:40:08,919 --> 00:40:10,086
+Está bem.
+
+407
+00:40:11,004 --> 00:40:12,714
+E as latas de reserva?
+
+408
+00:40:13,214 --> 00:40:14,591
+Não temos o suficiente.
+
+409
+00:40:16,802 --> 00:40:19,554
+Merda, podes tentar mais alguma coisa?
+
+410
+00:40:19,637 --> 00:40:24,892
+Podia tentar cultivá-las aqui,
+mas arriscávamos arruinar toda a cultura.
+
+411
+00:40:26,727 --> 00:40:27,645
+Muito bem.
+
+412
+00:40:29,521 --> 00:40:32,191
+Muito bem, se usar metade das algas,
+
+413
+00:40:32,274 --> 00:40:35,027
+pode ser o suficiente para
+uma cultura de iniciação em Marte.
+
+414
+00:40:35,110 --> 00:40:38,030
+Está bem. Põe tudo de lado
+e concentra-te nisso.
+
+415
+00:40:38,113 --> 00:40:39,114
+Sim, Comandante.
+
+416
+00:40:40,115 --> 00:40:42,242
+Preciso de tempo para resolver isto.
+
+417
+00:40:42,326 --> 00:40:43,243
+Entendido.
+
+418
+00:40:45,956 --> 00:40:46,956
+E, David?
+
+419
+00:40:47,582 --> 00:40:51,670
+A Zoe e o Michael estão a retirar o CDRA.
+Ainda não precisam de saber.
+
+420
+00:40:58,551 --> 00:41:01,221
+- Teste de comunicações.
+- Sim. Estou a ouvir.
+
+421
+00:41:01,304 --> 00:41:03,973
+Não. Quando eu disser isso,
+dizes "sim".
+
+422
+00:41:04,974 --> 00:41:05,808
+Está bem.
+
+423
+00:41:06,809 --> 00:41:08,268
+- Teste de comunicações.
+- Sim.
+
+424
+00:41:09,937 --> 00:41:11,897
+Vou despressurizar a antecâmara.
+
+425
+00:41:17,570 --> 00:41:19,697
+Quando entrarmos, está tudo normal.
+
+426
+00:41:19,780 --> 00:41:23,452
+Não vai haver ar, mas vai ser tudo normal.
+
+427
+00:41:23,535 --> 00:41:24,953
+Nada de flutuar, apenas...
+
+428
+00:41:25,454 --> 00:41:26,455
+- Sim?
+- Sim.
+
+429
+00:41:26,538 --> 00:41:28,707
+- Só ler as instruções, está bem?
+- Sim.
+
+430
+00:41:58,487 --> 00:41:59,571
+Qual é o primeiro?
+
+431
+00:42:00,656 --> 00:42:04,034
+Desaparafusar a camada absorvente.
+
+432
+00:42:04,117 --> 00:42:06,037
+São os parafusos do outro lado.
+
+433
+00:42:37,734 --> 00:42:39,403
+Então, o que faz isto?
+
+434
+00:42:40,237 --> 00:42:42,531
+Limpa o dióxido de carbono do ar.
+
+435
+00:42:43,032 --> 00:42:43,866
+Toma.
+
+436
+00:42:58,004 --> 00:42:59,547
+- Preparado?
+- Sim.
+
+437
+00:43:00,632 --> 00:43:01,592
+Aqui vamos nós.
+
+438
+00:43:04,093 --> 00:43:06,345
+Cuidado com isso. Muito cuidado.
+
+439
+00:43:07,137 --> 00:43:08,013
+Está bem.
+
+440
+00:43:20,317 --> 00:43:24,153
+Nunca me habituarei ao pouco material
+que há entre nós e o espaço.
+
+441
+00:43:24,821 --> 00:43:26,030
+Isso eu sei.
+
+442
+00:43:26,615 --> 00:43:28,783
+Quando quiseram adicionar
+uma terceira pessoa,
+
+443
+00:43:28,868 --> 00:43:32,120
+para compensar o peso, fizeram o módulo
+funcional com metade do tamanho
+
+444
+00:43:32,203 --> 00:43:34,372
+e removeram uma camada de proteção.
+
+445
+00:43:35,499 --> 00:43:36,959
+Isso não ajuda nada.
+
+446
+00:43:37,626 --> 00:43:39,546
+- Só factos.
+- Não ajuda nada.
+
+447
+00:43:39,630 --> 00:43:40,922
+São só factos.
+
+448
+00:43:44,843 --> 00:43:46,177
+- Eu levo isso.
+- Sim.
+
+449
+00:43:47,513 --> 00:43:48,346
+Estão bem?
+
+450
+00:43:48,429 --> 00:43:49,265
+- Sim.
+- Sim.
+
+451
+00:43:54,019 --> 00:43:55,729
+Está bem. Não faz mal.
+
+452
+00:43:59,065 --> 00:43:59,899
+Michael?
+
+453
+00:44:04,112 --> 00:44:04,988
+Merda.
+
+454
+00:44:12,245 --> 00:44:13,163
+Eu trato disto.
+
+455
+00:44:15,707 --> 00:44:16,834
+Sim, está ótimo.
+
+456
+00:44:22,798 --> 00:44:23,674
+Está bem.
+
+457
+00:44:24,258 --> 00:44:25,760
+Uma pitada.
+
+458
+00:44:31,890 --> 00:44:32,974
+Obrigado.
+
+459
+00:44:33,058 --> 00:44:35,476
+- É o meu trabalho.
+- Não só por isto.
+
+460
+00:44:35,560 --> 00:44:39,191
+Fizeste de tudo para me sentir bem-vindo,
+por isso...
+
+461
+00:44:39,274 --> 00:44:40,150
+Claro.
+
+462
+00:44:41,318 --> 00:44:42,152
+Está bem.
+
+463
+00:44:43,987 --> 00:44:45,030
+Podes tirar isto?
+
+464
+00:44:46,449 --> 00:44:47,616
+- A t-shirt?
+- Sim.
+
+465
+00:45:00,172 --> 00:45:01,923
+- Podes levantar o braço?
+- Sim.
+
+466
+00:45:02,006 --> 00:45:02,841
+Obrigada.
+
+467
+00:45:05,759 --> 00:45:06,594
+Está bem.
+
+468
+00:45:36,749 --> 00:45:40,210
+- Como vai isso?
+- Ainda a ver, mas estou preocupado.
+
+469
+00:45:41,086 --> 00:45:45,340
+Preocupa-me que só consigamos
+chegar aos, talvez, 500 litros por dia.
+
+470
+00:45:45,423 --> 00:45:48,135
+Não. Isso é bom.
+É metade do que precisamos.
+
+471
+00:45:48,218 --> 00:45:53,348
+- Descongelemos o segundo lote de algas.
+- Preciso de rasgar os microvegetais.
+
+472
+00:45:53,431 --> 00:45:55,392
+- Então, vamos a isso.
+- Espera.
+
+473
+00:45:56,226 --> 00:45:58,271
+As algas estão longe de prosperar.
+
+474
+00:45:59,021 --> 00:46:03,067
+É apenas uma fração do que conseguiria
+se tivesse o equipamento.
+
+475
+00:46:03,151 --> 00:46:07,363
+Usar a segunda metade do lote
+não significa que duplicará a produção.
+
+476
+00:46:09,365 --> 00:46:10,825
+É imperativo tentarmos.
+
+477
+00:46:10,909 --> 00:46:13,994
+Comandante, não podemos confiar nisto.
+
+478
+00:46:14,077 --> 00:46:18,456
+Elas podem morrer e posso perder tudo
+que preciso para Marte.
+
+479
+00:46:24,755 --> 00:46:25,672
+Comandante,
+
+480
+00:46:26,673 --> 00:46:30,761
+esta pesquisa são anos da minha vida.
+Ambos sabemos como é importante.
+
+481
+00:46:31,720 --> 00:46:34,097
+Temos a certeza de que queremos
+deitar tudo fora,
+
+482
+00:46:34,181 --> 00:46:36,850
+enquanto ainda temos a hipótese
+de reparar o CDRA?
+
+483
+00:46:45,693 --> 00:46:46,944
+Não há hipótese, David.
+
+484
+00:46:50,072 --> 00:46:50,905
+Foi-se.
+
+485
+00:46:56,035 --> 00:46:56,869
+Entendido.
+
+486
+00:48:15,114 --> 00:48:20,288
+Ava. Olá. Espero que estejas a tratar
+as pessoas do Hyperion muito bem,
+
+487
+00:48:20,371 --> 00:48:24,624
+porque ouvi dizer que te estão a mudar
+para perto da escola, o que é bom.
+
+488
+00:48:25,750 --> 00:48:26,585
+Muito bom.
+
+489
+00:48:26,669 --> 00:48:29,590
+Manda-me selfies quando puderes,
+está bem?
+
+490
+00:48:31,967 --> 00:48:33,885
+Já me sinto melhor aqui.
+
+491
+00:48:34,636 --> 00:48:36,930
+<i>No início, pensei que ia ser um fardo</i>
+
+492
+00:48:37,013 --> 00:48:39,933
+<i>para a tripulação e todos,</i>
+
+493
+00:48:40,016 --> 00:48:42,561
+<i>mas estão a pôr-me a trabalhar.</i>
+
+494
+00:48:44,312 --> 00:48:45,980
+<i>Odeio que tenha sido assim.</i>
+
+495
+00:48:47,065 --> 00:48:50,068
+<i>Mas acho que isto pode ser</i>
+
+496
+00:48:50,820 --> 00:48:54,239
+<i>o melhor para mim</i>
+<i>e para nós a longo prazo.</i>
+
+497
+00:49:21,223 --> 00:49:24,727
+<i>Correto. Infelizmente,</i>
+<i>nenhum do segundo lote sobreviveu.</i>
+
+498
+00:49:31,653 --> 00:49:33,030
+Esse era o meu receio.
+
+499
+00:49:38,786 --> 00:49:39,703
+Tens a certeza?
+
+500
+00:49:50,756 --> 00:49:53,133
+Porque é que a subida não é opção?
+
+501
+00:50:05,478 --> 00:50:07,604
+Muito bem, tens de ser sincero, Jim.
+
+502
+00:50:10,733 --> 00:50:11,567
+Há...
+
+503
+00:50:13,360 --> 00:50:16,696
+Há alguma forma de o poder substituir?
+
+504
+00:50:16,780 --> 00:50:19,824
+Porque o Hyperion pode orbitar a cápsula
+à volta de Marte
+
+505
+00:50:19,908 --> 00:50:22,869
+e enviar um piloto da colónia. Mas...
+
+506
+00:50:23,870 --> 00:50:25,372
+Como esperas que eu...
+
+507
+00:50:36,258 --> 00:50:37,509
+Está bem, eu...
+
+508
+00:50:43,057 --> 00:50:45,560
+Preciso que me expliques todas as opções.
+
+509
+00:50:45,643 --> 00:50:47,228
+Todas as possibilidades.
+
+510
+00:51:02,076 --> 00:51:03,034
+Eu...
+
+511
+00:51:05,745 --> 00:51:06,747
+Eu...
+
+512
+00:51:11,543 --> 00:51:13,212
+Nem sei como o dizer.
+
+513
+00:51:15,089 --> 00:51:18,550
+O depurador de dióxido de carbono
+está danificado permanentemente.
+
+514
+00:51:19,801 --> 00:51:23,848
+As latas de hidróxido de lítio só servem
+para uma solução temporária.
+
+515
+00:51:26,309 --> 00:51:29,019
+Só temos oxigénio suficiente
+para duas pessoas.
+
+516
+00:51:33,440 --> 00:51:36,026
+Pedi ao David para acelerar a pesquisa.
+
+517
+00:51:36,110 --> 00:51:39,113
+Conseguiu que as algas produzissem
+o suficiente para mais um.
+
+518
+00:51:40,280 --> 00:51:41,115
+Só que...
+
+519
+00:51:45,245 --> 00:51:46,454
+Que estás a dizer?
+
+520
+00:51:49,541 --> 00:51:52,210
+Não chegaremos a Marte
+com o Michael a bordo.
+
+521
+00:51:53,586 --> 00:51:56,340
+Vamos acabar por asfixiar
+com o dióxido de carbono
+
+522
+00:51:56,423 --> 00:51:59,509
+umas semanas antes de aterrarmos.
+Quero dizer...
+
+523
+00:52:02,052 --> 00:52:04,472
+Esta nave. Sim, foi construída para dois.
+
+524
+00:52:04,555 --> 00:52:07,016
+O Hyperion começou a arriscar para três,
+
+525
+00:52:07,099 --> 00:52:08,476
+mas não aguenta quatro.
+
+526
+00:52:11,145 --> 00:52:13,605
+Está bem. Estive a pensar nisto.
+
+527
+00:52:13,689 --> 00:52:16,484
+E só temos de chegar à colónia
+em Marte, certo?
+
+528
+00:52:16,984 --> 00:52:18,528
+O problema não é o CO2.
+
+529
+00:52:18,611 --> 00:52:21,614
+Podemos ventilar
+e baixar a pressão atmosférica.
+
+530
+00:52:22,824 --> 00:52:24,576
+Precisamos de oxigénio.
+
+531
+00:52:24,660 --> 00:52:28,705
+Podíamos usar os cilindros
+de oxigénio ou água.
+
+532
+00:52:28,789 --> 00:52:31,125
+Podíamos separar o oxigénio.
+
+533
+00:52:31,625 --> 00:52:34,753
+Não temos o suficiente.
+Isso dá-lhe dias, não meses.
+
+534
+00:52:36,504 --> 00:52:39,132
+Talvez uma missão de reabastecimento?
+Não tripulada?
+
+535
+00:52:40,049 --> 00:52:42,051
+Vamos depressa demais para reabastecer.
+
+536
+00:52:42,134 --> 00:52:45,555
+O Kingfisher é o maior foguetão
+que conseguem construir.
+
+537
+00:52:45,638 --> 00:52:49,099
+Mas há ali um tanque gigante
+cheio de oxigénio líquido
+
+538
+00:52:49,183 --> 00:52:51,269
+para o lançamento. Deve ter sobrado algum.
+
+539
+00:52:51,352 --> 00:52:52,853
+Não há como saber daqui.
+
+540
+00:52:52,938 --> 00:52:55,524
+Não podemos andar nas amarras
+com o Kingfisher acoplado.
+
+541
+00:52:55,607 --> 00:52:57,569
+Está bem, vamos subir e ver.
+
+542
+00:52:57,652 --> 00:52:59,236
+Subir a amarra? Toda?
+
+543
+00:52:59,320 --> 00:53:01,197
+- São 450 metros.
+- A gravidade...
+
+544
+00:53:01,280 --> 00:53:05,785
+O Michael estava a bordo quando partimos,
+por isso usou mais oxigénio e combustível.
+
+545
+00:53:05,868 --> 00:53:07,995
+Mal tínhamos o suficiente
+para chegar aqui.
+
+546
+00:53:09,037 --> 00:53:12,373
+Subir significa arriscar danificar
+os painéis solares,
+
+547
+00:53:12,457 --> 00:53:14,834
+cortar os cabos de energia
+e até cair da nave.
+
+548
+00:53:14,918 --> 00:53:16,252
+O Hyperion investigou.
+
+549
+00:53:16,753 --> 00:53:21,508
+É que não posso arriscar as vossas vidas
+pela possibilidade de o salvarem.
+
+550
+00:53:24,636 --> 00:53:26,764
+Deve haver algo que possamos fazer.
+
+551
+00:53:26,848 --> 00:53:29,226
+Malta, isto não é um pedido de solução.
+
+552
+00:53:30,227 --> 00:53:32,771
+Todo o Hyperion
+está a tentar perceber isto.
+
+553
+00:53:32,855 --> 00:53:36,608
+Digo-vos porque preciso que estejam
+preparados para o que vai acontecer.
+
+554
+00:53:42,781 --> 00:53:44,782
+Quanto tempo lhe resta?
+
+555
+00:53:49,161 --> 00:53:50,747
+Vou falar com ele hoje.
+
+556
+00:53:52,123 --> 00:53:53,125
+Dou-lhe uns dias.
+
+557
+00:53:53,208 --> 00:53:54,292
+Não, esperem.
+
+558
+00:53:55,627 --> 00:53:57,211
+Vais falar com ele hoje?
+
+559
+00:53:57,294 --> 00:54:00,507
+O que vamos fazer,
+pedir-lhe para sair da câmara?
+
+560
+00:54:01,007 --> 00:54:02,842
+Quero dizer, está bem.
+
+561
+00:54:03,636 --> 00:54:06,805
+Exatamente quanto tempo temos
+até ser tarde demais?
+
+562
+00:54:08,307 --> 00:54:10,308
+Tecnicamente, 20 dias.
+
+563
+00:54:10,393 --> 00:54:12,394
+OK. Vamos aproveitar esse tempo.
+
+564
+00:54:12,477 --> 00:54:16,023
+Precisamos da maior margem de erro
+possível, caso aconteça alguma coisa.
+
+565
+00:54:16,106 --> 00:54:20,152
+Margem de erro? Que situação hipotética
+pode ser pior do que esta?
+
+566
+00:54:20,235 --> 00:54:23,613
+Na pior das hipóteses, ele morre,
+mas morremos com ele.
+
+567
+00:54:23,696 --> 00:54:24,531
+Como?
+
+568
+00:54:24,614 --> 00:54:27,325
+O que resta das algas está preso
+por um fio.
+
+569
+00:54:27,409 --> 00:54:29,994
+Ficas bem ao desistir de uma pessoa
+porque o risco...
+
+570
+00:54:30,078 --> 00:54:34,040
+Zoe, a sério, cada dia com ele aqui,
+é um perigo para todos nós.
+
+571
+00:54:34,124 --> 00:54:35,208
+Estou a dizer-te,
+
+572
+00:54:35,292 --> 00:54:38,710
+o Hyperion tem especialistas
+a tentar resolver isto.
+
+573
+00:54:38,794 --> 00:54:40,128
+E não estão aqui!
+
+574
+00:54:40,211 --> 00:54:42,464
+E talvez possamos pensar
+em algo diferente!
+
+575
+00:54:42,548 --> 00:54:43,590
+Construíram a nave.
+
+576
+00:54:44,258 --> 00:54:47,386
+Têm réplicas do MTS.
+Eles conhecem esta nave.
+
+577
+00:54:47,469 --> 00:54:50,973
+- Não sabiam que o Michael estava aqui.
+- Não é a mesma coisa.
+
+578
+00:54:51,473 --> 00:54:53,684
+Vinte dias? Comandante,
+
+579
+00:54:55,185 --> 00:54:57,353
+se não há nada que possamos fazer,
+
+580
+00:54:58,396 --> 00:55:00,898
+temos de tirar a vida a alguém.
+
+581
+00:55:07,947 --> 00:55:12,788
+Não é razoável tirar esse tempo
+e certificar-nos de que vimos tudo?
+
+582
+00:55:21,297 --> 00:55:22,548
+Dez dias. Mais nada.
+
+583
+00:55:23,425 --> 00:55:25,719
+- Comandante...
+- Podemos dar dez dias.
+
+584
+00:55:25,802 --> 00:55:27,178
+Está bem.
+
+585
+00:55:28,012 --> 00:55:30,097
+E o que dizemos ao Michael?
+
+586
+00:55:30,764 --> 00:55:32,725
+Fomos escolhidos para estar aqui.
+
+587
+00:55:33,726 --> 00:55:37,230
+Fomos treinados psicologicamente. Ele não.
+
+588
+00:55:37,313 --> 00:55:40,107
+Ele não pode contribuir para isto
+de forma alguma,
+
+589
+00:55:40,190 --> 00:55:43,318
+acho que o melhor a fazer
+é manter isto entre nós.
+
+590
+00:55:43,819 --> 00:55:45,321
+- Entendido?
+- Sim, Comandante.
+
+591
+00:55:46,238 --> 00:55:47,072
+David?
+
+592
+00:55:49,407 --> 00:55:50,242
+Sim.
+
+593
+00:55:51,869 --> 00:55:52,703
+Entendido.
+
+594
+00:56:23,569 --> 00:56:24,487
+Então,
+
+595
+00:56:25,363 --> 00:56:28,158
+como vai a tua nova missão?
+
+596
+00:56:32,328 --> 00:56:33,163
+Está tudo bem.
+
+597
+00:56:40,085 --> 00:56:40,920
+Está bem.
+
+598
+00:56:43,880 --> 00:56:46,425
+<i>Jim? Pela sanidade deles,</i>
+
+599
+00:56:46,509 --> 00:56:48,218
+têm de experimentar isto.
+
+600
+00:56:51,471 --> 00:56:53,974
+Do que estás a falar?
+A missão está morta!
+
+601
+00:56:55,059 --> 00:56:55,893
+Temos uma...
+
+602
+00:56:58,227 --> 00:57:01,439
+Temos uma viagem de cinco meses,
+mais a de regresso.
+
+603
+00:57:01,523 --> 00:57:04,733
+Ainda preciso que esta tripulação
+possa executar tarefas críticas.
+
+604
+00:57:05,359 --> 00:57:08,698
+Não, não podem fazer isso
+se forem devastados pela culpa.
+
+605
+00:57:15,620 --> 00:57:17,706
+Bem, vou dar os dez dias.
+
+606
+00:57:50,655 --> 00:57:52,657
+Comandante, já passaram três dias.
+
+607
+00:57:53,407 --> 00:57:55,828
+O Hyperion ainda está a tentar perceber?
+
+608
+00:57:57,371 --> 00:57:58,205
+Sim.
+
+609
+00:58:06,255 --> 00:58:07,088
+Desembucha.
+
+610
+00:58:13,137 --> 00:58:17,641
+Não saberiam já,
+se houvesse forma de o salvar?
+
+611
+00:58:20,894 --> 00:58:24,939
+Sei como te sentes,
+mas não é a diretiva neste momento.
+
+612
+00:58:31,696 --> 00:58:33,364
+Estamos a pôr-nos em perigo.
+
+613
+00:58:35,366 --> 00:58:39,453
+Quanto mais tempo passar, mais difícil
+será quando tivermos de dar o passo final.
+
+614
+00:58:55,845 --> 00:58:57,389
+- Levanta o braço.
+- Claro.
+
+615
+00:59:29,754 --> 00:59:31,339
+Foi num incêndio num apartamento.
+
+616
+00:59:34,842 --> 00:59:35,884
+Eu tinha...
+
+617
+00:59:37,970 --> 00:59:39,221
+Tinha nove anos.
+
+618
+00:59:42,099 --> 00:59:44,602
+Acho que começou no apartamento abaixo.
+
+619
+00:59:45,227 --> 00:59:48,397
+E partilhava um quarto com a Ava.
+Ela era...
+
+620
+00:59:50,108 --> 00:59:51,150
+... apenas um bebé.
+
+621
+00:59:55,739 --> 00:59:57,366
+Ficou muito feio aquilo.
+
+622
+00:59:59,117 --> 01:00:03,082
+Mesmo antes de o nosso pai conseguir
+tirar-nos de lá.
+
+623
+01:00:06,084 --> 01:00:07,043
+Isso é corajoso.
+
+624
+01:00:10,463 --> 01:00:11,297
+Sim.
+
+625
+01:00:13,215 --> 01:00:14,175
+Então,
+
+626
+01:00:16,052 --> 01:00:17,220
+ele não sobreviveu?
+
+627
+01:00:19,430 --> 01:00:20,515
+Não.
+
+628
+01:00:22,809 --> 01:00:27,688
+Eu e a Ava separámo-nos
+muitas vezes depois disso.
+
+629
+01:00:29,065 --> 01:00:31,442
+Sim. Mas voltamos sempre a estar juntos.
+
+630
+01:00:31,526 --> 01:00:34,069
+Ela deu-me esta pulseira.
+
+631
+01:00:34,654 --> 01:00:35,489
+Querida.
+
+632
+01:00:36,364 --> 01:00:37,991
+Sim. Sou eu.
+
+633
+01:00:38,825 --> 01:00:39,825
+E é ela.
+
+634
+01:00:40,368 --> 01:00:41,286
+Isso é giro.
+
+635
+01:00:42,912 --> 01:00:45,247
+Sabes que me tornei o tutor legal dela?
+
+636
+01:00:47,874 --> 01:00:52,713
+É por isso que é tão difícil
+
+637
+01:00:53,463 --> 01:00:55,299
+para mim não estar lá para ela.
+
+638
+01:02:59,759 --> 01:03:00,760
+Podemos falar?
+
+639
+01:03:03,137 --> 01:03:04,096
+Sim, claro.
+
+640
+01:03:09,602 --> 01:03:11,938
+Tenho algo muito difícil para te dizer.
+
+641
+01:03:12,814 --> 01:03:13,815
+Está bem.
+
+642
+01:03:15,317 --> 01:03:17,652
+O CDRA está destruído.
+
+643
+01:03:19,822 --> 01:03:24,660
+E mesmo com todas as medidas de segurança
+que temos, não há forma de sobrevivermos.
+
+644
+01:03:27,830 --> 01:03:29,665
+Já o sabemos há três dias.
+
+645
+01:03:31,292 --> 01:03:34,795
+Desde então, o Hyperion
+tem estado a trabalhar no problema.
+
+646
+01:03:37,255 --> 01:03:39,591
+Zoe, a Comandante e eu...
+
+647
+01:03:41,718 --> 01:03:44,596
+Tentámos tudo para descobrir uma forma.
+
+648
+01:03:46,931 --> 01:03:48,140
+Mas matematicamente...
+
+649
+01:03:51,394 --> 01:03:52,312
+... contigo aqui,
+
+650
+01:03:53,272 --> 01:03:56,610
+todos a bordo sufocariam
+antes de chegarmos a Marte.
+
+651
+01:04:01,155 --> 01:04:04,993
+Cada dia que estás connosco,
+representa um perigo para nós
+
+652
+01:04:06,577 --> 01:04:08,121
+e para toda a missão.
+
+653
+01:04:11,707 --> 01:04:13,500
+Ouve, tenho de ser sincero...
+
+654
+01:04:16,043 --> 01:04:19,006
+Foi-me proibido
+de te dizer fosse o que fosse.
+
+655
+01:04:21,799 --> 01:04:22,634
+Porquê?
+
+656
+01:04:24,762 --> 01:04:26,304
+A Zoe convenceu a Barnett
+
+657
+01:04:27,265 --> 01:04:30,602
+a esgotar as nossas margens
+de segurança para tentar salvar-te.
+
+658
+01:04:33,104 --> 01:04:34,731
+Para tentar descobrir algo.
+
+659
+01:04:37,651 --> 01:04:39,611
+Não há nada que possamos fazer?
+
+660
+01:04:43,739 --> 01:04:44,573
+- Há?
+- Não.
+
+661
+01:04:49,953 --> 01:04:52,082
+O Hyperion já saberia a esta altura.
+
+662
+01:05:02,091 --> 01:05:03,467
+Isto seria indolor.
+
+663
+01:05:09,683 --> 01:05:11,810
+Vais apenas adormecer.
+
+664
+01:05:20,776 --> 01:05:21,902
+Lamento, Michael.
+
+665
+01:06:50,535 --> 01:06:51,369
+Olá, Ava.
+
+666
+01:06:55,956 --> 01:06:59,168
+Sei que esta transição
+não foi fácil para ti.
+
+667
+01:07:01,420 --> 01:07:04,755
+E por mais difícil que seja saber isso,
+tenho de encarar
+
+668
+01:07:04,838 --> 01:07:08,258
+o facto de que não estarei contigo sempre.
+
+669
+01:07:10,929 --> 01:07:11,930
+Mas tu és forte.
+
+670
+01:07:13,056 --> 01:07:15,140
+Mais forte do que alguma vez serei.
+
+671
+01:07:18,853 --> 01:07:21,356
+Conheci pessoas incríveis aqui.
+
+672
+01:07:21,940 --> 01:07:23,274
+São inteligentes,
+
+673
+01:07:23,984 --> 01:07:24,902
+carinhosos,
+
+674
+01:07:26,236 --> 01:07:27,071
+motivados.
+
+675
+01:07:28,072 --> 01:07:31,534
+São os melhores no que fazem.
+E vejo muito de ti neles.
+
+676
+01:07:39,624 --> 01:07:41,292
+Tenho de ir, mas...
+
+677
+01:07:43,921 --> 01:07:44,840
+... adoro-te.
+
+678
+01:07:58,813 --> 01:07:59,689
+Michael?
+
+679
+01:08:01,566 --> 01:08:02,441
+Estás bem?
+
+680
+01:08:20,709 --> 01:08:21,543
+Michael?
+
+681
+01:08:36,474 --> 01:08:38,017
+Não tens de fazer isto.
+
+682
+01:08:40,686 --> 01:08:42,189
+Não há mais nada a fazer.
+
+683
+01:08:43,232 --> 01:08:44,232
+Não sabemos isso.
+
+684
+01:08:49,154 --> 01:08:51,364
+Eu sei que lutaste por mim, está bem?
+
+685
+01:08:52,990 --> 01:08:54,910
+Mas isto é diferente.
+
+686
+01:08:57,620 --> 01:08:58,454
+Isto é...
+
+687
+01:09:01,541 --> 01:09:02,959
+É impossível, sabes?
+
+688
+01:09:06,297 --> 01:09:07,130
+Não é.
+
+689
+01:09:24,647 --> 01:09:25,856
+Posso dizer-te algo?
+
+690
+01:09:27,358 --> 01:09:30,153
+Isto aconteceu há 12 anos.
+
+691
+01:09:30,696 --> 01:09:32,197
+Tive um emprego de verão.
+
+692
+01:09:32,989 --> 01:09:36,660
+Devia estar só a vigiar uma praia.
+
+693
+01:09:36,743 --> 01:09:38,745
+Não era salva-vidas. Só uma vigia.
+
+694
+01:09:39,245 --> 01:09:41,831
+Porque havia sinais: "Proibido nadar".
+
+695
+01:09:41,914 --> 01:09:43,875
+Diziam: "Perigo. Proibido nadar."
+
+696
+01:09:46,712 --> 01:09:49,297
+Pensei que ia ler o dia todo.
+
+697
+01:09:50,257 --> 01:09:51,091
+E...
+
+698
+01:09:53,593 --> 01:09:57,597
+... havia uns tipos bêbedos
+que estavam sempre ali numa fogueira.
+
+699
+01:10:02,059 --> 01:10:03,519
+E vejo um tipo na água.
+
+700
+01:10:04,187 --> 01:10:08,649
+E os amigos dele não acordaram
+e estão desmaiados na areia e ele...
+
+701
+01:10:10,776 --> 01:10:12,695
+Estava a afogar-se silenciosamente...
+
+702
+01:10:14,197 --> 01:10:15,448
+... sozinho.
+
+703
+01:10:16,867 --> 01:10:19,495
+E, imediatamente,
+ligo e não recebo resposta.
+
+704
+01:10:20,329 --> 01:10:21,162
+E...
+
+705
+01:10:25,542 --> 01:10:27,128
+As marés são fortes.
+
+706
+01:10:33,799 --> 01:10:37,220
+Entro na água e, quando chego a ele,
+já estou exausta.
+
+707
+01:10:38,472 --> 01:10:40,641
+E tento manter-me acima da água.
+
+708
+01:10:40,724 --> 01:10:44,728
+E estou lá há cinco minutos
+e fico mais tempo.
+
+709
+01:10:49,357 --> 01:10:50,858
+Depois começo a perdê-lo.
+
+710
+01:10:52,485 --> 01:10:53,319
+E,
+
+711
+01:10:54,654 --> 01:10:57,072
+de repente, sinto-me a ser puxada.
+
+712
+01:10:57,698 --> 01:11:01,828
+E alguém agarrou-nos aos dois
+antes de ele escapar.
+
+713
+01:11:01,912 --> 01:11:05,706
+E eles levaram-nos até à praia e pronto.
+
+714
+01:11:11,628 --> 01:11:13,548
+Como sabias que vinha alguém?
+
+715
+01:11:16,884 --> 01:11:17,717
+Não sabia.
+
+716
+01:11:23,599 --> 01:11:24,434
+Não sabia.
+
+717
+01:11:37,157 --> 01:11:38,366
+Temos algum tempo.
+
+718
+01:11:39,367 --> 01:11:40,785
+E isso é em último caso.
+
+719
+01:11:44,330 --> 01:11:45,581
+Não desistirei de ti.
+
+720
+01:11:49,085 --> 01:11:49,961
+Sim?
+
+721
+01:11:50,670 --> 01:11:51,503
+Sim.
+
+722
+01:11:55,675 --> 01:11:56,634
+Sim.
+
+723
+01:11:57,385 --> 01:11:58,345
+Está bem.
+
+724
+01:12:27,331 --> 01:12:29,501
+- O que fizeste, David?
+- Zoe.
+
+725
+01:12:29,584 --> 01:12:31,128
+O que raio fizeste?
+
+726
+01:12:31,211 --> 01:12:33,965
+- O Michael...
+- Não, não se matou!
+
+727
+01:12:34,674 --> 01:12:38,137
+Era o que querias, não era?
+Não tinhas o direito de dizer nada.
+
+728
+01:12:38,220 --> 01:12:41,723
+Nem o direito de ir ao meu laboratório
+e roubar a medicação.
+
+729
+01:12:41,806 --> 01:12:44,351
+- Estava a proteger-nos.
+- A Barnett deu-nos dez dias!
+
+730
+01:12:44,434 --> 01:12:45,269
+Sim.
+
+731
+01:12:45,352 --> 01:12:48,021
+E usar esse tempo está a pôr-nos em risco.
+
+732
+01:12:48,772 --> 01:12:50,565
+O que não percebes, Zoe?
+
+733
+01:12:51,107 --> 01:12:54,152
+Já estamos a fazer tudo para o salvar.
+
+734
+01:12:54,235 --> 01:12:55,819
+Não há mais nada.
+
+735
+01:12:55,903 --> 01:12:59,824
+Só estou a tentar salvar o que resta
+desta missão e isso inclui-te!
+
+736
+01:13:00,324 --> 01:13:01,242
+O Michael.
+
+737
+01:13:02,410 --> 01:13:04,829
+O Michael morreu assim que descolámos.
+
+738
+01:13:06,414 --> 01:13:09,499
+Sempre quiseste livrar-te dele.
+Não estavas a tentar salvá-lo.
+
+739
+01:13:09,582 --> 01:13:10,667
+Nem sequer tentei?
+
+740
+01:13:11,209 --> 01:13:13,170
+Destruí toda a minha pesquisa!
+
+741
+01:13:13,962 --> 01:13:15,422
+Isto! Isto aqui!
+
+742
+01:13:15,505 --> 01:13:17,966
+É a única coisa que nos mantém vivos.
+
+743
+01:13:18,592 --> 01:13:21,636
+Os meus últimos três anos de treino
+foram desperdiçados.
+
+744
+01:13:21,720 --> 01:13:24,389
+Os meus próximos dois anos
+de experimentação desapareceram!
+
+745
+01:13:25,182 --> 01:13:28,100
+Tu, de todos, devias saber o quanto isto
+significa para mim.
+
+746
+01:13:28,184 --> 01:13:30,269
+E desisti de tudo para o salvar!
+
+747
+01:13:31,563 --> 01:13:33,481
+E o que raio fizeste, Zoe?
+
+748
+01:13:34,899 --> 01:13:36,025
+O que fizeste?
+
+749
+01:14:04,095 --> 01:14:06,431
+Como sabemos se há oxigénio suficiente?
+
+750
+01:14:06,932 --> 01:14:09,059
+Não sabemos. E já não temos opções.
+
+751
+01:14:15,398 --> 01:14:17,734
+Isto é para escalar as amarras.
+
+752
+01:14:19,569 --> 01:14:20,570
+Apertas
+
+753
+01:14:21,654 --> 01:14:22,990
+e tens um apoio.
+
+754
+01:14:24,449 --> 01:14:25,992
+Tens de manter a pressão
+
+755
+01:14:27,535 --> 01:14:30,373
+no puxador quando sobes
+ou deslizará para baixo.
+
+756
+01:14:32,791 --> 01:14:34,001
+Queres experimentar?
+
+757
+01:14:34,084 --> 01:14:35,711
+Sei que é contraintuitivo,
+
+758
+01:14:35,794 --> 01:14:38,130
+mas tens de levantar esta perna
+com este braço.
+
+759
+01:14:38,213 --> 01:14:40,089
+Para a direita e depois... Sim.
+
+760
+01:14:42,009 --> 01:14:45,845
+Vais sentir menos gravidade
+ao aproximares-te dos painéis solares.
+
+761
+01:14:45,928 --> 01:14:49,558
+Ao subires as amarras,
+ficará mais fácil, está bem?
+
+762
+01:14:49,642 --> 01:14:50,517
+Está bem.
+
+763
+01:14:52,061 --> 01:14:53,687
+Não faz mal. Estás bem.
+
+764
+01:14:53,771 --> 01:14:55,899
+Recomeçar. Reiniciar. Já está.
+
+765
+01:14:55,982 --> 01:14:57,566
+- Eu trato disso.
+- Sim.
+
+766
+01:14:58,609 --> 01:14:59,652
+Sim.
+
+767
+01:14:59,735 --> 01:15:01,112
+- Queres reiniciar?
+- Não.
+
+768
+01:15:02,864 --> 01:15:03,698
+Foda-se!
+
+769
+01:15:03,782 --> 01:15:05,324
+- Estás bem?
+- Estou.
+
+770
+01:15:35,855 --> 01:15:36,690
+Comandante.
+
+771
+01:15:46,407 --> 01:15:48,867
+Sei que o seu dever
+é proteger a sua tripulação
+
+772
+01:15:49,534 --> 01:15:52,038
+e o risco assumido
+ao dar mais tempo ao Michael.
+
+773
+01:15:53,663 --> 01:15:54,497
+Mas ele...
+
+774
+01:15:58,001 --> 01:16:00,002
+Estamos todos no mesmo barco.
+
+775
+01:16:01,380 --> 01:16:04,425
+Temos de estar dispostos a gastar
+mais do que recursos.
+
+776
+01:16:06,385 --> 01:16:09,012
+Sei que subir a amarra
+nos põe em risco, mas
+
+777
+01:16:09,513 --> 01:16:11,600
+acho que devíamos pôr-nos em risco.
+
+778
+01:16:14,935 --> 01:16:18,689
+Não aguentaria se não tentasse tudo
+para lhe salvar a vida.
+
+779
+01:16:18,772 --> 01:16:19,773
+E, David?
+
+780
+01:16:22,150 --> 01:16:23,485
+Preciso que me ajudes.
+
+781
+01:16:23,986 --> 01:16:26,489
+O Michael não consegue subir a amarra.
+Ele tentou.
+
+782
+01:16:27,824 --> 01:16:29,617
+- Como assim...
+- O Michael sabe.
+
+783
+01:16:35,582 --> 01:16:37,584
+- David, eu sei...
+- Eu faço-o.
+
+784
+01:16:44,091 --> 01:16:46,176
+Vais? Assim do nada?
+
+785
+01:16:57,603 --> 01:16:59,564
+Precisamos de oxigénio para dois.
+
+786
+01:17:04,485 --> 01:17:07,156
+Quando estiveres lá,
+terás de abrir o tanque de <i>lox</i>
+
+787
+01:17:07,239 --> 01:17:09,616
+e transferir o máximo
+que puderes para os cilindros.
+
+788
+01:17:09,699 --> 01:17:12,411
+Não saberás quanto haverá
+até ligares o medidor.
+
+789
+01:17:12,912 --> 01:17:15,080
+Cada cilindro dá para uma pessoa,
+
+790
+01:17:15,165 --> 01:17:18,668
+por isso, a esperança
+é que haja suficiente para duas.
+
+791
+01:17:19,794 --> 01:17:22,922
+Quando furares o tanque,
+a ligação não será perfeita.
+
+792
+01:17:23,005 --> 01:17:26,550
+Certifica-te de que o oxigénio
+que está a sair é direcionado para trás.
+
+793
+01:17:30,637 --> 01:17:31,930
+Pessoal? Ouçam.
+
+794
+01:17:33,973 --> 01:17:37,060
+Vocês nunca treinaram
+para algo tão complexo.
+
+795
+01:17:38,562 --> 01:17:39,938
+<i>Por isso, tenham calma.</i>
+
+796
+01:17:40,021 --> 01:17:41,356
+<i>Comuniquem.</i>
+
+797
+01:17:41,982 --> 01:17:43,192
+<i>E não tenham pressa.</i>
+
+798
+01:17:43,858 --> 01:17:44,858
+<i>Não se apressem.</i>
+
+799
+01:17:48,822 --> 01:17:49,655
+Michael?
+
+800
+01:17:51,324 --> 01:17:53,283
+- Quero que saibas...
+- Não faz mal.
+
+801
+01:17:57,330 --> 01:17:58,164
+Estamos bem.
+
+802
+01:19:26,297 --> 01:19:28,675
+<i>- EV1, verificação.</i>
+- Boa.
+
+803
+01:19:29,426 --> 01:19:31,928
+<i>- EV2, verificação.</i>
+- Boa.
+
+804
+01:19:32,011 --> 01:19:32,888
+<i>Ótimo.</i>
+
+805
+01:19:33,596 --> 01:19:36,308
+<i>Vão sentir a gravidade total no telhado.</i>
+
+806
+01:19:37,016 --> 01:19:39,812
+<i>A pouco mais de 200 metros</i>
+<i>dos painéis solares,</i>
+
+807
+01:19:39,895 --> 01:19:43,398
+<i>mas quanto mais alto forem,</i>
+<i>menos gravidade sentirão.</i>
+
+808
+01:19:43,481 --> 01:19:44,316
+Percebido.
+
+809
+01:19:44,816 --> 01:19:47,068
+<i>Não toquem no cabo com as pinças</i>
+
+810
+01:19:47,151 --> 01:19:49,320
+que transportam a energia
+dos painéis solares.
+
+811
+01:19:49,403 --> 01:19:50,612
+<i>Percebido.</i>
+
+812
+01:19:50,696 --> 01:19:52,489
+<i>Não tocar no cabo da energia.</i>
+
+813
+01:20:16,222 --> 01:20:18,474
+As tonturas são muito piores aqui.
+
+814
+01:20:19,641 --> 01:20:20,726
+Vais ficar bem?
+
+815
+01:20:21,226 --> 01:20:22,436
+Sim.
+
+816
+01:20:23,687 --> 01:20:25,355
+Vou concentrar-me na amarra.
+
+817
+01:20:58,264 --> 01:21:00,348
+Espera, Zo. Preciso de uma pausa.
+
+818
+01:21:09,024 --> 01:21:10,151
+<i>Estado da situação?</i>
+
+819
+01:21:10,985 --> 01:21:14,363
+Estamos bem. Está a ficar mais fácil.
+
+820
+01:21:15,447 --> 01:21:16,283
+Em teoria.
+
+821
+01:21:17,742 --> 01:21:19,077
+Fala por ti.
+
+822
+01:21:22,371 --> 01:21:24,749
+Tenta não usar tanto o tronco, está bem?
+
+823
+01:21:27,460 --> 01:21:28,378
+Está bem.
+
+824
+01:22:24,058 --> 01:22:26,811
+<i>MTS, estamos a meio caminho.</i>
+
+825
+01:22:27,520 --> 01:22:29,897
+Entendido, EV2. Estão na imagem agora.
+
+826
+01:22:38,114 --> 01:22:39,865
+<i>Não tenham pressa.</i>
+
+827
+01:22:41,032 --> 01:22:42,576
+<i>Vão com calma.</i>
+
+828
+01:22:42,659 --> 01:22:46,121
+<i>É fundamental afastarem-se</i>
+<i>dos painéis fotovoltaicos.</i>
+
+829
+01:22:46,872 --> 01:22:49,291
+<i>Podemos perder toda a energia da nave.</i>
+
+830
+01:22:50,792 --> 01:22:51,960
+<i>Permanentemente.</i>
+
+831
+01:22:52,043 --> 01:22:52,878
+Percebido.
+
+832
+01:23:22,618 --> 01:23:24,453
+<i>David, estás pronto?</i>
+
+833
+01:23:25,829 --> 01:23:26,664
+Pronto.
+
+834
+01:23:29,751 --> 01:23:31,919
+<i>Larga. Eu puxo-te.</i>
+
+835
+01:24:02,074 --> 01:24:03,158
+Estás bem?
+
+836
+01:24:04,242 --> 01:24:05,077
+Estou bem.
+
+837
+01:24:09,835 --> 01:24:12,838
+<i>MTS, vamos para o Kingfisher agora.</i>
+
+838
+01:24:13,421 --> 01:24:14,255
+Entendido.
+
+839
+01:24:42,824 --> 01:24:45,995
+<i>Volta a prender-te</i>
+<i>antes que andes demasiado depressa.</i>
+
+840
+01:25:25,533 --> 01:25:27,535
+MTS, estamos no Kingfisher.
+
+841
+01:25:29,162 --> 01:25:31,205
+<i>Ótimo. É bom ouvir isso, EV1.</i>
+
+842
+01:26:15,334 --> 01:26:17,085
+Um, dois, três.
+
+843
+01:26:20,421 --> 01:26:21,255
+Estás bem.
+
+844
+01:26:21,798 --> 01:26:23,508
+Vou descer para o Kingfisher.
+
+845
+01:26:24,468 --> 01:26:25,470
+Tu consegues, Zo.
+
+846
+01:27:14,102 --> 01:27:14,977
+Estás bem, Zo?
+
+847
+01:27:17,397 --> 01:27:18,230
+Sim.
+
+848
+01:27:19,273 --> 01:27:20,232
+Estou bem.
+
+849
+01:27:21,608 --> 01:27:22,609
+Está bem.
+
+850
+01:27:25,070 --> 01:27:26,363
+Muito bem. Entrei.
+
+851
+01:27:26,446 --> 01:27:29,616
+<i>Está bem.</i>
+<i>Procura o tubo de oxigénio líquido atrás.</i>
+
+852
+01:27:30,701 --> 01:27:31,536
+Estou a vê-lo.
+
+853
+01:27:31,619 --> 01:27:33,871
+<i>Ótimo! Dá-me todos os passos.</i>
+
+854
+01:27:34,455 --> 01:27:35,456
+Sim, Comandante.
+
+855
+01:27:44,675 --> 01:27:46,385
+A agarrar o tubo.
+
+856
+01:27:46,468 --> 01:27:47,302
+<i>Entendido.</i>
+
+857
+01:27:51,056 --> 01:27:52,765
+Está bem. Ligação feita.
+
+858
+01:27:52,848 --> 01:27:54,559
+<i>Está bem. Quão bom é o selo?</i>
+
+859
+01:27:57,562 --> 01:27:59,481
+Não está a 100 %.
+
+860
+01:27:59,565 --> 01:28:01,942
+É difícil dizer quanto perdemos, a olho.
+
+861
+01:28:02,776 --> 01:28:05,028
+<i>Vamos tentar perder o mínimo possível.</i>
+
+862
+01:28:05,612 --> 01:28:10,325
+Entendido. Estou pronta
+para ver quanto oxigénio temos aqui.
+
+863
+01:28:30,345 --> 01:28:31,596
+Estamos a 250.
+
+864
+01:28:32,304 --> 01:28:34,557
+Dá para encher pelo menos um cilindro.
+
+865
+01:28:34,640 --> 01:28:36,642
+<i>Entendido. Até agora tudo bem.</i>
+
+866
+01:28:54,161 --> 01:28:55,079
+Vá lá.
+
+867
+01:29:02,335 --> 01:29:03,169
+MTS.
+
+868
+01:29:05,213 --> 01:29:07,340
+Temos oxigénio suficiente.
+
+869
+01:29:08,634 --> 01:29:10,010
+<i>Está a subir.</i>
+
+870
+01:29:10,093 --> 01:29:11,052
+Boa, porra!
+
+871
+01:29:11,136 --> 01:29:12,470
+- Sim.
+<i>- Ainda a subir.</i>
+
+872
+01:29:12,553 --> 01:29:15,223
+Mantém-te concentrada.
+Temos de encher os cilindros.
+
+873
+01:29:15,307 --> 01:29:17,392
+<i>David, manda o primeiro.</i>
+
+874
+01:29:17,475 --> 01:29:18,809
+Entendido. A descer.
+
+875
+01:29:27,359 --> 01:29:28,360
+A caminho.
+
+876
+01:30:09,403 --> 01:30:11,238
+<i>Estás a gostar da vista, David?</i>
+
+877
+01:30:12,239 --> 01:30:13,615
+Não tem piada, Zoe.
+
+878
+01:30:13,699 --> 01:30:14,575
+<i>Está bem.</i>
+
+879
+01:30:16,117 --> 01:30:19,246
+O primeiro cilindro está cheio.
+Estou a desconectá-lo.
+
+880
+01:30:20,289 --> 01:30:22,958
+<i>Ainda tenho muito oxigénio no tanque.</i>
+
+881
+01:30:23,041 --> 01:30:24,168
+Quando quiseres.
+
+882
+01:30:26,337 --> 01:30:28,047
+<i>- A sair.</i>
+- Está bem.
+
+883
+01:30:43,230 --> 01:30:45,982
+MTS, temos o primeiro cilindro.
+
+884
+01:30:46,065 --> 01:30:47,608
+<i>Ótimo. Entendido.</i>
+
+885
+01:30:49,443 --> 01:30:51,447
+<i>O segundo cilindro está a caminho.</i>
+
+886
+01:31:03,168 --> 01:31:04,711
+Como vai isso, Zoe?
+
+887
+01:31:05,295 --> 01:31:08,007
+<i>O tanque ainda está a vazar,</i>
+<i>mas está tudo bem.</i>
+
+888
+01:31:09,049 --> 01:31:10,425
+Segundo cilindro a encher.
+
+889
+01:31:11,135 --> 01:31:12,052
+Parece que...
+
+890
+01:31:13,178 --> 01:31:14,221
+O que se passa?
+
+891
+01:31:17,349 --> 01:31:20,435
+Estamos a receber um aviso
+de tempestade solar. Abortar, EV1!
+
+892
+01:31:20,519 --> 01:31:21,603
+<i>Abortar, EV2!</i>
+
+893
+01:31:23,271 --> 01:31:24,147
+Meu Deus!
+
+894
+01:31:27,567 --> 01:31:29,068
+Quanto tempo temos?
+
+895
+01:31:29,152 --> 01:31:30,361
+<i>Vinte minutos.</i>
+
+896
+01:31:35,074 --> 01:31:37,409
+Zoe! Vamos!
+
+897
+01:31:37,493 --> 01:31:39,077
+Não podemos deixar isto aqui.
+
+898
+01:31:39,161 --> 01:31:41,039
+<i>Este é o oxigénio do Michael.</i>
+
+899
+01:31:41,122 --> 01:31:43,206
+Não há tempo. Tens de o deixar.
+
+900
+01:31:43,957 --> 01:31:45,668
+<i>Uma ejeção de massa coronal.</i>
+
+901
+01:31:45,751 --> 01:31:49,423
+<i>A radiação vai ser mortal.</i>
+<i>Têm de voltar já!</i>
+
+902
+01:31:51,132 --> 01:31:52,133
+<i>Zoe, vá lá!</i>
+
+903
+01:31:54,593 --> 01:31:56,220
+<i>- Zoe!</i>
+- Sim, já vou!
+
+904
+01:32:05,854 --> 01:32:07,397
+<i>Vá lá, Zoe. Temos de ir.</i>
+
+905
+01:32:08,817 --> 01:32:10,359
+Estou fora. Estou a subir.
+
+906
+01:32:13,738 --> 01:32:14,573
+Credo.
+
+907
+01:32:27,294 --> 01:32:29,170
+Está bem. Deixa-me prender-te.
+
+908
+01:32:29,253 --> 01:32:30,171
+Muito bem.
+
+909
+01:32:34,049 --> 01:32:35,050
+- Está bem.
+- Boa?
+
+910
+01:32:35,133 --> 01:32:36,052
+Vou subir.
+
+911
+01:32:54,112 --> 01:32:54,946
+Certo.
+
+912
+01:32:59,367 --> 01:33:00,201
+Merda!
+
+913
+01:33:05,623 --> 01:33:07,165
+Zoe? David? Verificação.
+
+914
+01:33:10,418 --> 01:33:12,505
+Estamos a um quarto do caminho do MTS.
+
+915
+01:33:20,513 --> 01:33:21,848
+Estou nas últimas, Zo.
+
+916
+01:33:22,390 --> 01:33:25,560
+- Vai começar a ficar mais fácil. Vá lá.
+<i>- Faltam oito minutos.</i>
+
+917
+01:33:37,113 --> 01:33:38,197
+- Michael.
+- Sim?
+
+918
+01:33:38,281 --> 01:33:39,697
+- Fecha as persianas.
+- Sim.
+
+919
+01:33:48,707 --> 01:33:49,667
+Fica aí.
+
+920
+01:33:55,880 --> 01:33:57,256
+<i>A que distância estão?</i>
+
+921
+01:33:58,215 --> 01:33:59,718
+A passar o painel solar.
+
+922
+01:34:10,103 --> 01:34:11,271
+Vai.
+
+923
+01:34:11,813 --> 01:34:13,314
+Vou mesmo atrás de ti.
+
+924
+01:34:45,140 --> 01:34:45,975
+Merda.
+
+925
+01:34:46,683 --> 01:34:47,517
+Zoe?
+
+926
+01:34:48,602 --> 01:34:50,269
+Merda. Zoe, consegues ouvir?
+
+927
+01:34:53,022 --> 01:34:54,357
+Não consigo abrandar.
+
+928
+01:34:56,610 --> 01:35:00,029
+<i>Prende-te! No cabo!</i>
+<i>Zoe, estás a ir depressa demais!</i>
+
+929
+01:35:00,113 --> 01:35:02,741
+- Não consigo!
+<i>- Prende-te!</i>
+
+930
+01:35:05,369 --> 01:35:06,203
+Zoe?
+
+931
+01:35:50,042 --> 01:35:51,668
+- Zoe?
+- David.
+
+932
+01:35:51,751 --> 01:35:54,045
+- Para trás.
+- David, caiu!
+
+933
+01:36:08,600 --> 01:36:10,811
+Vá lá. Vamos. Apanhei-te.
+
+934
+01:36:11,479 --> 01:36:13,647
+Levanta-te. Está bem.
+
+935
+01:36:16,524 --> 01:36:17,358
+Vamos.
+
+936
+01:37:02,904 --> 01:37:03,739
+Olhem.
+
+937
+01:37:05,323 --> 01:37:07,950
+Ainda temos um depósito cheio a vazar.
+
+938
+01:37:09,910 --> 01:37:11,120
+Vamos perdê-lo.
+
+939
+01:37:13,289 --> 01:37:14,624
+Se conseguirmos ir lá...
+
+940
+01:37:20,546 --> 01:37:22,548
+Três de nós ainda sobreviverão.
+
+941
+01:37:25,300 --> 01:37:27,428
+Neste momento, a tempestade é letal.
+
+942
+01:37:28,304 --> 01:37:29,722
+Talvez possamos esperar.
+
+943
+01:37:31,516 --> 01:37:33,475
+Quanto tempo durará a tempestade?
+
+944
+01:37:42,610 --> 01:37:43,444
+Horas.
+
+945
+01:37:58,544 --> 01:37:59,378
+Eu posso ir.
+
+946
+01:38:00,921 --> 01:38:01,797
+Michael...
+
+947
+01:38:04,175 --> 01:38:06,760
+Porque queres fazê-lo? Não tens o treino.
+
+948
+01:38:07,428 --> 01:38:09,847
+Se não voltares, um de nós também morre.
+
+949
+01:38:54,558 --> 01:38:55,851
+- Eu faço.
+- Eu vou.
+
+950
+01:38:59,105 --> 01:39:00,063
+Eu consigo.
+
+951
+01:39:05,569 --> 01:39:06,403
+Eu consigo.
+
+952
+01:39:14,121 --> 01:39:15,121
+Sim.
+
+953
+01:39:15,913 --> 01:39:16,914
+Eu consigo.
+
+954
+01:39:16,998 --> 01:39:18,250
+- Espera.
+- David.
+
+955
+01:39:20,002 --> 01:39:21,836
+Não te posso deixar fazer isto.
+
+956
+01:39:23,004 --> 01:39:25,047
+Então, volta para casa,
+
+957
+01:39:26,465 --> 01:39:27,466
+vai ter um filho
+
+958
+01:39:28,884 --> 01:39:30,719
+e manda-os para Yale, está bem?
+
+959
+01:39:36,684 --> 01:39:38,811
+Espera. Zoe, eu...
+
+960
+01:39:47,571 --> 01:39:48,782
+- Não, Zoe.
+- Eu sei.
+
+961
+01:39:49,991 --> 01:39:51,325
+- Lamento.
+- Eu sei.
+
+962
+01:40:01,752 --> 01:40:03,545
+- Gostava de o fazer.
+- Eu sei.
+
+963
+01:40:05,297 --> 01:40:06,131
+Eu sei.
+
+964
+01:46:42,948 --> 01:46:44,449
+<i>Candidatei-me ao programa HARP</i>
+
+965
+01:46:44,532 --> 01:46:48,411
+<i>porque achei que seria uma história</i>
+<i>engraçada ser rejeitada pelo Hyperion.</i>
+
+966
+01:46:50,288 --> 01:46:53,583
+<i>Mas agora percebo que esta é</i>
+<i>uma daquelas oportunidades raras</i>
+
+967
+01:46:53,666 --> 01:46:58,087
+<i>que pode dar sentido à minha vida</i>
+<i>para além daquilo que eu imaginava.</i>
+
+968
+01:47:38,421 --> 01:47:41,799
+A NETFLIX APRESENTA
+
+969
+01:55:53,336 --> 01:55:58,341
+Legendas: Patrícia Abreu
+
