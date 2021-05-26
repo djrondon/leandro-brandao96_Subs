@@ -1,0 +1,1988 @@
+﻿1
+00:00:01,610 --> 00:00:03,742
+<i>Anteriormente em Raio Negro<i>
+
+2
+00:00:03,786 --> 00:00:06,286
+Quando Gravedigger usou a Relâmpago
+para inactivar o escudo da ASA,
+
+3
+00:00:06,310 --> 00:00:09,270
+o aumento de energia resultante
+irradiou o leito rochoso de Freeland.
+
+4
+00:00:09,313 --> 00:00:11,315
+Transmutando os minerais
+em Promethium.
+
+5
+00:00:11,359 --> 00:00:12,727
+Assim que destruimos o emissor,
+
+6
+00:00:12,751 --> 00:00:14,468
+cada meta em Freeland
+irá recuperar seus poderes.
+
+7
+00:00:14,492 --> 00:00:15,580
+Do que estamos à espera?
+
+8
+00:00:15,624 --> 00:00:17,017
+Eu vou caçar-te.
+
+9
+00:00:17,060 --> 00:00:20,063
+Camera ao vivo, chefe Lopez.
+O mundo está a ver.
+
+10
+00:00:20,107 --> 00:00:23,675
+<i>Tu e todos metas imundos merecem
+ser varridos da superficie da Terra.<i>
+
+11
+00:00:26,591 --> 00:00:30,465
+Temos relatos confirmados que
+a Relâmpago permanece activa.
+
+12
+00:00:30,508 --> 00:00:32,423
+Um descuido que corrigirei
+em breve.
+
+13
+00:00:32,467 --> 00:00:34,773
+Teu lugar foi rescindido.
+
+14
+00:00:34,817 --> 00:00:38,299
+É altura de todos se curvarem
+e jurarem lealdade a mim.
+
+15
+00:00:38,342 --> 00:00:39,865
+Saudem todos os rei.
+
+16
+00:00:39,909 --> 00:00:41,432
+Tu ganhaste, Tobias.
+
+17
+00:00:41,476 --> 00:00:43,454
+Estou pronto para assinar
+a escritura da casa do meu pai.
+
+18
+00:00:43,478 --> 00:00:45,915
+Tudo que Tobias tem atirado
+contra nós está ligado ao facto
+
+19
+00:00:45,958 --> 00:00:48,318
+dele conhecer nossas identidades
+secretas. E se mudarmos isso?
+
+20
+00:00:48,613 --> 00:00:51,138
+O que tens aqui?
+
+21
+00:00:53,444 --> 00:00:54,987
+- Tens uma oportunidade.
+- Porque tens o telefone do pai?
+
+22
+00:00:55,011 --> 00:00:58,884
+Vê por ti própria.
+O Jefferson Pierce está morto.
+
+24
+00:01:22,995 --> 00:01:24,823
+A fotogrrafia não é falsa.
+Ela bate certo.
+
+25
+00:01:24,867 --> 00:01:26,845
+E isto foi mesmo enviado
+do telefone do Jefferson.
+
+26
+00:01:26,869 --> 00:01:28,890
+- Onde está o telefone dele agora?
+- Ele não emite sinal.
+
+27
+00:01:28,914 --> 00:01:30,588
+Scaneei os satélites
+pelo relógio dele,
+
+28
+00:01:30,612 --> 00:01:32,135
+e verifiquei cada camera
+
+29
+00:01:32,179 --> 00:01:34,094
+num raio de dez milhas
+da sua última localização.
+
+30
+00:01:34,137 --> 00:01:35,573
+Não há nenhum sinal
+do Jefferson.
+
+31
+00:01:35,617 --> 00:01:36,966
+Não consigo fazer isto.
+
+32
+00:01:37,009 --> 00:01:39,229
+- Lamento. Não há tempo para isso.
+- Anissa...
+
+33
+00:01:39,273 --> 00:01:40,883
+O Tobias está ali fora.
+
+34
+00:01:40,926 --> 00:01:43,299
+Com as mãos no pescoço de
+Freeland e ele vem atrás de nós.
+
+35
+00:01:43,320 --> 00:01:45,279
+Precisamos dos nossos poderes
+de volta imediatamente.
+
+36
+00:01:45,322 --> 00:01:46,845
+Tens razão.
+
+37
+00:01:46,889 --> 00:01:50,762
+O Jefferson é me filho, mas é
+lutar agora, fazer pesar depois.
+
+38
+00:01:50,806 --> 00:01:52,851
+Sabia que deveria ter
+matado o Tobias antes.
+
+39
+00:01:52,895 --> 00:01:54,679
+Vou consertar isso agora mesmo.
+
+40
+00:01:54,723 --> 00:01:57,813
+Não. Pensa, sim? Ele mandou-te
+um SMS. Sabe como são teus podres.
+
+41
+00:01:57,856 --> 00:01:59,336
+Ele está a usar um isco
+para ti, querida.
+
+42
+00:01:59,380 --> 00:02:01,338
+A pior coisa que podes fazer
+é mordê-lo.
+
+43
+00:02:01,382 --> 00:02:03,819
+Não o vou deixar safar-se
+com o matar o pai.
+
+44
+00:02:03,862 --> 00:02:07,257
+Ele não se safará...
+Se trabalharmos juntos.
+
+45
+00:02:07,301 --> 00:02:10,217
+- Ele tem razão, sim?
+- Está bem.
+
+47
+00:02:10,260 --> 00:02:12,175
+Gambi, o algoritmo que fizemos
+para encontrar o emissor
+
+48
+00:02:12,219 --> 00:02:14,264
+que está a nulificar
+os poderes, está a funcionar?
+
+49
+00:02:14,308 --> 00:02:16,875
+Sim, parece que sim. Devemos
+ter uma localização em breve.
+
+50
+00:02:16,919 --> 00:02:18,964
+Muito bem. Assim que tivermos
+a localização, partimos.
+
+51
+00:02:19,008 --> 00:02:20,923
+E a Força Tarefa Meta
+da policia de Freeland?
+
+52
+00:02:20,966 --> 00:02:22,466
+Como chegamos ao emissor
+com eles atrás de nós?
+
+53
+00:02:22,490 --> 00:02:24,163
+Não te precisas de preocupar
+com o detective Shakur.
+
+54
+00:02:24,187 --> 00:02:25,884
+Ele já tem a Looker sob custódia,
+
+55
+00:02:25,928 --> 00:02:29,061
+e ela disse que tramou a mim
+e ao Jefferson para o Tobias.
+
+56
+00:02:30,628 --> 00:02:32,021
+A policia não irá interferir.
+
+57
+00:02:32,511 --> 00:02:36,001
+Mas ainda assim o Tobias tem
+muitos atiradores com DEG,
+
+58
+00:02:36,025 --> 00:02:38,158
+e uma meta que pode nulificar
+poderes à vontade.
+
+59
+00:02:38,201 --> 00:02:39,811
+Escuta, não quero saber, sim?
+
+60
+00:02:39,855 --> 00:02:41,813
+Ele matou o meu pai e está
+a arrastar a nossa city.
+
+61
+00:02:41,857 --> 00:02:44,164
+Tobias Whale vai ao chão!
+
+62
+00:02:56,785 --> 00:03:00,789
+Posso pedir que todos se unam
+a mim no renascimento de Freeland?
+
+63
+00:03:01,703 --> 00:03:06,229
+Sofremos com gangues e metas
+há já tempo demais.
+
+64
+00:03:06,273 --> 00:03:08,927
+Mas esta é uma nova era
+
+65
+00:03:09,667 --> 00:03:12,322
+e o infeliz passado
+está morto e foi-se.
+
+66
+00:03:12,366 --> 00:03:16,500
+Unam-se a mim na contrução de
+um futuro brilhante para Freeland.
+
+67
+00:03:17,545 --> 00:03:19,895
+Vamos tornar Freeland
+grande de novo.
+
+68
+00:04:02,024 --> 00:04:04,200
+Vamos, meu.
+Tens que estar aí.
+
+69
+00:04:05,332 --> 00:04:06,811
+Muito bem, escutem.
+
+70
+00:04:07,290 --> 00:04:09,292
+Lopez estava no limite.
+
+71
+00:04:09,336 --> 00:04:12,164
+Agora ela desapareceu no meio
+do seu turno.
+
+72
+00:04:12,208 --> 00:04:14,297
+E falta um meta-impulsionador.
+
+73
+00:04:14,341 --> 00:04:18,562
+Fiquem avisados, ela tem
+poderes de absorção de energia,
+
+74
+00:04:19,433 --> 00:04:21,130
+e ela está louca.
+
+75
+00:04:54,206 --> 00:04:55,382
+Não!
+
+77
+00:05:01,213 --> 00:05:02,693
+Alguém consegue ouvir-me?
+
+78
+00:05:03,999 --> 00:05:07,524
+Olá? Olá!
+
+79
+00:05:11,267 --> 00:05:12,268
+Não...
+
+80
+00:05:15,097 --> 00:05:16,316
+Eu preciso de ajuda!
+
+82
+00:05:19,797 --> 00:05:21,277
+Olá!
+
+83
+00:05:23,061 --> 00:05:24,411
+Não.
+
+84
+00:05:49,610 --> 00:05:52,047
+Já o tenho.
+Localizei o emissor.
+
+85
+00:05:52,090 --> 00:05:54,179
+Está em West Freeland
+num parque industrial.
+
+86
+00:05:54,223 --> 00:05:56,225
+- Vamos.
+- Apenas esperem.
+
+88
+00:05:56,268 --> 00:06:00,098
+Esse parque industrial é a base
+da Drakestone Security.
+
+91
+00:06:01,404 --> 00:06:03,580
+- Espera, tu conheces-os?
+- Mais do que gostaria.
+
+92
+00:06:03,624 --> 00:06:06,235
+Tobias Whale é dono da Drakestone
+através de empresas de fachada.
+
+93
+00:06:07,758 --> 00:06:10,805
+É basicamente como a Blackwater.
+Mas com mais alta tecnologia.
+
+94
+00:06:10,848 --> 00:06:13,547
+- Sim, bem, não estou preocupada.
+- Mas deverias estar.
+
+96
+00:06:13,590 --> 00:06:15,699
+Localizei o emissor dentro
+do Mausoléu Tori.
+
+97
+00:06:15,723 --> 00:06:19,857
+Está situado de tal modo a não
+chegar a ele sem alertar a segurança.
+
+98
+00:06:19,901 --> 00:06:22,599
+Além do treino militar
+eles as novas DEG.
+
+99
+00:06:22,643 --> 00:06:25,297
+Sem vossos poderes, não vão
+querer ser atingidos por elas.
+
+100
+00:06:25,341 --> 00:06:28,692
+E temos que assumir que ele
+tem todo o tabuleiro estudado,
+
+101
+00:06:28,736 --> 00:06:30,955
+E acredita, com intenção letal.
+
+102
+00:06:30,999 --> 00:06:33,262
+Querida, não nos conseguimos
+vingar se estivermos mortos.
+
+103
+00:06:33,305 --> 00:06:34,829
+Está bem, escuto-te.
+Mas vamos planear.
+
+104
+00:06:36,352 --> 00:06:37,745
+Onde raios está a JJ?
+
+105
+00:06:49,191 --> 00:06:52,324
+- JJ, o que estás a fazer?
+- A obter mais poder.
+
+107
+00:06:52,368 --> 00:06:54,544
+Explodir antes não foi um
+aviso já súbtil para ti?
+
+108
+00:06:54,588 --> 00:06:58,461
+Se Tobias me pôs um isco, tenho
+que fazer algo que ele não espere.
+
+109
+00:06:58,505 --> 00:07:00,507
+Ou ele irá matar-nos a todos
+como ele matou o pai.
+
+110
+00:07:44,507 --> 00:07:47,336
+Jen!
+Graças a Deus.
+
+111
+00:07:50,731 --> 00:07:52,863
+Minha jovem, o que estavas
+a fazer? Eu disse-te...
+
+112
+00:07:52,907 --> 00:07:56,127
+Está bem, está bem.
+E fui, fiz aquilo e consegui.
+
+114
+00:07:56,824 --> 00:07:59,348
+- Onde estão todos?
+- Foram atrás do emissor.
+
+115
+00:07:59,391 --> 00:08:00,915
+Certo.
+Então vou partir.
+
+117
+00:08:04,875 --> 00:08:06,137
+Estás bem?
+
+118
+00:08:07,574 --> 00:08:10,098
+Sim, só fiquei um pouco
+zonza por um segundo.
+
+119
+00:08:10,141 --> 00:08:12,796
+Isso é demasiada energia
+da ionosfera.
+
+120
+00:08:12,840 --> 00:08:15,103
+- Está a deixar-te instável.
+- Eu estou bem, mãe.
+
+121
+00:08:16,408 --> 00:08:17,453
+Tu estás bem?
+
+122
+00:08:18,672 --> 00:08:19,672
+Não.
+
+123
+00:08:21,457 --> 00:08:24,137
+Estava a pensar como seria
+abraçar teu pai uma última vez.
+
+124
+00:08:26,288 --> 00:08:28,029
+Mas temos que fazer
+uns testes, está bem?
+
+125
+00:08:28,682 --> 00:08:29,682
+Está bem.
+
+126
+00:08:33,164 --> 00:08:37,081
+- Porque estás com esse olhar?
+- Temos que ir para os túneis.
+
+128
+00:08:53,054 --> 00:08:57,537
+Eu vou tirar-te tudo
+e todos que tu amas.
+
+129
+00:08:58,276 --> 00:09:01,976
+Posso também dizer-te,
+eu matei o teu papá...
+
+130
+00:09:03,107 --> 00:09:07,764
+És mesmo filho do teu pai.
+E vais morrer também como ele.
+
+132
+00:09:09,940 --> 00:09:10,940
+Não!
+
+133
+00:09:12,073 --> 00:09:14,597
+Não, não, não, não!
+
+134
+00:09:16,904 --> 00:09:19,341
+Tobias!
+
+135
+00:09:20,081 --> 00:09:21,822
+Seu filho da mãe!
+
+136
+00:09:24,128 --> 00:09:25,260
+Maldição!
+
+137
+00:09:25,869 --> 00:09:28,350
+Não!
+
+138
+00:09:57,379 --> 00:09:58,946
+Não te preocupes com isto.
+
+139
+00:10:00,208 --> 00:10:01,601
+Esquece que isto aconteceu.
+
+140
+00:10:04,865 --> 00:10:06,518
+Sou tão mau quanto o Tobias.
+
+141
+00:10:06,562 --> 00:10:09,739
+Não digas isso.
+Nem sequer penses isso.
+
+142
+00:10:09,783 --> 00:10:11,132
+Tira isso para fora da tua cabeça.
+
+143
+00:10:12,307 --> 00:10:14,178
+Ainda vejo a cara dele
+quando ele morreu.
+
+144
+00:10:16,050 --> 00:10:17,138
+Eu sou um monstro.
+
+145
+00:10:18,052 --> 00:10:19,140
+Pára.
+
+146
+00:10:20,445 --> 00:10:24,319
+Aquele tipo era um assassino
+conhecido e membro dos Os Cem.
+
+148
+00:10:24,362 --> 00:10:27,148
+Ele apontou-te uma arma
+e ia matar-te a sangue frio.
+
+149
+00:10:27,583 --> 00:10:29,367
+Reagiste por instinto, Jeff.
+
+150
+00:10:30,847 --> 00:10:34,329
+Foi autodefesa.
+Nada mais.
+
+151
+00:10:37,332 --> 00:10:40,552
+Nunca mais.
+Não quero estes poderes.
+
+152
+00:10:41,728 --> 00:10:42,859
+Eu ensino-te.
+
+153
+00:10:44,513 --> 00:10:47,342
+Irás aprender a usá-los,
+a controlá-los para o bem.
+
+154
+00:10:49,692 --> 00:10:50,692
+Não.
+
+155
+00:10:51,172 --> 00:10:52,826
+Estás magoado agora, filho.
+
+156
+00:10:54,218 --> 00:10:55,393
+Mas não desistas.
+
+157
+00:10:56,656 --> 00:10:57,700
+Aprende com isto.
+
+158
+00:10:59,267 --> 00:11:02,662
+Teus poderes apropriadamente
+usados podem dar esperança.
+
+159
+00:11:03,358 --> 00:11:05,186
+Esperança à tua cidade
+e ao seu povo.
+
+160
+00:11:07,057 --> 00:11:08,929
+Só precisas de um código, Jeff.
+
+161
+00:11:10,757 --> 00:11:12,541
+Juntos encontraremos um para ti.
+
+162
+00:12:03,853 --> 00:12:05,899
+Deviamos talvez...
+Deviamos talves abrandar.
+
+164
+00:12:08,684 --> 00:12:13,602
+- Meu, adoro mesmo respirar ar.
+- Foi esquisito dizer isso.
+
+166
+00:12:15,256 --> 00:12:16,561
+Tu és esquisito.
+
+167
+00:12:16,605 --> 00:12:20,304
+Se eu o digo, então
+por definição, não é.
+
+168
+00:12:20,348 --> 00:12:21,305
+Certo.
+
+169
+00:12:23,351 --> 00:12:24,700
+JJ, estás bem?
+
+170
+00:12:24,744 --> 00:12:26,920
+- Vou chamar a tua mãe.
+- Não, não chames.
+
+171
+00:12:34,101 --> 00:12:35,450
+Jen!
+
+172
+00:12:36,668 --> 00:12:37,668
+Como?
+
+173
+00:12:41,717 --> 00:12:45,025
+- Eu matei-te.
+- Não, roubaste o meu ADN.
+
+175
+00:12:45,721 --> 00:12:47,723
+Tu roubaste a minha vida
+e deixaste-me como morto.
+
+176
+00:12:47,767 --> 00:12:50,334
+Mas tenho estado na tua
+cabeça todo o tempo, amor.
+
+177
+00:12:51,727 --> 00:12:52,772
+Agora estou de volta.
+
+178
+00:13:06,786 --> 00:13:08,396
+Em posição.
+
+179
+00:13:11,965 --> 00:13:13,488
+Muito bem, entendido.
+Prepara-te.
+
+180
+00:13:25,674 --> 00:13:26,675
+Entrei.
+
+181
+00:14:23,601 --> 00:14:24,951
+Para trás!
+
+182
+00:15:52,299 --> 00:15:54,518
+- Parado!
+- Não disparem, Rendo-me.
+
+183
+00:16:17,846 --> 00:16:20,936
+Foi de mim ou a minha mulher
+estava a gostar dos seus poderes?
+
+184
+00:16:21,676 --> 00:16:24,374
+- Não tenho queixas.
+- Acho que sentia a falta deles.
+
+186
+00:16:25,332 --> 00:16:26,507
+Vá, vamos.
+
+187
+00:16:46,875 --> 00:16:47,963
+Vamos então.
+
+188
+00:16:58,582 --> 00:16:59,757
+Solta-a!
+
+189
+00:17:00,541 --> 00:17:01,803
+Não!
+
+190
+00:17:03,718 --> 00:17:05,024
+Não devias ter feito isso.
+
+191
+00:17:21,997 --> 00:17:23,346
+É melhor rezares para
+que ele esteja bem.
+
+192
+00:17:25,174 --> 00:17:28,525
+- O que raios és tu?
+- Não tens palavras para isso.
+
+194
+00:17:28,569 --> 00:17:33,400
+Julgas que todas vidas tem forma.
+Não conheces a vida para o além.
+
+196
+00:17:33,443 --> 00:17:36,098
+Passei toda minha vida no Esmalte,
+
+197
+00:17:36,142 --> 00:17:39,493
+observando-os aqui embaixo
+na luz. Com corpos.
+
+199
+00:17:40,189 --> 00:17:42,713
+Capaz de tocarem.
+De respirarem.
+
+200
+00:17:42,757 --> 00:17:45,977
+- O que é o "Esmalte"?
+- O que chamam de "ionosfera".
+
+201
+00:17:46,630 --> 00:17:49,329
+Vi-te a entrar lá e sair
+como te apetecia.
+
+202
+00:17:49,372 --> 00:17:51,940
+Tanto em carne como em energia.
+
+203
+00:17:52,636 --> 00:17:53,942
+E eu odiei-te.
+
+204
+00:17:55,944 --> 00:17:57,598
+Cada vez que entravas lá
+
+205
+00:17:57,641 --> 00:18:01,210
+eu desejava-me mais perto e mais
+perto do teu comprimento de onda
+
+206
+00:18:01,254 --> 00:18:04,518
+até que finalmente consegui.
+
+207
+00:18:05,475 --> 00:18:06,607
+E eu apanhei-te.
+
+208
+00:18:07,477 --> 00:18:08,652
+Nós eramos uma.
+
+209
+00:18:09,653 --> 00:18:10,872
+E depois apenas eu.
+
+210
+00:18:13,179 --> 00:18:14,615
+Mas ainda não era carne.
+
+211
+00:18:16,399 --> 00:18:19,098
+Assim fiquei decepcionada.
+
+212
+00:18:20,621 --> 00:18:23,624
+Julgava que nunca iria
+saber como era sentir.
+
+213
+00:18:25,974 --> 00:18:28,107
+Que iria sempre viver
+na escuridão.
+
+214
+00:18:28,150 --> 00:18:29,195
+Eu entendo.
+
+215
+00:18:31,284 --> 00:18:33,262
+Mas só porque não gostas da tua
+vida, não diz que podes tirar a minha.
+
+216
+00:18:33,286 --> 00:18:34,983
+Eu já o fiz.
+
+217
+00:18:36,158 --> 00:18:38,856
+Tenho as tuas memórias,
+os teus sentimentos...
+
+218
+00:18:39,509 --> 00:18:40,509
+Tua familia.
+
+219
+00:18:42,425 --> 00:18:44,123
+Todas as coisas.
+
+220
+00:18:45,080 --> 00:18:47,213
+E não irei deixar
+que tu me tires isso.
+
+221
+00:19:06,449 --> 00:19:07,668
+Deus Pai...
+
+222
+00:19:11,541 --> 00:19:12,847
+Eu rezo...
+
+223
+00:19:14,588 --> 00:19:16,503
+com meu último fôlego...
+
+224
+00:19:16,546 --> 00:19:17,678
+Por favor...
+
+225
+00:19:20,333 --> 00:19:21,943
+Protege a minha familia.
+
+226
+00:19:27,340 --> 00:19:28,863
+Protege a minha cidade.
+
+227
+00:19:34,869 --> 00:19:35,957
+Pai...
+
+228
+00:19:36,653 --> 00:19:38,655
+Pai Deus, eu rezo...
+
+229
+00:19:41,441 --> 00:19:42,746
+Rezo para que seja...
+
+230
+00:19:43,704 --> 00:19:44,879
+merecedor...
+
+231
+00:19:48,274 --> 00:19:50,667
+de ser recebido no teu Reino.
+
+233
+00:20:05,160 --> 00:20:06,422
+Para trás de mim.
+
+234
+00:21:09,703 --> 00:21:12,619
+Está na altura de comeres
+as tuas malditas palavras.
+
+235
+00:21:15,970 --> 00:21:16,970
+Pai...
+
+236
+00:21:20,844 --> 00:21:21,889
+Pai.
+
+237
+00:21:28,243 --> 00:21:30,245
+Lamento que tenhas
+que ter visto aquilo.
+
+238
+00:21:32,029 --> 00:21:34,989
+Lamento mais ainda não estar
+por cá para te ajudar com isso.
+
+239
+00:21:37,731 --> 00:21:40,168
+Tu...
+Foste um bom homem.
+
+240
+00:21:41,343 --> 00:21:42,736
+Enfrentaste um demónio.
+
+241
+00:21:44,738 --> 00:21:46,914
+Mesmo com poderes,
+eu sofri o mesmo destino.
+
+242
+00:21:47,697 --> 00:21:49,482
+Não, tu fizeste o teu
+destino, filho.
+
+243
+00:21:50,221 --> 00:21:52,485
+Começando pelo código que evitou
+que perdesses o teu caminho
+
+244
+00:21:52,528 --> 00:21:53,703
+e te tornasses como ele.
+
+245
+00:21:55,009 --> 00:21:56,053
+Sabes?
+
+246
+00:21:56,793 --> 00:21:58,491
+O rapaz dos Os Cem que mataste?
+
+247
+00:22:01,537 --> 00:22:04,453
+Sabes, isso que estás a sentir?
+
+248
+00:22:04,497 --> 00:22:05,541
+Isso é vergonha.
+
+249
+00:22:06,281 --> 00:22:08,327
+O Tobias não sente vergonha.
+
+250
+00:22:08,370 --> 00:22:12,374
+E é por isso que nunca serás como
+ele e porque és quem o vai deter.
+
+251
+00:22:15,290 --> 00:22:16,509
+Eu tentei, pai.
+
+252
+00:22:18,206 --> 00:22:19,903
+Tentei durante 20 anos.
+
+253
+00:22:22,950 --> 00:22:23,951
+Ele venceu.
+
+254
+00:22:26,040 --> 00:22:27,041
+Ele matou-me.
+
+255
+00:22:29,783 --> 00:22:31,872
+Não tenho o que é preciso
+para o deter.
+
+256
+00:22:31,915 --> 00:22:33,961
+Não, tens tudo o que precisas.
+
+257
+00:22:34,527 --> 00:22:36,616
+Nada mais de te esconderes
+debaixo da cama, filho.
+
+258
+00:22:37,878 --> 00:22:39,967
+Para poderes alcançar
+o que nunca conseguiste,
+
+259
+00:22:40,010 --> 00:22:41,969
+terás que usar o que
+nunca tiveste.
+
+260
+00:22:44,450 --> 00:22:48,018
+Por isso vai buscar isso
+e acaba com isto.
+
+261
+00:22:53,850 --> 00:22:55,025
+Detective Shakur!
+
+262
+00:23:01,902 --> 00:23:03,077
+O que tens?
+
+263
+00:23:03,120 --> 00:23:06,907
+Pode soar a loucura, mas a chefe...
+Num beco atrás da grelha electrica.
+
+265
+00:23:07,473 --> 00:23:09,736
+Encontrei uma camera
+de segurança. Aqui.
+
+266
+00:23:11,651 --> 00:23:14,001
+Ela está a aborver a energia
+da rede eléctrica.
+
+267
+00:23:14,044 --> 00:23:16,264
+- Isso irá apagar toda a cidade.
+- Não hoje.
+
+268
+00:23:16,307 --> 00:23:19,223
+- Equipa-te.
+- Sou uma especialista de dados.
+
+270
+00:23:19,267 --> 00:23:21,878
+Traz teu distintivo,
+traz a tua arma. Segue-me.
+
+271
+00:23:31,845 --> 00:23:33,107
+Meus poderes...
+
+272
+00:23:44,074 --> 00:23:45,336
+Estou no subsolo.
+
+273
+00:23:45,946 --> 00:23:48,296
+Consigo puxar electricidade
+de qualquer lado.
+
+274
+00:23:49,515 --> 00:23:51,778
+Tens tudo do que precisas.
+
+275
+00:23:54,955 --> 00:23:56,043
+Espera...
+
+276
+00:23:57,784 --> 00:23:59,002
+O que é isso?
+
+277
+00:23:59,046 --> 00:24:01,440
+Terás que usar o que
+nunca tiveste.
+
+278
+00:24:01,483 --> 00:24:04,312
+Por isso vai buscar isso
+e acaba com isto.
+
+279
+00:25:11,161 --> 00:25:12,380
+Lynn!
+
+280
+00:25:12,423 --> 00:25:14,077
+- Meu Deus...
+- Lynn!
+
+281
+00:25:14,730 --> 00:25:16,384
+- Aqui.
+- Meu Deus, Anissa.
+
+282
+00:25:16,427 --> 00:25:18,517
+Ela foi atingida por várias
+DEG da nova geração.
+
+283
+00:25:18,560 --> 00:25:21,041
+- Nenhum fato aguentaria isso.
+- Coloca-a aqui.
+
+284
+00:25:21,084 --> 00:25:23,347
+Não, eu estou bem.
+Isto é inapropriado.
+
+285
+00:25:23,391 --> 00:25:25,698
+- Irei curar-me, sim?
+- Não, vou testar-te para isso.
+
+286
+00:25:25,741 --> 00:25:28,265
+Testar-te por radiação e
+dar-te alguns antibióticos.
+
+287
+00:25:29,615 --> 00:25:31,704
+Sou eu. Alguém escuta?
+
+288
+00:25:32,574 --> 00:25:34,445
+- Jeff?
+- Pai?
+
+289
+00:25:35,708 --> 00:25:37,231
+Julgavamos que estavas morto.
+
+290
+00:25:37,274 --> 00:25:39,407
+Sim, não foi por falta
+de tentativas.
+
+291
+00:25:40,103 --> 00:25:41,409
+Onde está o Tobias?
+
+292
+00:25:41,452 --> 00:25:44,151
+No seu escritório.
+Nas Torres Tori.
+
+293
+00:26:02,343 --> 00:26:04,867
+Lopez, fica quieta!
+Fica quieta!
+
+295
+00:26:06,086 --> 00:26:07,280
+Para o chão!
+
+296
+00:26:07,304 --> 00:26:11,221
+Chefe Lopez. Sou eu.
+O detective Shakur.
+
+297
+00:26:11,265 --> 00:26:14,703
+- Tem que parar.
+- Não tenho que parar nada.
+
+299
+00:26:14,747 --> 00:26:17,271
+Irei usar este poder
+para matar a Relâmpago!
+
+300
+00:26:17,967 --> 00:26:19,273
+Escute-me.
+
+301
+00:26:19,316 --> 00:26:21,405
+Irá cortar toda
+a energia da cidade.
+
+302
+00:26:24,626 --> 00:26:25,758
+Espera lá.
+
+303
+00:26:27,194 --> 00:26:29,457
+Vieste atrás de mim com
+a minha própria Força Tarefa?
+
+304
+00:26:30,240 --> 00:26:31,633
+Para trás!
+
+305
+00:26:38,379 --> 00:26:41,469
+Chefe, não está a pensar claro.
+
+306
+00:26:41,512 --> 00:26:43,602
+E o teu traseiro é a seguir!
+
+307
+00:26:46,039 --> 00:26:50,130
+Tua luz está a desvanecer,
+humana. Esta é a minha altura.
+
+309
+00:26:50,652 --> 00:26:52,480
+A tua está a terminar.
+
+310
+00:27:00,140 --> 00:27:01,140
+Não.
+
+311
+00:27:02,664 --> 00:27:03,665
+Não está.
+
+312
+00:27:56,718 --> 00:28:00,853
+Isto está a ficar aborrecido.
+Tu não me consegues deter!
+
+314
+00:28:02,506 --> 00:28:04,378
+- Chefe, é a Relâmpago.
+- Cessar fogo!
+
+315
+00:28:08,556 --> 00:28:10,558
+Sabia que ias aparecer, cadela.
+
+316
+00:28:10,950 --> 00:28:12,516
+Temos um problema.
+
+317
+00:28:13,430 --> 00:28:15,563
+Não gosto de ser chamada
+em meu nome.
+
+318
+00:28:37,411 --> 00:28:38,760
+Obrigada!
+
+319
+00:28:54,776 --> 00:28:57,605
+Seu caçador de grande lábios
+e olhos cabeça de fralda.
+
+320
+00:28:58,258 --> 00:29:01,261
+- Hoje irás aprender.
+- Cala-te, raios.
+
+322
+00:29:05,787 --> 00:29:07,441
+Lanças raios como uma cadela.
+
+323
+00:30:06,065 --> 00:30:08,807
+Precisas de algo que magoe
+o teu rabo de neon.
+
+324
+00:30:08,850 --> 00:30:11,679
+Deixa-me apresentar-te
+a minha palavra favorita.
+
+325
+00:30:14,551 --> 00:30:16,902
+Chama-se "desjanelação".
+
+326
+00:30:31,873 --> 00:30:33,527
+Tobias, aguenta!
+
+327
+00:30:39,489 --> 00:30:41,404
+"No final, lutarei contigo".
+
+328
+00:30:41,970 --> 00:30:44,712
+"Do fundo do coração do
+inferno, eu apunhalo-te".
+
+329
+00:30:46,845 --> 00:30:48,020
+Tobias, não.
+
+330
+00:30:49,499 --> 00:30:51,719
+Pára! Não temos que fazer isto.
+Há outra maneira.
+
+331
+00:30:51,762 --> 00:30:56,028
+"Por amor ao ódio, cuspo
+meu último fôlego em ti".
+
+332
+00:31:47,775 --> 00:31:50,909
+Deves ser louco em trazer
+o teu traseiro para aqui.
+
+333
+00:31:50,952 --> 00:31:52,388
+Eu convidei-o.
+
+334
+00:31:52,432 --> 00:31:54,608
+Não pense que não vou
+também chutar o teu rabo.
+
+335
+00:31:55,609 --> 00:31:57,916
+E se eu viesse com
+grandes e boas noticias?
+
+336
+00:31:59,961 --> 00:32:00,961
+Fala.
+
+337
+00:32:02,442 --> 00:32:03,922
+Tobias Whale está morto.
+
+338
+00:32:04,400 --> 00:32:06,446
+Raios...
+Eu queria matá-lo.
+
+339
+00:32:08,143 --> 00:32:09,275
+Isso não são boas noticias.
+
+340
+00:32:10,450 --> 00:32:12,104
+Deixa-me apens chutar
+o rabo dele por algum tempo.
+
+341
+00:32:12,800 --> 00:32:15,629
+TC, quais são tuas
+outras noticias?
+
+342
+00:32:16,673 --> 00:32:18,893
+Isolei o código do sistema
+para a ordem de matar.
+
+343
+00:32:20,068 --> 00:32:21,113
+Eu posso libertar-te.
+
+344
+00:32:22,462 --> 00:32:25,639
+- Óptimo. Vamos fazer isso.
+- Bom, há um senão.
+
+346
+00:32:28,511 --> 00:32:31,862
+Está ligado a tudo que conheces
+e amas sobre a familia Pierce.
+
+347
+00:32:31,906 --> 00:32:33,821
+Se quebrar essa ordem de matar,
+
+348
+00:32:34,822 --> 00:32:36,476
+não te recordarás mais dos Pierce.
+
+349
+00:32:36,519 --> 00:32:38,521
+E depois?
+São uns chatos de primeira.
+
+350
+00:32:38,565 --> 00:32:41,220
+Cala-te e senta esse
+teu traseiro negro.
+
+351
+00:32:45,093 --> 00:32:46,093
+TC...
+
+352
+00:32:47,139 --> 00:32:49,184
+Tem que haver outra maneira.
+
+353
+00:32:49,663 --> 00:32:52,666
+Não há. Verifiquei
+e voltei a verificar.
+
+354
+00:32:53,710 --> 00:32:54,710
+Raios.
+
+355
+00:32:55,843 --> 00:32:57,366
+Não vais parar, pois não?
+
+356
+00:32:57,410 --> 00:32:59,978
+Mais cedo ou mais tarde
+tu irás matar a Jen
+
+357
+00:33:00,500 --> 00:33:03,503
+- e todos os Pierce.
+- É melhor acreditares nisso.
+
+359
+00:33:04,983 --> 00:33:06,680
+Mas não sou o fantoche
+de ninguém.
+
+360
+00:33:07,246 --> 00:33:09,900
+Corta a maldita corda.
+
+361
+00:33:24,872 --> 00:33:26,395
+Se precisares de mais tempo,
+eu posso...
+
+362
+00:33:30,182 --> 00:33:32,488
+Sempre soube que daria a minha
+vida por aquela miúda.
+
+363
+00:33:35,709 --> 00:33:37,667
+Nunca pensei que
+a teria que esquecer.
+
+364
+00:33:41,932 --> 00:33:42,932
+Fá-lo.
+
+365
+00:34:32,157 --> 00:34:35,769
+Peter, sei que tivemos
+as nossas diferenças.
+
+366
+00:34:37,249 --> 00:34:39,947
+Culpei-te por o Jefferson
+ser o Raio Negro.
+
+367
+00:34:40,600 --> 00:34:42,080
+Sempre entendi isso, Lynn.
+
+368
+00:34:42,776 --> 00:34:45,213
+Nunca te dei crédito bastante
+
+369
+00:34:45,257 --> 00:34:47,911
+pelo quanto amavas o Jeff
+e as miúdas ao longo dos anos.
+
+370
+00:34:47,955 --> 00:34:48,955
+Por isso...
+
+371
+00:34:49,783 --> 00:34:50,783
+Obrigada.
+
+372
+00:34:53,613 --> 00:34:54,962
+Elas parecem felizes,
+não parecem?
+
+373
+00:34:58,139 --> 00:34:59,445
+Sim, parecem.
+
+374
+00:35:00,620 --> 00:35:01,795
+Estiveste bem.
+
+375
+00:35:06,321 --> 00:35:07,322
+Morto.
+
+376
+00:35:08,062 --> 00:35:10,064
+Obrigado.
+
+379
+00:35:37,309 --> 00:35:40,094
+Isso faz-me arrotar
+e dá-me dor de cabeça.
+
+380
+00:35:40,138 --> 00:35:41,617
+A mim também.
+
+381
+00:35:45,317 --> 00:35:48,929
+Sabes, é loucura imaginar
+que existe vida ali em cima
+
+382
+00:35:48,972 --> 00:35:51,149
+e que após todo este tempo
+nós nem sabiamos disso.
+
+383
+00:35:54,891 --> 00:35:55,979
+É estranho.
+
+384
+00:35:56,850 --> 00:35:59,853
+E eles observam-nos.
+Isso é bastante assustador.
+
+385
+00:36:05,380 --> 00:36:06,512
+Conheço esse olhar.
+
+386
+00:36:07,339 --> 00:36:08,862
+Tens más noticias.
+
+387
+00:36:11,256 --> 00:36:12,300
+Elas podem esperar?
+
+388
+00:36:14,259 --> 00:36:17,392
+Só queria dizer que estou feliz
+por estares de volta a sério.
+
+389
+00:36:18,741 --> 00:36:20,830
+Tens mesmo que aprender
+como mentir melhor.
+
+390
+00:36:22,005 --> 00:36:23,355
+Desculpa.
+
+391
+00:36:24,007 --> 00:36:25,008
+Está tudo bem.
+
+392
+00:36:28,011 --> 00:36:32,190
+O que... o que quer que seja,
+não o quero ouvir agora, certo?
+
+393
+00:36:33,365 --> 00:36:34,714
+Eu apenas quero...
+
+394
+00:36:36,150 --> 00:36:37,151
+Ser.
+
+395
+00:36:39,197 --> 00:36:42,461
+- Estás bem?
+- Eu não sei.
+
+397
+00:36:42,504 --> 00:36:45,304
+O facto do pai ser o único
+a sentir que algo não estava bem...
+
+398
+00:36:48,902 --> 00:36:51,687
+Isso apenas...
+Isso não me cai bem, sabes?
+
+400
+00:36:51,731 --> 00:36:52,732
+Olha, eu sinto muito.
+
+401
+00:36:54,603 --> 00:36:57,243
+Aquilo tirou toda a tua genética,
+tinha todas as tuas memórias...
+
+402
+00:36:58,564 --> 00:36:59,565
+Aquilo parecia mesmo...
+
+403
+00:36:59,608 --> 00:37:01,958
+TC, não te estou a culpar.
+
+404
+00:37:03,438 --> 00:37:04,787
+Está tudo bem, eu entendo.
+
+405
+00:37:06,963 --> 00:37:08,748
+Apenas tenho que aprender
+como lidar com isso.
+
+406
+00:37:08,791 --> 00:37:09,966
+Bom...
+
+407
+00:37:11,664 --> 00:37:13,984
+Se precisares de algo sabes
+que podes vir ter sempre comigo.
+
+408
+00:37:15,363 --> 00:37:17,104
+Eu sei. Agradeço-te.
+
+409
+00:37:18,932 --> 00:37:23,415
+Mas agora mesmo, como disse,
+eu apenas quero... ser.
+
+410
+00:37:23,937 --> 00:37:25,721
+Bom, se quiseres...
+
+411
+00:37:26,635 --> 00:37:28,724
+tua familia está lá dentro
+à tua procura.
+
+412
+00:37:30,335 --> 00:37:32,206
+Mas irei apenas te deixar ser.
+
+413
+00:37:34,295 --> 00:37:35,340
+Por agora.
+
+414
+00:37:43,783 --> 00:37:46,089
+Mana, sinto-me estúpido por ser
+enganado pela Jennifer falsa.
+
+415
+00:37:46,133 --> 00:37:47,874
+A culpa foi minha.
+
+416
+00:37:47,917 --> 00:37:50,180
+Meus sentidos de leopardo
+desviaram-nos.
+
+417
+00:37:50,224 --> 00:37:51,791
+Não fazia ideia que eles
+podiam estar tão errados.
+
+418
+00:37:51,834 --> 00:37:53,358
+Há muito que não sabiamos.
+
+419
+00:37:53,401 --> 00:37:55,795
+Sinto-me péssimo por teres
+estado sozinha lá em cima
+
+420
+00:37:56,578 --> 00:37:58,580
+e eu estar a ajudar essa
+entidade a tomar o teu lugar.
+
+421
+00:37:58,624 --> 00:37:59,712
+Por favor.
+
+422
+00:37:59,755 --> 00:38:01,540
+Se a culpa é de alguém,
+ela é minha.
+
+423
+00:38:01,583 --> 00:38:03,759
+Sabia que não devia ir lá acima.
+
+424
+00:38:07,285 --> 00:38:08,460
+Escutem, isto é uma festa.
+
+425
+00:38:10,375 --> 00:38:12,091
+Precisam que vos recorde
+o que é isso? Vamos.
+
+426
+00:38:12,115 --> 00:38:13,658
+Deixem-me aumentar a música.
+
+427
+00:38:13,682 --> 00:38:15,510
+Daqui a pouco vão estar
+todos na zona.
+
+428
+00:38:17,033 --> 00:38:19,073
+Certo, dá-lhe. Vamos,
+dá uns passos de dança comigo.
+
+429
+00:38:19,471 --> 00:38:21,124
+Olhem, ele sabe como o fazer.
+
+430
+00:38:22,430 --> 00:38:24,258
+Vamos, vamos, vamos.
+
+431
+00:38:24,824 --> 00:38:26,304
+Abana os ombros para mim.
+
+432
+00:38:26,347 --> 00:38:29,176
+Vamos, entra nisso!
+Entra nisso, filho!
+
+433
+00:38:29,959 --> 00:38:31,787
+Do lugar. Do lugar.
+
+434
+00:38:32,832 --> 00:38:34,703
+Trata tudo sobre os ombros.
+
+435
+00:38:37,663 --> 00:38:39,317
+A Jennifer voltou.
+
+437
+00:38:45,453 --> 00:38:47,063
+Muito bem, muito bem.
+Ouçam, ouçam.
+
+438
+00:38:47,890 --> 00:38:49,327
+Temos um anúncio a fazer.
+
+439
+00:38:50,197 --> 00:38:52,678
+Vamos voltar a casar-nos!
+
+440
+00:38:53,679 --> 00:38:54,723
+- O quê?
+- O quê?
+
+441
+00:38:54,767 --> 00:38:56,986
+- Parabéns.
+- Estava na hora.
+
+442
+00:38:57,030 --> 00:38:58,640
+- Muito bem.
+- Isso é fantástico.
+
+443
+00:38:58,684 --> 00:39:01,774
+Sim, quando estava preso
+dentro daquele caixão...
+
+444
+00:39:01,817 --> 00:39:04,177
+Bom, foi a altura perfeita
+para reflectir.
+
+445
+00:39:04,472 --> 00:39:05,995
+Percebi que tinha
+alguns arrependimentos
+
+446
+00:39:06,039 --> 00:39:09,172
+e desejava ter tido tempo
+para fazer algo quanto a eles.
+
+447
+00:39:10,043 --> 00:39:12,350
+O vosso pai e eu
+estivemos em terapia,
+
+448
+00:39:12,393 --> 00:39:14,482
+e eu tenho lutado
+com algumas coisas,
+
+449
+00:39:14,526 --> 00:39:16,354
+e quando pensei que
+ele se tinha ida,
+
+450
+00:39:16,397 --> 00:39:19,487
+entendi que meu lugar era
+ao lado dele e o dele ao meu.
+
+451
+00:39:24,100 --> 00:39:25,580
+Muito bem, segundo anúncio.
+
+452
+00:39:26,407 --> 00:39:27,843
+Eu assim vou a passar a tocha.
+
+453
+00:39:29,758 --> 00:39:32,500
+Entrego a luta por Freeland
+à Relâmpago, Trovão e Wylde.
+
+454
+00:39:32,544 --> 00:39:36,374
+- A sério, pai? Outro retiro?
+- Sê simpática.
+
+456
+00:39:36,417 --> 00:39:37,897
+Não, desta vez é a sério.
+
+457
+00:39:38,376 --> 00:39:41,379
+Claro que sim.
+E eu finalmente concordo.
+
+459
+00:39:41,944 --> 00:39:43,293
+Também vou pendurar o casaco.
+
+460
+00:39:44,077 --> 00:39:46,253
+O TC é mais do que capaz
+de tratar das coisas.
+
+461
+00:39:47,950 --> 00:39:50,605
+Claro que estarei por perto
+para dar alguns conselhos.
+
+462
+00:39:50,649 --> 00:39:52,520
+Sim, podem contar com isso.
+
+463
+00:39:52,564 --> 00:39:55,262
+E poderei mexer aqui ou ali,
+para me manter ocupado.
+
+464
+00:39:56,872 --> 00:40:00,049
+- Iremos deixar-te orgulhoso.
+- Já o fizeram.
+
+466
+00:40:00,572 --> 00:40:02,878
+Vamos, pessoal.
+Um brinde.
+
+467
+00:40:04,924 --> 00:40:06,404
+À Anissa e à Grace,
+
+468
+00:40:06,447 --> 00:40:11,757
+que vossas vidas estejam cheias
+de amor e alegria... e justiça.
+
+469
+00:40:13,933 --> 00:40:15,543
+Por todos meios necessários.
+
+470
+00:40:15,587 --> 00:40:17,937
+- Ouçam, ouçam.
+- Por todos meios necessários.
+
+471
+00:41:45,981 --> 00:41:48,375
+Alguém finalmente enfiou-te
+isso no teu traseiro.
+
+471
+00:41:53,981 --> 00:41:58,375
+LEGENDAS BY DRAKKEN										
+
+
+
+  
+
+  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 										
