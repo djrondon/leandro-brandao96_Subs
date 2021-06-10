@@ -1,0 +1,5528 @@
+﻿1
+00:00:47,255 --> 00:00:51,134
+NETFLIX APRESENTA
+
+2
+00:01:10,445 --> 00:01:12,989
+<i>Se me tivessem dito</i>
+
+3
+00:01:13,073 --> 00:01:14,115
+<i>Há um ano</i>
+
+4
+00:01:14,199 --> 00:01:17,827
+<i>Que estaria trancado dentro da minha casa</i>
+
+5
+00:01:18,828 --> 00:01:21,331
+<i>Eu ter-vos-ia dito</i>
+
+6
+00:01:21,414 --> 00:01:22,665
+<i>Há um ano</i>
+
+7
+00:01:22,749 --> 00:01:26,669
+<i>Interessante, agora deixem-me em paz</i>
+
+8
+00:01:26,753 --> 00:01:30,340
+<i>Desculpem estar com mau aspeto</i>
+
+9
+00:01:31,341 --> 00:01:35,178
+<i>Marquei um corte de cabelo</i>
+<i>Mas foi reagendado</i>
+
+10
+00:01:35,261 --> 00:01:38,348
+<i>O Robert tem estado um pouco desanimado</i>
+
+11
+00:01:38,431 --> 00:01:39,599
+<i>Não!</i>
+
+12
+00:01:39,682 --> 00:01:42,811
+<i>E, por isso, hoje vou tentar apenas</i>
+
+13
+00:01:42,894 --> 00:01:44,854
+<i>Levantar-me, sentar-me</i>
+
+14
+00:01:44,938 --> 00:01:48,191
+<i>Voltar ao trabalho</i>
+
+15
+00:01:48,274 --> 00:01:50,985
+<i>Pode não ajudar, mas não faz mal</i>
+
+16
+00:01:51,069 --> 00:01:53,113
+<i>Estou sentado, a escrever piadas</i>
+
+17
+00:01:53,196 --> 00:01:56,241
+<i>A cantar canções parvas</i>
+
+18
+00:01:56,324 --> 00:01:58,409
+<i>Desculpem ter desaparecido</i>
+
+19
+00:01:58,493 --> 00:02:02,789
+<i>Mas olhem, fiz-vos algum conteúdo</i>
+
+20
+00:02:02,872 --> 00:02:07,544
+<i>O papá fez o vosso favorito</i>
+<i>E de braços abertos</i>
+
+21
+00:02:07,627 --> 00:02:10,547
+<i>Cá vem o conteúdo</i>
+
+22
+00:02:11,172 --> 00:02:13,049
+<i>Está um belo dia</i>
+
+23
+00:02:13,133 --> 00:02:16,886
+<i>Para ficar dentro de casa</i>
+
+24
+00:02:35,446 --> 00:02:37,031
+Teste de câmara.
+
+25
+00:04:05,745 --> 00:04:08,289
+<i>O mundo está a mudar</i>
+
+26
+00:04:09,874 --> 00:04:11,834
+<i>O planeta está a aquecer</i>
+
+27
+00:04:13,336 --> 00:04:16,965
+<i>Mas que caralho se está a passar?</i>
+
+28
+00:04:19,092 --> 00:04:21,636
+<i>A reorganizar-se</i>
+
+29
+00:04:21,719 --> 00:04:25,056
+<i>É como se tudo acontecesse de uma vez</i>
+
+30
+00:04:26,266 --> 00:04:29,811
+<i>Mas que caralho se está a passar?</i>
+
+31
+00:04:31,646 --> 00:04:34,565
+<i>As pessoas manifestam-se nas ruas</i>
+
+32
+00:04:35,024 --> 00:04:37,986
+<i>A guerra, a seca</i>
+
+33
+00:04:38,069 --> 00:04:39,195
+<i>Quanto mais procuro</i>
+
+34
+00:04:39,279 --> 00:04:44,450
+<i>Mais vejo que não há nada para gozar</i>
+
+35
+00:04:44,534 --> 00:04:46,035
+<i>A comédia acabou?</i>
+
+36
+00:04:47,328 --> 00:04:48,830
+<i>Devo deixar-vos em paz?</i>
+
+37
+00:04:48,913 --> 00:04:50,915
+<i>Pois quem é que vai</i>
+
+38
+00:04:50,999 --> 00:04:53,626
+<i>Gozar numa altura assim</i>
+
+39
+00:04:53,710 --> 00:04:56,504
+<i>Devia estar a gozar numa altura assim?</i>
+
+40
+00:04:56,587 --> 00:04:59,966
+<i>Quero ajudar a deixar este mundo</i>
+
+41
+00:05:00,049 --> 00:05:02,468
+<i>Melhor do que o encontrei</i>
+
+42
+00:05:02,969 --> 00:05:06,180
+<i>E temo que a comédia não ajude</i>
+
+43
+00:05:06,264 --> 00:05:09,058
+<i>E que o medo não seja infundado</i>
+
+44
+00:05:09,559 --> 00:05:12,228
+<i>Devo parar de tentar ser piada?</i>
+
+45
+00:05:12,854 --> 00:05:15,773
+<i>Devo dar o meu dinheiro de mão beijada?</i>
+
+46
+00:05:15,857 --> 00:05:16,691
+<i>Não!</i>
+
+47
+00:05:21,154 --> 00:05:22,363
+<i>O que faço eu?</i>
+
+48
+00:05:28,411 --> 00:05:33,624
+<i>Curar o mundo com comédia</i>
+
+49
+00:05:33,708 --> 00:05:40,590
+<i>O poder indescritível da tua comédia</i>
+
+50
+00:05:41,090 --> 00:05:44,260
+<i>O mundo precisa de orientação</i>
+
+51
+00:05:44,344 --> 00:05:46,637
+<i>De um tipo branco como eu</i>
+
+52
+00:05:46,721 --> 00:05:53,061
+<i>- Bingo</i>
+<i>- Que está a curar o mundo com comédia</i>
+
+53
+00:05:55,271 --> 00:05:56,147
+É isso.
+
+54
+00:05:58,274 --> 00:06:00,860
+O mundo está tão fodido.
+
+55
+00:06:02,070 --> 00:06:03,529
+Opressão sistemática.
+
+56
+00:06:04,322 --> 00:06:05,823
+Disparidade de salários.
+
+57
+00:06:07,200 --> 00:06:08,451
+As outras coisas.
+
+58
+00:06:10,119 --> 00:06:12,497
+E só me resta fazer uma coisa
+quanto a isto,
+
+59
+00:06:14,123 --> 00:06:17,210
+enquanto me pagam
+e sou o centro das atenções.
+
+60
+00:06:18,961 --> 00:06:23,257
+<i>Curar o mundo com comédia</i>
+
+61
+00:06:23,341 --> 00:06:28,721
+<i>Fazer uma diferença</i>
+<i>Literal metaforicamente</i>
+
+62
+00:06:28,805 --> 00:06:31,557
+<i>Um judeu entra num bar</i>
+
+63
+00:06:31,641 --> 00:06:34,143
+<i>E guardei-lhe um lugar</i>
+
+64
+00:06:34,644 --> 00:06:39,065
+<i>Isso é curar o mundo com comédia</i>
+
+65
+00:06:39,148 --> 00:06:41,609
+<i>Sou um tipo branco especial</i>
+
+66
+00:06:41,692 --> 00:06:44,487
+<i>Pensei em mim e quero ser</i>
+<i>Um agente da mudança</i>
+
+67
+00:06:44,570 --> 00:06:48,241
+<i>Por isso, vou usar o meu privilégio</i>
+<i>Para o bem</i>
+
+68
+00:06:48,324 --> 00:06:49,575
+<i>Muito fixe, é assim mesmo!</i>
+
+69
+00:06:50,159 --> 00:06:52,245
+<i>Tipos brancos americanos</i>
+
+70
+00:06:52,328 --> 00:06:55,832
+<i>Temos a palavra há, pelo menos, 400 anos</i>
+
+71
+00:06:55,915 --> 00:06:59,669
+<i>Então, se calhar eu devia</i>
+<i>Calar o caralho da boca…</i>
+
+72
+00:07:04,924 --> 00:07:05,758
+Estou entediado.
+
+73
+00:07:06,300 --> 00:07:08,594
+<i>Não quero fazer isso</i>
+
+74
+00:07:09,137 --> 00:07:11,264
+<i>Tem de haver outra maneira</i>
+
+75
+00:07:11,347 --> 00:07:13,266
+<i>- Sim</i>
+<i>- De poder ajudar</i>
+
+76
+00:07:13,349 --> 00:07:15,726
+<i>Sem à margem ficar</i>
+
+77
+00:07:15,810 --> 00:07:18,855
+<i>Nunca</i>
+<i>A espera acabou</i>
+
+78
+00:07:18,938 --> 00:07:21,649
+<i>Sou branco e vim salvar o dia</i>
+
+79
+00:07:21,732 --> 00:07:26,320
+<i>Senhor, ajuda-me a canalizar</i>
+<i>A Sandra Bullock em </i>Um Sonho Possível
+
+80
+00:07:26,404 --> 00:07:27,405
+<i>Sandra Bullock!</i>
+
+81
+00:07:28,281 --> 00:07:32,660
+<i>Curar o mundo com comédia</i>
+
+82
+00:07:32,743 --> 00:07:37,832
+<i>Fazer uma diferença</i>
+<i>Literal metaforicamente</i>
+
+83
+00:07:37,915 --> 00:07:40,918
+<i>E sim, é provável que me paguem</i>
+
+84
+00:07:41,002 --> 00:07:43,546
+<i>Mas fá-lo-ia de graça</i>
+
+85
+00:07:43,629 --> 00:07:47,675
+<i>Estou a curar o mundo com comédia</i>
+
+86
+00:07:49,760 --> 00:07:52,805
+<i>Se acordarem numa casa cheia de fumo</i>
+
+87
+00:07:52,889 --> 00:07:53,848
+<i>Não entrem em pânico</i>
+
+88
+00:07:53,931 --> 00:07:55,850
+<i>Liguem-me e eu conto uma piada</i>
+
+89
+00:07:55,933 --> 00:07:58,519
+<i>Se virem homens brancos de manto branco</i>
+
+90
+00:07:58,603 --> 00:07:59,604
+<i>Não entrem em pânico</i>
+
+91
+00:07:59,687 --> 00:08:01,647
+<i>Liguem-me e eu conto uma piada</i>
+
+92
+00:08:01,731 --> 00:08:03,191
+<i>Merda</i>
+
+93
+00:08:03,983 --> 00:08:06,903
+<i>Devia estar a gozar numa altura assim?</i>
+
+94
+00:08:07,403 --> 00:08:09,947
+<i>Se vos começar</i>
+<i>A cheirar a torrada queimada</i>
+
+95
+00:08:10,031 --> 00:08:12,617
+<i>Estão a ter um ataque</i>
+<i>Ou queimaram a torrada</i>
+
+96
+00:08:12,700 --> 00:08:15,369
+<i>Se acordarem numa casa cheia de fumo</i>
+
+97
+00:08:15,453 --> 00:08:18,331
+<i>Não entrem em pânico</i>
+<i>Liguem-me e eu conto uma piada</i>
+
+98
+00:08:18,414 --> 00:08:21,125
+<i>Se virem homens brancos de manto branco</i>
+
+99
+00:08:21,209 --> 00:08:24,170
+<i>Não entrem em pânico</i>
+<i>Liguem-me e eu conto uma piada</i>
+
+100
+00:08:24,253 --> 00:08:26,380
+<i>Merda</i>
+
+101
+00:08:26,464 --> 00:08:29,383
+<i>Devia estar a gozar numa altura assim?</i>
+
+102
+00:08:29,884 --> 00:08:31,802
+<i>Alguém me ajude</i>
+
+103
+00:08:31,886 --> 00:08:34,222
+<i>Porque não sei</i>
+
+104
+00:08:34,305 --> 00:08:37,683
+<i>E quero ajudar a deixar este mundo</i>
+
+105
+00:08:37,767 --> 00:08:40,102
+<i>Melhor do que o encontrei</i>
+
+106
+00:08:40,186 --> 00:08:42,980
+<i>E temo que a comédia não ajude</i>
+
+107
+00:08:43,064 --> 00:08:45,691
+<i>E que o medo não seja infundado</i>
+
+108
+00:08:45,775 --> 00:08:48,069
+<i>Devo parar de tentar ser piada?</i>
+
+109
+00:08:48,569 --> 00:08:51,030
+<i>Devo dar o meu dinheiro de mão beijada?</i>
+
+110
+00:08:51,113 --> 00:08:51,989
+<i>Não!</i>
+
+111
+00:08:54,659 --> 00:08:58,746
+<i>Sei o que tenho de fazer</i>
+
+112
+00:08:58,829 --> 00:09:03,042
+<i>Curar o mundo com comédia</i>
+
+113
+00:09:03,125 --> 00:09:08,506
+<i>Fazer uma diferença</i>
+<i>Literal metaforicamente</i>
+
+114
+00:09:08,589 --> 00:09:11,050
+<i>Jurei que nunca mais voltava</i>
+
+115
+00:09:11,133 --> 00:09:14,053
+<i>Mas estou outra vez recuperado</i>
+
+116
+00:09:14,136 --> 00:09:18,683
+<i>E estou a curar o mundo com comédia</i>
+
+117
+00:09:36,659 --> 00:09:37,493
+Olá.
+
+118
+00:09:38,035 --> 00:09:42,582
+Bem-vindos ao que quer que isto seja.
+
+119
+00:09:43,916 --> 00:09:46,085
+Nos últimos meses, tenho trabalhado,
+
+120
+00:09:47,336 --> 00:09:50,798
+testado esta câmara, as luzes, a escrita
+
+121
+00:09:50,881 --> 00:09:56,178
+e decidi tentar fazer um novo especial.
+
+122
+00:09:56,262 --> 00:09:57,138
+A sério.
+
+123
+00:09:57,638 --> 00:10:00,099
+Não vai ser um especial normal
+
+124
+00:10:00,182 --> 00:10:02,768
+porque não há plateia nem equipa.
+
+125
+00:10:03,269 --> 00:10:05,563
+Sou só eu e a minha câmara,
+
+126
+00:10:06,105 --> 00:10:07,565
+e vocês e o vosso ecrã.
+
+127
+00:10:09,066 --> 00:10:11,360
+Foi assim que o nosso Senhor quis.
+
+128
+00:10:13,446 --> 00:10:17,658
+E este especial inteiro
+será filmado neste quarto.
+
+129
+00:10:18,993 --> 00:10:20,661
+E em vez de ser filmado
+
+130
+00:10:21,245 --> 00:10:24,749
+numa única noite, será filmado
+
+131
+00:10:25,416 --> 00:10:27,335
+no tempo que demorar a acabar.
+
+132
+00:10:29,503 --> 00:10:31,339
+Espero que gostem.
+
+133
+00:10:32,757 --> 00:10:35,301
+Espero que este especial
+possa fazer por vós
+
+134
+00:10:35,384 --> 00:10:37,678
+o que fez por mim nos últimos meses,
+
+135
+00:10:37,762 --> 00:10:38,596
+ou seja,
+
+136
+00:10:40,097 --> 00:10:42,808
+distrair-me de querer
+
+137
+00:10:42,892 --> 00:10:45,645
+pôr uma bala na cabeça com uma arma.
+
+138
+00:10:47,063 --> 00:10:47,897
+Por isso,
+
+139
+00:10:48,731 --> 00:10:49,815
+sim, obrigado.
+
+140
+00:10:50,733 --> 00:10:52,109
+E um aviso.
+
+141
+00:10:53,319 --> 00:10:56,197
+Posso desde já dizer
+que este especial vai estar
+
+142
+00:10:56,781 --> 00:10:58,449
+um pouco por todo o lado,
+
+143
+00:10:58,532 --> 00:11:02,536
+por isso, não esperem
+transições incrivelmente suaves…
+
+144
+00:11:34,235 --> 00:11:37,071
+<i>Serve-me uma bebida e liberta-me a agenda</i>
+
+145
+00:11:37,154 --> 00:11:40,282
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+146
+00:11:42,159 --> 00:11:44,787
+<i>Estes 40 minutos são essenciais</i>
+
+147
+00:11:44,870 --> 00:11:47,832
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+148
+00:11:49,834 --> 00:11:55,423
+<i>Eu ligo, ela atende e tem o cabelo molhado</i>
+
+149
+00:11:57,758 --> 00:12:00,511
+<i>Eu digo: "Acabaste de tomar banho?"</i>
+
+150
+00:12:00,594 --> 00:12:02,263
+<i>Ela diz: "Como adivinhaste?"</i>
+
+151
+00:12:02,346 --> 00:12:05,266
+<i>Digo: "Tens o cabelo molhado"</i>
+<i>E ela diz: "Pois é"</i>
+
+152
+00:12:05,349 --> 00:12:07,768
+<i>Digo aos amigos que preciso de espaço</i>
+
+153
+00:12:07,852 --> 00:12:10,646
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+154
+00:12:10,730 --> 00:12:14,942
+<i>Ela vai segurar o iPhone 5</i>
+<i>A 15 centímetros da cara ou menos</i>
+
+155
+00:12:15,025 --> 00:12:18,571
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+156
+00:12:20,448 --> 00:12:23,284
+<i>Ela diz: "Olha quem está aqui</i>
+
+157
+00:12:23,367 --> 00:12:25,411
+<i>Diz olá ao pai"</i>
+
+158
+00:12:28,247 --> 00:12:31,041
+<i>Ele diz: "Como vais, amigo?"</i>
+
+159
+00:12:31,125 --> 00:12:33,002
+<i>Digo: "Nada mal"</i>
+
+160
+00:12:33,085 --> 00:12:35,588
+<i>E foi a nossa conversa mais visceral</i>
+
+161
+00:12:35,671 --> 00:12:38,257
+<i>Vejo-a à procura dos óculos</i>
+
+162
+00:12:38,340 --> 00:12:41,385
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+163
+00:12:41,469 --> 00:12:43,012
+<i>Ela vai contar-me tudo sobre</i>
+
+164
+00:12:43,095 --> 00:12:46,557
+<i>O final da 6.ª temporada de </i>A Lista Negra
+
+165
+00:12:46,640 --> 00:12:49,310
+<i>Vou ter um FaceTime</i>
+<i>Com a minha mãe esta noite</i>
+
+166
+00:12:51,520 --> 00:12:55,274
+<i>A minha mãe está a tapar</i>
+<i>A câmara dela com o polegar</i>
+
+167
+00:12:55,357 --> 00:12:59,069
+<i>Vou desperdiçar o meu tempo</i>
+<i>No FaceTime com a minha mãe</i>
+
+168
+00:12:59,153 --> 00:13:02,865
+<i>A minha mãe está a tapar</i>
+<i>A câmara dela com o polegar</i>
+
+169
+00:13:02,948 --> 00:13:06,827
+<i>Vou desperdiçar o meu tempo</i>
+<i>No FaceTime com a minha mãe</i>
+
+170
+00:13:06,911 --> 00:13:10,748
+<i>A minha mãe está a tapar</i>
+<i>A câmara dela com o polegar</i>
+
+171
+00:13:10,831 --> 00:13:14,627
+<i>Vou desperdiçar o meu tempo</i>
+<i>No FaceTime com a minha mãe</i>
+
+172
+00:13:14,710 --> 00:13:18,297
+<i>A minha mãe está a tapar</i>
+<i>A câmara dela com o polegar</i>
+
+173
+00:13:18,380 --> 00:13:22,259
+<i>Vou desperdiçar o meu tempo</i>
+<i>No FaceTime com a minha mãe</i>
+
+174
+00:14:05,469 --> 00:14:06,303
+Olá, miúdos.
+
+175
+00:14:06,929 --> 00:14:08,889
+Hoje vamos conhecer o mundo.
+
+176
+00:14:12,434 --> 00:14:14,186
+<i>O mundo que nos rodeia</i>
+
+177
+00:14:14,270 --> 00:14:16,063
+<i>É espantoso</i>
+
+178
+00:14:16,146 --> 00:14:17,439
+<i>Mas como funciona?</i>
+
+179
+00:14:17,523 --> 00:14:19,733
+<i>Deve ser complicado</i>
+
+180
+00:14:19,817 --> 00:14:23,404
+<i>O segredo é que o mundo só pode funcionar</i>
+
+181
+00:14:23,487 --> 00:14:26,657
+<i>Quando tudo funciona em conjunto</i>
+
+182
+00:14:26,740 --> 00:14:29,034
+<i>Uma abelha bebe de uma flor</i>
+
+183
+00:14:29,118 --> 00:14:30,828
+<i>E com o seu pólen sai</i>
+
+184
+00:14:30,911 --> 00:14:34,665
+<i>Um esquilo numa árvore</i>
+<i>Espalha as sementes que caíram</i>
+
+185
+00:14:34,748 --> 00:14:37,751
+<i>Tudo funciona em conjunto</i>
+
+186
+00:14:37,835 --> 00:14:41,422
+<i>O maior elefante, a mosca mais pequena</i>
+
+187
+00:14:41,505 --> 00:14:44,383
+<i>As toupeiras no subsolo</i>
+<i>Os pássaros no céu</i>
+
+188
+00:14:44,466 --> 00:14:48,512
+<i>E cada grilo, cada peixe no mar</i>
+
+189
+00:14:48,596 --> 00:14:52,224
+<i>Dá o que pode e recebe o que precisa</i>
+
+190
+00:14:52,308 --> 00:14:56,812
+<i>É assim que o mundo funciona</i>
+
+191
+00:14:56,896 --> 00:14:59,857
+<i>É assim que o mundo funciona</i>
+
+192
+00:14:59,940 --> 00:15:03,319
+<i>De A a Zebra até às minhocas na terra</i>
+
+193
+00:15:03,402 --> 00:15:06,488
+<i>É assim</i>
+
+194
+00:15:06,572 --> 00:15:07,823
+<i>Que funciona…</i>
+
+195
+00:15:08,574 --> 00:15:11,619
+Olá, malta. Vejam quem veio dizer olá.
+
+196
+00:15:12,369 --> 00:15:13,621
+É o Socko.
+
+197
+00:15:14,121 --> 00:15:15,748
+Olá!
+
+198
+00:15:15,831 --> 00:15:17,166
+Onde estiveste, Socko?
+
+199
+00:15:17,666 --> 00:15:22,004
+Estive onde estou sempre
+quando não me usas na tua mão.
+
+200
+00:15:22,087 --> 00:15:26,258
+Num espaço assustador e liminar
+entre os estados da existência.
+
+201
+00:15:26,342 --> 00:15:28,761
+Não muito morto, nem muito vivo.
+
+202
+00:15:28,844 --> 00:15:32,640
+É semelhante a um estado constante
+de paralisia do sono.
+
+203
+00:15:32,723 --> 00:15:35,851
+Socko, estávamos a falar
+do mundo e de como funciona.
+
+204
+00:15:36,352 --> 00:15:38,854
+Bolas! Isso parece complicado.
+
+205
+00:15:38,938 --> 00:15:41,649
+Tens algo para nos ensinares
+sobre o mundo?
+
+206
+00:15:41,732 --> 00:15:45,444
+Não diria nada que provavelmente
+já não tivesses dito.
+
+207
+00:15:45,527 --> 00:15:47,446
+Quanto a isso não sei, Socko.
+
+208
+00:15:47,529 --> 00:15:48,864
+Que tal tentares?
+
+209
+00:15:50,115 --> 00:15:51,533
+Está bem.
+
+210
+00:15:51,617 --> 00:15:53,494
+<i>A narrativa simples</i>
+
+211
+00:15:53,577 --> 00:15:55,329
+<i>Em cada aula de História</i>
+
+212
+00:15:55,412 --> 00:15:57,164
+<i>É comprovadamente falsa</i>
+
+213
+00:15:57,247 --> 00:15:59,625
+<i>E pedagogicamente elitista</i>
+
+214
+00:15:59,708 --> 00:16:03,379
+<i>Não sabem</i>
+<i>Que o mundo é construído com sangue</i>
+
+215
+00:16:03,462 --> 00:16:05,881
+<i>E genocídio e exploração</i>
+
+216
+00:16:06,423 --> 00:16:08,801
+<i>A rede global do capital</i>
+
+217
+00:16:08,884 --> 00:16:10,511
+<i>Tem como essencial função</i>
+
+218
+00:16:10,594 --> 00:16:13,847
+<i>Para separar o trabalhador</i>
+<i>Dos meios de produção</i>
+
+219
+00:16:13,931 --> 00:16:17,518
+<i>E o FBI matou o Martin Luther King</i>
+
+220
+00:16:17,601 --> 00:16:20,646
+<i>A propriedade privada</i>
+<i>Por inerência, é roubar</i>
+
+221
+00:16:20,729 --> 00:16:24,066
+<i>E os fascistas neoliberais</i>
+<i>A Esquerda estão a arruinar</i>
+
+222
+00:16:24,149 --> 00:16:25,943
+<i>E cada político</i>
+
+223
+00:16:26,026 --> 00:16:27,611
+<i>Cada polícia na rua</i>
+
+224
+00:16:27,695 --> 00:16:31,657
+<i>Protege os interesses</i>
+<i>Da elite empresarial pedófila</i>
+
+225
+00:16:31,740 --> 00:16:35,077
+<i>É assim que o mundo funciona…</i>
+
+226
+00:16:35,160 --> 00:16:36,078
+A sério?
+
+227
+00:16:36,578 --> 00:16:39,289
+<i>É assim que o mundo funciona</i>
+
+228
+00:16:39,373 --> 00:16:42,960
+<i>Genocídio, os americanos nativos</i>
+<i>Dizem que vocês começaram</i>
+
+229
+00:16:43,043 --> 00:16:46,213
+<i>É assim</i>
+
+230
+00:16:46,296 --> 00:16:47,131
+<i>Que funciona…</i>
+
+231
+00:16:47,715 --> 00:16:49,299
+Isto é bastante forte.
+
+232
+00:16:49,383 --> 00:16:50,843
+Não me digas.
+
+233
+00:16:50,926 --> 00:16:52,928
+O que posso fazer para ajudar?
+
+234
+00:16:53,429 --> 00:16:55,806
+Lê um livro ou assim, não sei.
+
+235
+00:16:55,889 --> 00:16:59,601
+Só não me sobrecarregues
+com a responsabilidade de te educar.
+
+236
+00:16:59,685 --> 00:17:01,478
+É extremamente cansativo.
+
+237
+00:17:01,562 --> 00:17:02,688
+Desculpa, Socko.
+
+238
+00:17:02,771 --> 00:17:05,107
+Só tentava ser uma pessoa melhor.
+
+239
+00:17:05,607 --> 00:17:07,985
+Porque é que vocês,
+brancos ricos de merda,
+
+240
+00:17:08,068 --> 00:17:11,196
+insistem em ver
+todos os conflitos sociopolíticos
+
+241
+00:17:11,280 --> 00:17:15,075
+pelas lentes míopes
+da vossa própria autorrealização?
+
+242
+00:17:15,159 --> 00:17:16,910
+Isto não é sobre ti.
+
+243
+00:17:16,994 --> 00:17:20,205
+Logo, inteira-te da situação,
+ou desaparece, caralho!
+
+244
+00:17:20,289 --> 00:17:24,293
+Atenção à linguagem, amigo.
+Lembra-te de quem está aqui na mão.
+
+245
+00:17:24,376 --> 00:17:27,171
+Mas isso é o que eu…
+Não tens ouvido, caralho?
+
+246
+00:17:27,254 --> 00:17:28,797
+- Estamos enraizados num…
+- Pronto.
+
+247
+00:17:28,881 --> 00:17:30,883
+Espera! Não, por favor! Não quero voltar.
+
+248
+00:17:32,217 --> 00:17:34,219
+Não posso voltar.
+
+249
+00:17:34,303 --> 00:17:35,971
+Por favor.
+
+250
+00:17:36,472 --> 00:17:37,347
+Desculpa.
+
+251
+00:17:38,932 --> 00:17:40,517
+Vais portar-te bem?
+
+252
+00:17:41,560 --> 00:17:42,394
+Sim.
+
+253
+00:17:43,854 --> 00:17:45,773
+Sim, o quê?
+
+254
+00:17:47,733 --> 00:17:49,276
+- Sim, senhor.
+- Olha para mim.
+
+255
+00:17:51,945 --> 00:17:54,198
+Sim, senhor.
+
+256
+00:17:54,782 --> 00:17:55,783
+Está melhor.
+
+257
+00:17:56,909 --> 00:18:01,413
+<i>É assim que o mundo funciona</i>
+
+258
+00:18:01,497 --> 00:18:04,083
+<i>É assim que o mundo funciona</i>
+
+259
+00:18:04,166 --> 00:18:05,959
+<i>Espero que tenhas aprendido a lição</i>
+
+260
+00:18:06,043 --> 00:18:07,878
+<i>Aprendi e doeu!</i>
+
+261
+00:18:07,961 --> 00:18:11,215
+<i>É assim</i>
+
+262
+00:18:11,715 --> 00:18:15,094
+<i>Que funciona</i>
+
+263
+00:18:17,596 --> 00:18:18,972
+Não!
+
+264
+00:18:25,729 --> 00:18:27,106
+<i>Olá, sou o Bo Burnham.</i>
+
+265
+00:18:27,689 --> 00:18:29,983
+<i>E sou um ex-humorista</i>
+
+266
+00:18:30,067 --> 00:18:33,904
+<i>que se tornou</i>
+<i>num consultor de marca social.</i>
+
+267
+00:18:37,616 --> 00:18:40,244
+É uma época empolgante
+para se ser uma marca.
+
+268
+00:18:40,327 --> 00:18:45,499
+Também é uma altura um pouco assustadora
+porque os clientes esperam muito mais
+
+269
+00:18:45,582 --> 00:18:48,043
+das suas marcas do que no passado.
+
+270
+00:18:48,127 --> 00:18:50,838
+Durante este acerto de contas social
+
+271
+00:18:50,921 --> 00:18:54,299
+incrivelmente necessário e em atraso
+que temos na nossa cultura,
+
+272
+00:18:54,383 --> 00:18:59,346
+já não é aceitável
+que as marcas fiquem de fora da conversa.
+
+273
+00:18:59,429 --> 00:19:03,142
+Os consumidores querem saber:
+"Vão usar a notoriedade da vossa marca
+
+274
+00:19:03,225 --> 00:19:05,727
+para fazerem mudanças sociais positivas?"
+
+275
+00:19:06,228 --> 00:19:08,438
+O que criará mais notoriedade da marca.
+
+276
+00:19:08,522 --> 00:19:13,944
+A questão que faço
+às marcas com que trabalho é…
+
+277
+00:19:14,027 --> 00:19:16,155
+"Estarão do lado certo da história?"
+
+278
+00:19:16,238 --> 00:19:18,657
+Não é: "O que estão a vender?"
+
+279
+00:19:18,740 --> 00:19:21,493
+Ou: "Que serviço oferecem?"
+
+280
+00:19:21,577 --> 00:19:24,580
+A questão é: "O que defendem?"
+
+281
+00:19:25,789 --> 00:19:28,500
+Quem és tu, Bagel Bites?
+
+282
+00:19:28,959 --> 00:19:31,044
+Todas estas grandes empresas
+têm tanto medo
+
+283
+00:19:31,128 --> 00:19:34,590
+de toda esta mudança social,
+e eu entro e tiro-lhes o medo.
+
+284
+00:19:34,673 --> 00:19:36,758
+Digo-lhes: "Sejam honestos.
+
+285
+00:19:36,842 --> 00:19:41,221
+Digam aos vossos clientes
+que a JPMorgan é contra o racismo."
+
+286
+00:19:41,305 --> 00:19:42,139
+Em teoria.
+
+287
+00:19:42,222 --> 00:19:43,891
+A questão já não é:
+
+288
+00:19:44,933 --> 00:19:48,395
+"Querem comprar Wheat Thins?",
+por exemplo.
+
+289
+00:19:48,478 --> 00:19:50,063
+Agora, a questão é:
+
+290
+00:19:50,147 --> 00:19:55,694
+"Vão apoiar a Wheat Thins
+na luta contra a doença de Lyme?"
+
+291
+00:19:55,777 --> 00:19:58,280
+Não dá para dourar a pílula. O mundo está…
+
+292
+00:20:00,282 --> 00:20:01,116
+… fodido.
+
+293
+00:20:04,703 --> 00:20:07,206
+E têm uma escolha enquanto marca. Podem
+
+294
+00:20:08,749 --> 00:20:12,502
+esconder-se, enterrar a cabeça na areia
+e esperar que se resolva sozinho,
+
+295
+00:20:13,003 --> 00:20:15,255
+ou podem arregaçar as mangas
+
+296
+00:20:16,089 --> 00:20:17,132
+e trabalhar…
+
+297
+00:20:19,468 --> 00:20:21,011
+… e vender Butterfingers.
+
+298
+00:20:32,105 --> 00:20:34,900
+<i>Uma janela aberta</i>
+
+299
+00:20:35,776 --> 00:20:38,487
+<i>Um romance</i>
+
+300
+00:20:38,570 --> 00:20:41,198
+<i>Um casal de mãos dadas</i>
+
+301
+00:20:44,952 --> 00:20:48,247
+<i>Um abacate</i>
+
+302
+00:20:48,956 --> 00:20:50,749
+<i>Um poema</i>
+
+303
+00:20:51,333 --> 00:20:56,630
+<i>Escrito na areia</i>
+
+304
+00:20:56,713 --> 00:21:00,092
+<i>A neve fresca caída no solo</i>
+
+305
+00:21:00,175 --> 00:21:03,011
+<i>Um golden retriever</i>
+<i>Com uma coroa de flores</i>
+
+306
+00:21:03,595 --> 00:21:07,683
+<i>Será que isto é o Céu?</i>
+
+307
+00:21:08,183 --> 00:21:12,854
+<i>Ou é só o Instagram</i>
+
+308
+00:21:12,938 --> 00:21:15,399
+<i>O Instagram de uma mulher branca?</i>
+
+309
+00:21:15,482 --> 00:21:19,319
+<i>Mulher branca</i>
+
+310
+00:21:19,403 --> 00:21:22,656
+<i>O Instagram de uma mulher branca</i>
+
+311
+00:21:22,739 --> 00:21:25,701
+<i>Mulher branca</i>
+
+312
+00:21:25,784 --> 00:21:28,245
+<i>O Instagram de uma mulher branca</i>
+
+313
+00:21:29,162 --> 00:21:32,082
+<i>Mulher branca</i>
+
+314
+00:21:32,165 --> 00:21:34,459
+<i>O Instagram de uma mulher branca</i>
+
+315
+00:21:37,754 --> 00:21:40,007
+<i>Arte com espuma de </i>latte
+
+316
+00:21:41,550 --> 00:21:43,218
+<i>Abóboras minúsculas</i>
+
+317
+00:21:44,344 --> 00:21:46,596
+<i>Meias felpudas e confortáveis</i>
+
+318
+00:21:49,933 --> 00:21:52,269
+<i>Mesa de centro feita de troncos</i>
+
+319
+00:21:52,936 --> 00:21:56,064
+<i>Uma boneca cabeçuda da Ruth Bader Ginsburg</i>
+
+320
+00:21:56,982 --> 00:22:01,778
+<i>Um bordado de uma raposa</i>
+
+321
+00:22:01,862 --> 00:22:05,490
+<i>Uma citação aleatória</i>
+<i>De </i>O Senhor dos Anéis
+
+322
+00:22:05,574 --> 00:22:08,827
+<i>Incorretamente atribuída</i>
+<i>A Martin Luther King</i>
+
+323
+00:22:08,910 --> 00:22:12,914
+<i>Será que isto é o Céu?</i>
+
+324
+00:22:12,998 --> 00:22:18,462
+<i>Ou estou a ver o Instagram</i>
+
+325
+00:22:18,545 --> 00:22:20,714
+<i>O Instagram de uma mulher branca?</i>
+
+326
+00:22:20,797 --> 00:22:24,885
+<i>Mulher branca</i>
+
+327
+00:22:24,968 --> 00:22:28,263
+<i>O Instagram de uma mulher branca</i>
+
+328
+00:22:28,347 --> 00:22:31,266
+<i>Mulher branca</i>
+
+329
+00:22:31,350 --> 00:22:34,394
+<i>O Instagram de uma mulher branca</i>
+
+330
+00:22:34,895 --> 00:22:37,564
+<i>Mulher branca</i>
+
+331
+00:22:37,647 --> 00:22:40,442
+<i>O Instagram de uma mulher branca</i>
+
+332
+00:22:41,026 --> 00:22:44,654
+<i>A foto preferida da mãe dela</i>
+
+333
+00:22:45,781 --> 00:22:48,075
+<i>A legenda diz:</i>
+
+334
+00:22:48,158 --> 00:22:50,577
+<i>"Nem acredito</i>
+
+335
+00:22:50,660 --> 00:22:55,457
+<i>Já passou uma década desde que partiste</i>
+
+336
+00:22:55,540 --> 00:22:56,708
+<i>Mãe, tenho saudades tuas</i>
+
+337
+00:22:56,792 --> 00:22:59,795
+<i>Sinto falta de estar contigo no jardim</i>
+
+338
+00:22:59,878 --> 00:23:03,298
+<i>Ainda estou a descobrir</i>
+<i>Como continuo a viver sem ti</i>
+
+339
+00:23:03,382 --> 00:23:06,176
+<i>Melhorou um pouco, mas ainda é difícil</i>
+
+340
+00:23:06,259 --> 00:23:09,513
+<i>Mãe, tenho um emprego</i>
+<i>Vivo no meu próprio apartamento</i>
+
+341
+00:23:09,596 --> 00:23:12,641
+<i>Mãe, tenho um namorado e sou louca por ele</i>
+
+342
+00:23:12,724 --> 00:23:15,727
+<i>A tua menina não se saiu muito mal</i>
+
+343
+00:23:15,811 --> 00:23:19,231
+<i>Mamã, adoro-te</i>
+<i>Dá um abraço e um beijo ao pai"</i>
+
+344
+00:23:20,148 --> 00:23:23,276
+<i>Uma salada de queijo de cabra</i>
+
+345
+00:23:23,360 --> 00:23:26,530
+<i>Uma cama de rede retroiluminada</i>
+
+346
+00:23:26,613 --> 00:23:31,284
+<i>Um simples copo de vinho</i>
+
+347
+00:23:31,368 --> 00:23:35,288
+<i>Arte urbana política</i>
+<i>Extremamente pouco original</i>
+
+348
+00:23:35,372 --> 00:23:38,542
+<i>Um caça-sonhos</i>
+<i>Comprado no Urban Outfitters</i>
+
+349
+00:23:39,042 --> 00:23:44,589
+<i>Um letreiro de néon </i>vintage
+
+350
+00:23:44,673 --> 00:23:47,884
+<i>Três pequenas palavras, um par de pombas</i>
+
+351
+00:23:47,968 --> 00:23:51,346
+<i>E no dedo um anel</i>
+<i>Da pessoa de quem ela ama</i>
+
+352
+00:23:51,430 --> 00:23:55,267
+<i>Será que isto é o Céu?</i>
+
+353
+00:23:56,143 --> 00:24:00,856
+<i>Ou é só o Instagram</i>
+
+354
+00:24:00,939 --> 00:24:03,150
+<i>O Instagram de uma mulher branca?</i>
+
+355
+00:24:03,233 --> 00:24:07,446
+<i>Mulher branca</i>
+
+356
+00:24:07,529 --> 00:24:10,657
+<i>O Instagram de uma mulher branca</i>
+
+357
+00:24:10,740 --> 00:24:13,702
+<i>Mulher branca</i>
+
+358
+00:24:13,785 --> 00:24:17,038
+<i>O Instagram de uma mulher branca</i>
+
+359
+00:24:17,122 --> 00:24:20,125
+<i>Mulher branca</i>
+
+360
+00:24:20,208 --> 00:24:22,711
+<i>O Instagram de uma mulher branca</i>
+
+361
+00:24:26,381 --> 00:24:29,801
+<i>Mulher branca</i>
+
+362
+00:24:29,885 --> 00:24:32,512
+<i>O Instagram de uma mulher branca</i>
+
+363
+00:24:32,596 --> 00:24:36,391
+<i>Mulher branca</i>
+
+364
+00:24:36,475 --> 00:24:39,603
+<i>O Instagram de uma mulher branca</i>
+
+365
+00:24:39,686 --> 00:24:42,814
+<i>Mulher branca</i>
+
+366
+00:24:42,898 --> 00:24:46,026
+<i>O Instagram de uma mulher branca</i>
+
+367
+00:24:46,109 --> 00:24:49,237
+<i>Instagram</i>
+
+368
+00:24:49,321 --> 00:24:51,615
+<i>O Instagram de uma mulher branca</i>
+
+369
+00:24:56,703 --> 00:24:58,121
+<i>Eis uma pergunta, malta.</i>
+
+370
+00:24:58,872 --> 00:25:01,958
+<i>Será necessário?</i>
+
+371
+00:25:02,042 --> 00:25:07,339
+Será necessário que cada pessoa
+neste planeta
+
+372
+00:25:08,840 --> 00:25:13,428
+exprima cada opinião que tenha
+
+373
+00:25:13,512 --> 00:25:16,556
+sobre cada coisa que aconteça
+
+374
+00:25:17,349 --> 00:25:18,683
+ao mesmo tempo?
+
+375
+00:25:18,767 --> 00:25:22,020
+Será… Será necessário?
+
+376
+00:25:24,272 --> 00:25:26,233
+Ou para perguntar de outra forma,
+
+377
+00:25:27,108 --> 00:25:29,569
+será que alguém é capaz
+
+378
+00:25:31,238 --> 00:25:32,489
+de se calar, caralho?
+
+379
+00:25:33,240 --> 00:25:35,116
+Será que alguém,
+
+380
+00:25:35,200 --> 00:25:36,910
+qualquer,
+
+381
+00:25:37,410 --> 00:25:40,539
+qualquer um, qualquer pessoa,
+
+382
+00:25:40,622 --> 00:25:42,123
+será que alguém
+
+383
+00:25:43,750 --> 00:25:46,336
+pode calar o raio da boca sobre tudo…
+
+384
+00:25:46,419 --> 00:25:48,713
+Sobre qualquer coisa?
+
+385
+00:25:48,797 --> 00:25:51,091
+Será que alguma pessoa
+
+386
+00:25:51,174 --> 00:25:54,928
+é capaz de calar o raio da boca
+acerca de qualquer coisa
+
+387
+00:25:55,428 --> 00:25:57,389
+durante uma hora?
+
+388
+00:25:57,973 --> 00:26:00,392
+Será possível?
+
+389
+00:26:04,396 --> 00:26:05,647
+E sei que pensam:
+
+390
+00:26:05,730 --> 00:26:07,691
+"Não calas a merda da boca",
+
+391
+00:26:07,774 --> 00:26:09,192
+e é verdade, mas…
+
+392
+00:26:10,902 --> 00:26:13,655
+<i>Quem precisa de um café</i>
+<i>Pois estou a ir buscar</i>
+
+393
+00:26:13,738 --> 00:26:16,491
+<i>Os pedidos de todos estou a apontar</i>
+
+394
+00:26:16,575 --> 00:26:19,119
+<i>O café é grátis, tal como eu</i>
+
+395
+00:26:19,202 --> 00:26:21,162
+<i>Sou um estagiário não remunerado</i>
+
+396
+00:26:22,497 --> 00:26:24,958
+<i>Organizar papéis, por aí correr</i>
+
+397
+00:26:25,041 --> 00:26:27,877
+<i>Sentar-me na reunião sem um barulho fazer</i>
+
+398
+00:26:27,961 --> 00:26:30,630
+<i>Mal são gente, de certa forma, é legal</i>
+
+399
+00:26:30,714 --> 00:26:32,424
+<i>Estagiário não remunerado</i>
+
+400
+00:26:33,425 --> 00:26:35,844
+<i>Trabalhas o dia todo, voltas ao quarto</i>
+
+401
+00:26:35,927 --> 00:26:38,763
+<i>E como não pagas uma hipoteca</i>
+<i>Sacas um porno</i>
+
+402
+00:26:38,847 --> 00:26:40,515
+<i>Porque és um estagiário</i>
+
+403
+00:26:40,599 --> 00:26:42,017
+<i>Não remunerado</i>
+
+404
+00:26:43,643 --> 00:26:44,603
+Olá, malta.
+
+405
+00:26:45,395 --> 00:26:49,441
+Pensei em fazer um vídeo de reação
+à canção que me viram cantar.
+
+406
+00:26:49,524 --> 00:26:50,734
+Pode ser divertido.
+
+407
+00:26:51,234 --> 00:26:55,780
+Então, tenho o meu portátil preparado.
+Estou pronto para começar. Vamos.
+
+408
+00:26:56,740 --> 00:27:00,368
+<i>Quem precisa de um café</i>
+<i>Pois estou a ir buscar</i>
+
+409
+00:27:00,452 --> 00:27:01,453
+Gosto da canção.
+
+410
+00:27:02,287 --> 00:27:06,207
+A ideia desta música
+era que basicamente havia muitas músicas
+
+411
+00:27:06,291 --> 00:27:08,501
+no passado sobre empregos
+da classe trabalhadora,
+
+412
+00:27:08,585 --> 00:27:12,380
+mas nem tantas sobre a exploração laboral
+do mundo moderno,
+
+413
+00:27:12,464 --> 00:27:14,007
+então, era essa a ideia.
+
+414
+00:27:14,090 --> 00:27:15,925
+<i>Mal são gente, de certa forma, é legal…</i>
+
+415
+00:27:16,009 --> 00:27:20,180
+A minha barba está um pouco mais curta
+neste vídeo porque o filmei há semanas.
+
+416
+00:27:20,263 --> 00:27:21,640
+<i>… todo, voltas para o quarto</i>
+
+417
+00:27:21,723 --> 00:27:23,808
+<i>E como não pagas uma hipoteca</i>
+<i>Sacas um…</i>
+
+418
+00:27:23,892 --> 00:27:25,977
+Acho que tem sucesso.
+A canção, não a barba.
+
+419
+00:27:26,519 --> 00:27:27,729
+<i>Não remunerado</i>
+
+420
+00:27:29,272 --> 00:27:31,816
+E depois cortamos.
+Acho engraçado cortar mesmo no…
+
+421
+00:27:31,900 --> 00:27:35,236
+<i>… fazer um vídeo de reação</i>
+<i>à canção que me viram cantar.</i>
+
+422
+00:27:35,320 --> 00:27:36,946
+<i>- Pode ser divertido.</i>
+- O que…
+
+423
+00:27:37,030 --> 00:27:38,448
+<i>Então, tenho o meu…</i>
+
+424
+00:27:38,531 --> 00:27:40,742
+Porque este vídeo deu a seguir.
+
+425
+00:27:40,825 --> 00:27:43,370
+Certo. Então, agora, pois.
+
+426
+00:27:43,453 --> 00:27:44,996
+Vou continuar a reagir.
+
+427
+00:27:45,080 --> 00:27:48,667
+Então, este sou eu a reagir à canção.
+
+428
+00:27:50,835 --> 00:27:53,505
+Estou a explicar o que a canção significa.
+
+429
+00:27:54,339 --> 00:27:56,675
+E do que se trata.
+Estou a ser um pouco pretensioso.
+
+430
+00:27:56,758 --> 00:27:59,969
+É um instinto que tenho,
+em que tudo o que escrevo
+
+431
+00:28:00,053 --> 00:28:02,097
+tem de ter um significado maior.
+
+432
+00:28:02,180 --> 00:28:05,684
+Mas é uma canção estúpida
+e não significa nada
+
+433
+00:28:05,767 --> 00:28:09,145
+e é bastante desagradável
+que eu sinta esta necessidade,
+
+434
+00:28:09,229 --> 00:28:13,441
+esta necessidade desesperada,
+de ser visto como inteligente.
+
+435
+00:28:13,525 --> 00:28:15,235
+E o vídeo vai acabar aqui,
+
+436
+00:28:15,318 --> 00:28:16,236
+como podem ver,
+
+437
+00:28:16,319 --> 00:28:20,532
+e estou muito confuso.
+Porque estou a olhar fixamente para mim.
+
+438
+00:28:20,615 --> 00:28:24,661
+Não sei para onde estou a olhar
+e começo a acompanhar agora
+
+439
+00:28:24,744 --> 00:28:26,538
+e a perceber o que se passa.
+
+440
+00:28:26,621 --> 00:28:29,499
+E sim, agora estou a decidir reagir
+
+441
+00:28:29,582 --> 00:28:32,335
+à reação ao vídeo.
+
+442
+00:28:32,419 --> 00:28:36,423
+Então, aqui, estou a reagir
+à minha própria reação
+
+443
+00:28:36,506 --> 00:28:41,094
+e estou a criticar a minha reação inicial
+por ser pretensioso,
+
+444
+00:28:41,177 --> 00:28:43,847
+o que, sinceramente,
+é um mecanismo de defesa.
+
+445
+00:28:44,639 --> 00:28:47,767
+Preocupa-me tanto
+que as críticas incidam sobre mim
+
+446
+00:28:47,851 --> 00:28:50,562
+que me critico a mim próprio,
+antes dos outros.
+
+447
+00:28:50,645 --> 00:28:53,565
+E penso: "Se souber
+que estou a ser idiota,
+
+448
+00:28:53,648 --> 00:28:56,901
+isso vai tornar-me menos idiota", mas não.
+
+449
+00:28:57,485 --> 00:28:59,946
+A autoconsciência
+não absolve ninguém de nada.
+
+450
+00:29:00,029 --> 00:29:02,490
+Estou a ficar careca? Isto é perturbador.
+
+451
+00:29:02,574 --> 00:29:06,619
+Não gosto de olhar para mim assim
+e quero que isto pare.
+
+452
+00:29:06,703 --> 00:29:08,747
+Quero que isto pare. Vou pará-lo.
+
+453
+00:29:09,414 --> 00:29:12,625
+Então, sim, foi a minha reação à canção,
+
+454
+00:29:12,709 --> 00:29:14,377
+e espero que tenham gostado.
+
+455
+00:29:23,553 --> 00:29:25,722
+<i>CEO, empreendedor</i>
+
+456
+00:29:25,805 --> 00:29:27,849
+<i>Nascido em 1964</i>
+
+457
+00:29:27,932 --> 00:29:29,350
+<i>Jeffrey</i>
+
+458
+00:29:29,434 --> 00:29:31,936
+<i>Jeffrey Bezos</i>
+
+459
+00:29:32,020 --> 00:29:34,063
+<i>CEO, empreendedor</i>
+
+460
+00:29:34,147 --> 00:29:36,149
+<i>Nascido em 1964</i>
+
+461
+00:29:36,232 --> 00:29:37,650
+<i>Jeffrey</i>
+
+462
+00:29:37,734 --> 00:29:40,320
+<i>Jeffrey Bezos</i>
+
+463
+00:29:40,403 --> 00:29:42,405
+<i>Vá lá, Jeffrey, tu consegues</i>
+
+464
+00:29:42,489 --> 00:29:44,491
+<i>Abre caminho, não sossegues</i>
+
+465
+00:29:44,574 --> 00:29:46,618
+<i>Diz-nos porquê, mostra-nos como</i>
+
+466
+00:29:46,701 --> 00:29:48,661
+<i>Vê de onde vieste e vê onde estás</i>
+
+467
+00:29:48,745 --> 00:29:50,789
+<i>O Zuckerberg, o Gates e o Buffet</i>
+
+468
+00:29:50,872 --> 00:29:52,832
+<i>São amadores, podem chupá-lo</i>
+
+469
+00:29:52,916 --> 00:29:55,001
+<i>Fodam-se mulheres deles</i>
+<i>Bebam-lhes o sangue</i>
+
+470
+00:29:55,084 --> 00:29:56,711
+<i>Vá lá, Jeff, apanha-os!</i>
+
+471
+00:30:11,976 --> 00:30:13,353
+Não sei quanto a vocês,
+
+472
+00:30:13,436 --> 00:30:16,689
+mas, ultimamente, tenho pensado que…
+
+473
+00:30:17,857 --> 00:30:21,277
+… que talvez permitir
+
+474
+00:30:22,028 --> 00:30:25,156
+que as grandes empresas do meio digital
+
+475
+00:30:25,949 --> 00:30:29,452
+explorem o drama neuroquímico
+
+476
+00:30:29,536 --> 00:30:31,704
+dos nossos filhos por lucro.
+
+477
+00:30:33,498 --> 00:30:35,041
+talvez isso tenha sido…
+
+478
+00:30:37,168 --> 00:30:38,461
+… uma má decisão
+
+479
+00:30:39,295 --> 00:30:40,129
+nossa.
+
+480
+00:30:43,299 --> 00:30:44,342
+Talvez…
+
+481
+00:30:44,843 --> 00:30:47,720
+Talvez a redução de toda
+
+482
+00:30:47,804 --> 00:30:54,769
+a experiência humana subjetiva
+a uma troca de valores sem vida
+
+483
+00:30:54,853 --> 00:30:56,521
+que não beneficia ninguém,
+
+484
+00:30:57,522 --> 00:31:00,024
+exceto, vocês sabem,
+
+485
+00:31:00,817 --> 00:31:05,071
+um punhado de salamandras
+de olhos esbugalhados em Silicon Valley.
+
+486
+00:31:05,154 --> 00:31:06,030
+Talvez isso,
+
+487
+00:31:06,739 --> 00:31:10,034
+como um modo de vida para sempre…
+
+488
+00:31:12,537 --> 00:31:13,454
+… talvez isso
+
+489
+00:31:15,290 --> 00:31:16,249
+não seja bom.
+
+490
+00:31:23,381 --> 00:31:24,299
+Estou…
+
+491
+00:31:26,718 --> 00:31:27,552
+… excitado.
+
+492
+00:31:30,388 --> 00:31:34,726
+Sexting
+
+493
+00:31:34,809 --> 00:31:38,271
+<i>Não é sexo, é a próxima melhor cena</i>
+
+494
+00:31:38,354 --> 00:31:42,775
+Sexting
+
+495
+00:31:45,403 --> 00:31:46,696
+<i>AT&T</i>
+
+496
+00:31:46,779 --> 00:31:47,739
+<i>Estou na cama</i>
+
+497
+00:31:47,822 --> 00:31:50,700
+<i>Estou pronto para ir contigo</i>
+
+498
+00:31:50,783 --> 00:31:53,870
+<i>Esta noite estou a pensar ir devagar</i>
+
+499
+00:31:53,953 --> 00:31:56,456
+<i>Vamos usar apenas </i>emojis
+
+500
+00:31:56,539 --> 00:31:59,334
+<i>Não precisamos de dicção fonética</i>
+
+501
+00:31:59,417 --> 00:32:03,379
+<i>Vamos dizer obscenidades</i>
+<i>Como se fôssemos antigos egípcios</i>
+
+502
+00:32:03,463 --> 00:32:05,465
+<i>Envias-me um pêssego</i>
+
+503
+00:32:05,548 --> 00:32:07,550
+<i>Eu respondo-te com uma cenoura</i>
+
+504
+00:32:07,634 --> 00:32:09,469
+<i>Envias uma roda-gigante</i>
+
+505
+00:32:09,552 --> 00:32:11,220
+<i>Isso é bastante abstrato</i>
+
+506
+00:32:11,304 --> 00:32:13,348
+<i>Eu respondo com um bilhete</i>
+
+507
+00:32:13,431 --> 00:32:16,059
+<i>Sugerindo que a roda-gigante é o teu corpo</i>
+
+508
+00:32:16,142 --> 00:32:18,603
+<i>E que adorava entrar nele</i>
+
+509
+00:32:19,103 --> 00:32:20,438
+<i>Não!</i>
+
+510
+00:32:20,521 --> 00:32:22,982
+<i>E se pensares que estou a sugerir</i>
+
+511
+00:32:23,066 --> 00:32:26,402
+<i>Que a tua vagina é tão grande</i>
+<i>Como uma roda-gigante?</i>
+
+512
+00:32:26,486 --> 00:32:27,403
+<i>Raios</i>
+
+513
+00:32:27,487 --> 00:32:30,281
+<i>Respondes com um boneco de neve</i>
+
+514
+00:32:31,491 --> 00:32:33,785
+<i>Crise evitada</i>
+
+515
+00:32:33,868 --> 00:32:38,706
+<i>- Graças a Deus</i>
+- Sexting
+
+516
+00:32:38,790 --> 00:32:42,418
+<i>Não é sexo, é a próxima melhor cena</i>
+
+517
+00:32:42,502 --> 00:32:46,923
+Sexting
+
+518
+00:32:49,509 --> 00:32:50,635
+<i>AT&T</i>
+
+519
+00:32:50,718 --> 00:32:54,222
+<i>Chega de </i>emojis,<i> é a vez das palavras</i>
+
+520
+00:32:54,305 --> 00:32:58,184
+<i>Pergunto o que trazes vestido</i>
+<i>Respondes: "Uma camisola"</i>
+
+521
+00:32:58,267 --> 00:33:00,228
+<i>Dizes: "Estás nu?"</i>
+
+522
+00:33:00,311 --> 00:33:03,189
+<i>Digo: "Sim, só tenho uma cartola"</i>
+
+523
+00:33:03,272 --> 00:33:06,359
+<i>Dizes: "LMAO", mas duvido disso</i>
+
+524
+00:33:06,442 --> 00:33:10,530
+<i>Fico excitado só de pensar no que te faria</i>
+
+525
+00:33:10,613 --> 00:33:14,367
+<i>Porque na minha cabeça estou na tua cama</i>
+<i>E a chegar a ti</i>
+
+526
+00:33:14,450 --> 00:33:18,496
+<i>Fizeram a Internet para noites destas</i>
+
+527
+00:33:18,579 --> 00:33:22,375
+<i>Amo-te, querida</i>
+<i>Por favor, envia uma foto das tuas tetas</i>
+
+528
+00:33:22,458 --> 00:33:26,337
+Sexting
+
+529
+00:33:26,838 --> 00:33:30,425
+<i>Não é sexo, é a próxima melhor cena</i>
+
+530
+00:33:30,508 --> 00:33:34,512
+Sexting
+
+531
+00:33:34,595 --> 00:33:37,306
+<i>Estamos no </i>sexting
+
+532
+00:33:37,390 --> 00:33:38,349
+<i>AT&T</i>
+
+533
+00:33:38,433 --> 00:33:42,145
+<i>Envias a foto</i>
+<i>E dizes que agora é a minha vez</i>
+
+534
+00:33:42,228 --> 00:33:46,441
+<i>Puta que pariu, não aprendi desta vez</i>
+
+535
+00:33:46,524 --> 00:33:49,944
+<i>A lanterna do meu telemóvel</i>
+<i>É a minha única luz</i>
+
+536
+00:33:50,028 --> 00:33:54,574
+<i>E a lanterna assusta-me a pila</i>
+
+537
+00:33:54,657 --> 00:33:58,494
+<i>Acobardo-me e em vez disso</i>
+<i>Envio uma foto da minha cara</i>
+
+538
+00:33:58,578 --> 00:34:02,790
+<i>Porque a minha pila</i>
+<i>Parece o bebé de </i>No Céu Tudo é Perfeito
+
+539
+00:34:02,874 --> 00:34:06,836
+<i>Dizes: "Enviei-te as minhas tetas</i>
+<i>Não é justo"</i>
+
+540
+00:34:06,919 --> 00:34:10,965
+<i>Então, enviei-ta</i>
+<i>E depois o meu telemóvel morreu</i>
+
+541
+00:34:11,049 --> 00:34:13,301
+<i>Outra noite sozinho, sim</i>
+
+542
+00:34:13,384 --> 00:34:15,303
+<i>Preso na minha casa, sim</i>
+
+543
+00:34:15,386 --> 00:34:18,806
+<i>Sentado sozinho, com uma mão na pila</i>
+<i>E outra no meu telemóvel, sim</i>
+
+544
+00:34:18,890 --> 00:34:20,892
+<i>Outra noite sozinho, sim</i>
+
+545
+00:34:21,434 --> 00:34:23,311
+<i>Preso na minha casa, sim</i>
+
+546
+00:34:23,394 --> 00:34:26,939
+<i>Sentado sozinho, com uma mão na pila</i>
+<i>E outra no meu telemóvel, sim</i>
+
+547
+00:34:27,023 --> 00:34:28,900
+<i>Outra noite sozinho, sim</i>
+
+548
+00:34:29,400 --> 00:34:30,902
+<i>Preso na minha casa, sim</i>
+
+549
+00:34:31,402 --> 00:34:33,071
+<i>Sentado sozinho, com uma mão na pila</i>
+
+550
+00:34:33,154 --> 00:34:34,864
+<i>- E outra no meu telemóvel</i>
+<i>- Pachacha</i>
+
+551
+00:34:34,947 --> 00:34:36,908
+<i>- Outra noite sozinho, sim</i>
+<i>- Tetas</i>
+
+552
+00:34:37,492 --> 00:34:39,452
+<i>- Preso na minha casa, sim</i>
+<i>- Tomates</i>
+
+553
+00:34:39,535 --> 00:34:42,872
+<i>Sentado sozinho, com uma mão na pila</i>
+<i>E outra no meu telemóvel, sim</i>
+
+554
+00:34:48,127 --> 00:34:49,212
+Olá a todos.
+
+555
+00:34:49,712 --> 00:34:52,799
+Só queria fazer
+um vídeo rápido para agradecer.
+
+556
+00:34:53,382 --> 00:34:55,802
+Obrigado por verem o meu conteúdo.
+
+557
+00:34:55,885 --> 00:34:56,969
+Como sabem,
+
+558
+00:34:57,053 --> 00:34:59,931
+esforço-me imenso para vos tentar trazer
+
+559
+00:35:00,014 --> 00:35:03,017
+conteúdo de alta qualidade
+de que acho que gostarão.
+
+560
+00:35:03,101 --> 00:35:06,479
+O facto de estarem a gostar
+significa tudo para mim.
+
+561
+00:35:06,562 --> 00:35:09,190
+Por isso, obrigado,
+e continuem a ver também,
+
+562
+00:35:09,273 --> 00:35:11,984
+pois há muito mais conteúdo
+de onde este veio.
+
+563
+00:35:12,485 --> 00:35:14,320
+Muito bem, malta, até logo.
+
+564
+00:35:32,463 --> 00:35:36,134
+<i>Tentar ser engraçado</i>
+<i>E estar preso num quarto</i>
+
+565
+00:35:37,552 --> 00:35:41,389
+<i>Não há muito mais a dizer acerca disto</i>
+
+566
+00:35:41,472 --> 00:35:45,059
+<i>Será que alguém pode ter piada</i>
+<i>Preso num quarto…</i>
+
+567
+00:35:46,769 --> 00:35:48,437
+Respirei fundo, caralho!
+
+568
+00:35:51,232 --> 00:35:54,861
+<i>Tentar ser engraçado</i>
+<i>E estar preso num quarto</i>
+
+569
+00:35:56,320 --> 00:36:00,199
+<i>Não há muito mais a dizer acerca disto</i>
+
+570
+00:36:00,283 --> 00:36:03,870
+<i>Será que alguém pode ter piada</i>
+<i>Preso num quarto…</i>
+
+571
+00:36:05,496 --> 00:36:09,167
+<i>Tentar tirar algo daquilo</i>
+
+572
+00:36:09,250 --> 00:36:11,961
+<i>Tentar fazer caretas</i>
+
+573
+00:36:12,628 --> 00:36:14,046
+<i>Tentar contar piadas</i>
+
+574
+00:36:14,130 --> 00:36:17,049
+<i>Fazer pequenos sons</i>
+
+575
+00:36:18,217 --> 00:36:22,305
+<i>Eu era um miúdo preso no seu quarto</i>
+
+576
+00:36:23,306 --> 00:36:27,143
+<i>Não há muito mais a dizer acerca disto</i>
+
+577
+00:36:27,226 --> 00:36:31,355
+<i>Quando és miúdo</i>
+<i>E estás preso no teu quarto</i>
+
+578
+00:36:32,523 --> 00:36:36,194
+<i>Fazes qualquer merda para sair dali</i>
+
+579
+00:36:36,277 --> 00:36:39,530
+<i>Tentas fazer caretas</i>
+
+580
+00:36:39,614 --> 00:36:41,115
+<i>Tentas contar piadas</i>
+
+581
+00:36:41,199 --> 00:36:45,161
+<i>Fazes pequenos sons</i>
+
+582
+00:36:45,244 --> 00:36:47,371
+<i>Bem, bem</i>
+
+583
+00:36:47,455 --> 00:36:49,665
+<i>Vejam quem está cá dentro outra vez</i>
+
+584
+00:36:49,749 --> 00:36:51,167
+<i>Foste procurar</i>
+
+585
+00:36:51,250 --> 00:36:54,170
+<i>Uma razão para te esconderes outra vez</i>
+
+586
+00:36:54,253 --> 00:36:56,422
+<i>Bem, bem</i>
+
+587
+00:36:56,505 --> 00:36:59,759
+<i>Amigo, encontraste-a</i>
+
+588
+00:37:00,301 --> 00:37:02,845
+<i>Portanto, sai com as mãos no ar</i>
+
+589
+00:37:02,929 --> 00:37:06,641
+<i>Temos-te cercado</i>
+
+590
+00:37:15,650 --> 00:37:16,484
+Mais uma.
+
+591
+00:38:16,752 --> 00:38:19,588
+<i>Cresci como o teu suburbano habitual</i>
+
+592
+00:38:19,672 --> 00:38:23,175
+<i>Uma pequena cidade em Massachusetts</i>
+<i>Branca como a cal</i>
+
+593
+00:38:23,259 --> 00:38:26,846
+<i>Fui à igreja aos domingos</i>
+<i>De fato e gravata</i>
+
+594
+00:38:26,929 --> 00:38:29,473
+<i>Mas passei o meu tempo livre</i>
+<i>A ver Family Guy</i>
+
+595
+00:38:29,557 --> 00:38:33,352
+<i>Comecei a fazer comédia</i>
+<i>Quando era só um miúdo protegido</i>
+
+596
+00:38:33,436 --> 00:38:36,105
+<i>Escrevi merdas ofensivas e disse</i>
+
+597
+00:38:36,188 --> 00:38:40,234
+<i>Pai, perdoa-me</i>
+<i>Porque não percebi o que fiz</i>
+
+598
+00:38:40,318 --> 00:38:42,653
+<i>Ou que ia viver para me arrepender</i>
+
+599
+00:38:42,737 --> 00:38:46,907
+<i>Os tempos estão a mudar</i>
+<i>E estou a ficar macróbio</i>
+
+600
+00:38:46,991 --> 00:38:49,160
+<i>Será que me vais responsabilizar?</i>
+
+601
+00:38:49,243 --> 00:38:52,496
+<i>A minha cama está vazia</i>
+<i>E estou a ficar com frio</i>
+
+602
+00:38:52,580 --> 00:38:55,583
+<i>Será que ninguém me vai responsabilizar?</i>
+
+603
+00:38:56,917 --> 00:38:58,502
+<i>Sou problemático</i>
+
+604
+00:38:59,587 --> 00:39:00,880
+<i>Ele é um problema</i>
+
+605
+00:39:00,963 --> 00:39:02,965
+<i>Quando tinha 17 anos, no </i>Halloween
+
+606
+00:39:03,049 --> 00:39:04,925
+<i>Vesti-me de Aladino</i>
+
+607
+00:39:06,052 --> 00:39:07,386
+<i>Ele é um problema</i>
+
+608
+00:39:07,470 --> 00:39:09,013
+<i>Não escureci a minha pele</i>
+
+609
+00:39:09,096 --> 00:39:11,432
+<i>Mas, em retrospetiva, ainda é estranho</i>
+
+610
+00:39:22,651 --> 00:39:26,030
+<i>Quero mostrar-te como evoluo</i>
+<i>Como pessoa, mas primeiro</i>
+
+611
+00:39:26,113 --> 00:39:29,617
+<i>Sinto que devo abordar a letra</i>
+<i>Do verso traseiro</i>
+
+612
+00:39:29,700 --> 00:39:32,953
+<i>Tento esconder-me na minha infância</i>
+<i>E isso não está bem</i>
+
+613
+00:39:33,037 --> 00:39:35,956
+<i>São as minhas ações</i>
+<i>E não as vou explicar também</i>
+
+614
+00:39:36,040 --> 00:39:40,086
+<i>Pensei muito em mim</i>
+<i>Desde que comecei a cantar esta canção</i>
+
+615
+00:39:40,169 --> 00:39:42,797
+<i>Estava totalmente errado quando disse</i>
+
+616
+00:39:42,880 --> 00:39:46,592
+<i>Pai, perdoa-me</i>
+<i>Porque não percebi o que fiz</i>
+
+617
+00:39:46,675 --> 00:39:49,428
+<i>Ou que ia viver para me arrepender</i>
+
+618
+00:39:49,512 --> 00:39:53,349
+<i>Os tempos estão a mudar</i>
+<i>E estou a ficar macróbio</i>
+
+619
+00:39:53,432 --> 00:39:55,559
+<i>Será que me vais responsabilizar?</i>
+
+620
+00:39:55,643 --> 00:39:58,854
+<i>A minha cama está vazia</i>
+<i>E estou a ficar com frio</i>
+
+621
+00:39:58,938 --> 00:40:02,149
+<i>Será que ninguém me vai responsabilizar?</i>
+
+622
+00:40:04,944 --> 00:40:06,362
+<i>Sou problemático</i>
+
+623
+00:40:07,655 --> 00:40:08,989
+<i>Ele é um problema</i>
+
+624
+00:40:09,073 --> 00:40:12,993
+<i>Acabei de me lembrar que o fato do Aladino</i>
+<i>Está no sótão da minha mãe</i>
+
+625
+00:40:14,036 --> 00:40:16,497
+<i>- Ele é um problema</i>
+<i>- Vou para casa queimá-lo…</i>
+
+626
+00:40:16,580 --> 00:40:19,291
+Ou não. Queimá-lo é mau?
+O que faço com ele?
+
+627
+00:40:20,209 --> 00:40:22,336
+<i>E tenho sido mesmo esquisito</i>
+
+628
+00:40:22,420 --> 00:40:26,674
+<i>O meu armário está cheio de coisas</i>
+<i>Que são vagamente merdosas</i>
+
+629
+00:40:26,757 --> 00:40:28,843
+<i>Tudo era perfeitamente lícito</i>
+
+630
+00:40:28,926 --> 00:40:32,513
+<i>Só não muito solícito</i>
+<i>E mesmo muito merdoso</i>
+
+631
+00:40:32,596 --> 00:40:35,349
+<i>E tenho sido mesmo esquisito</i>
+
+632
+00:40:35,433 --> 00:40:39,603
+<i>O meu armário está cheio de coisas</i>
+<i>Que são vagamente merdosas</i>
+
+633
+00:40:39,687 --> 00:40:41,856
+<i>Tudo era perfeitamente lícito</i>
+
+634
+00:40:41,939 --> 00:40:44,733
+<i>Só não muito solícito e mesmo muito</i>
+
+635
+00:40:44,817 --> 00:40:49,155
+<i>E lamento imenso, caralho</i>
+
+636
+00:40:49,238 --> 00:40:52,658
+<i>Cabra, tento ser ouvinte</i>
+<i>Merda, tenho sido complacente</i>
+
+637
+00:40:52,741 --> 00:40:55,828
+<i>Lamento</i>
+
+638
+00:40:55,911 --> 00:40:58,831
+<i>Se vou acompanhar</i>
+<i>Primeiro, tenho de me confessar</i>
+
+639
+00:40:58,914 --> 00:41:05,296
+<i>Lamento</i>
+
+640
+00:41:05,379 --> 00:41:11,760
+<i>Lamento</i>
+
+641
+00:41:54,553 --> 00:42:01,018
+23H58
+
+642
+00:42:03,812 --> 00:42:04,688
+Então,
+
+643
+00:42:06,440 --> 00:42:10,486
+estou a trabalhar neste especial
+há seis meses.
+
+644
+00:42:12,571 --> 00:42:18,077
+E durante este tempo todo,
+tenho tido um objetivo em mente,
+
+645
+00:42:18,994 --> 00:42:22,039
+que é querer acabar esta coisa,
+
+646
+00:42:23,582 --> 00:42:26,168
+antes de fazer 30 anos.
+
+647
+00:42:29,088 --> 00:42:31,757
+Porque a ideia de fazer 30 anos,
+
+648
+00:42:33,008 --> 00:42:36,053
+enquanto ainda estou
+nesta merda de quarto,
+
+649
+00:42:37,012 --> 00:42:38,806
+a trabalhar nisto sozinho…
+
+650
+00:42:40,975 --> 00:42:42,142
+… parecia apenas
+
+651
+00:42:44,103 --> 00:42:46,897
+Queria apenas evitar isso.
+
+652
+00:42:46,981 --> 00:42:47,815
+Por isso…
+
+653
+00:42:49,275 --> 00:42:52,611
+E podem estar a pensar:
+"Está tudo bem. Olha para ti.
+
+654
+00:42:52,695 --> 00:42:55,823
+Irradias tamanha juventude.
+
+655
+00:42:56,323 --> 00:42:59,285
+Só deves fazer 30 anos
+daqui a imensos anos."
+
+656
+00:43:00,703 --> 00:43:03,122
+E isso é muito gentil da vossa parte.
+
+657
+00:43:03,747 --> 00:43:04,748
+Mas a verdade
+
+658
+00:43:06,542 --> 00:43:07,668
+é que faço 30 anos
+
+659
+00:43:08,586 --> 00:43:09,920
+em menos de um minuto.
+
+660
+00:43:10,004 --> 00:43:13,090
+23H59
+
+661
+00:43:13,173 --> 00:43:16,343
+Portanto, vou sentar-me aqui e aproveitar
+
+662
+00:43:17,886 --> 00:43:18,929
+os meus vinte
+
+663
+00:43:20,180 --> 00:43:23,142
+e depois voltar ao trabalho.
+
+664
+00:43:49,209 --> 00:43:56,175
+MEIA-NOITE
+
+665
+00:44:00,846 --> 00:44:02,806
+Boa!
+
+666
+00:44:05,976 --> 00:44:07,978
+<i>Costumava correr quilómetros</i>
+
+667
+00:44:08,062 --> 00:44:09,438
+<i>Costumava andar de bicicleta</i>
+
+668
+00:44:09,521 --> 00:44:12,274
+<i>Costumava acordar com um sorriso</i>
+
+669
+00:44:12,358 --> 00:44:15,027
+<i>E ir para a cama à noite com um sonho</i>
+
+670
+00:44:17,488 --> 00:44:19,948
+<i>Mas agora faço 30 anos</i>
+
+671
+00:44:20,699 --> 00:44:21,784
+<i>Não!</i>
+
+672
+00:44:22,534 --> 00:44:24,453
+<i>Costumava ser o mais novo</i>
+
+673
+00:44:24,536 --> 00:44:26,288
+<i>Habituei-me a conhecer gente</i>
+
+674
+00:44:26,372 --> 00:44:28,624
+<i>Habituada a conhecer alguém</i>
+
+675
+00:44:28,707 --> 00:44:30,542
+<i>Nascido em 1990</i>
+
+676
+00:44:30,626 --> 00:44:31,877
+<i>Nem pensar!</i>
+
+677
+00:44:32,878 --> 00:44:34,171
+Sim, nasci em 1990.
+
+678
+00:44:34,254 --> 00:44:36,715
+<i>Agora vou fazer 30 anos</i>
+
+679
+00:44:37,716 --> 00:44:39,176
+Raios partam!
+
+680
+00:44:39,259 --> 00:44:43,263
+<i>- Eu</i>
+<i>- A fazer 30 anos</i>
+
+681
+00:44:43,347 --> 00:44:47,476
+<i>- Estou a fazer</i>
+<i>- A fazer 30 anos</i>
+
+682
+00:44:47,559 --> 00:44:51,146
+<i>- Trinta</i>
+<i>- A fazer 30 anos</i>
+
+683
+00:44:51,230 --> 00:44:55,984
+<i>- Estou a fazer 30 anos</i>
+<i>- A fazer 30 anos</i>
+
+684
+00:44:56,068 --> 00:44:58,028
+<i>Quando ele tinha 27 anos</i>
+
+685
+00:44:58,112 --> 00:45:00,030
+<i>O meu avô lutou no Vietname</i>
+
+686
+00:45:00,114 --> 00:45:02,116
+<i>Quando eu tinha 27 anos</i>
+
+687
+00:45:02,199 --> 00:45:04,743
+<i>Fiz uma casa de pássaros com a minha mãe</i>
+
+688
+00:45:04,827 --> 00:45:05,994
+Foda-se!
+
+689
+00:45:07,913 --> 00:45:10,541
+<i>Como tenho 30 anos?</i>
+
+690
+00:45:12,042 --> 00:45:14,628
+<i>Costumava gozar com os </i>boomers
+
+691
+00:45:14,712 --> 00:45:16,755
+<i>Em retrospetiva, um pouco demais</i>
+
+692
+00:45:16,839 --> 00:45:18,924
+<i>Agora, todos estes malditos </i>zoomers
+
+693
+00:45:19,007 --> 00:45:20,884
+<i>Dizem que estou desatualizado…</i>
+
+694
+00:45:20,968 --> 00:45:24,930
+Os vossos malditos telemóveis
+envenenam-vos as mentes. Está bem?
+
+695
+00:45:25,013 --> 00:45:27,266
+Quando desenvolverem
+um transtorno dissociativo
+
+696
+00:45:27,349 --> 00:45:29,560
+com quase 30 anos, não venham chorar.
+
+697
+00:45:29,643 --> 00:45:33,355
+<i>- Eu</i>
+<i>- A fazer 30 anos</i>
+
+698
+00:45:33,439 --> 00:45:37,568
+<i>- Estou a fazer</i>
+<i>- A fazer 30 anos</i>
+
+699
+00:45:37,651 --> 00:45:41,238
+<i>- Trinta</i>
+<i>- A fazer 30 anos</i>
+
+700
+00:45:41,321 --> 00:45:45,409
+<i>- Estou a fazer 30 anos</i>
+<i>- A fazer 30 anos</i>
+
+701
+00:45:45,492 --> 00:45:50,122
+<i>E agora os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+702
+00:45:50,205 --> 00:45:54,251
+<i>Os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+703
+00:45:54,334 --> 00:45:58,422
+<i>Os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+704
+00:45:58,505 --> 00:46:02,092
+<i>Os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+705
+00:46:02,176 --> 00:46:06,805
+<i>E agora os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+706
+00:46:06,889 --> 00:46:10,976
+<i>Os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+707
+00:46:11,059 --> 00:46:15,272
+<i>Os meus amigos estúpidos</i>
+<i>Estão a ter filhos estúpidos</i>
+
+708
+00:46:15,355 --> 00:46:18,859
+<i>Filhos aborrecidos</i>
+<i>Feios como o caralho e estúpidos</i>
+
+709
+00:46:18,942 --> 00:46:21,153
+<i>Estamos em 2020 e tenho 30 anos</i>
+
+710
+00:46:21,236 --> 00:46:23,197
+<i>Vou fazer mais dez</i>
+
+711
+00:46:23,280 --> 00:46:27,785
+<i>Em 2030 vou ter 40 anos</i>
+<i>E matar-me de uma vez</i>
+
+712
+00:46:38,796 --> 00:46:39,630
+Está bem.
+
+713
+00:46:41,757 --> 00:46:42,716
+Vê aquela.
+
+714
+00:46:44,301 --> 00:46:45,219
+Fazemos mais uma.
+
+715
+00:46:48,305 --> 00:46:52,768
+Para que conste, só quero dizer
+que não me quero matar, está bem?
+
+716
+00:46:53,435 --> 00:46:56,480
+Não me quero matar, nem me vou matar.
+
+717
+00:46:57,481 --> 00:47:00,526
+E se estiverem aí
+a lidar com pensamentos suicidas
+
+718
+00:47:00,609 --> 00:47:02,152
+e quiserem matar-se,
+
+719
+00:47:02,653 --> 00:47:04,863
+só quero dizer para não o fazerem.
+
+720
+00:47:06,156 --> 00:47:09,159
+<i>Está bem? Podem não o fazer, por favor?</i>
+
+721
+00:47:10,369 --> 00:47:12,204
+<i>Não façam isso. Está bem.</i>
+
+722
+00:47:12,329 --> 00:47:14,873
+<i>Foda-se! Parem lá com o…</i>
+
+723
+00:47:15,874 --> 00:47:19,378
+<i>Mas, a sério, não se matem.</i>
+<i>Não queiram, porque…</i>
+
+724
+00:47:23,048 --> 00:47:24,925
+<i>… há pessoas que vos amam…</i>
+
+725
+00:47:25,425 --> 00:47:26,802
+<i>Não é necessariamente verdade,</i>
+
+726
+00:47:26,885 --> 00:47:29,596
+<i>mas pode haver pessoas</i>
+<i>que vos amem no futuro,</i>
+
+727
+00:47:29,680 --> 00:47:30,514
+<i>e não o façam.</i>
+
+728
+00:47:30,597 --> 00:47:32,558
+<i>Já tive pessoas próximas que se mataram,</i>
+
+729
+00:47:32,641 --> 00:47:35,477
+<i>e vou ser sincero convosco, não adorei.</i>
+
+730
+00:47:36,103 --> 00:47:38,522
+<i>Não adorei aquilo. Então, não o façam.</i>
+
+731
+00:47:39,731 --> 00:47:41,984
+<i>Mas se pudesse matar-me por um ano…</i>
+
+732
+00:47:42,943 --> 00:47:44,945
+<i>Se pudesse… Fá-lo-ia hoje.</i>
+
+733
+00:47:45,028 --> 00:47:47,698
+<i>Se pudesse matar-me hoje e estar morto</i>
+
+734
+00:47:48,323 --> 00:47:50,200
+<i>até daqui a 18 meses,</i>
+
+735
+00:47:51,201 --> 00:47:54,329
+<i>fá-lo-ia, mas infelizmente,</i>
+
+736
+00:47:55,789 --> 00:47:57,791
+<i>quando se matam, é para sempre,</i>
+
+737
+00:47:57,875 --> 00:48:01,003
+<i>e não devíamos estar mortos</i>
+<i>para sempre, ainda.</i>
+
+738
+00:48:02,045 --> 00:48:03,839
+<i>Então, não o façamos, certo?</i>
+
+739
+00:48:04,548 --> 00:48:05,507
+<i>Vá lá, malta.</i>
+
+740
+00:48:09,970 --> 00:48:16,935
+INTERVALO
+
+741
+00:49:39,393 --> 00:49:41,520
+<i>Como se sentem?</i>
+
+742
+00:49:42,229 --> 00:49:44,147
+<i>Gostam do espetáculo?</i>
+
+743
+00:49:44,690 --> 00:49:46,650
+<i>Estão fartos dele?</i>
+
+744
+00:49:46,733 --> 00:49:49,486
+<i>Esqueçam, não quero saber</i>
+
+745
+00:49:49,569 --> 00:49:52,114
+<i>Estão a achá-lo aborrecido?</i>
+
+746
+00:49:53,031 --> 00:49:55,033
+<i>Demasiado rápido, demasiado lento?</i>
+
+747
+00:49:55,742 --> 00:49:57,953
+<i>Estou a perguntar, mas não respondam</i>
+
+748
+00:49:58,036 --> 00:50:00,205
+<i>Pois não quero saber</i>
+
+749
+00:50:00,288 --> 00:50:03,500
+<i>Tenho a vossa atenção?</i>
+
+750
+00:50:04,042 --> 00:50:05,711
+<i>Sim ou não?</i>
+
+751
+00:50:06,461 --> 00:50:08,630
+<i>Aposto que adivinharia a resposta</i>
+
+752
+00:50:08,714 --> 00:50:10,841
+<i>Mas não quero saber</i>
+
+753
+00:50:10,924 --> 00:50:14,177
+<i>Estou na imagem de fundo?</i>
+
+754
+00:50:14,261 --> 00:50:17,055
+<i>Estão no vosso telemóvel?</i>
+
+755
+00:50:17,139 --> 00:50:19,307
+<i>Gostaria de vos perguntar o que veem</i>
+
+756
+00:50:19,391 --> 00:50:21,560
+<i>Mas não quero saber</i>
+
+757
+00:50:21,643 --> 00:50:25,022
+<i>Está aí alguém?</i>
+
+758
+00:50:25,105 --> 00:50:27,691
+<i>Ou estou sozinho?</i>
+
+759
+00:50:27,774 --> 00:50:29,985
+<i>Não faria diferença</i>
+
+760
+00:50:30,068 --> 00:50:32,404
+<i>Continuo a não querer saber</i>
+
+761
+00:50:32,487 --> 00:50:35,490
+<i>Pensei que já teria acabado</i>
+
+762
+00:50:35,574 --> 00:50:38,326
+<i>Mas ainda me falta um bocado</i>
+
+763
+00:50:38,410 --> 00:50:40,537
+<i>Revelaria o final</i>
+
+764
+00:50:40,620 --> 00:50:42,039
+<i>Mas não querem sa…</i>
+
+765
+00:50:42,122 --> 00:50:43,999
+Então, malta? Bem-vindos à transmissão.
+
+766
+00:50:44,708 --> 00:50:47,919
+Hoje vou estar a jogar em direto
+pela primeira vez em algum tempo.
+
+767
+00:50:48,420 --> 00:50:50,964
+Vocês queriam isso, por isso, vamos fazer…
+
+768
+00:50:51,048 --> 00:50:52,340
+Chama-se <i>Inside</i>
+
+769
+00:50:52,424 --> 00:50:54,843
+Há muitos pedidos para este jogo no <i>chat.</i>
+
+770
+00:50:55,343 --> 00:50:57,637
+É de uma empresa independente.
+Não sei bem.
+
+771
+00:50:57,721 --> 00:50:59,598
+Vou completamente à descoberta.
+
+772
+00:51:00,390 --> 00:51:03,685
+JB, obrigado pelos três meses.
+Meu puto, agradeço imenso.
+
+773
+00:51:05,729 --> 00:51:06,563
+Está bem.
+
+774
+00:51:08,648 --> 00:51:12,652
+Tem bom aspeto, a nível de gráficos.
+Quer dizer, sei que é um filme.
+
+775
+00:51:14,488 --> 00:51:17,282
+Vamos tentar jogar em direto
+todos os dias desta semana.
+
+776
+00:51:17,365 --> 00:51:18,283
+Fiquem atentos.
+
+777
+00:51:18,366 --> 00:51:21,286
+Vou recompensar 30 subscritores
+no fim da semana.
+
+778
+00:51:21,828 --> 00:51:25,665
+Dia 253… Muito bem,
+então, este tipo está aqui há algum tempo.
+
+779
+00:51:25,749 --> 00:51:28,168
+Isto é uma espécie de fuga do quarto?
+
+780
+00:51:28,251 --> 00:51:29,086
+Ou…
+
+781
+00:51:30,087 --> 00:51:30,962
+Está bem.
+
+782
+00:51:31,755 --> 00:51:32,714
+Posso chorar.
+
+783
+00:51:32,798 --> 00:51:36,093
+Ele não está feliz por estar neste quarto.
+
+784
+00:51:36,718 --> 00:51:38,428
+PRIME X PARA LEVANTAR
+
+785
+00:51:38,512 --> 00:51:41,389
+Gosto da música. A música disto é boa.
+
+786
+00:51:44,101 --> 00:51:47,771
+Os controlos são muito suaves.
+Estamos num cenário 2D, certo?
+
+787
+00:51:48,814 --> 00:51:50,774
+Não consigo controlar a câmara.
+
+788
+00:51:54,611 --> 00:51:56,571
+Desisto… Acho que vou chorar outra vez.
+
+789
+00:51:57,823 --> 00:52:00,784
+Ele é… O tipo é grande
+ou o quarto é pequeno?
+
+790
+00:52:00,867 --> 00:52:02,536
+É isso que me confunde.
+
+791
+00:52:02,994 --> 00:52:06,123
+No <i>chat</i> diz para tentar a porta.
+Está bem. Quer dizer,
+
+792
+00:52:06,206 --> 00:52:08,708
+acho que não será tão fácil, mas eu tento.
+
+793
+00:52:09,960 --> 00:52:11,044
+Pois, aqui têm.
+
+794
+00:52:11,628 --> 00:52:12,629
+A PORTA ESTÁ TRANCADA
+
+795
+00:52:12,712 --> 00:52:14,756
+Pronto, acho que vai chorar outra vez.
+
+796
+00:52:14,840 --> 00:52:15,924
+É difícil, amigo.
+
+797
+00:52:16,758 --> 00:52:18,677
+É duro. Ele está aqui há algum tempo.
+
+798
+00:52:19,261 --> 00:52:20,095
+Não gosto disso.
+
+799
+00:52:20,178 --> 00:52:23,682
+Não sei porque têm a necessidade
+de dar a dica tão depressa.
+
+800
+00:52:23,765 --> 00:52:26,476
+Gostava que me deixassem
+explorar um pouco.
+
+801
+00:52:28,979 --> 00:52:31,982
+Estou a segurar na lanterna
+como um polícia.
+
+802
+00:52:32,065 --> 00:52:33,316
+Porque faz ele isso?
+
+803
+00:52:38,822 --> 00:52:41,199
+Está bem. Pronto. Então…
+
+804
+00:52:41,283 --> 00:52:43,535
+PRIME X PARA TOCAR PIANO
+
+805
+00:52:44,035 --> 00:52:44,870
+Está bem.
+
+806
+00:52:47,289 --> 00:52:49,833
+Pronto, ele parece mais feliz. Isso é bom.
+
+807
+00:52:51,459 --> 00:52:52,294
+Não sei.
+
+808
+00:52:52,836 --> 00:52:54,421
+Acho que vou chorar outra vez.
+
+809
+00:52:56,840 --> 00:53:00,135
+Está bem, não sei o que é suposto fazer…
+
+810
+00:53:00,760 --> 00:53:01,761
+Boa.
+
+811
+00:53:02,637 --> 00:53:03,555
+Está bem, sim.
+
+812
+00:53:03,638 --> 00:53:05,974
+DIA CONCLUÍDO
+
+813
+00:53:06,057 --> 00:53:07,100
+Sim, ótimo.
+
+814
+00:53:09,102 --> 00:53:10,645
+Está bem, gosto disto.
+
+815
+00:53:10,729 --> 00:53:13,857
+Sim, faz-me lembrar
+um pouco o <i>Death Stranding,</i>
+
+816
+00:53:13,940 --> 00:53:17,444
+porque é aborrecido como o caralho,
+
+817
+00:53:17,527 --> 00:53:19,613
+mas a questão é essa, creio eu.
+
+818
+00:53:19,696 --> 00:53:22,073
+APROXIMA-SE OUTRA NOITE…
+
+819
+00:53:22,157 --> 00:53:24,534
+Dante, obrigado
+pelos quatro meses. Agradeço.
+
+820
+00:54:17,420 --> 00:54:19,381
+Como nos sentimos esta noite?
+
+821
+00:54:20,632 --> 00:54:22,050
+Sim.
+
+822
+00:54:22,133 --> 00:54:23,927
+Não me sinto bem.
+
+823
+00:54:24,761 --> 00:54:26,680
+<i>Acordo às 11h30</i>
+
+824
+00:54:26,763 --> 00:54:28,640
+<i>- A sentir-me como um saco de merda</i>
+<i>- Não!</i>
+
+825
+00:54:28,723 --> 00:54:32,143
+<i>Tenho as roupas todas sujas</i>
+<i>Então, cheiro como um saco de merda</i>
+
+826
+00:54:32,727 --> 00:54:36,606
+<i>Sirvo o café e não acerto na canequinha</i>
+<i>OMD, que sorte a minha</i>
+
+827
+00:54:36,690 --> 00:54:39,651
+<i>Vejo-me ao espelho</i>
+<i>E digo então, inútil cabrão</i>
+
+828
+00:54:40,235 --> 00:54:42,404
+<i>Estás a sentir o que eu sinto?</i>
+
+829
+00:54:42,487 --> 00:54:46,741
+<i>Não tomei um duche nos últimos nove dias</i>
+
+830
+00:54:48,660 --> 00:54:50,412
+<i>Olho para o teto</i>
+
+831
+00:54:50,495 --> 00:54:53,498
+<i>À espera que este sentimento desapareça</i>
+
+832
+00:54:54,582 --> 00:54:56,584
+<i>Mas não desaparece</i>
+
+833
+00:54:56,668 --> 00:54:58,586
+<i>Não me apetece nada curtir</i>
+
+834
+00:54:58,670 --> 00:55:01,172
+<i>- Diz-nos o que estás a sentir</i>
+<i>- Bem, sinto-me uma merda</i>
+
+835
+00:55:01,256 --> 00:55:02,549
+<i>Merda</i>
+
+836
+00:55:02,632 --> 00:55:05,135
+<i>Sinto-me como um monte de merda</i>
+<i>Grande e flácido</i>
+
+837
+00:55:05,218 --> 00:55:06,594
+<i>Merda</i>
+
+838
+00:55:06,678 --> 00:55:09,139
+<i>O raio de uma grande mochila de merda</i>
+
+839
+00:55:09,222 --> 00:55:10,598
+<i>Merda</i>
+
+840
+00:55:10,682 --> 00:55:12,434
+<i>O dia todo, só merda</i>
+
+841
+00:55:12,517 --> 00:55:14,436
+<i>Não me apetece nada curtir</i>
+
+842
+00:55:14,519 --> 00:55:16,604
+<i>- Diz-nos o que estás a sentir</i>
+<i>- Uma merda</i>
+
+843
+00:55:16,688 --> 00:55:18,648
+<i>- Senhoras, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+844
+00:55:18,732 --> 00:55:20,608
+<i>- Digam-me, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+845
+00:55:20,692 --> 00:55:22,527
+<i>- Homens, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+846
+00:55:22,610 --> 00:55:24,612
+<i>- Digam-me, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+847
+00:55:24,696 --> 00:55:26,614
+<i>- Senhoras, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+848
+00:55:26,698 --> 00:55:28,616
+<i>- Digam-me, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+849
+00:55:28,700 --> 00:55:30,618
+<i>- Homens, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+850
+00:55:30,702 --> 00:55:32,746
+<i>- Digam-me, sentem-se uma merda?</i>
+<i>- Sim</i>
+
+851
+00:55:35,290 --> 00:55:36,166
+Então,
+
+852
+00:55:36,666 --> 00:55:40,837
+a minha saúde mental atual
+
+853
+00:55:41,838 --> 00:55:43,340
+aproxima-se rapidamente
+
+854
+00:55:44,549 --> 00:55:45,759
+de um ATL<i>,</i>
+
+855
+00:55:45,842 --> 00:55:48,470
+que é um "valor mínimo histórico",
+
+856
+00:55:49,137 --> 00:55:50,638
+não significa Atlanta.
+
+857
+00:55:51,931 --> 00:55:52,807
+E…
+
+858
+00:55:55,810 --> 00:55:59,689
+Sinto-me bem quando estou a dormir.
+Enquanto durmo, sinto-me bem,
+
+859
+00:55:59,773 --> 00:56:02,150
+mas, no fundo, desde que acordo,
+
+860
+00:56:02,692 --> 00:56:04,444
+tenha esta…
+
+861
+00:56:04,527 --> 00:56:06,112
+<i>Sensação no meu corpo</i>
+
+862
+00:56:06,196 --> 00:56:07,781
+<i>Lá bem no fundo de mim</i>
+
+863
+00:56:07,864 --> 00:56:09,908
+<i>Tento não lutar contra ela</i>
+
+864
+00:56:09,991 --> 00:56:10,825
+<i>Descreve-a</i>
+
+865
+00:56:10,909 --> 00:56:13,244
+<i>Pronto, umas coisas começam a acontecer</i>
+
+866
+00:56:13,328 --> 00:56:14,954
+<i>A minha visão começa a encolher</i>
+
+867
+00:56:15,038 --> 00:56:16,790
+<i>O meu coração começa a tremer</i>
+
+868
+00:56:16,873 --> 00:56:18,625
+<i>E acho que vou morrer</i>
+
+869
+00:56:19,959 --> 00:56:21,461
+Sim, portanto…
+
+870
+00:56:21,544 --> 00:56:22,379
+Sim. Não…
+
+871
+00:56:23,838 --> 00:56:26,383
+Não estou ótimo.
+
+872
+00:56:32,430 --> 00:56:34,349
+<i>Bem-vindos à Internet</i>
+
+873
+00:56:34,432 --> 00:56:36,267
+<i>Olhem para todo o lado</i>
+
+874
+00:56:36,351 --> 00:56:39,646
+<i>Tudo o que o vosso cérebro pense</i>
+<i>Pode ser encontrado</i>
+
+875
+00:56:39,729 --> 00:56:41,773
+<i>Temos montanhas de conteúdo</i>
+
+876
+00:56:41,856 --> 00:56:43,233
+<i>Um melhor, outro foleiro</i>
+
+877
+00:56:43,733 --> 00:56:47,320
+<i>Se nada disso vos interessar</i>
+<i>Então, seriam os primeiros</i>
+
+878
+00:56:47,862 --> 00:56:49,739
+<i>Bem-vindos à Internet</i>
+
+879
+00:56:49,823 --> 00:56:51,116
+<i>Venham cá sentar</i>
+
+880
+00:56:51,199 --> 00:56:55,203
+<i>As notícias ou os pés de uma famosa</i>
+<i>Gostariam de observar?</i>
+
+881
+00:56:55,286 --> 00:56:58,623
+<i>Não é preciso entrar em pânico</i>
+<i>Isto não é um teste</i>
+
+882
+00:56:59,624 --> 00:57:02,710
+<i>Acenem ou mexam a cabeça</i>
+<i>E nós faremos o resto</i>
+
+883
+00:57:03,253 --> 00:57:05,088
+<i>Bem-vindos à Internet</i>
+
+884
+00:57:05,171 --> 00:57:06,506
+<i>Pelo que vão optar?</i>
+
+885
+00:57:06,589 --> 00:57:10,593
+<i>Lutar pelos direitos civis</i>
+<i>Ou um insulto racial no Twitter publicar?</i>
+
+886
+00:57:10,677 --> 00:57:14,889
+<i>Sejam felizes, sejam excitados</i>
+<i>De raiva vão rebentar</i>
+
+887
+00:57:14,973 --> 00:57:18,435
+<i>Temos um milhão diferente de formas</i>
+<i>Para participar</i>
+
+888
+00:57:18,518 --> 00:57:20,437
+<i>Bem-vindos à Internet</i>
+
+889
+00:57:20,520 --> 00:57:21,855
+<i>Não se preocupem, meus</i>
+
+890
+00:57:21,938 --> 00:57:25,650
+<i>Eis uma dica para coar massa</i>
+<i>Eis um puto de nove anos que morreu</i>
+
+891
+00:57:25,733 --> 00:57:29,279
+<i>Temos filmes, médicos</i>
+<i>E desportos de fantasia</i>
+
+892
+00:57:29,362 --> 00:57:32,782
+<i>E muitos desenhos a lápis de cor</i>
+<i>De todas as personagens de </i>Harry Potter
+
+893
+00:57:32,866 --> 00:57:34,784
+<i>A comerem-se</i>
+<i>Bem-vindos à Internet</i>
+
+894
+00:57:34,868 --> 00:57:36,035
+<i>Aguentem a moca</i>
+
+895
+00:57:36,119 --> 00:57:39,330
+<i>Pois um tipo enviou-vos gentilmente</i>
+<i>Fotos da piroca</i>
+
+896
+00:57:39,414 --> 00:57:43,001
+<i>São desfocadas e desagradáveis</i>
+<i>Mais ele acabou de vos enviar</i>
+
+897
+00:57:43,084 --> 00:57:45,587
+<i>Não finjam a surpresa</i>
+<i>Cabras, sabem que vão gostar</i>
+
+898
+00:57:45,670 --> 00:57:48,339
+<i>Verem um decapitado</i>
+<i>Ficarem ofendidos, ir ao psiquiatra</i>
+
+899
+00:57:48,423 --> 00:57:51,342
+<i>Mostrem-nos fotos dos vossos filhos</i>
+<i>Digam-nos tudo o que pensarem</i>
+
+900
+00:57:51,426 --> 00:57:54,304
+<i>Criem um rumor, comprem uma vassoura</i>
+<i>Ou ameacem um </i>boomer
+
+901
+00:57:54,387 --> 00:57:57,140
+<i>Ou enviem MP a uma tipa e usem-na</i>
+<i>Usem o Zoom, vejam um tumor</i>
+
+902
+00:57:57,223 --> 00:58:00,018
+<i>E eis um pequeno-almoço saudável</i>
+<i>Deviam matar a vossa mãe</i>
+
+903
+00:58:00,101 --> 00:58:03,062
+<i>Eis o porquê de as mulheres</i>
+<i>Não vos comerem e como fazer uma bomba</i>
+
+904
+00:58:03,146 --> 00:58:05,773
+<i>Que Power Ranger são?</i>
+<i>Façam este </i>quiz<i> peculiar</i>
+
+905
+00:58:05,857 --> 00:58:09,611
+<i>O Obama enviou os imigrantes</i>
+<i>Para os vossos filhos vacinar</i>
+
+906
+00:58:10,195 --> 00:58:13,239
+<i>Posso interessar-vos por tudo</i>
+<i>A toda a hora?</i>
+
+907
+00:58:13,323 --> 00:58:16,367
+<i>Um pouco de tudo a toda a hora</i>
+
+908
+00:58:16,451 --> 00:58:19,287
+<i>A apatia é uma tragédia</i>
+<i>E o tédio é um crime</i>
+
+909
+00:58:19,370 --> 00:58:21,789
+<i>Tudo e qualquer coisa a toda a hora</i>
+
+910
+00:58:21,873 --> 00:58:25,043
+<i>Posso interessar-vos por tudo</i>
+<i>A toda a hora?</i>
+
+911
+00:58:25,126 --> 00:58:27,962
+<i>Um pouco de tudo a toda a hora</i>
+
+912
+00:58:28,046 --> 00:58:30,882
+<i>A apatia é uma tragédia</i>
+<i>E o tédio é um crime</i>
+
+913
+00:58:30,965 --> 00:58:33,927
+<i>Tudo e qualquer coisa a toda a hora</i>
+
+914
+00:58:43,478 --> 00:58:44,312
+Sabem?
+
+915
+00:58:46,022 --> 00:58:47,649
+Não foi sempre assim.
+
+916
+00:58:50,735 --> 00:58:53,863
+<i>Não há muito tempo</i>
+
+917
+00:58:54,447 --> 00:58:57,367
+<i>Mesmo antes do teu tempo</i>
+
+918
+00:58:58,326 --> 00:59:01,996
+<i>Logo antes das torres caírem</i>
+
+919
+00:59:02,080 --> 00:59:05,124
+<i>Por volta de 99</i>
+
+920
+00:59:05,208 --> 00:59:07,710
+<i>Havia catálogos</i>
+
+921
+00:59:07,794 --> 00:59:09,963
+<i>Blogs de viagem</i>
+
+922
+00:59:10,046 --> 00:59:12,173
+<i>Uma ou duas salas de </i>chat
+
+923
+00:59:13,174 --> 00:59:17,136
+<i>Decidimos passar as nossas noites</i>
+
+924
+00:59:17,220 --> 00:59:19,097
+<i>À espera</i>
+
+925
+00:59:20,431 --> 00:59:22,183
+<i>De ti</i>
+
+926
+00:59:22,767 --> 00:59:23,685
+<i>Tu</i>
+
+927
+00:59:24,227 --> 00:59:27,355
+<i>És insaciável</i>
+
+928
+00:59:27,981 --> 00:59:32,277
+<i>A mamã deixou-te usar o iPad dela</i>
+
+929
+00:59:32,360 --> 00:59:35,029
+<i>Mal tinhas dois anos</i>
+
+930
+00:59:35,613 --> 00:59:38,658
+<i>E fazia tudo</i>
+
+931
+00:59:38,741 --> 00:59:42,704
+<i>O que o programámos para fazer</i>
+
+932
+00:59:43,538 --> 00:59:44,664
+<i>Agora, olha para ti</i>
+
+933
+00:59:47,458 --> 00:59:48,876
+<i>Olha para ti</i>
+
+934
+00:59:49,377 --> 00:59:54,007
+<i>Tu</i>
+
+935
+00:59:54,507 --> 00:59:58,636
+<i>Imparável, observável</i>
+
+936
+00:59:58,720 --> 01:00:00,513
+<i>O teu tempo é agora</i>
+
+937
+01:00:00,597 --> 01:00:02,599
+<i>Estás do avesso</i>
+
+938
+01:00:02,682 --> 01:00:05,810
+<i>Querida, como cresceste</i>
+
+939
+01:00:05,893 --> 01:00:09,606
+<i>E se ficarmos juntos</i>
+
+940
+01:00:09,689 --> 01:00:13,026
+<i>Quem sabe o que vamos fazer</i>?
+
+941
+01:00:13,526 --> 01:00:16,946
+<i>Sempre foi a nossa intenção</i>
+
+942
+01:00:17,030 --> 01:00:20,867
+<i>Pôr o mundo na tua mão</i>
+
+943
+01:00:33,046 --> 01:00:38,551
+<i>Posso interessar-vos por tudo</i>
+<i>A toda a hora?</i>
+
+944
+01:00:39,052 --> 01:00:43,681
+<i>Um pouco de tudo a toda a hora</i>
+
+945
+01:00:43,765 --> 01:00:48,728
+<i>A apatia é uma tragédia</i>
+<i>E o tédio é um crime</i>
+
+946
+01:00:48,811 --> 01:00:52,315
+<i>Tudo e qualquer coisa a toda a hora</i>
+
+947
+01:00:52,398 --> 01:00:55,401
+<i>Posso interessar-vos por tudo</i>
+<i>A toda a hora?</i>
+
+948
+01:00:55,485 --> 01:00:58,321
+<i>Um pouco de tudo a toda a hora</i>
+
+949
+01:00:58,404 --> 01:01:01,199
+<i>A apatia é uma tragédia</i>
+<i>E o tédio é um crime</i>
+
+950
+01:01:01,282 --> 01:01:03,785
+<i>Tudo e qualquer coisa</i>
+<i>E tudo e qualquer coisa</i>
+
+951
+01:01:03,868 --> 01:01:06,704
+<i>E tudo e qualquer coisa e a toda a hora</i>
+
+952
+01:01:06,788 --> 01:01:09,624
+Ando passado há muito tempo
+a pensar que nunca
+
+953
+01:01:09,707 --> 01:01:12,418
+vou acabar este especial
+e vou trabalhar nele para sempre.
+
+954
+01:01:12,502 --> 01:01:14,170
+E, ultimamente, sinto:
+
+955
+01:01:14,253 --> 01:01:17,090
+"Meu, talvez esteja perto de acabar isto.
+
+956
+01:01:17,173 --> 01:01:21,803
+Afinal, talvez vá acabá-lo",
+e isso fez-me passar completamente
+
+957
+01:01:21,886 --> 01:01:24,263
+porque, se acabar este especial,
+
+958
+01:01:24,347 --> 01:01:28,810
+significa que tenho
+de deixar de trabalhar nele.
+
+959
+01:01:28,893 --> 01:01:31,729
+E isso significa
+que tenho de viver a minha vida
+
+960
+01:01:31,813 --> 01:01:35,233
+e, então, não vou fazer isso
+e não vou acabar o especial.
+
+961
+01:01:35,316 --> 01:01:37,235
+Acho que vou trabalhar nele para sempre.
+
+962
+01:01:37,318 --> 01:01:39,737
+Sim, vou trabalhar nisto para sempre
+
+963
+01:01:39,821 --> 01:01:42,657
+e nunca o lançarei. Não falo com ninguém,
+
+964
+01:01:42,740 --> 01:01:43,991
+apenas comigo.
+
+965
+01:01:44,075 --> 01:01:45,785
+O que importa, caralho?
+
+966
+01:01:45,868 --> 01:01:49,706
+Vão-se lixar, adeus e vamos continuar.
+
+967
+01:01:51,290 --> 01:01:53,584
+<i>Jeffrey Bezos</i>
+
+968
+01:01:53,668 --> 01:01:56,045
+<i>Jeffrey Bezos</i>
+
+969
+01:01:56,129 --> 01:01:58,464
+<i>Jeffrey Bezos</i>
+
+970
+01:02:00,883 --> 01:02:03,219
+<i>Jeffrey Bezos</i>
+
+971
+01:02:03,302 --> 01:02:05,638
+<i>Jeffrey Bezos</i>
+
+972
+01:02:05,722 --> 01:02:07,974
+<i>Jeffrey Bezos</i>
+
+973
+01:02:09,016 --> 01:02:10,393
+<i>Conseguiste!</i>
+
+974
+01:02:10,476 --> 01:02:12,812
+<i>Jeffrey Bezos</i>
+
+975
+01:02:12,895 --> 01:02:15,231
+<i>Jeffrey Bezos</i>
+
+976
+01:02:15,314 --> 01:02:17,984
+<i>Jeffrey Bezos</i>
+
+977
+01:02:18,067 --> 01:02:20,069
+<i>Parabéns</i>
+
+978
+01:02:41,674 --> 01:02:43,134
+Vocês são uma ótima plateia.
+
+979
+01:02:43,217 --> 01:02:45,261
+Um aplauso para vocês por terem vindo.
+
+980
+01:02:45,344 --> 01:02:46,179
+Um aplauso.
+
+981
+01:02:48,473 --> 01:02:51,142
+Apoiar a comédia ao vivo
+nestes tempos estranhos.
+
+982
+01:02:52,435 --> 01:02:53,311
+É de doidos.
+
+983
+01:02:54,687 --> 01:02:57,982
+São tempos muito malucos,
+mas é bom que nestes tempos
+
+984
+01:02:58,065 --> 01:03:00,902
+possamos estar juntos
+e rir-nos. Sabem?
+
+985
+01:03:03,571 --> 01:03:05,490
+Aprendi algo no último ano
+
+986
+01:03:05,573 --> 01:03:06,616
+com muita piada.
+
+987
+01:03:07,575 --> 01:03:09,285
+Aprendi que
+
+988
+01:03:10,578 --> 01:03:13,831
+o contacto tátil humano
+do mundo real vai matar-vos
+
+989
+01:03:14,332 --> 01:03:17,335
+e que toda a interação humana,
+
+990
+01:03:17,418 --> 01:03:21,464
+seja social, política, espiritual,
+sexual ou interpessoal
+
+991
+01:03:21,547 --> 01:03:24,717
+devia estar contida
+num espaço digital interior
+
+992
+01:03:25,218 --> 01:03:27,637
+muito mais seguro e real.
+
+993
+01:03:27,720 --> 01:03:29,222
+Que o mundo exterior,
+
+994
+01:03:29,305 --> 01:03:30,890
+o mundo não digital,
+
+995
+01:03:30,973 --> 01:03:36,103
+é meramente um espaço teatral,
+no qual uma pessoa encena e grava conteúdo
+
+996
+01:03:36,187 --> 01:03:39,774
+para o espaço digital,
+muito mais real e importante.
+
+997
+01:03:39,857 --> 01:03:42,151
+Uma pessoa só devia interagir
+com o mundo exterior
+
+998
+01:03:42,235 --> 01:03:43,903
+como com uma mina de carvão.
+
+999
+01:03:43,986 --> 01:03:47,824
+Equipar-se, recolher o que é preciso
+e voltar à superfície.
+
+1000
+01:03:50,451 --> 01:03:53,955
+E sou só eu, ou os piratas
+precisam de ter mais cuidado
+
+1001
+01:03:54,038 --> 01:03:55,706
+com o raio dos mapas deles?
+
+1002
+01:03:56,874 --> 01:03:59,585
+Quando encontro o mapa de um pirata,
+
+1003
+01:04:00,711 --> 01:04:04,298
+está sempre manchado de chá,
+as bordas estão queimadas…
+
+1004
+01:04:04,382 --> 01:04:07,301
+Se és um pirata e vais
+
+1005
+01:04:08,344 --> 01:04:12,014
+fazer um mapa
+e esperar que o leve pelo mundo
+
+1006
+01:04:12,098 --> 01:04:13,891
+enquanto caço o teu tesouro,
+
+1007
+01:04:13,975 --> 01:04:15,268
+então, plastifica-o.
+
+1008
+01:04:28,114 --> 01:04:30,533
+Não sei tocar muito bem guitarra,
+
+1009
+01:04:31,075 --> 01:04:32,201
+nem cantar, então,
+
+1010
+01:04:32,910 --> 01:04:34,704
+peço desculpa.
+
+1011
+01:04:41,961 --> 01:04:47,425
+<i>Aplicação de meditação</i>
+<i>Numa resolução 8K deslumbrante</i>
+
+1012
+01:04:50,219 --> 01:04:53,389
+<i>Em honra da revolução</i>
+
+1013
+01:04:53,472 --> 01:04:55,766
+<i>Na Gap está em promoção</i>
+
+1014
+01:04:58,561 --> 01:05:00,938
+<i>Deadpool, autoconsciência</i>
+
+1015
+01:05:01,022 --> 01:05:03,816
+<i>Pais amorosos, diversão sem magoar</i>
+
+1016
+01:05:06,402 --> 01:05:08,946
+<i>A reação negativa à reação negativa</i>
+
+1017
+01:05:09,030 --> 01:05:11,699
+<i>À coisa que acabou de começar</i>
+
+1018
+01:05:14,410 --> 01:05:16,829
+<i>Lá está</i>
+
+1019
+01:05:16,913 --> 01:05:18,039
+<i>Outra vez</i>
+
+1020
+01:05:18,122 --> 01:05:20,041
+<i>Aquela sensação curiosa</i>
+
+1021
+01:05:21,334 --> 01:05:24,170
+<i>Aquela sensação curiosa</i>
+
+1022
+01:05:24,253 --> 01:05:26,631
+<i>Lá está</i>
+
+1023
+01:05:26,714 --> 01:05:27,840
+<i>Outra vez</i>
+
+1024
+01:05:27,924 --> 01:05:29,675
+<i>Aquela sensação curiosa</i>
+
+1025
+01:05:31,135 --> 01:05:33,304
+<i>Aquela sensação curiosa</i>
+
+1026
+01:05:35,473 --> 01:05:38,726
+<i>A loja temporária do cirurgião</i>
+
+1027
+01:05:38,809 --> 01:05:41,020
+<i>A cara do Robert Iger</i>
+
+1028
+01:05:43,606 --> 01:05:46,776
+<i>Propaganda agitada de descontos no Etsy</i>
+
+1029
+01:05:46,859 --> 01:05:49,153
+<i>Os Bugles são os mais desejados</i>
+
+1030
+01:05:51,781 --> 01:05:54,158
+<i>O Coronel Sanders mulher</i>
+
+1031
+01:05:54,241 --> 01:05:56,994
+<i>Respostas fáceis, guerra civil</i>
+
+1032
+01:05:59,538 --> 01:06:02,500
+<i>O mundo todo ao vosso alcance</i>
+
+1033
+01:06:02,583 --> 01:06:04,919
+<i>O oceano à vossa porta</i>
+
+1034
+01:06:07,964 --> 01:06:10,675
+<i>O </i>live-action<i> de </i>O Rei Leão
+
+1035
+01:06:10,758 --> 01:06:13,678
+<i>O espetáculo de intervalo da Pepsi</i>
+
+1036
+01:06:15,680 --> 01:06:18,349
+<i>Vinte mil anos disto</i>
+
+1037
+01:06:18,849 --> 01:06:21,143
+<i>Faltam mais sete nisto</i>
+
+1038
+01:06:23,729 --> 01:06:25,940
+Carpool Karaoke
+
+1039
+01:06:26,023 --> 01:06:29,110
+<i>O Steve Aoki e o Logan Paul</i>
+
+1040
+01:06:31,445 --> 01:06:34,031
+<i>Uma loja de recordações num campo de tiro</i>
+
+1041
+01:06:34,115 --> 01:06:36,951
+<i>Um tiroteio em massa no centro comercial</i>
+
+1042
+01:06:39,620 --> 01:06:41,956
+<i>Lá está</i>
+
+1043
+01:06:42,039 --> 01:06:43,207
+<i>Outra vez</i>
+
+1044
+01:06:43,290 --> 01:06:45,084
+<i>Aquela sensação curiosa</i>
+
+1045
+01:06:46,502 --> 01:06:49,296
+<i>Aquela sensação curiosa</i>
+
+1046
+01:06:49,380 --> 01:06:51,799
+<i>Lá está</i>
+
+1047
+01:06:51,882 --> 01:06:53,009
+<i>Outra vez</i>
+
+1048
+01:06:53,092 --> 01:06:54,802
+<i>Aquela sensação curiosa</i>
+
+1049
+01:06:56,345 --> 01:06:58,764
+<i>Aquela sensação curiosa</i>
+
+1050
+01:07:00,808 --> 01:07:04,020
+<i>Ler os termos e condições do Pornhub</i>
+
+1051
+01:07:04,103 --> 01:07:06,480
+<i>Ir dar um passeio</i>
+
+1052
+01:07:06,564 --> 01:07:10,317
+<i>E obedecer a todas as regras de trânsito</i>
+
+1053
+01:07:10,401 --> 01:07:12,778
+<i>No </i>Grand Theft Auto 5
+
+1054
+01:07:13,779 --> 01:07:16,073
+<i>Completamente agorafóbico</i>
+
+1055
+01:07:16,157 --> 01:07:19,702
+<i>A perder o foco, lá se foi o disfarce</i>
+
+1056
+01:07:21,662 --> 01:07:24,040
+<i>Um livro sobre como melhorar</i>
+
+1057
+01:07:24,123 --> 01:07:27,918
+<i>Entregue em mão por um </i>drone
+
+1058
+01:07:29,587 --> 01:07:32,798
+<i>Desassociação total</i>
+
+1059
+01:07:32,882 --> 01:07:35,468
+<i>Completamente fora de vocês</i>
+
+1060
+01:07:37,678 --> 01:07:40,848
+<i>Pesquisarem por desrealização no Google</i>
+
+1061
+01:07:40,931 --> 01:07:43,225
+<i>E odiarem o que encontram</i>
+
+1062
+01:07:46,062 --> 01:07:49,273
+<i>Aquele inaparente ar de verão</i>
+
+1063
+01:07:49,356 --> 01:07:51,317
+<i>No início do outono</i>
+
+1064
+01:07:53,486 --> 01:07:55,821
+<i>A compreensão silenciosa</i>
+
+1065
+01:07:55,905 --> 01:07:59,825
+<i>Do fim de tudo</i>
+
+1066
+01:08:01,327 --> 01:08:03,662
+<i>Lá está</i>
+
+1067
+01:08:03,746 --> 01:08:04,872
+<i>Outra vez</i>
+
+1068
+01:08:04,955 --> 01:08:06,874
+<i>Aquela sensação curiosa</i>
+
+1069
+01:08:08,125 --> 01:08:10,961
+<i>Aquela sensação curiosa</i>
+
+1070
+01:08:11,045 --> 01:08:13,339
+<i>Lá está</i>
+
+1071
+01:08:13,422 --> 01:08:14,590
+<i>Outra vez</i>
+
+1072
+01:08:14,673 --> 01:08:16,509
+<i>Aquela sensação curiosa</i>
+
+1073
+01:08:17,843 --> 01:08:20,262
+<i>Aquela sensação curiosa</i>
+
+1074
+01:08:22,223 --> 01:08:24,517
+<i>O que se pode dizer?</i>
+
+1075
+01:08:24,600 --> 01:08:26,602
+<i>Estávamos atrasados</i>
+
+1076
+01:08:27,686 --> 01:08:31,023
+<i>Mas vai acabar em breve</i>
+
+1077
+01:08:31,107 --> 01:08:32,441
+<i>Esperem</i>
+
+1078
+01:08:34,985 --> 01:08:37,279
+<i>O que se pode dizer?</i>
+
+1079
+01:08:37,363 --> 01:08:39,323
+<i>Estávamos atrasados</i>
+
+1080
+01:08:40,449 --> 01:08:43,661
+<i>Mas vai acabar em breve</i>
+
+1081
+01:08:43,744 --> 01:08:44,703
+<i>Esperem</i>
+
+1082
+01:08:47,706 --> 01:08:50,042
+<i>O que se pode dizer?</i>
+
+1083
+01:08:50,126 --> 01:08:51,961
+<i>Estávamos atrasados</i>
+
+1084
+01:08:53,212 --> 01:08:56,382
+<i>Mas vai acabar em breve</i>
+
+1085
+01:08:56,465 --> 01:08:57,424
+<i>Esperem</i>
+
+1086
+01:09:00,344 --> 01:09:02,596
+<i>O que se pode dizer?</i>
+
+1087
+01:09:02,680 --> 01:09:04,473
+<i>Estávamos atrasados</i>
+
+1088
+01:09:05,724 --> 01:09:08,894
+<i>Mas vai acabar em breve</i>
+
+1089
+01:09:08,978 --> 01:09:10,646
+<i>Esperem</i>
+
+1090
+01:09:12,815 --> 01:09:15,109
+<i>O que se pode dizer?</i>
+
+1091
+01:09:15,192 --> 01:09:17,027
+<i>Estávamos atrasados</i>
+
+1092
+01:09:18,237 --> 01:09:21,323
+<i>Mas vai acabar em breve</i>
+
+1093
+01:09:21,407 --> 01:09:22,491
+<i>Esperem</i>
+
+1094
+01:09:49,143 --> 01:09:50,186
+Então, eu…
+
+1095
+01:09:50,728 --> 01:09:51,562
+Céus!
+
+1096
+01:09:58,736 --> 01:10:03,949
+Então, estou a trabalhar
+neste especial há…
+
+1097
+01:10:05,951 --> 01:10:08,204
+… um ano.
+
+1098
+01:10:10,873 --> 01:10:11,707
+É…
+
+1099
+01:10:25,596 --> 01:10:30,100
+Então, estou a trabalhar
+neste especial há um ano,
+
+1100
+01:10:31,936 --> 01:10:36,190
+o que é muito mais
+
+1101
+01:10:36,273 --> 01:10:39,485
+do que esperava trabalhar nele.
+
+1102
+01:10:40,110 --> 01:10:42,738
+Quando comecei…
+
+1103
+01:10:56,669 --> 01:10:58,170
+Então, estou a trabalhar…
+
+1104
+01:11:02,341 --> 01:11:03,300
+Foda-se! Eu…
+
+1105
+01:11:04,718 --> 01:11:06,512
+Não consigo, foda-se!
+
+1106
+01:11:07,805 --> 01:11:08,639
+O caralho do…
+
+1107
+01:11:21,777 --> 01:11:22,611
+Eu…
+
+1108
+01:11:24,571 --> 01:11:25,531
+… não estou…
+
+1109
+01:11:30,119 --> 01:11:30,953
+… bem.
+
+1110
+01:11:46,635 --> 01:11:48,762
+<i>Muito obrigado, malta. Obrigado.</i>
+
+1111
+01:11:52,266 --> 01:11:54,226
+<i>Vocês foram incríveis. Obrigado.</i>
+
+1112
+01:12:00,858 --> 01:12:04,695
+<i>Sem vocês, não conseguia fazer isto.</i>
+<i>Não conseguia, a sério. Eu…</i>
+
+1113
+01:12:05,696 --> 01:12:07,364
+<i>Este último ano tem sido…</i>
+
+1114
+01:12:08,866 --> 01:12:10,617
+<i>Houve alturas em que…</i>
+
+1115
+01:12:14,580 --> 01:12:16,081
+<i>Mas saber que estão aqui,</i>
+
+1116
+01:12:16,582 --> 01:12:18,667
+<i>sentir-vos aqui comigo.</i>
+
+1117
+01:12:22,129 --> 01:12:23,297
+<i>Sim, obrigado.</i>
+
+1118
+01:12:28,719 --> 01:12:30,679
+<i>Odeio pedir porque…</i>
+
+1119
+01:12:32,431 --> 01:12:34,058
+<i>… me deram imenso.</i>
+
+1120
+01:12:36,435 --> 01:12:37,269
+<i>Mas…</i>
+
+1121
+01:12:40,356 --> 01:12:42,399
+<i>… preciso que façam</i>
+<i>mais uma coisa por mim.</i>
+
+1122
+01:12:45,611 --> 01:12:46,570
+<i>São capazes?</i>
+
+1123
+01:12:49,448 --> 01:12:51,992
+<i>Levantem o raio das mãos</i>
+
+1124
+01:12:52,076 --> 01:12:53,869
+<i>Saiam dos vossos lugares</i>
+
+1125
+01:12:53,952 --> 01:12:56,455
+<i>Olhem todos para mim</i>
+
+1126
+01:12:57,748 --> 01:13:00,167
+<i>Levantem o raio das mãos</i>
+
+1127
+01:13:00,250 --> 01:13:02,086
+<i>Saiam dos vossos lugares</i>
+
+1128
+01:13:02,169 --> 01:13:05,381
+<i>Olhem todos para mim</i>
+
+1129
+01:13:06,715 --> 01:13:08,634
+<i>Estão a sentir-se nervosos?</i>
+
+1130
+01:13:08,717 --> 01:13:10,260
+<i>Estão a divertir-se?</i>
+
+1131
+01:13:10,803 --> 01:13:12,763
+<i>Está quase a acabar</i>
+
+1132
+01:13:12,846 --> 01:13:14,807
+<i>Acabou de começar</i>
+
+1133
+01:13:14,890 --> 01:13:16,850
+<i>Não pensem demasiado nisto</i>
+
+1134
+01:13:16,934 --> 01:13:18,185
+<i>Olhem-me nos olhos</i>
+
+1135
+01:13:18,268 --> 01:13:20,229
+<i>Não tenham medo, nem vergonha</i>
+
+1136
+01:13:20,312 --> 01:13:23,065
+<i>Entrem, a água está boa</i>
+
+1137
+01:13:23,148 --> 01:13:26,902
+<i>Vamos para onde todos saibam</i>
+
+1138
+01:13:26,985 --> 01:13:28,987
+<i>Todos saibam</i>
+
+1139
+01:13:29,071 --> 01:13:30,197
+<i>Todos</i>
+
+1140
+01:13:31,281 --> 01:13:35,119
+<i>Vamos para onde todos saibam</i>
+
+1141
+01:13:35,202 --> 01:13:38,622
+<i>Todos saibam</i>
+
+1142
+01:13:38,705 --> 01:13:41,208
+<i>Levantem o raio das mãos</i>
+
+1143
+01:13:41,291 --> 01:13:43,043
+<i>Saiam dos vossos lugares</i>
+
+1144
+01:13:43,127 --> 01:13:45,838
+<i>Olhem todos para mim</i>
+
+1145
+01:13:46,964 --> 01:13:49,466
+<i>Levantem o raio das mãos</i>
+
+1146
+01:13:49,550 --> 01:13:51,218
+<i>Saiam dos vossos lugares</i>
+
+1147
+01:13:51,301 --> 01:13:55,055
+<i>Olhem todos para mim, sim</i>
+
+1148
+01:13:55,139 --> 01:13:57,641
+<i>Baixem as mãos</i>
+
+1149
+01:13:57,724 --> 01:13:59,101
+<i>Rezem por mim</i>
+
+1150
+01:13:59,184 --> 01:14:01,770
+<i>Agora baixem a cabeça</i>
+
+1151
+01:14:01,854 --> 01:14:03,272
+<i>Rezem por mim</i>
+
+1152
+01:14:03,355 --> 01:14:06,024
+<i>Levantem o raio das mãos</i>
+
+1153
+01:14:06,108 --> 01:14:07,693
+<i>Saiam dos vossos lugares</i>
+
+1154
+01:14:07,776 --> 01:14:11,238
+<i>Olhem todos para mim</i>
+
+1155
+01:14:14,450 --> 01:14:16,076
+Vai uma história engraçada?
+
+1156
+01:14:19,037 --> 01:14:19,872
+Então,
+
+1157
+01:14:20,581 --> 01:14:22,541
+há cinco anos, desisti
+
+1158
+01:14:23,667 --> 01:14:26,545
+de fazer comédia ao vivo,
+
+1159
+01:14:27,838 --> 01:14:32,551
+porque estava a começar a ter
+ataques de pânico graves em palco,
+
+1160
+01:14:33,135 --> 01:14:36,096
+o que não é um bom sítio para se ter um.
+
+1161
+01:14:37,514 --> 01:14:39,141
+Por isso, desisti.
+
+1162
+01:14:40,517 --> 01:14:43,896
+E não atuei durante cinco anos
+e passei esse tempo…
+
+1163
+01:14:46,190 --> 01:14:48,567
+… a tentar melhorar-me mentalmente.
+
+1164
+01:14:49,735 --> 01:14:50,819
+E sabem que mais?
+
+1165
+01:14:51,862 --> 01:14:52,779
+Fi-lo!
+
+1166
+01:14:53,655 --> 01:14:54,615
+Melhorei.
+
+1167
+01:14:55,616 --> 01:14:58,160
+Aliás, melhorei tanto
+
+1168
+01:14:59,077 --> 01:15:01,371
+que, em janeiro
+
+1169
+01:15:03,040 --> 01:15:04,249
+de 2020…
+
+1170
+01:15:07,669 --> 01:15:09,880
+… pensei: "Sabem que mais, eu devia…
+
+1171
+01:15:12,132 --> 01:15:13,509
+… voltar a atuar.
+
+1172
+01:15:15,469 --> 01:15:19,264
+Tenho andado a esconder-me do mundo
+
+1173
+01:15:19,932 --> 01:15:21,433
+e preciso de…
+
+1174
+01:15:24,228 --> 01:15:25,270
+… reentrar."
+
+1175
+01:15:27,814 --> 01:15:28,857
+E depois,
+
+1176
+01:15:30,817 --> 01:15:32,653
+aconteceu a coisa mais curiosa.
+
+1177
+01:15:34,404 --> 01:15:36,323
+<i>Estão a sentir-se nervosos?</i>
+
+1178
+01:15:36,406 --> 01:15:37,908
+<i>Estão a divertir-se?</i>
+
+1179
+01:15:38,492 --> 01:15:40,536
+<i>Está quase a acabar</i>
+
+1180
+01:15:40,619 --> 01:15:42,496
+<i>Acabou de começar</i>
+
+1181
+01:15:42,579 --> 01:15:44,540
+<i>Não pensem demasiado nisto</i>
+
+1182
+01:15:44,623 --> 01:15:45,916
+<i>Olhem-me nos olhos</i>
+
+1183
+01:15:45,999 --> 01:15:47,918
+<i>Não tenham medo, nem vergonha</i>
+
+1184
+01:15:48,001 --> 01:15:50,170
+<i>Entrem, a água está boa</i>
+
+1185
+01:15:50,254 --> 01:15:52,548
+<i>Dizem que o oceano se está a levantar</i>
+
+1186
+01:15:52,631 --> 01:15:54,258
+<i>Como se me importasse</i>
+
+1187
+01:15:54,341 --> 01:15:56,677
+<i>Dizem que o mundo está a acabar</i>
+
+1188
+01:15:56,760 --> 01:15:58,929
+<i>Para mim, já acabou</i>
+
+1189
+01:15:59,012 --> 01:16:00,806
+<i>Não o vão abrandar</i>
+
+1190
+01:16:00,889 --> 01:16:03,141
+<i>Deus sabe que tentaram</i>
+
+1191
+01:16:04,351 --> 01:16:07,187
+<i>Deram-lhe bem, agora toca a entrar</i>
+
+1192
+01:16:07,271 --> 01:16:11,066
+<i>Vamos para onde todos saibam</i>
+
+1193
+01:16:11,149 --> 01:16:13,068
+<i>Todos saibam</i>
+
+1194
+01:16:13,151 --> 01:16:15,320
+<i>Todos saibam</i>
+
+1195
+01:16:15,404 --> 01:16:19,241
+<i>Vamos para onde todos saibam</i>
+
+1196
+01:16:19,324 --> 01:16:22,327
+<i>Todos saibam</i>
+
+1197
+01:16:22,411 --> 01:16:25,330
+<i>Vá lá, levantem o raio das mãos</i>
+
+1198
+01:16:25,414 --> 01:16:27,165
+<i>Saiam dos vossos lugares</i>
+
+1199
+01:16:27,249 --> 01:16:29,876
+<i>Olhem todos para mim</i>
+
+1200
+01:16:30,586 --> 01:16:33,547
+<i>Vá lá, levantem o raio das mãos</i>
+
+1201
+01:16:33,630 --> 01:16:35,299
+<i>Saiam dos vossos lugares</i>
+
+1202
+01:16:35,382 --> 01:16:39,177
+<i>Olhem todos para mim, sim</i>
+
+1203
+01:16:39,261 --> 01:16:41,805
+<i>Baixem as mãos</i>
+
+1204
+01:16:41,888 --> 01:16:43,015
+<i>Rezem por mim</i>
+
+1205
+01:16:43,098 --> 01:16:45,892
+<i>Agora baixem a cabeça</i>
+
+1206
+01:16:45,976 --> 01:16:46,977
+<i>Rezem por mim</i>
+
+1207
+01:16:47,060 --> 01:16:49,688
+<i>Eu disse para levantarem o raio das mãos…</i>
+
+1208
+01:16:50,314 --> 01:16:52,107
+Levantem-se.
+
+1209
+01:16:52,983 --> 01:16:54,943
+Falo convosco, levantem-se, caralho!
+
+1210
+01:16:55,652 --> 01:16:58,155
+<i>Levantem o raio das mãos</i>
+
+1211
+01:16:58,238 --> 01:16:59,948
+<i>Saiam dos vossos lugares</i>
+
+1212
+01:17:00,032 --> 01:17:02,743
+<i>Olhem todos para mim</i>
+
+1213
+01:17:02,826 --> 01:17:06,371
+<i>Levantem o raio das mãos</i>
+
+1214
+01:17:06,455 --> 01:17:08,165
+<i>Saiam dos vossos lugares</i>
+
+1215
+01:17:08,248 --> 01:17:11,460
+<i>Olhem todos para mim, sim</i>
+
+1216
+01:17:11,543 --> 01:17:14,546
+<i>Vá lá, baixem as mãos</i>
+
+1217
+01:17:14,630 --> 01:17:15,797
+<i>Rezem por mim</i>
+
+1218
+01:17:15,881 --> 01:17:18,717
+<i>Agora baixem a cabeça</i>
+
+1219
+01:17:18,800 --> 01:17:19,926
+<i>Rezem por mim</i>
+
+1220
+01:17:20,010 --> 01:17:22,804
+<i>Eu disse para levantarem o raio das mãos</i>
+
+1221
+01:17:22,888 --> 01:17:23,805
+<i>Saiam…</i>
+
+1222
+01:17:24,598 --> 01:17:27,684
+<i>Olhem todos para mim</i>
+
+1223
+01:18:04,096 --> 01:18:04,930
+<i>Olá.</i>
+
+1224
+01:18:05,430 --> 01:18:10,018
+<i>Bem-vindos ao que quer que isto seja…</i>
+
+1225
+01:19:16,042 --> 01:19:16,877
+Acho…
+
+1226
+01:19:18,920 --> 01:19:20,589
+Acho que acabei.
+
+1227
+01:19:40,442 --> 01:19:43,820
+Possível canção final
+
+1228
+01:19:43,904 --> 01:19:47,574
+que ainda não está acabada.
+
+1229
+01:19:47,657 --> 01:19:48,533
+Teste.
+
+1230
+01:19:49,075 --> 01:19:51,369
+Primeira tentativa.
+
+1231
+01:20:05,842 --> 01:20:08,595
+<i>Até à vista</i>
+
+1232
+01:20:09,846 --> 01:20:12,682
+<i>Adeus</i>
+
+1233
+01:20:14,392 --> 01:20:17,437
+<i>Até qualquer dia</i>
+
+1234
+01:20:17,521 --> 01:20:19,815
+<i>Podem escolher a rua</i>
+
+1235
+01:20:19,898 --> 01:20:23,235
+<i>Vemo-nos do outro lado</i>
+
+1236
+01:20:28,740 --> 01:20:31,535
+<i>Até à vista</i>
+
+1237
+01:20:32,744 --> 01:20:34,788
+<i>Adeus</i>
+
+1238
+01:20:36,957 --> 01:20:40,210
+<i>Tenho mesmo de acabar?</i>
+
+1239
+01:20:40,794 --> 01:20:44,130
+<i>Os rendimentos estão sempre a baixar?</i>
+
+1240
+01:20:44,214 --> 01:20:46,132
+<i>Será que disse isto bem?</i>
+
+1241
+01:20:50,554 --> 01:20:56,434
+<i>Será que alguém quer contar piadas</i>
+<i>Quando ninguém</i>
+
+1242
+01:20:56,518 --> 01:21:01,064
+<i>Se ri lá ao fundo?</i>
+
+1243
+01:21:01,147 --> 01:21:06,820
+<i>Então, é assim que acaba</i>
+
+1244
+01:21:08,905 --> 01:21:11,408
+<i>Prometo</i>
+
+1245
+01:21:11,491 --> 01:21:15,495
+<i>Nunca mais sair de casa</i>
+
+1246
+01:21:22,043 --> 01:21:24,963
+<i>Até à vista</i>
+
+1247
+01:21:27,465 --> 01:21:28,592
+<i>Adeus</i>
+
+1248
+01:21:30,302 --> 01:21:33,638
+<i>Perco lentamente a energia que vigora</i>
+
+1249
+01:21:34,222 --> 01:21:37,392
+<i>Ainda só passou uma hora?</i>
+
+1250
+01:21:37,475 --> 01:21:39,728
+<i>Não, não pode estar certo</i>
+
+1251
+01:21:44,983 --> 01:21:47,736
+<i>Até à vista</i>
+
+1252
+01:21:48,904 --> 01:21:50,947
+<i>Adeus</i>
+
+1253
+01:21:53,199 --> 01:21:55,994
+<i>Eis uma ideia engraçada</i>
+
+1254
+01:21:56,536 --> 01:21:59,789
+<i>Que tal sentar-me no sofá</i>
+
+1255
+01:21:59,873 --> 01:22:02,542
+<i>E ver-vos da próxima vez?</i>
+
+1256
+01:22:06,880 --> 01:22:10,258
+<i>Quero ouvir-vos a contar</i>
+
+1257
+01:22:10,342 --> 01:22:12,636
+<i>Uma piada quando ninguém</i>
+
+1258
+01:22:12,719 --> 01:22:17,265
+<i>Se ri lá ao fundo</i>
+
+1259
+01:22:17,349 --> 01:22:23,188
+<i>Então, é assim que acaba</i>
+
+1260
+01:22:25,106 --> 01:22:27,567
+<i>Prometo</i>
+
+1261
+01:22:27,651 --> 01:22:31,613
+<i>Nunca mais sair de casa</i>
+
+1262
+01:22:32,489 --> 01:22:34,324
+<i>Estou a enlouquecer?</i>
+
+1263
+01:22:34,407 --> 01:22:36,201
+<i>Conseguiria sequer ponderar?</i>
+
+1264
+01:22:36,284 --> 01:22:39,996
+<i>Estou de volta aonde fui</i>
+<i>Há 14 anos começar?</i>
+
+1265
+01:22:40,080 --> 01:22:41,915
+<i>Querem adivinhar o fim?</i>
+
+1266
+01:22:41,998 --> 01:22:43,750
+<i>Se é que alguma vez acaba</i>
+
+1267
+01:22:43,833 --> 01:22:46,461
+<i>Juro por Deus que tudo o que sempre quis</i>
+
+1268
+01:22:46,544 --> 01:22:48,838
+<i>Foi um pouco de tudo</i>
+
+1269
+01:22:48,922 --> 01:22:50,507
+<i>A toda a hora</i>
+
+1270
+01:22:51,091 --> 01:22:54,511
+<i>Um pouco de tudo a toda a hora</i>
+
+1271
+01:22:54,594 --> 01:22:58,515
+<i>A apatia é uma tragédia</i>
+<i>E o tédio é um crime</i>
+
+1272
+01:22:58,598 --> 01:23:02,686
+<i>Acabei de brincar e cá dentro vou ficar</i>
+
+1273
+01:23:02,769 --> 01:23:06,564
+<i>Se eu acordar numa casa cheia de fumo</i>
+
+1274
+01:23:06,648 --> 01:23:10,318
+<i>Vou entrar em pânico</i>
+<i>Por isso, liguem-me e contem-me uma piada</i>
+
+1275
+01:23:10,402 --> 01:23:15,573
+<i>Quando eu for completamente esquecido</i>
+<i>E estiver falido, raios!</i>
+
+1276
+01:23:15,657 --> 01:23:17,909
+<i>Liguem-me e contem-me uma piada</i>
+
+1277
+01:23:18,451 --> 01:23:19,828
+<i>Merda</i>
+
+1278
+01:23:21,371 --> 01:23:25,041
+<i>Estão mesmo a gozar numa altura assim</i>
+
+1279
+01:23:25,125 --> 01:23:27,836
+<i>Bem, bem</i>
+
+1280
+01:23:27,919 --> 01:23:30,755
+<i>Vejam quem está cá dentro outra vez</i>
+
+1281
+01:23:30,839 --> 01:23:32,590
+<i>Foste procurar</i>
+
+1282
+01:23:32,674 --> 01:23:36,469
+<i>Uma razão para te esconderes outra vez</i>
+
+1283
+01:23:36,553 --> 01:23:39,305
+<i>Bem, bem</i>
+
+1284
+01:23:39,389 --> 01:23:43,643
+<i>Amigo, encontraste-a</i>
+
+1285
+01:23:44,144 --> 01:23:47,397
+<i>Portanto, sai com as mãos no ar</i>
+
+1286
+01:23:47,480 --> 01:23:52,610
+<i>Temos-te cercado</i>
+
+1287
+01:26:25,513 --> 01:26:26,347
+FIM
+
+1288
+01:26:26,431 --> 01:26:28,433
+<i>Isto vai parar a qualquer momento</i>
+
+1289
+01:26:28,516 --> 01:26:31,102
+<i>A qualquer momento</i>
+
+1290
+01:26:31,853 --> 01:26:33,563
+<i>A qualquer momento</i>
+
+1291
+01:26:34,105 --> 01:26:36,441
+<i>Isto vai parar a qualquer momento</i>
+
+1292
+01:26:36,524 --> 01:26:39,152
+<i>A qualquer momento</i>
+
+1293
+01:26:39,819 --> 01:26:41,529
+<i>A qualquer momento</i>
+
+1294
+01:26:42,071 --> 01:26:44,449
+<i>Isto vai parar a qualquer momento</i>
+
+1295
+01:26:44,532 --> 01:26:47,243
+<i>A qualquer momento</i>
+
+1296
+01:26:47,744 --> 01:26:49,579
+<i>A qualquer momento</i>
+
+1297
+01:26:50,079 --> 01:26:52,457
+<i>Isto vai parar a qualquer momento</i>
+
+1298
+01:26:52,540 --> 01:26:55,043
+<i>A qualquer momento</i>
+
+1299
+01:26:55,793 --> 01:26:57,587
+<i>A qualquer momento</i>
+
+1300
+01:26:58,087 --> 01:27:00,465
+<i>Isto vai parar a qualquer momento</i>
+
+1301
+01:27:00,548 --> 01:27:03,092
+<i>A qualquer momento</i>
+
+1302
+01:27:03,885 --> 01:27:05,553
+<i>A qualquer momento</i>
+
+1303
+01:27:06,095 --> 01:27:08,514
+<i>Isto vai parar a qualquer momento</i>
+
+1304
+01:27:08,598 --> 01:27:11,184
+<i>A qualquer momento</i>
+
+1305
+01:27:11,851 --> 01:27:13,436
+<i>A qualquer momento</i>
+
+1306
+01:27:13,519 --> 01:27:15,605
+Legendas: Ricardo Duarte
+
+1307
+01:27:23,404 --> 01:27:26,115
+Se tu ou alguém que conheças
+lida com problemas mentais
+
+1308
+01:27:26,199 --> 01:27:29,035
+ou pensamentos suicidas,
+há informação e recursos disponíveis
+
+1309
+01:27:29,118 --> 01:27:30,411
+em www.wannatalkaboutit.com
